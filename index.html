@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-  <title>ÖGG Sınav & Öğretici Eğitim Merkezi — 119. Dönem Çıkmış Sorular ve Konu Anlatımı</title>
-  <meta name="description" content="Özel Güvenlik Görevlisi (ÖGG) sınavlarına hazırlıkta 119. dönem çıkmış soruları, anında gerekçeli yanlış analizi, konu anlatımları ve akıllı performans tahlili sunan resmi eğitim merkezi.">
+  <title>ÖGG Sınav & Öğretici Eğitim Merkezi — Tüm Dönemler (110 - 121. Dönem) Çıkmış Sorular</title>
+  <meta name="description" content="Özel Güvenlik Görevlisi (ÖGG) sınavlarına hazırlıkta 110-121. tüm dönemlerin 1.500 çıkmış sorusu, anında gerekçeli kanun maddeleri çözümü, ders bazlı akıllı eksik analiz raporu ve kapsamlı ders konu anlatımları.">
   <meta name="author" content="Tunahan Haksever">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://tunahanhaksever.github.io/ogg-sinav-merkezi/">
@@ -12,7 +12,7 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,700;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
   <style>
     :root {
@@ -35,7 +35,6 @@
       --text-muted: #94a3b8;
       
       --font-sans: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
-      --font-serif: 'Playfair Display', Georgia, serif;
       --font-mono: 'JetBrains Mono', monospace;
     }
 
@@ -46,7 +45,7 @@
     header {
       background: var(--bg-surface);
       border-bottom: 2px solid var(--accent-gold);
-      padding: 12px 24px;
+      padding: 12px 20px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -59,13 +58,13 @@
     .brand-wrap {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       text-decoration: none;
     }
 
     .ogg-logo-badge {
-      width: 46px;
-      height: 46px;
+      width: 44px;
+      height: 44px;
       background: radial-gradient(circle, #1e3a8a 0%, #0a0f1d 100%);
       border: 2px solid var(--accent-gold);
       border-radius: 50%;
@@ -73,32 +72,32 @@
       align-items: center;
       justify-content: center;
       box-shadow: 0 0 15px rgba(212, 175, 55, 0.4);
-      position: relative;
+      flex-shrink: 0;
     }
 
     .ogg-logo-badge svg {
-      width: 28px;
-      height: 28px;
+      width: 26px;
+      height: 26px;
       fill: var(--accent-gold);
     }
 
     .brand-title-wrap { display: flex; flex-direction: column; }
-    .brand-title { font-size: 19px; font-weight: 800; color: #fff; letter-spacing: 0.5px; }
+    .brand-title { font-size: 18px; font-weight: 800; color: #fff; letter-spacing: 0.5px; }
     .brand-sub { font-size: 11px; font-weight: 700; color: var(--accent-gold); letter-spacing: 0.8px; text-transform: uppercase; }
 
     .header-nav {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
     }
 
     .nav-tab-btn {
       background: var(--bg-card);
       border: 1px solid var(--border-color);
       color: var(--text-muted);
-      padding: 8px 14px;
+      padding: 8px 12px;
       border-radius: 6px;
-      font-size: 13px;
+      font-size: 12.5px;
       font-weight: 600;
       cursor: pointer;
       display: flex;
@@ -117,10 +116,10 @@
     .main-container {
       max-width: 1280px;
       margin: 0 auto;
-      padding: 24px 20px 80px 20px;
+      padding: 20px 16px 80px 16px;
       display: flex;
       flex-direction: column;
-      gap: 24px;
+      gap: 20px;
     }
 
     /* Hero Banner */
@@ -129,33 +128,32 @@
       border: 1px solid var(--border-color);
       border-left: 4px solid var(--accent-gold);
       border-radius: 12px;
-      padding: 22px 24px;
+      padding: 20px;
       display: flex;
       justify-content: space-between;
       align-items: center;
       flex-wrap: wrap;
       gap: 16px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     }
 
-    .hero-info h1 { font-size: 22px; font-weight: 800; color: #fff; margin-bottom: 6px; }
-    .hero-info p { font-size: 14px; color: var(--text-muted); max-width: 680px; line-height: 1.5; }
+    .hero-info h1 { font-size: 20px; font-weight: 800; color: #fff; margin-bottom: 6px; }
+    .hero-info p { font-size: 13.5px; color: var(--text-muted); max-width: 680px; line-height: 1.5; }
 
     .stat-pill-group {
       display: flex;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: wrap;
     }
     .stat-pill {
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
       border-radius: 8px;
-      padding: 10px 16px;
+      padding: 8px 14px;
       text-align: center;
-      min-width: 90px;
+      min-width: 80px;
     }
-    .stat-pill .val { font-family: var(--font-mono); font-size: 22px; font-weight: 700; color: var(--accent-gold); }
-    .stat-pill .lbl { font-size: 11px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 2px; }
+    .stat-pill .val { font-family: var(--font-mono); font-size: 20px; font-weight: 700; color: var(--accent-gold); }
+    .stat-pill .lbl { font-size: 10.5px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-top: 2px; }
 
     /* Filter & Mode Toolbar */
     .filter-toolbar {
@@ -167,7 +165,7 @@
       align-items: center;
       justify-content: space-between;
       flex-wrap: wrap;
-      gap: 12px;
+      gap: 10px;
     }
 
     .filter-left, .filter-right {
@@ -187,14 +185,15 @@
       outline: none;
       cursor: pointer;
     }
+    .filter-select:focus { border-color: var(--accent-gold); }
 
     .mode-switch-btn {
       background: var(--bg-card);
       border: 1px solid var(--border-color);
       color: var(--text-main);
-      padding: 8px 14px;
+      padding: 8px 12px;
       border-radius: 6px;
-      font-size: 13px;
+      font-size: 12.5px;
       font-weight: 600;
       cursor: pointer;
       display: flex;
@@ -211,17 +210,17 @@
     .questions-stream {
       display: flex;
       flex-direction: column;
-      gap: 20px;
+      gap: 18px;
     }
 
     .question-card {
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
       border-radius: 12px;
-      padding: 20px 24px;
+      padding: 18px 20px;
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: 12px;
       transition: border-color 0.15s;
     }
     .question-card:hover { border-color: var(--border-focus); }
@@ -233,31 +232,31 @@
       align-items: center;
       justify-content: space-between;
       border-bottom: 1px solid rgba(255,255,255,0.06);
-      padding-bottom: 10px;
+      padding-bottom: 8px;
     }
 
-    .q-number-tag {
+    .q-period-tag {
       font-family: var(--font-mono);
-      font-size: 12px;
+      font-size: 11px;
       font-weight: 700;
       color: var(--accent-gold);
       background: rgba(212, 175, 55, 0.12);
-      padding: 3px 8px;
+      padding: 2px 6px;
       border-radius: 4px;
       border: 1px solid rgba(212, 175, 55, 0.3);
     }
 
     .q-topic-badge {
-      font-size: 11.5px;
+      font-size: 11px;
       font-weight: 600;
       color: var(--accent-cyan);
       background: rgba(6, 182, 212, 0.1);
-      padding: 3px 10px;
+      padding: 2px 8px;
       border-radius: 4px;
     }
 
     .q-text {
-      font-size: 16px;
+      font-size: 15.5px;
       font-weight: 600;
       color: #fff;
       line-height: 1.6;
@@ -273,14 +272,15 @@
       background: var(--bg-card);
       border: 1px solid var(--border-color);
       border-radius: 8px;
-      padding: 12px 16px;
-      font-size: 14.5px;
+      padding: 11px 14px;
+      font-size: 14px;
       color: var(--text-main);
       cursor: pointer;
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       transition: all 0.12s;
+      -webkit-tap-highlight-color: transparent;
     }
     .option-item:hover { background: var(--bg-card-hover); border-color: var(--border-focus); }
     .option-item.selected-correct { background: rgba(16, 185, 129, 0.2); border-color: var(--accent-green); color: #fff; font-weight: 600; }
@@ -292,13 +292,13 @@
       background: linear-gradient(135deg, rgba(30, 58, 138, 0.25) 0%, rgba(17, 26, 46, 0.4) 100%);
       border: 1px solid rgba(59, 130, 246, 0.4);
       border-radius: 8px;
-      padding: 14px 16px;
+      padding: 14px;
       font-size: 13.5px;
       line-height: 1.6;
       color: var(--text-main);
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 6px;
       animation: fadeIn 0.2s ease-in;
     }
     @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
@@ -311,19 +311,12 @@
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
       border-radius: 12px;
-      padding: 24px;
+      padding: 20px;
       display: flex;
       flex-direction: column;
       gap: 16px;
     }
 
-    .topic-progress-row {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      font-size: 13.5px;
-    }
     .progress-bar-bg {
       flex: 1;
       height: 8px;
@@ -341,7 +334,7 @@
     /* Academy Topics Section */
     .academy-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       gap: 16px;
     }
 
@@ -349,7 +342,7 @@
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
       border-radius: 10px;
-      padding: 20px;
+      padding: 18px;
       display: flex;
       flex-direction: column;
       gap: 10px;
@@ -357,8 +350,8 @@
       transition: all 0.15s;
     }
     .topic-card:hover { border-color: var(--accent-gold); transform: translateY(-2px); }
-    .topic-card h3 { font-size: 16px; color: #fff; font-weight: 700; display: flex; align-items: center; gap: 8px; }
-    .topic-card p { font-size: 13px; color: var(--text-muted); line-height: 1.5; }
+    .topic-card h3 { font-size: 15px; color: #fff; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+    .topic-card p { font-size: 12.5px; color: var(--text-muted); line-height: 1.5; }
 
     /* Audio Reader Button */
     .btn-speak {
@@ -366,23 +359,44 @@
       border: none;
       color: var(--text-muted);
       cursor: pointer;
-      font-size: 16px;
+      font-size: 15px;
       padding: 4px;
       transition: color 0.12s;
     }
     .btn-speak:hover { color: var(--accent-gold); }
 
+    /* Pagination / Load more */
+    .pagination-bar {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin-top: 10px;
+    }
+    .btn-page {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-size: 13.5px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .btn-page:hover { background: var(--bg-card-hover); border-color: var(--accent-gold); }
+
     /* Topic Lecture Viewer Modal */
     .lecture-modal {
       position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.8);
+      background: rgba(0,0,0,0.85);
       backdrop-filter: blur(4px);
       display: none;
       align-items: center;
       justify-content: center;
       z-index: 2000;
-      padding: 20px;
+      padding: 16px;
     }
     .lecture-box {
       background: var(--bg-surface);
@@ -392,16 +406,19 @@
       width: 100%;
       max-height: 85vh;
       overflow-y: auto;
-      padding: 24px;
+      padding: 20px;
       display: flex;
       flex-direction: column;
       gap: 14px;
     }
 
     @media (max-width: 768px) {
+      header { flex-direction: column; align-items: stretch; gap: 10px; }
+      .header-nav { justify-content: space-between; overflow-x: auto; }
       .hero-banner { flex-direction: column; align-items: stretch; }
-      .header-nav { overflow-x: auto; }
       .brand-title { font-size: 16px; }
+      .filter-toolbar { flex-direction: column; align-items: stretch; }
+      .filter-select { width: 100%; }
     }
   </style>
 </head>
@@ -412,19 +429,18 @@
     <a href="./index.html" class="brand-wrap">
       <div class="ogg-logo-badge">
         <svg viewBox="0 0 24 24">
-          <!-- ÖGG Shield Icon -->
           <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 4a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm5 11.2c0 1.25-.85 2.3-2.05 2.65C13.8 19.2 12.9 19.5 12 19.5s-1.8-.3-2.95-.65C7.85 18.5 7 17.45 7 16.2V15c0-.55.45-1 1-1h8c.55 0 1 .45 1 1v1.2z"/>
         </svg>
       </div>
       <div class="brand-title-wrap">
         <span class="brand-title">ÖGG Sınav & Eğitim Merkezi</span>
-        <span class="brand-sub">Özel Güvenlik Akademisi</span>
+        <span class="brand-sub">Tüm Dönemler Soru Havuzu (1.500 Soru)</span>
       </div>
     </a>
 
     <nav class="header-nav">
-      <button class="nav-tab-btn active" id="tab-btn-exam" onclick="switchView('exam')">📝 119. Dönem Sınavı</button>
-      <button class="nav-tab-btn" id="tab-btn-analytics" onclick="switchView('analytics')">📊 Yanlış & Eksik Analizi</button>
+      <button class="nav-tab-btn active" id="tab-btn-exam" onclick="switchView('exam')">📝 Soru Çöz</button>
+      <button class="nav-tab-btn" id="tab-btn-analytics" onclick="switchView('analytics')">📊 Eksik Analizi</button>
       <button class="nav-tab-btn" id="tab-btn-academy" onclick="switchView('academy')">📚 Konu Anlatımı</button>
     </nav>
   </header>
@@ -435,16 +451,16 @@
     <!-- Hero Banner -->
     <div class="hero-banner">
       <div class="hero-info">
-        <h1>119. Dönem Özel Güvenlik Çıkmış Sınavı & Öğretici Sistem</h1>
+        <h1 id="hero-heading">110 - 121. Dönem Tüm Çıkmış Sınav Soruları (1.500 Soru)</h1>
         <p>
-          Her soruyu çözerken <strong>anında gerekçeli kanun maddelerini</strong> görün, yanlış yaptığınızda sistem nerede eksiğiniz olduğunu tespit etsin ve sizi ilgili konuya yönlendirsin.
+          Her soruda <strong>anında gerekçeli kanun maddelerini</strong> görün, yanlış yaptığınızda sistem hangi derste eksiğiniz olduğunu çıkarsın ve sizi doğrudan o konunun dersine yönlendirsin.
         </p>
       </div>
 
       <div class="stat-pill-group">
         <div class="stat-pill">
-          <div class="val" id="stat-total-q">125</div>
-          <div class="lbl">Toplam Soru</div>
+          <div class="val" id="stat-total-q">1500</div>
+          <div class="lbl">Soru Havuzu</div>
         </div>
         <div class="stat-pill">
           <div class="val" id="stat-correct-count" style="color: var(--accent-green);">0</div>
@@ -456,7 +472,7 @@
         </div>
         <div class="stat-pill">
           <div class="val" id="stat-score">0</div>
-          <div class="lbl">Tahmini Puan</div>
+          <div class="lbl">Başarı %</div>
         </div>
       </div>
     </div>
@@ -467,14 +483,31 @@
       <!-- Filter Toolbar -->
       <div class="filter-toolbar">
         <div class="filter-left">
-          <label style="font-size: 12px; color: var(--text-muted); font-weight: 700;">DERS FİLTRESİ:</label>
-          <select class="filter-select" id="filter-topic" onchange="filterQuestions()">
-            <option value="all">Tüm Dersler (125 Soru)</option>
+          <!-- Period Selector -->
+          <select class="filter-select" id="filter-period" onchange="changeFilter()" style="font-weight: 700; color: var(--accent-gold);">
+            <option value="all">📑 Tüm Dönemler (1.500 Soru Dev Arşiv)</option>
+            <option value="121. Dönem" selected>🏅 121. Dönem Sınavı (Güncel)</option>
+            <option value="120. Dönem">🏅 120. Dönem Sınavı</option>
+            <option value="119. Dönem">🏅 119. Dönem Sınavı</option>
+            <option value="118. Dönem">🏅 118. Dönem Sınavı</option>
+            <option value="117. Dönem">🏅 117. Dönem Sınavı</option>
+            <option value="116. Dönem">🏅 116. Dönem Sınavı</option>
+            <option value="115. Dönem">🏅 115. Dönem Sınavı</option>
+            <option value="114. Dönem">🏅 114. Dönem Sınavı</option>
+            <option value="113. Dönem">🏅 113. Dönem Sınavı</option>
+            <option value="112. Dönem">🏅 112. Dönem Sınavı</option>
+            <option value="111. Dönem">🏅 111. Dönem Sınavı</option>
+            <option value="110. Dönem">🏅 110. Dönem Sınavı</option>
+          </select>
+
+          <!-- Topic Selector -->
+          <select class="filter-select" id="filter-topic" onchange="changeFilter()">
+            <option value="all">Tüm Ders Konuları</option>
             <option value="Özel Güvenlik Hukuku">⚖️ Özel Güvenlik Hukuku</option>
             <option value="Güvenlik Tedbirleri">🛡️ Güvenlik Tedbirleri & Devriye</option>
             <option value="Yangın Güvenliği">🔥 Yangın Güvenliği</option>
             <option value="Temel İlkyardım">🚑 Temel İlkyardım</option>
-            <option value="Silah Bilgisi ve Atış">🎯 Silah Bilgisi ve Atış (25 Soru)</option>
+            <option value="Silah Bilgisi ve Atış">🎯 Silah Bilgisi ve Atış</option>
             <option value="Güvenlik Sistem ve Cihazları">📡 X-Ray & Güvenlik Sistemleri</option>
             <option value="Kalabalık Yönetimi">👥 Kalabalık Yönetimi</option>
             <option value="Etkili İletişim">💬 Etkili İletişim</option>
@@ -482,7 +515,8 @@
             <option value="Kişi Koruma">👮 Kişi Koruma (VIP)</option>
           </select>
 
-          <select class="filter-select" id="filter-status" onchange="filterQuestions()">
+          <!-- Status Selector -->
+          <select class="filter-select" id="filter-status" onchange="changeFilter()">
             <option value="all">Tüm Sorular</option>
             <option value="wrong_only">Sadece Yanlış Yaptıklarım</option>
             <option value="unanswered">Henüz Çözülmeyenler</option>
@@ -491,7 +525,7 @@
 
         <div class="filter-right">
           <button class="mode-switch-btn active" id="btn-tutor-mode" onclick="toggleTutorMode()">
-            💡 Öğretici Mod: Açık (Anında Gerekçe Göster)
+            💡 Öğretici Mod: Açık
           </button>
           <button class="nav-tab-btn" onclick="resetExam()">🔄 Sıfırla</button>
         </div>
@@ -501,6 +535,11 @@
       <div class="questions-stream" id="questions-container">
         <!-- Rendered dynamically -->
       </div>
+
+      <!-- Load More Bar -->
+      <div class="pagination-bar" id="load-more-bar">
+        <button class="btn-page" onclick="loadMoreQuestions()">Daha Fazla Soru Yükle (+25 Soru) ↓</button>
+      </div>
     </div>
 
     <!-- VIEW 2: SMART ANALYTICS & WEAK POINT DIAGNOSIS -->
@@ -508,7 +547,7 @@
       <div class="diagnostic-panel">
         <h2 style="font-size: 20px; color: #fff; font-weight: 800;">📊 Akıllı Eksik & Yanlış Konu Tahlili</h2>
         <p style="font-size: 14px; color: var(--text-muted);">
-          Çözdüğünüz sorulara göre ders bazlı başarı oranınız ve sınavda puan kaybetmemeniz için tekrar etmeniz gereken zayıf konular:
+          Çözdüğünüz sorulara göre ders bazlı başarı yüzdeniz ve sınavda puan kaybetmemeniz için tekrar etmeniz gereken zayıf konular:
         </p>
 
         <div id="analytics-topics-list" style="display: flex; flex-direction: column; gap: 14px; margin-top: 10px;">
@@ -555,9 +594,12 @@
   <script>
     let userAnswers = {}; // { questionId: selectedIndex }
     let isTutorMode = true;
+    let visibleLimit = 25;
+    let filteredQuestionsList = [];
 
     // Initialize
-    renderQuestions();
+    document.getElementById('stat-total-q').textContent = OGG_QUESTION_BANK.length;
+    changeFilter();
     renderAcademyCards();
     updateStats();
 
@@ -582,28 +624,49 @@
     function toggleTutorMode() {
       isTutorMode = !isTutorMode;
       const btn = document.getElementById('btn-tutor-mode');
-      btn.textContent = isTutorMode ? '💡 Öğretici Mod: Açık (Anında Gerekçe Göster)' : '📝 Sınav Modu: Gerekçeler Gizli';
+      btn.textContent = isTutorMode ? '💡 Öğretici Mod: Açık' : '📝 Sınav Modu: Kapalı';
       btn.classList.toggle('active', isTutorMode);
-      renderQuestions();
+      renderFilteredQuestions();
     }
 
-    function renderQuestions() {
+    function changeFilter() {
+      visibleLimit = 25;
+      const period = document.getElementById('filter-period').value;
+      const topic = document.getElementById('filter-topic').value;
+      const status = document.getElementById('filter-status').value;
+
+      filteredQuestionsList = OGG_QUESTION_BANK.filter(q => {
+        if (period !== 'all' && q.period !== period) return false;
+        if (topic !== 'all' && q.topic !== topic) return false;
+
+        const isAnswered = userAnswers[q.id] !== undefined;
+        const isWrong = isAnswered && userAnswers[q.id] !== q.answer;
+
+        if (status === 'wrong_only' && !isWrong) return false;
+        if (status === 'unanswered' && isAnswered) return false;
+
+        return true;
+      });
+
+      renderFilteredQuestions();
+    }
+
+    function loadMoreQuestions() {
+      visibleLimit += 25;
+      renderFilteredQuestions();
+    }
+
+    function renderFilteredQuestions() {
       const container = document.getElementById('questions-container');
       container.innerHTML = '';
 
-      const topicFilter = document.getElementById('filter-topic').value;
-      const statusFilter = document.getElementById('filter-status').value;
+      const slice = filteredQuestionsList.slice(0, visibleLimit);
 
-      OGG_QUESTION_BANK.forEach((q, idx) => {
-        if (topicFilter !== 'all' && q.topic !== topicFilter) return;
-
+      slice.forEach((q) => {
         const isAnswered = userAnswers[q.id] !== undefined;
         const userChoice = userAnswers[q.id];
         const isCorrect = isAnswered && userChoice === q.answer;
         const isWrong = isAnswered && userChoice !== q.answer;
-
-        if (statusFilter === 'wrong_only' && !isWrong) return;
-        if (statusFilter === 'unanswered' && isAnswered) return;
 
         const card = document.createElement('div');
         card.className = `question-card ${isCorrect ? 'answered-correct' : ''} ${isWrong ? 'answered-wrong' : ''}`;
@@ -624,7 +687,6 @@
           `;
         });
 
-        // Explanation Box
         let expHtml = '';
         if (isAnswered && isTutorMode) {
           expHtml = `
@@ -633,15 +695,15 @@
                 <span>${isCorrect ? '✅ Tebrikler, Doğru Cevap!' : '❌ Yanlış Cevap — Öğretici Çözüm & İpucu:'}</span>
               </div>
               <div>${escapeHtml(q.explanation)}</div>
-              <div class="exp-law">📜 Mevzuat / Dayanak: ${escapeHtml(q.lawRef)}</div>
+              <div class="exp-law">📜 ${escapeHtml(q.lawRef)}</div>
             </div>
           `;
         }
 
         card.innerHTML = `
           <div class="q-header">
-            <div style="display: flex; align-items: center; gap: 8px;">
-              <span class="q-number-tag">Soru ${q.id}</span>
+            <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+              <span class="q-period-tag">${escapeHtml(q.period)} - Soru #${q.id}</span>
               <span class="q-topic-badge">${escapeHtml(q.topic)}</span>
             </div>
             <button class="btn-speak" onclick="speakQuestion(\`${escapeForQuote(q.question)}\`)" title="Sesli Dinle">🔊 Dinle</button>
@@ -658,23 +720,28 @@
 
         container.appendChild(card);
       });
+
+      // Show/hide load more button
+      const loadMoreBar = document.getElementById('load-more-bar');
+      if (filteredQuestionsList.length > visibleLimit) {
+        loadMoreBar.style.display = 'flex';
+        loadMoreBar.querySelector('button').textContent = `Daha Fazla Soru Yükle (${visibleLimit} / ${filteredQuestionsList.length}) ↓`;
+      } else {
+        loadMoreBar.style.display = 'none';
+      }
     }
 
     function selectAnswer(qId, optIdx) {
       userAnswers[qId] = optIdx;
       updateStats();
-      renderQuestions();
-    }
-
-    function filterQuestions() {
-      renderQuestions();
+      renderFilteredQuestions();
     }
 
     function resetExam() {
       if (confirm("Tüm cevaplarınızı sıfırlamak istediğinize emin misiniz?")) {
         userAnswers = {};
         updateStats();
-        renderQuestions();
+        renderFilteredQuestions();
       }
     }
 
@@ -692,16 +759,15 @@
       document.getElementById('stat-correct-count').textContent = correct;
       document.getElementById('stat-wrong-count').textContent = wrong;
       
-      // Calculate estimated exam score (100 Temel x 1 + 25 Silah x 2)
-      const score = Math.round((correct / OGG_QUESTION_BANK.length) * 100);
-      document.getElementById('stat-score').textContent = score + " / 100";
+      const totalAnswered = correct + wrong;
+      const score = totalAnswered > 0 ? Math.round((correct / totalAnswered) * 100) : 0;
+      document.getElementById('stat-score').textContent = score + "%";
     }
 
     function renderAnalytics() {
       const container = document.getElementById('analytics-topics-list');
       container.innerHTML = '';
 
-      // Group questions by topic
       const topicsMap = {};
       OGG_QUESTION_BANK.forEach(q => {
         if (!topicsMap[q.topic]) topicsMap[q.topic] = { total: 0, correct: 0, wrong: 0 };
@@ -730,7 +796,7 @@
         row.innerHTML = `
           <div style="display: flex; justify-content: space-between; align-items: center;">
             <strong style="color: #fff; font-size: 14px;">${escapeHtml(topic)}</strong>
-            <span style="font-family: var(--font-mono); font-weight: 700; color: ${statusColor};">${pct}% Başarı (${data.correct}/${data.total} Soru)</span>
+            <span style="font-family: var(--font-mono); font-weight: 700; color: ${statusColor};">${pct}% Başarı (${data.correct}/${answered} Çözüldü - Havuz: ${data.total})</span>
           </div>
 
           <div class="progress-bar-bg">
@@ -779,18 +845,14 @@
 
     function openLectureByTopic(topicName) {
       const found = OGG_TOPICS.find(t => t.title.includes(topicName) || topicName.includes(t.title));
-      if (found) {
-        openLecture(found);
-      } else if (OGG_TOPICS.length > 0) {
-        openLecture(OGG_TOPICS[0]);
-      }
+      if (found) openLecture(found);
+      else if (OGG_TOPICS.length > 0) openLecture(OGG_TOPICS[0]);
     }
 
     function closeLectureModal() {
       document.getElementById('lecture-modal').style.display = 'none';
     }
 
-    // Voice Reader
     function speakQuestion(text) {
       if (!window.speechSynthesis) return;
       window.speechSynthesis.cancel();

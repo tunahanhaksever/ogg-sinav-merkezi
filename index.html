@@ -422,6 +422,9 @@
       <button class="nav-btn" id="btn-tab-schemas" onclick="switchTab('schemas')">📌 Konu Şemaları & Şifreler</button>
       <button class="nav-btn" id="btn-tab-stream" onclick="switchTab('stream')">📑 2.375 Soru Havuzu</button>
       <button class="nav-btn" id="btn-tab-academy" onclick="switchTab('academy')">📚 Müfredat Ders Notları</button>
+      <button class="nav-btn" id="btn-user-profile" style="background: rgba(245, 158, 11, 0.15); border-color: var(--gold-accent); color: #fff;" onclick="openProfileModal()">
+        👤 <span id="lbl-user-email">Giriş / Kayıt</span>
+      </button>
     </nav>
   </header>
 
@@ -442,6 +445,10 @@
     <button class="mobile-tab" id="mob-tab-academy" onclick="switchTab('academy')">
       <svg viewBox="0 0 24 24"><path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"/></svg>
       <span>Dersler</span>
+    </button>
+    <button class="mobile-tab" id="mob-tab-profile" onclick="openProfileModal()">
+      <svg viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>
+      <span id="mob-lbl-profile">Profilim</span>
     </button>
   </nav>
 
@@ -597,22 +604,183 @@
     </div>
   </div>
 
+  <!-- Modal: Email Profile & Progress Management -->
+  <div class="modal-overlay" id="profile-modal">
+    <div class="modal-content" style="max-width: 480px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-main); padding-bottom: 10px;">
+        <h3 style="font-size: 16px; color: #fff; font-weight: 700;">👤 Aday Profil & İlerleme Kayıt Sistemi</h3>
+        <button onclick="closeProfileModal()" style="background:none; border:none; color:var(--text-muted); font-size:20px; cursor:pointer;">✕</button>
+      </div>
+      
+      <div style="font-size: 13px; color: var(--text-muted); line-height: 1.5;">
+        E-posta adresinizi girerek çözdüğünüz tüm soruları, doğru/yanlış sayılarınızı ve tekrar listenizi kaydedin. Sayfayı yenilediğinizde veya başka zaman girdiğinizde <strong>kaldığınız yerden devam edersiniz</strong>.
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 6px; margin: 6px 0;">
+        <label style="font-size: 12px; font-weight: 700; color: #fff;">E-Posta Adresiniz:</label>
+        <input type="email" id="input-user-email" placeholder="ornek@gmail.com" style="background: var(--bg-card); border: 1px solid var(--border-main); color: #fff; padding: 10px 12px; border-radius: 6px; font-size: 14px; outline: none;">
+      </div>
+
+      <!-- Active Profile Details (If logged in) -->
+      <div id="profile-active-stats" style="display: none; background: var(--bg-card); border: 1px solid var(--border-main); border-radius: 6px; padding: 12px; font-size: 12.5px;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+          <span style="color: var(--text-muted);">Kayıtlı E-Posta:</span>
+          <strong id="prof-email-val" style="color: var(--gold-accent);"></strong>
+        </div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+          <span style="color: var(--text-muted);">Toplam Çözülen Soru:</span>
+          <strong id="prof-solved-val" style="color: #fff;">0</strong>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <span style="color: var(--text-muted);">Başarı Oranı:</span>
+          <strong id="prof-rate-val" style="color: var(--success-green);">%0</strong>
+        </div>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px; flex-wrap: wrap; gap: 8px;">
+        <button class="nav-btn" style="color: var(--danger-red); border-color: rgba(239,68,68,0.4);" onclick="resetUserProgress()">
+          🗑 İlerlemeyi Sıfırla
+        </button>
+        <div style="display: flex; gap: 8px;">
+          <button class="nav-btn" onclick="closeProfileModal()">Kapat</button>
+          <button class="btn-primary-blue" onclick="saveUserProfile()">✓ Kaydet & Giriş Yap</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Scripts -->
   <script src="./questions.js"></script>
   <script src="./topics.js"></script>
   <script src="./mnemonics.js"></script>
   <script src="./ai-tutor.js"></script>
   <script>
-    let currentIndex = 0;
-    let repeatQueue = [];
-    let correctCount = 0;
-    let wrongCount = 0;
+    // State & Persistent Storage Engine
+    let currentUserEmail = localStorage.getItem('ogg_current_user') || 'misafir@ogg.gov.tr';
+    let userProgress = {}; // { [email]: { currentIndex, userAnswers: {}, repeatQueue: [], correctCount, wrongCount } }
+
+    loadAllProgressFromStorage();
+
+    let currentIndex = userProgress[currentUserEmail]?.currentIndex || 0;
+    let repeatQueue = userProgress[currentUserEmail]?.repeatQueue || [];
+    let userAnswers = userProgress[currentUserEmail]?.userAnswers || {};
+    let correctCount = userProgress[currentUserEmail]?.correctCount || 0;
+    let wrongCount = userProgress[currentUserEmail]?.wrongCount || 0;
     let answered = false;
 
-    // Init
+    // Init UI
+    updateUserHeaderBadge();
     loadQuestion();
     renderSchemas();
     renderAcademy();
+    updateStatsDisplay();
+
+    function loadAllProgressFromStorage() {
+      try {
+        const raw = localStorage.getItem('ogg_all_user_progress');
+        if (raw) {
+          userProgress = JSON.parse(raw);
+        }
+      } catch (e) {
+        userProgress = {};
+      }
+      if (!userProgress[currentUserEmail]) {
+        userProgress[currentUserEmail] = {
+          currentIndex: 0,
+          userAnswers: {},
+          repeatQueue: [],
+          correctCount: 0,
+          wrongCount: 0
+        };
+      }
+    }
+
+    function saveCurrentProgressToStorage() {
+      if (!userProgress[currentUserEmail]) userProgress[currentUserEmail] = {};
+      userProgress[currentUserEmail].currentIndex = currentIndex;
+      userProgress[currentUserEmail].userAnswers = userAnswers;
+      userProgress[currentUserEmail].repeatQueue = repeatQueue;
+      userProgress[currentUserEmail].correctCount = correctCount;
+      userProgress[currentUserEmail].wrongCount = wrongCount;
+
+      localStorage.setItem('ogg_all_user_progress', JSON.stringify(userProgress));
+      localStorage.setItem('ogg_current_user', currentUserEmail);
+    }
+
+    function updateUserHeaderBadge() {
+      const displayEmail = currentUserEmail === 'misafir@ogg.gov.tr' ? 'Giriş / Kayıt' : currentUserEmail;
+      document.getElementById('lbl-user-email').textContent = displayEmail.length > 20 ? displayEmail.substring(0, 18) + '...' : displayEmail;
+      document.getElementById('mob-lbl-profile').textContent = currentUserEmail === 'misafir@ogg.gov.tr' ? 'Giriş' : 'Profil';
+    }
+
+    function openProfileModal() {
+      document.getElementById('input-user-email').value = currentUserEmail === 'misafir@ogg.gov.tr' ? '' : currentUserEmail;
+      
+      const totalAnswered = correctCount + wrongCount;
+      const rate = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
+
+      if (currentUserEmail !== 'misafir@ogg.gov.tr') {
+        document.getElementById('profile-active-stats').style.display = 'block';
+        document.getElementById('prof-email-val').textContent = currentUserEmail;
+        document.getElementById('prof-solved-val').textContent = totalAnswered;
+        document.getElementById('prof-rate-val').textContent = `%${rate}`;
+      } else {
+        document.getElementById('profile-active-stats').style.display = 'none';
+      }
+
+      document.getElementById('profile-modal').style.display = 'flex';
+    }
+
+    function closeProfileModal() {
+      document.getElementById('profile-modal').style.display = 'none';
+    }
+
+    function saveUserProfile() {
+      const email = document.getElementById('input-user-email').value.trim().toLowerCase();
+      if (!email || !email.includes('@')) {
+        alert("Lütfen geçerli bir e-posta adresi giriniz (Örn: isim@gmail.com)");
+        return;
+      }
+
+      currentUserEmail = email;
+      loadAllProgressFromStorage();
+
+      // Switch to this user's state
+      currentIndex = userProgress[currentUserEmail]?.currentIndex || 0;
+      userAnswers = userProgress[currentUserEmail]?.userAnswers || {};
+      repeatQueue = userProgress[currentUserEmail]?.repeatQueue || [];
+      correctCount = userProgress[currentUserEmail]?.correctCount || 0;
+      wrongCount = userProgress[currentUserEmail]?.wrongCount || 0;
+
+      saveCurrentProgressToStorage();
+      updateUserHeaderBadge();
+      updateStatsDisplay();
+      loadQuestion();
+      closeProfileModal();
+
+      alert(`✓ Başarıyla giriş yapıldı: ${currentUserEmail}\nİlerlemeniz bu e-posta altında otomatik kaydedilecektir.`);
+    }
+
+    function resetUserProgress() {
+      if (confirm(`"${currentUserEmail}" profiline ait tüm ilerlemeyi sıfırlamak istediğinize emin misiniz?`)) {
+        currentIndex = 0;
+        userAnswers = {};
+        repeatQueue = [];
+        correctCount = 0;
+        wrongCount = 0;
+        saveCurrentProgressToStorage();
+        updateStatsDisplay();
+        loadQuestion();
+        closeProfileModal();
+        alert("✓ İlerlemeniz sıfırlandı.");
+      }
+    }
+
+    function updateStatsDisplay() {
+      document.getElementById('stat-correct').textContent = correctCount;
+      document.getElementById('stat-wrong').textContent = wrongCount;
+      document.getElementById('stat-repeat').textContent = repeatQueue.length;
+    }
 
     function switchTab(tabId) {
       document.querySelectorAll('.tab-pane').forEach(p => p.style.display = 'none');
@@ -663,8 +831,6 @@
       q.options.forEach((optText, i) => {
         const row = document.createElement('div');
         row.className = 'option-row';
-        
-        // Remove existing "A) " prefix if present in text to keep uniform
         const cleanText = optText.replace(/^[A-E]\)\s*/i, '');
 
         row.innerHTML = `
@@ -687,6 +853,8 @@
 
       const allRows = document.querySelectorAll('.option-row');
       const isCorrect = selectedIndex === q.answer;
+
+      userAnswers[q.id] = selectedIndex;
 
       if (isCorrect) {
         rowElement.classList.add('correct');
@@ -714,13 +882,13 @@
         document.getElementById('lbl-status-message').innerHTML = "<strong style='color:var(--danger-red);'>✕ Yanlış Cevap. Açıklamayı inceleyiniz.</strong>";
       }
 
-      document.getElementById('stat-correct').textContent = correctCount;
-      document.getElementById('stat-wrong').textContent = wrongCount;
-      document.getElementById('stat-repeat').textContent = repeatQueue.length;
+      updateStatsDisplay();
+      saveCurrentProgressToStorage(); // Auto-save after every single answer!
     }
 
     function nextQuestion() {
       currentIndex = (currentIndex + 1) % OGG_QUESTION_BANK.length;
+      saveCurrentProgressToStorage();
       loadQuestion();
     }
 

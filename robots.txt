@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tunahanhaksever.github.io/ogg-sinav-merkezi/sitemap.xml

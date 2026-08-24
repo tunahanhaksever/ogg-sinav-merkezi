@@ -1,474 +1,461 @@
 /**
- * ÖGG Zihne Kazıma Akademisi — Tüm 11 Ders İçin Eksiksiz Hafıza Şifreleri & Görsel Şablonlar
- * 1. Hukuk, 2. Devriye, 3. Yangın, 4. İlkyardım, 5. Silah, 6. X-Ray, 7. Kalabalık, 8. VIP Koruma, 9. Uyuşturucu, 10. İletişim, 11. KAAN
+ * ÖGG Zihne Kazıma Akademisi — 11 Ders İçin Zekice Üretilmiş Hafıza Şifreleri, Formüller ve Görsel Şablonlar
  */
 
 const OGG_MNEMONICS = [
-  // 1. Yangın Güvenliği
   {
-    topic: "Yangın Güvenliği",
-    title: "🔥 TS EN 2 Yangın Sınıfları & Söndürücü Formülleri",
-    badge: "Yangın Şifresi",
-    code: "A-B-C-D-F ve P-A-S-S Kuralı",
-    diagramSvg: `
-      <svg viewBox="0 0 400 120" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <rect x="10" y="20" width="65" height="80" rx="8" fill="#1e293b" stroke="#eab308" stroke-width="2"/>
-        <text x="42" y="55" fill="#eab308" font-size="22" font-weight="bold" text-anchor="middle">A</text>
-        <text x="42" y="80" fill="#94a3b8" font-size="11" text-anchor="middle">AĞAÇ (Katı)</text>
-        
-        <rect x="90" y="20" width="65" height="80" rx="8" fill="#1e293b" stroke="#ef4444" stroke-width="2"/>
-        <text x="122" y="55" fill="#ef4444" font-size="22" font-weight="bold" text-anchor="middle">B</text>
-        <text x="122" y="80" fill="#94a3b8" font-size="11" text-anchor="middle">BENZİN (Sıvı)</text>
-
-        <rect x="170" y="20" width="65" height="80" rx="8" fill="#1e293b" stroke="#06b6d4" stroke-width="2"/>
-        <text x="202" y="55" fill="#06b6d4" font-size="22" font-weight="bold" text-anchor="middle">C</text>
-        <text x="202" y="80" fill="#94a3b8" font-size="11" text-anchor="middle">CIZZ GAZ</text>
-
-        <rect x="250" y="20" width="65" height="80" rx="8" fill="#1e293b" stroke="#a855f7" stroke-width="2"/>
-        <text x="282" y="55" fill="#a855f7" font-size="22" font-weight="bold" text-anchor="middle">D</text>
-        <text x="282" y="80" fill="#94a3b8" font-size="11" text-anchor="middle">DÖKÜM (Metal)</text>
-
-        <rect x="330" y="20" width="65" height="80" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
-        <text x="362" y="55" fill="#f59e0b" font-size="22" font-weight="bold" text-anchor="middle">F</text>
-        <text x="362" y="80" fill="#94a3b8" font-size="11" text-anchor="middle">FRİTÖZ (Yağ)</text>
-      </svg>
+    id: "m_hukuk",
+    topic: "Özel Güvenlik Hukuku",
+    title: "⚖️ 5188 Sayılı Kanun Kırmızı Çizgileri & Yasak Üçgeni",
+    badge: "Hukuk Şifresi",
+    code: "G-B-K (Grev Yok! Başka İş Yok! Kartı Verirsen İptal!)",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge red">⚠️ 5188 KESİN YASAKLAR</div>
+        <div class="schema-grid">
+          <div class="schema-card danger">
+            <span class="icon">🚫</span>
+            <strong>Grev Yasağı</strong>
+            <p>Sendikaya üye olabilir ama <strong>asla grev yapamaz!</strong></p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">🧹</span>
+            <strong>Başka İş Yasağı</strong>
+            <p>Güvenlik personeli çay, temizlik, taşıma işinde <strong>çalıştırılamaz!</strong></p>
+          </div>
+          <div class="schema-card danger">
+            <span class="icon">🪪</span>
+            <strong>Kart İptali (m.11 & 20)</strong>
+            <p>Kimliğini başkasına kullandıranın kartı <strong>Valilikçe ömür boyu iptal edilir!</strong></p>
+          </div>
+        </div>
+      </div>
     `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#eab308; border-color:#eab308;">A</div>
+          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">YASAK</div>
           <div class="m-content">
-            <strong>Ağaç / Ahşap (Katı Madde)</strong>
-            <span>Odun, kumaş, kağıt. Söndürücü: <em>Basınçlı Su, KKT</em>.</span>
+            <strong>Adli Arama ve İfade Alma</strong>
+            <span>ÖGG hakim/savcı kararı olmadan ev veya araç arayamaz, şüpheliyi sorguya çekip <strong>ifade tutanağı düzenleyemez!</strong></span>
           </div>
         </div>
         <div class="m-card">
-          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">B</div>
+          <div class="m-letter" style="color:#10b981; border-color:#10b981;">SERBEST</div>
           <div class="m-content">
-            <strong>Benzin / Boya (Sıvı Madde)</strong>
-            <span>Mazot, tiner, yağ. <strong>ASLA SU SIKMA!</strong> Söndürücü: <em>Köpük (Boğma), KKT</em>.</span>
+            <strong>Yakalama ve Zor Kullanma (m.9)</strong>
+            <span>Suçüstü halinde, delil kaybolmasını önlemek için ve haklarında arama kararı olanları yakalar; TCK m.25 uyarınca <strong>orantılı güç</strong> kullanır.</span>
           </div>
         </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#06b6d4; border-color:#06b6d4;">C</div>
-          <div class="m-content">
-            <strong>Cızz Gaz (Gaz Maddeler)</strong>
-            <span>LPG, metan, doğalgaz. İlk kural: <strong>Vanayı Kapat!</strong> Söndürücü: <em>KKT</em>.</span>
-          </div>
+      </div>
+    `
+  },
+  {
+    id: "m_yangin",
+    topic: "Yangın Güvenliği",
+    title: "🔥 Yangın Sınıfları & Söndürme Maddesi Eşleştirme Şifresi",
+    badge: "Yangın Şifresi",
+    code: "A-B-C-D-F Formülü & PASS Kuralı",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge gold">🔥 TS EN 2 YANGIN HARİTASI</div>
+        <div class="schema-grid-5">
+          <div class="class-pill a"><strong>A</strong><span>Ağaç/Katı</span><small>Su / KKT</small></div>
+          <div class="class-pill b"><strong>B</strong><span>Benzin/Sıvı</span><small>Köpük / KKT (SU YASAK!)</small></div>
+          <div class="class-pill c"><strong>C</strong><span>Cızz/Gaz</span><small>Önce Vanayı Kapat!</small></div>
+          <div class="class-pill d"><strong>D</strong><span>Döküm/Metal</span><small>Özel D Tozu</small></div>
+          <div class="class-pill f"><strong>F</strong><span>Fritöz/Yağ</span><small>Islak Kimyasal (SU YASAK!)</small></div>
         </div>
+      </div>
+    `,
+    explanation: `
+      <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#a855f7; border-color:#a855f7;">D</div>
+          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">SU YASAK!</div>
           <div class="m-content">
-            <strong>Demir / Döküm (Hafif Metal)</strong>
-            <span>Magnezyum, alüminyum. Söndürücü: <em>Özel D Tipi Kuru Toz</em>.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#f59e0b; border-color:#f59e0b;">F</div>
-          <div class="m-content">
-            <strong>Fritöz / Fast-Food (Mutfak Yağı)</strong>
-            <span>Kızartma yağları. <strong>ASLA SU SIKMA!</strong> Söndürücü: <em>Islak Kimyasal</em>.</span>
+            <strong>B (Sıvı) ve F (Mutfak Yağı) Yangınları</strong>
+            <span>Benzin veya tavada yanan yağa su dökülürse patlama ve parlama olur. Sadece <strong>Köpük ve Islak Kimyasal</strong> kullanılır.</span>
           </div>
         </div>
         <div class="m-card">
           <div class="m-letter" style="color:#10b981; border-color:#10b981;">PASS</div>
           <div class="m-content">
-            <strong>Tüp Kullanım Sırası (PASS)</strong>
-            <span><strong>P</strong>imi çek, <strong>A</strong>levin dibine tut, <strong>S</strong>ık, <strong>S</strong>üpür!</span>
+            <strong>Yangın Tüpü Kullanım Sırası</strong>
+            <span><strong>P</strong>imi çek ➔ <strong>A</strong>levin dibine tut ➔ <strong>S</strong>ık ➔ <strong>S</strong>üpürerek alevi boğ!</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 2. Temel İlkyardım
   {
+    id: "m_ilkyardim",
     topic: "Temel İlkyardım",
-    title: "🚑 İlkyardım Hayat Kurtarma Formülleri (30:2 & H-R-K-Ş)",
+    title: "🚑 Temel Yaşam Desteği (CPR) & Hayat Kurtaran Manevralar",
     badge: "İlkyardım Şifresi",
-    code: "30:2 CPR | H-R-K-Ş Manevraları",
-    diagramSvg: `
-      <svg viewBox="0 0 400 100" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <circle cx="60" cy="50" r="35" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
-        <text x="60" y="48" fill="#10b981" font-size="14" font-weight="bold" text-anchor="middle">30:2</text>
-        <text x="60" y="65" fill="#94a3b8" font-size="9" text-anchor="middle">CPR DÖNGÜSÜ</text>
-
-        <circle cx="160" cy="50" r="35" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
-        <text x="160" y="48" fill="#f59e0b" font-size="13" font-weight="bold" text-anchor="middle">HEIMLICH</text>
-        <text x="160" y="65" fill="#94a3b8" font-size="9" text-anchor="middle">TAM TIKANMA</text>
-
-        <circle cx="260" cy="50" r="35" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
-        <text x="260" y="48" fill="#3b82f6" font-size="13" font-weight="bold" text-anchor="middle">RENTEK</text>
-        <text x="260" y="65" fill="#94a3b8" font-size="9" text-anchor="middle">ARAÇTA OMURİLİK</text>
-
-        <circle cx="350" cy="50" r="35" fill="#1e293b" stroke="#ec4899" stroke-width="2"/>
-        <text x="350" y="48" fill="#ec4899" font-size="14" font-weight="bold" text-anchor="middle">KOMA</text>
-        <text x="350" y="65" fill="#94a3b8" font-size="9" text-anchor="middle">YAN YATIŞ</text>
-      </svg>
+    code: "30 Gün Oruç / 2 Bayram = 30:2 | H-R-K-Ş",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge green">🚑 ACİL İLKYARDIM PROTOKOLÜ</div>
+        <div class="schema-grid">
+          <div class="schema-card success">
+            <span class="icon">❤️</span>
+            <strong>CPR: 30 Bası / 2 Nefes</strong>
+            <p>Dakikada <strong>100-120 bası</strong>, derinlik <strong>5 cm</strong>.</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">✊</span>
+            <strong>Heimlich Manevrası</strong>
+            <p>Tam tıkanma (nefes alamama) ➔ Karına arkadan bası.</p>
+          </div>
+          <div class="schema-card primary">
+            <span class="icon">🚗</span>
+            <strong>Rentek Manevrası</strong>
+            <p>Araçtan yaralıyı <strong>omuriliği koruyarak</strong> çıkarma.</p>
+          </div>
+        </div>
+      </div>
     `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#10b981; border-color:#10b981;">30:2</div>
-          <div class="m-content">
-            <strong>Kalp Masajı : Suni Solunum Oranı</strong>
-            <span>Tüm yaşlarda (Yetişkin, Çocuk, Bebek) <strong>30 Bası : 2 Nefes</strong>. Ritim: Dakikada <strong>100-120 bası</strong>. Derinlik: 5 cm.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#f59e0b; border-color:#f59e0b;">HM</div>
-          <div class="m-content">
-            <strong>Heimlich Manevrası (Boğulma / Tam Tıkanma)</strong>
-            <span>Konuşamayan, ellerini boynuna götüren kişide karına arkadan yumruk basısı yapılır (Tıkaç fırlar!).</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">RM</div>
-          <div class="m-content">
-            <strong>Rentek Manevrası (Araç İçi Kurtarma)</strong>
-            <span>Kaza yapan araçtan yaralıyı <strong>omuriliğini hiç bükmeden</strong> çıkarmak için uygulanır.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#ec4899; border-color:#ec4899;">KP</div>
+          <div class="m-letter" style="color:#ec4899; border-color:#ec4899;">KOMA</div>
           <div class="m-content">
             <strong>Koma Pozisyonu (Yan Yatış)</strong>
-            <span>Bilinci kapalı ama solunumu olan kişide <strong>dilin boğaza kaçmaması</strong> ve kusmukla boğulmaması için verilir.</span>
+            <span>Bilinci kapalı fakat solunumu olan kişide <strong>dilin boğaza kaçmasını ve kusmukla boğulmayı</strong> engeller.</span>
           </div>
         </div>
         <div class="m-card">
-          <div class="m-letter" style="color:#a855f7; border-color:#a855f7;">30cm</div>
+          <div class="m-letter" style="color:#a855f7; border-color:#a855f7;">ŞOK</div>
           <div class="m-content">
-            <strong>Şok Pozisyonu</strong>
-            <span>Beyne kan gitmesi için bacaklar sırtüstü pozisyonda <strong>30 cm</strong> yukarı kaldırılır.</span>
+            <strong>Şok Pozisyonu (30 cm)</strong>
+            <span>Beyne kan akışını sağlamak için kazazedenin bacakları sırtüstü haldeyken <strong>30 cm</strong> yukarı kaldırılır.</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 3. Silah Bilgisi ve Atış
   {
+    id: "m_silah",
     topic: "Silah Bilgisi ve Atış",
-    title: "🎯 Silahın Parçaları, Yiv-Set & Balistik Şifresi",
+    title: "🎯 Silahın Parçaları, Yiv-Set & Balistik Kodlamaları",
     badge: "Silah Şifresi",
     code: "Çukur=YİV | Tepe=SET | Çeken=TIRNAK | Fırlatan=ÇIKARICI",
-    diagramSvg: `
-      <svg viewBox="0 0 400 100" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <rect x="20" y="25" width="160" height="50" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
-        <text x="100" y="48" fill="#3b82f6" font-size="14" font-weight="bold" text-anchor="middle">YİV (GİRİNTİ/ÇUKUR)</text>
-        <text x="100" y="65" fill="#eab308" font-size="12" font-weight="bold" text-anchor="middle">SET (ÇIKINTI/TEPE)</text>
-
-        <rect x="220" y="25" width="160" height="50" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
-        <text x="300" y="48" fill="#f59e0b" font-size="13" font-weight="bold" text-anchor="middle">TIRNAK = ÇEKER</text>
-        <text x="300" y="65" fill="#ef4444" font-size="13" font-weight="bold" text-anchor="middle">ÇIKARICI = FIRLATIR</text>
-      </svg>
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge blue">🎯 SİLAH VE BALİSTİK DOKTRİNİ</div>
+        <div class="schema-grid">
+          <div class="schema-card primary">
+            <span class="icon">🌀</span>
+            <strong>Yiv & Set</strong>
+            <p>Yiv=Girinti (Çukur), Set=Çıkıntı (Tepe). Mermiyi döndürür.</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">⚙️</span>
+            <strong>Tırnak & Çıkarıcı</strong>
+            <p>Tırnak kovanı çeker, Çıkarıcı çarparak fırlatır.</p>
+          </div>
+          <div class="schema-card danger">
+            <span class="icon">⏱️</span>
+            <strong>Hangfire (Gecikmeli Ateş)</strong>
+            <p>Patlamazsa namluyu ayırmadan <strong>en az 15 sn</strong> bekle!</p>
+          </div>
+        </div>
+      </div>
     `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">Y-S</div>
+          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">ÇAP</div>
           <div class="m-content">
-            <strong>Yiv ve Set (Namlu İçi Helezon)</strong>
-            <span>Girintiye <strong>YİV</strong> (Çukur), Çıkıntıya <strong>SET</strong> (Tepe) denir. Karşılıklı iki set arası <strong>ÇAP</strong>'tır.</span>
+            <strong>Çap (Kalibre) Tanımı</strong>
+            <span>Namlu içindeki <strong>karşılıklı iki set arasındaki</strong> mesafedir (Örn: 9x19 mm'deki 9 mm).</span>
           </div>
         </div>
         <div class="m-card">
-          <div class="m-letter" style="color:#f59e0b; border-color:#f59e0b;">T-Ç</div>
+          <div class="m-letter" style="color:#eab308; border-color:#eab308;">ATEŞ</div>
           <div class="m-content">
-            <strong>Tırnak ve Çıkarıcı</strong>
-            <span><strong>Tırnak</strong> boş kovanı fişek yatağından geri çeker, <strong>Çıkarıcı</strong> çarparak dışarı fırlatır!</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">15s</div>
-          <div class="m-content">
-            <strong>Gecikmeli Patlama (Hangfire Emniyeti)</strong>
-            <span>Tetiğe basıp patlamazsa namluyu hedeften ayırmadan en az <strong>10-15 saniye</strong> beklenir!</span>
+            <strong>Ateşleme Zinciri</strong>
+            <span>Tetik çekilir ➔ Horoz düşer ➔ İğneye çarpar ➔ İğne kapsülü patlatır ➔ Barut yanar ➔ Çekirdek fırlar!</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 4. Güvenlik Sistemleri & X-Ray
   {
+    id: "m_xray",
     topic: "Güvenlik Sistem ve Cihazları",
-    title: "📡 X-Ray Renk Skalası ve Madde Ayırımı Şifresi",
+    title: "📡 X-Ray Renk Skalası & Dedektör Standartları",
     badge: "X-Ray Şifresi",
-    code: "Turuncu=Organik | Yeşil=İnorganik | Mavi=Metal",
-    diagramSvg: `
-      <svg viewBox="0 0 400 90" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <rect x="20" y="20" width="110" height="50" rx="8" fill="#1e293b" stroke="#f97316" stroke-width="2"/>
-        <text x="75" y="45" fill="#f97316" font-size="14" font-weight="bold" text-anchor="middle">TURUNCU</text>
-        <text x="75" y="60" fill="#94a3b8" font-size="10" text-anchor="middle">ORGANİK / C4</text>
-
-        <rect x="145" y="20" width="110" height="50" rx="8" fill="#1e293b" stroke="#22c55e" stroke-width="2"/>
-        <text x="200" y="45" fill="#22c55e" font-size="14" font-weight="bold" text-anchor="middle">YEŞİL</text>
-        <text x="200" y="60" fill="#94a3b8" font-size="10" text-anchor="middle">CAM / ALÜMİNYUM</text>
-
-        <rect x="270" y="20" width="110" height="50" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="2"/>
-        <text x="325" y="45" fill="#3b82f6" font-size="14" font-weight="bold" text-anchor="middle">MAVİ / SİYAH</text>
-        <text x="325" y="60" fill="#94a3b8" font-size="10" text-anchor="middle">ÇELİK / SİLAH</text>
-      </svg>
+    code: "Turuncu=Organik/C4 | Yeşil=Cam/Alüminyum | Mavi=Metal/Silah",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge purple">📡 X-RAY MADDE AYIRIMI</div>
+        <div class="schema-grid">
+          <div class="schema-card orange-glow">
+            <span class="icon">🟠</span>
+            <strong>Turuncu / Kahve</strong>
+            <p>Atom No < 10 (Organik: C4, RDX, Uyuşturucu, Gıda, Kağıt).</p>
+          </div>
+          <div class="schema-card green-glow">
+            <span class="icon">🟢</span>
+            <strong>Yeşil / Açık Mavi</strong>
+            <p>Atom No 10-18 (İnorganik: Cam, Alüminyum, Silikon, Kemik).</p>
+          </div>
+          <div class="schema-card blue-glow">
+            <span class="icon">🔵</span>
+            <strong>Mavi / Siyah</strong>
+            <p>Atom No > 18 (Ağır Metal: Çelik, Tabanca, Bıçak, Kurşun).</p>
+          </div>
+        </div>
+      </div>
     `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#f97316; border-color:#f97316;">TUR</div>
+          <div class="m-letter" style="color:#06b6d4; border-color:#06b6d4;">2.5-5 cm</div>
           <div class="m-content">
-            <strong>Turuncu / Kahve (Organik - Atom No < 10)</strong>
-            <span>Portakal organiktir! <strong>Patlayıcılar (C4, RDX), uyuşturucular</strong>, kağıt, ahşap, gıda, tekstil.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#22c55e; border-color:#22c55e;">YEŞ</div>
-          <div class="m-content">
-            <strong>Yeşil / Açık Mavi (İnorganik - Atom No 10-18)</strong>
-            <span>Yeşil şişe camdır! <strong>Cam, alüminyum, porselen, kemik, tuz, silikon</strong>.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">MAV</div>
-          <div class="m-content">
-            <strong>Mavi / Siyah (Ağır Metaller - Atom No > 18)</strong>
-            <span>Mavi çelik! <strong>Tabanca, bıçak, demir, kurşun, altın, mermi çekirdeği</strong>.</span>
+            <strong>El Metal Dedektörü Mesafesi</strong>
+            <span>Dedektör vücuda <strong>2.5 ile 5 cm mesafeden paralel</strong> tutulmalıdır. Hamilelere tutulmaz!</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 5. Özel Güvenlik Hukuku (5188 Sayılı Kanun)
   {
-    topic: "Özel Güvenlik Hukuku",
-    title: "⚖️ 5188 Sayılı Kanun Kırmızı Çizgileri ve Yetki Sınırları",
-    badge: "Hukuk Şifresi",
-    code: "Grev Yok! Başka İş Yok! Kartı Verirsen İptal!",
-    diagramSvg: `
-      <svg viewBox="0 0 400 90" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <rect x="20" y="20" width="110" height="50" rx="8" fill="#1e293b" stroke="#ef4444" stroke-width="2"/>
-        <text x="75" y="45" fill="#ef4444" font-size="13" font-weight="bold" text-anchor="middle">GREV YASAK</text>
-        <text x="75" y="60" fill="#94a3b8" font-size="9.5" text-anchor="middle">SENDİKA SERBEST</text>
-
-        <rect x="145" y="20" width="110" height="50" rx="8" fill="#1e293b" stroke="#f59e0b" stroke-width="2"/>
-        <text x="200" y="45" fill="#f59e0b" font-size="13" font-weight="bold" text-anchor="middle">BAŞKA İŞ YASAK</text>
-        <text x="200" y="60" fill="#94a3b8" font-size="9.5" text-anchor="middle">GÜVENLİK DIŞI İŞ</text>
-
-        <rect x="270" y="20" width="110" height="50" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
-        <text x="325" y="45" fill="#10b981" font-size="13" font-weight="bold" text-anchor="middle">YAKALAMA VAR</text>
-        <text x="325" y="60" fill="#94a3b8" font-size="9.5" text-anchor="middle">SUÇÜSTÜ HALİNDE</text>
-      </svg>
-    `,
-    explanation: `
-      <div class="mnemonic-grid">
-        <div class="m-card">
-          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">🚫</div>
-          <div class="m-content">
-            <strong>ÖGG Neleri Asla Yapamaz?</strong>
-            <span>• Greve katılamaz (Sendikaya üye olabilir ama grev yapamaz!).<br>• Başka işte çalıştırılamaz (Çay/temizlik yasak!).<br>• Savcı/hakim kararsız ev/araç arayamaz ve şüpheli ifadesi ALAMAZ!</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#f59e0b; border-color:#f59e0b;">📜</div>
-          <div class="m-content">
-            <strong>Kimlik Kartı İptali (5188 SK. m.11 & 20)</strong>
-            <span>Kimlik kartını başkasına kullandıran görevlinin kartı Valilikçe <strong>ömür boyu iptal edilir</strong> ve bir daha ÖGG olamaz.</span>
-          </div>
-        </div>
-      </div>
-    `
-  },
-
-  // 6. Güvenlik Tedbirleri & Devriye
-  {
+    id: "m_devriye",
     topic: "Güvenlik Tedbirleri",
-    title: "🛡️ Devriye Türleri ve Tutanak Tanzim Şifresi",
+    title: "🛡️ Devriye Çeşitleri & Tutanak Yazım Kuralları",
     badge: "Devriye Şifresi",
-    code: "R-D-G-Ç Devriye | B-G-M-S-İ Tutanak",
-    diagramSvg: `
-      <svg viewBox="0 0 400 90" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <circle cx="50" cy="45" r="28" fill="#1e293b" stroke="#eab308" stroke-width="2"/>
-        <text x="50" y="49" fill="#eab308" font-size="11" font-weight="bold" text-anchor="middle">RASTGELE</text>
-
-        <circle cx="150" cy="45" r="28" fill="#1e293b" stroke="#06b6d4" stroke-width="2"/>
-        <text x="150" y="49" fill="#06b6d4" font-size="11" font-weight="bold" text-anchor="middle">DAİRESEL</text>
-
-        <circle cx="250" cy="45" r="28" fill="#1e293b" stroke="#a855f7" stroke-width="2"/>
-        <text x="250" y="49" fill="#a855f7" font-size="10.5" font-weight="bold" text-anchor="middle">GERİ DÖNÜŞ</text>
-
-        <circle cx="350" cy="45" r="28" fill="#1e293b" stroke="#10b981" stroke-width="2"/>
-        <text x="350" y="49" fill="#10b981" font-size="11" font-weight="bold" text-anchor="middle">ÇİZGİSEL</text>
-      </svg>
+    code: "Rastgele (En Etkili) | B-G-M-S-İ Tutanak",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge blue">🛡️ DEVRİYE VE TUTANAK DÜZENİ</div>
+        <div class="schema-grid">
+          <div class="schema-card primary">
+            <span class="icon">🎲</span>
+            <strong>Rastgele Devriye</strong>
+            <p>Planı olmayan, suçluyu en çok şaşırtan <strong>en etkili devriye</strong>.</p>
+          </div>
+          <div class="schema-card success">
+            <span class="icon">📋</span>
+            <strong>Tutanak (B-G-M-S-İ)</strong>
+            <p>Başlık, Giriş, Metin, Sonuç, İmzalar (En az 2 görevli).</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">🚧</span>
+            <strong>Olay Yeri Koruma</strong>
+            <p>Şerit çek, delile çıplak elle dokunma, delilin yerini değiştirme!</p>
+          </div>
+        </div>
+      </div>
     `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#eab308; border-color:#eab308;">RST</div>
+          <div class="m-letter" style="color:#eab308; border-color:#eab308;">TUTANAK</div>
           <div class="m-content">
-            <strong>Rastgele (Rastlantısal) Devriye</strong>
-            <span>Zaman ve rota planı olmadan tamamen habersiz yapılan, suçlunun planını bozan <strong>en etkili devriye</strong>.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#10b981; border-color:#10b981;">TTN</div>
-          <div class="m-content">
-            <strong>Tutanak Bölümleri (B-G-M-S-İ)</strong>
-            <span><strong>B</strong>aşlık, <strong>G</strong>iriş (Tarih/Yer), <strong>M</strong>etin (Olay), <strong>S</strong>onuç, <strong>İ</strong>mzalar (En az 2 görevli).</span>
+            <strong>Hata Düzeltme Kuralı</strong>
+            <span>Tutanakta daksil/silme YASAKTIR! Yanlış kelimenin üstü tek çizgiyle çizilip yanına doğrusu yazılır ve paraflanır.</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 7. Kişi Koruma (VIP)
   {
+    id: "m_vip",
     topic: "Kişi Koruma",
-    title: "👮 Kişi Koruma (VIP) Çemberleri ve Düzen Şifresi",
-    badge: "VIP Koruma Şifresi",
-    code: "İç - Orta - Dış Çember & V / Kama Düzeni",
-    diagramSvg: `
-      <svg viewBox="0 0 400 90" style="width:100%; max-width:400px; height:auto; margin:8px auto; display:block;">
-        <circle cx="200" cy="45" r="40" fill="none" stroke="#ef4444" stroke-width="2"/>
-        <circle cx="200" cy="45" r="26" fill="none" stroke="#f59e0b" stroke-width="2"/>
-        <circle cx="200" cy="45" r="12" fill="#1e3a8a" stroke="#10b981" stroke-width="2"/>
-        <text x="200" y="49" fill="#fff" font-size="9" font-weight="bold" text-anchor="middle">VIP</text>
-        <text x="80" y="50" fill="#ef4444" font-size="11" font-weight="bold">DIŞ ÇEMBER</text>
-        <text x="320" y="50" fill="#10b981" font-size="11" font-weight="bold">İÇ ÇEMBER</text>
-      </svg>
+    title: "👮 VIP Koruma Çemberleri & Yaya Düzenleri",
+    badge: "VIP Şifresi",
+    code: "İç Çember (Beden Siper) | Orta (Kapı) | Dış (Sokak)",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge gold">👮 KORUMA HALKALARI</div>
+        <div class="schema-grid">
+          <div class="schema-card danger">
+            <span class="icon">🎯</span>
+            <strong>İç Çember</strong>
+            <p>VIP'nin hemen yanındaki yakın koruma personeli (Bedenini siper eder).</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">🚪</span>
+            <strong>Orta Çember</strong>
+            <p>Bina girişleri, kapılar, koridorlar ve asansör kontrolü.</p>
+          </div>
+          <div class="schema-card primary">
+            <span class="icon">🏙️</span>
+            <strong>Dış Çember</strong>
+            <p>Çevre duvarları ve ana sokak girişleri (En geniş halka).</p>
+          </div>
+        </div>
+      </div>
     `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#10b981; border-color:#10b981;">İÇ</div>
+          <div class="m-letter" style="color:#10b981; border-color:#10b981;">DÜZEN</div>
           <div class="m-content">
-            <strong>İç Çember (En Dar Halka)</strong>
-            <span>Korunan kişinin (VIP) hemen yanında olan, tehlikede bedenini siper eden yakın korumadır.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#f59e0b; border-color:#f59e0b;">ORT</div>
-          <div class="m-content">
-            <strong>Orta Çember</strong>
-            <span>Bina girişi, asansörler ve kapılarda güvenliği sağlar.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">DIŞ</div>
-          <div class="m-content">
-            <strong>Dış Çember</strong>
-            <span>Tesisin çevre duvarları ve ana sokak başlarını tutan en geniş güvenlik halkasıdır.</span>
+            <strong>Yaya Koruma Düzenleri</strong>
+            <span>Tek kişi, İkili, Üçlü (Üçgen), Dörtlü (Kutu), Beşli (Kama / V Düzeni). Kalabalıkta koruma çemberi daraltılır.</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 8. Kalabalık Yönetimi
   {
+    id: "m_kalabalik",
     topic: "Kalabalık Yönetimi",
-    title: "👥 Kalabalık, Grup & Panik Dinamikleri Şifresi",
+    title: "👥 Kalabalık Psikolojisi & Grup Dinamikleri",
     badge: "Kalabalık Şifresi",
-    code: "Kalabalık=Teşkilatsız | Grup=Liderli/Örgütlü",
-    explanation: `
-      <div class="mnemonic-grid">
-        <div class="m-card">
-          <div class="m-letter" style="color:#94a3b8; border-color:#94a3b8;">KLB</div>
-          <div class="m-content">
+    code: "Kalabalık=Teşkilatsız | Grup=Liderli | Panik=Bulaşıcı Kaçış",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge purple">👥 TOPLULUK AYRIMI</div>
+        <div class="schema-grid">
+          <div class="schema-card">
+            <span class="icon">🚶</span>
             <strong>Kalabalık</strong>
-            <span>Geçici olarak toplanmış, lideri ve teşkilatı olmayan rastgele topluluktur (Örn: Durakta bekleyenler).</span>
+            <p>Geçici toplanmış, lideri ve teşkilatı olmayan topluluk.</p>
           </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">GRP</div>
-          <div class="m-content">
+          <div class="schema-card primary">
+            <span class="icon">👥</span>
             <strong>Grup</strong>
-            <span>Ortak bir amacı, hiyerarşik lideri ve kuralları olan örgütlü topluluktur.</span>
+            <p>Ortak amacı ve lideri olan örgütlü topluluk.</p>
           </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">PNK</div>
-          <div class="m-content">
+          <div class="schema-card danger">
+            <span class="icon">⚡</span>
             <strong>Panik</strong>
-            <span>Ani tehlike karşısında mantıklı düşünmenin yok olduğu, bulaşıcı ve kontrolsüz kaçış hissidir.</span>
+            <p>Mantığın kaybolduğu, bulaşıcı ve kontrolsüz kaçış hareketi.</p>
           </div>
         </div>
       </div>
-    `
-  },
-
-  // 9. Uyuşturucu Madde Bilgisi
-  {
-    topic: "Uyuşturucu Madde Bilgisi",
-    title: "💊 Doğal ve Sentetik Uyuşturucu Maddeler Şifresi",
-    badge: "Narkotik Şifresi",
-    code: "Doğal=Kenevir/Afyon | Sentetik=Met/Bonzai",
+    `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#10b981; border-color:#10b981;">DOĞ</div>
+          <div class="m-letter" style="color:#a855f7; border-color:#a855f7;">COP</div>
           <div class="m-content">
-            <strong>Doğal Uyuşturucular</strong>
-            <span>Kenevir bitkisinden <strong>Esrar</strong> (yanık tatlımsı ot kokusu yayar), Haşhaştan <strong>Afyon, Morfin, Eroin</strong>.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#a855f7; border-color:#a855f7;">SNT</div>
-          <div class="m-content">
-            <strong>Sentetik Uyuşturucular</strong>
-            <span>Laboratuvarda kimyasal üretilen <strong>Metamfetamin, Bonzai, Ecstasy, Captagon</strong>.</span>
+            <strong>Cop Kullanım Bölgeleri</strong>
+            <span>1. Derece Vuruş: Kol ve bacakların etli kısımları. Baş, boyun ve kasık bölgesine vurulması <strong>HAYATİ TEHLİKE</strong> yaratır ve yasaktır!</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 10. Etkili İletişim
   {
+    id: "m_uyusturucu",
+    topic: "Uyuşturucu Madde Bilgisi",
+    title: "💊 Uyuşturucu Sınıfları & Ayırt Edici Belirtiler",
+    badge: "Narkotik Şifresi",
+    code: "Kenevir=Esrar (Yanık Ot Kokusu) | Haşhaş=Afyon/Eroin",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge green">💊 NARKOTİK MADDE HARİTASI</div>
+        <div class="schema-grid">
+          <div class="schema-card success">
+            <span class="icon">🌿</span>
+            <strong>Kenevir ➔ Esrar</strong>
+            <p>Karakteristik tatlımsı yanık kuru ot kokusu yayar.</p>
+          </div>
+          <div class="schema-card danger">
+            <span class="icon">🌸</span>
+            <strong>Haşhaş ➔ Eroin / Morfin</strong>
+            <p>Merkezi sinir sistemini uyuşturan opiat grubu.</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">🧪</span>
+            <strong>Sentetikler</strong>
+            <p>Metamfetamin, Bonzai, Ecstasy, Captagon.</p>
+          </div>
+        </div>
+      </div>
+    `,
+    explanation: `
+      <div class="mnemonic-grid">
+        <div class="m-card">
+          <div class="m-letter" style="color:#ef4444; border-color:#ef4444;">BELİRTİ</div>
+          <div class="m-content">
+            <strong>Madde Bağımlısı Belirtileri</strong>
+            <span>Göz bebeklerinde aşırı büyüme/küçülme, titreme, aşırı terleme, algı kaybı ve saldırganlık.</span>
+          </div>
+        </div>
+      </div>
+    `
+  },
+  {
+    id: "m_iletisim",
     topic: "Etkili İletişim",
-    title: "💬 İletişimin Temel Öğeleri & Empati Şifresi",
+    title: "💬 İletişim Öğeleri & Empati / Sempati Ayrımı",
     badge: "İletişim Şifresi",
     code: "K-M-K-A-D (Kaynak, Mesaj, Kanal, Alıcı, Dönüt)",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge blue">💬 İLETİŞİM ÇEMBERİ</div>
+        <div class="schema-grid">
+          <div class="schema-card primary">
+            <span class="icon">👤</span>
+            <strong>Kaynak ➔ Mesaj ➔ Alıcı</strong>
+            <p>İletişim kanalla aktarılır, <strong>Dönüt (Geri Bildirim)</strong> ile tamamlanır.</p>
+          </div>
+          <div class="schema-card success">
+            <span class="icon">🤝</span>
+            <strong>Empati</strong>
+            <p>Kendini karşıdakinin yerine koyarak onu anlama becerisidir.</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">🎭</span>
+            <strong>Sempati</strong>
+            <p>Karşıdakinin duygularını olduğu gibi benimsemektir.</p>
+          </div>
+        </div>
+      </div>
+    `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">EMP</div>
+          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">DÖNÜT</div>
           <div class="m-content">
-            <strong>Empati</strong>
-            <span>Kişinin kendisini karşısındakinin yerine koyarak onun duygu ve düşüncelerini anlama becerisidir.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#10b981; border-color:#10b981;">DÖN</div>
-          <div class="m-content">
-            <strong>Dönüt (Geri Bildirim)</strong>
-            <span>Alıcının göndericiye verdiği tepkidir; iletişimin başarılı olup olmadığını gösteren en kritik öğedir.</span>
+            <strong>Dönüt (Geri Bildirim) Önemi</strong>
+            <span>Dönüt yoksa tek yönlü iletişimdir. İletişimin başarılı olduğunu alıcının verdiği dönüt kanıtlar.</span>
           </div>
         </div>
       </div>
     `
   },
-
-  // 11. Genel Kollukla İlişkiler & KAAN
   {
+    id: "m_kaan",
     topic: "Genel Kollukla İlişkiler",
-    title: "🤝 Genel Kolluk (Polis/Jandarma) & KAAN Entegrasyon Şifresi",
+    title: "🤝 Genel Kolluk (Polis/Jandarma) & KAAN Entegrasyonu",
     badge: "KAAN Şifresi",
-    code: "KAAN = Özel Güvenlik + Genel Kolluk Birlikteliği",
+    code: "KAAN = Özel Güvenlik + Polis/Jandarma Entegrasyonu",
+    visualBox: `
+      <div class="visual-schema-box">
+        <div class="schema-badge gold">🤝 GENEL KOLLUK KOORDİNASYONU</div>
+        <div class="schema-grid">
+          <div class="schema-card primary">
+            <span class="icon">📱</span>
+            <strong>KAAN Projesi</strong>
+            <p>ÖGG ile Polis arasında anlık suç bildirimi ve entegrasyon sistemi.</p>
+          </div>
+          <div class="schema-card warning">
+            <span class="icon">🚨</span>
+            <strong>Derhal Bildirim</strong>
+            <p>Adli olay vuku bulduğunda derhal genel kolluğa haber verilir.</p>
+          </div>
+          <div class="schema-card success">
+            <span class="icon">👮</span>
+            <strong>Emir ve Denetim</strong>
+            <p>Mülki amir ve genel kolluğun talimatlarına uymak zorunludur.</p>
+          </div>
+        </div>
+      </div>
+    `,
     explanation: `
       <div class="mnemonic-grid">
         <div class="m-card">
-          <div class="m-letter" style="color:#3b82f6; border-color:#3b82f6;">KAAN</div>
+          <div class="m-letter" style="color:#eab308; border-color:#eab308;">KOLLUK</div>
           <div class="m-content">
-            <strong>KAAN Projesi</strong>
-            <span>ÖGG ile Polis ve Jandarma arasındaki işbirliğini ve hızlı bilgi akışını sağlayan EGM entegrasyon sistemidir.</span>
-          </div>
-        </div>
-        <div class="m-card">
-          <div class="m-letter" style="color:#eab308; border-color:#eab308;">EMR</div>
-          <div class="m-content">
-            <strong>Emir ve Denetim</strong>
-            <span>Özel güvenlik görevlileri mülki idare amiri (Vali/Kaymakam) ve genel kolluğun emir ve talimatlarına uymak zorundadır.</span>
+            <strong>Genel Kolluk Geldiğinde</strong>
+            <span>Genel kolluk olay yerine intikal ettiği andan itibaren sevk ve idare genel kolluğa geçer, ÖGG emrine girer.</span>
           </div>
         </div>
       </div>

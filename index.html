@@ -513,9 +513,15 @@
         </div>
 
         <div class="q-action-bar">
-          <div style="font-size: 12.5px; color: var(--text-muted);" id="lbl-status-message">
-            Doğru seçeneği işaretleyiniz.
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 12px; color: var(--gold-accent); font-family: var(--font-mono);" id="lbl-autosave-status">
+              💾 Otomatik Kayıt: Aktif
+            </span>
+            <button class="nav-btn" style="padding: 4px 10px; font-size: 12px; color: var(--danger-red); border-color: rgba(239,68,68,0.3);" onclick="resetUserProgress()">
+              🔄 İlerlemeyi Sıfırla
+            </button>
           </div>
+          
           <button class="btn-primary-blue" onclick="nextQuestion()">
             Sonraki Soru →
           </button>
@@ -705,6 +711,11 @@
 
       localStorage.setItem('ogg_all_user_progress', JSON.stringify(userProgress));
       localStorage.setItem('ogg_current_user', currentUserEmail);
+
+      const now = new Date();
+      const timeStr = now.toTimeString().split(' ')[0];
+      const autoEl = document.getElementById('lbl-autosave-status');
+      if (autoEl) autoEl.textContent = `💾 Kaydedildi (${timeStr})`;
     }
 
     function updateUserHeaderBadge() {

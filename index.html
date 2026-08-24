@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-  <title>ÖGG Sınav & Öğretici Eğitim Merkezi — Tüm Dönemler (110 - 121. Dönem) Çıkmış Sorular</title>
-  <meta name="description" content="Özel Güvenlik Görevlisi (ÖGG) sınavlarına hazırlıkta 110-121. tüm dönemlerin 1.500 çıkmış sorusu, anında gerekçeli kanun maddeleri çözümü, ders bazlı akıllı eksik analiz raporu ve kapsamlı ders konu anlatımları.">
+  <title>ÖGG Sınav & Yapay Zekâ Destekli Eğitim Merkezi — Tüm Dönemler (110 - 121. Dönem)</title>
+  <meta name="description" content="EGM Özel Güvenlik Görevlisi (ÖGG) sınavlarına hazırlıkta 110-121. tüm dönemlerin 1.500 çıkmış sorusu, yapay zekâ destekli anında hata analizi, gerekçeli kanun maddeleri ve 11 modül konu anlatımı.">
   <meta name="author" content="Tunahan Haksever">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://tunahanhaksever.github.io/ogg-sinav-merkezi/">
@@ -12,24 +12,24 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <style>
     :root {
-      --bg-base: #0a0f1d;
-      --bg-surface: #111a2e;
-      --bg-card: #17233d;
-      --bg-card-hover: #1e2e4f;
+      --bg-base: #0a0e17;
+      --bg-surface: #111827;
+      --bg-card: #1b2436;
+      --bg-card-hover: #222e44;
       
       --accent-gold: #d4af37;
-      --accent-gold-light: #f3e5ab;
-      --accent-navy: #1e3a8a;
+      --accent-gold-hover: #b89628;
+      --accent-blue: #2563eb;
       --accent-cyan: #06b6d4;
       --accent-green: #10b981;
       --accent-red: #ef4444;
       
-      --border-color: #243556;
-      --border-focus: #3b82f6;
+      --border-color: #26334d;
+      --border-light: #374663;
       
       --text-main: #f8fafc;
       --text-muted: #94a3b8;
@@ -52,26 +52,26 @@
       position: sticky;
       top: 0;
       z-index: 100;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
     }
 
     .brand-wrap {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 12px;
       text-decoration: none;
     }
 
     .ogg-logo-badge {
       width: 44px;
       height: 44px;
-      background: radial-gradient(circle, #1e3a8a 0%, #0a0f1d 100%);
+      background: radial-gradient(circle, #1e3a8a 0%, #0a0e17 100%);
       border: 2px solid var(--accent-gold);
       border-radius: 50%;
       display: flex;
       align-items: center;
       justify-content: center;
-      box-shadow: 0 0 15px rgba(212, 175, 55, 0.4);
+      box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
       flex-shrink: 0;
     }
 
@@ -95,9 +95,9 @@
       background: var(--bg-card);
       border: 1px solid var(--border-color);
       color: var(--text-muted);
-      padding: 8px 12px;
+      padding: 8px 14px;
       border-radius: 6px;
-      font-size: 12.5px;
+      font-size: 13px;
       font-weight: 600;
       cursor: pointer;
       display: flex;
@@ -107,9 +107,9 @@
     }
     .nav-tab-btn:hover { background: var(--bg-card-hover); color: #fff; border-color: var(--accent-gold); }
     .nav-tab-btn.active {
-      background: linear-gradient(135deg, rgba(212, 175, 55, 0.2) 0%, rgba(30, 58, 138, 0.3) 100%);
+      background: linear-gradient(135deg, rgba(212, 175, 55, 0.2) 0%, rgba(37, 99, 235, 0.25) 100%);
       border-color: var(--accent-gold);
-      color: var(--accent-gold-light);
+      color: #fff;
     }
 
     /* Main Container */
@@ -124,11 +124,11 @@
 
     /* Hero Banner */
     .hero-banner {
-      background: linear-gradient(135deg, #13223f 0%, #0d1629 100%);
+      background: linear-gradient(135deg, #121c2d 0%, #0d1522 100%);
       border: 1px solid var(--border-color);
       border-left: 4px solid var(--accent-gold);
-      border-radius: 12px;
-      padding: 20px;
+      border-radius: 10px;
+      padding: 18px 20px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -136,8 +136,8 @@
       gap: 16px;
     }
 
-    .hero-info h1 { font-size: 20px; font-weight: 800; color: #fff; margin-bottom: 6px; }
-    .hero-info p { font-size: 13.5px; color: var(--text-muted); max-width: 680px; line-height: 1.5; }
+    .hero-info h1 { font-size: 19px; font-weight: 800; color: #fff; margin-bottom: 4px; }
+    .hero-info p { font-size: 13px; color: var(--text-muted); max-width: 680px; line-height: 1.5; }
 
     .stat-pill-group {
       display: flex;
@@ -159,7 +159,7 @@
     .filter-toolbar {
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
-      border-radius: 10px;
+      border-radius: 8px;
       padding: 12px 16px;
       display: flex;
       align-items: center;
@@ -187,7 +187,7 @@
     }
     .filter-select:focus { border-color: var(--accent-gold); }
 
-    .mode-switch-btn {
+    .btn-action {
       background: var(--bg-card);
       border: 1px solid var(--border-color);
       color: var(--text-main);
@@ -200,11 +200,7 @@
       align-items: center;
       gap: 6px;
     }
-    .mode-switch-btn.active {
-      background: var(--accent-green);
-      border-color: var(--accent-green);
-      color: #fff;
-    }
+    .btn-action.active { background: var(--accent-green); border-color: var(--accent-green); color: #fff; }
 
     /* Question Cards Stream */
     .questions-stream {
@@ -216,14 +212,14 @@
     .question-card {
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
-      border-radius: 12px;
+      border-radius: 10px;
       padding: 18px 20px;
       display: flex;
       flex-direction: column;
       gap: 12px;
       transition: border-color 0.15s;
     }
-    .question-card:hover { border-color: var(--border-focus); }
+    .question-card:hover { border-color: var(--border-light); }
     .question-card.answered-correct { border-left: 5px solid var(--accent-green); }
     .question-card.answered-wrong { border-left: 5px solid var(--accent-red); }
 
@@ -256,7 +252,7 @@
     }
 
     .q-text {
-      font-size: 15.5px;
+      font-size: 15px;
       font-weight: 600;
       color: #fff;
       line-height: 1.6;
@@ -271,7 +267,7 @@
     .option-item {
       background: var(--bg-card);
       border: 1px solid var(--border-color);
-      border-radius: 8px;
+      border-radius: 6px;
       padding: 11px 14px;
       font-size: 14px;
       color: var(--text-main);
@@ -282,35 +278,63 @@
       transition: all 0.12s;
       -webkit-tap-highlight-color: transparent;
     }
-    .option-item:hover { background: var(--bg-card-hover); border-color: var(--border-focus); }
+    .option-item:hover { background: var(--bg-card-hover); border-color: var(--border-light); }
     .option-item.selected-correct { background: rgba(16, 185, 129, 0.2); border-color: var(--accent-green); color: #fff; font-weight: 600; }
     .option-item.selected-wrong { background: rgba(239, 68, 68, 0.2); border-color: var(--accent-red); color: #fca5a5; }
     .option-item.show-correct-target { border: 2px dashed var(--accent-green); background: rgba(16, 185, 129, 0.1); }
 
-    /* Pedagogical Explanation Box */
-    .explanation-box {
-      background: linear-gradient(135deg, rgba(30, 58, 138, 0.25) 0%, rgba(17, 26, 46, 0.4) 100%);
-      border: 1px solid rgba(59, 130, 246, 0.4);
+    /* AI Tutor Card & Notification */
+    .ai-tutor-banner {
+      background: linear-gradient(135deg, rgba(239, 68, 68, 0.15) 0%, rgba(17, 24, 39, 0.9) 100%);
+      border: 1px solid var(--accent-red);
       border-radius: 8px;
-      padding: 14px;
-      font-size: 13.5px;
-      line-height: 1.6;
-      color: var(--text-main);
+      padding: 14px 16px;
       display: flex;
       flex-direction: column;
-      gap: 6px;
+      gap: 8px;
       animation: fadeIn 0.2s ease-in;
     }
     @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
 
-    .exp-title { font-weight: 700; color: var(--accent-gold); display: flex; align-items: center; gap: 6px; }
-    .exp-law { font-size: 12px; color: var(--accent-cyan); font-family: var(--font-mono); }
+    .ai-tutor-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: var(--accent-gold);
+      font-weight: 700;
+      font-size: 13.5px;
+    }
 
-    /* Performance Diagnostic Modal */
+    .ai-trap-box {
+      background: rgba(0, 0, 0, 0.3);
+      padding: 10px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      color: #fff;
+      line-height: 1.5;
+      border-left: 3px solid var(--accent-gold);
+    }
+
+    .btn-read-lecture-fast {
+      background: var(--accent-blue);
+      border: none;
+      color: #fff;
+      padding: 6px 12px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      align-self: flex-start;
+      margin-top: 4px;
+      transition: background 0.12s;
+    }
+    .btn-read-lecture-fast:hover { background: #1d4ed8; }
+
+    /* Performance Diagnostic Panel */
     .diagnostic-panel {
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
-      border-radius: 12px;
+      border-radius: 10px;
       padding: 20px;
       display: flex;
       flex-direction: column;
@@ -341,7 +365,7 @@
     .topic-card {
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
-      border-radius: 10px;
+      border-radius: 8px;
       padding: 18px;
       display: flex;
       flex-direction: column;
@@ -365,7 +389,7 @@
     }
     .btn-speak:hover { color: var(--accent-gold); }
 
-    /* Pagination / Load more */
+    /* Pagination */
     .pagination-bar {
       display: flex;
       justify-content: center;
@@ -378,7 +402,7 @@
       border: 1px solid var(--border-color);
       color: #fff;
       padding: 10px 20px;
-      border-radius: 8px;
+      border-radius: 6px;
       font-size: 13.5px;
       font-weight: 700;
       cursor: pointer;
@@ -386,7 +410,7 @@
     }
     .btn-page:hover { background: var(--bg-card-hover); border-color: var(--accent-gold); }
 
-    /* Topic Lecture Viewer Modal */
+    /* Lecture Viewer Modal */
     .lecture-modal {
       position: fixed;
       inset: 0;
@@ -401,7 +425,7 @@
     .lecture-box {
       background: var(--bg-surface);
       border: 1px solid var(--accent-gold);
-      border-radius: 12px;
+      border-radius: 10px;
       max-width: 760px;
       width: 100%;
       max-height: 85vh;
@@ -410,6 +434,15 @@
       display: flex;
       flex-direction: column;
       gap: 14px;
+    }
+
+    .lecture-highlight {
+      background: rgba(212, 175, 55, 0.1);
+      border-left: 3px solid var(--accent-gold);
+      padding: 10px 12px;
+      border-radius: 4px;
+      font-size: 13px;
+      margin: 8px 0;
     }
 
     @media (max-width: 768px) {
@@ -434,7 +467,7 @@
       </div>
       <div class="brand-title-wrap">
         <span class="brand-title">ÖGG Sınav & Eğitim Merkezi</span>
-        <span class="brand-sub">Tüm Dönemler Soru Havuzu (1.500 Soru)</span>
+        <span class="brand-sub">Yapay Zekâ Destekli 1.500 Soru Havuzu</span>
       </div>
     </a>
 
@@ -451,9 +484,9 @@
     <!-- Hero Banner -->
     <div class="hero-banner">
       <div class="hero-info">
-        <h1 id="hero-heading">110 - 121. Dönem Tüm Çıkmış Sınav Soruları (1.500 Soru)</h1>
+        <h1>110 - 121. Dönem Tüm Çıkmış Sınav Soruları (1.500 Soru)</h1>
         <p>
-          Her soruda <strong>anında gerekçeli kanun maddelerini</strong> görün, yanlış yaptığınızda sistem hangi derste eksiğiniz olduğunu çıkarsın ve sizi doğrudan o konunun dersine yönlendirsin.
+          Yanlış yaptığınızda <strong>Yapay Zekâ Eğitmeni</strong> anında devreye girer; soru kökündeki tuzağı açıklar ve eksik olduğunuz konunun ders notuna yönlendirir.
         </p>
       </div>
 
@@ -471,13 +504,13 @@
           <div class="lbl">Yanlış</div>
         </div>
         <div class="stat-pill">
-          <div class="val" id="stat-score">0</div>
-          <div class="lbl">Başarı %</div>
+          <div class="val" id="stat-score">0%</div>
+          <div class="lbl">Başarı Oranı</div>
         </div>
       </div>
     </div>
 
-    <!-- VIEW 1: EXAM & TUTOR MODE -->
+    <!-- VIEW 1: EXAM & AI TUTOR MODE -->
     <div id="view-exam" class="view-section">
       
       <!-- Filter Toolbar -->
@@ -485,7 +518,7 @@
         <div class="filter-left">
           <!-- Period Selector -->
           <select class="filter-select" id="filter-period" onchange="changeFilter()" style="font-weight: 700; color: var(--accent-gold);">
-            <option value="all">📑 Tüm Dönemler (1.500 Soru Dev Arşiv)</option>
+            <option value="all">📑 Tüm Dönemler (1.500 Soru)</option>
             <option value="121. Dönem" selected>🏅 121. Dönem Sınavı (Güncel)</option>
             <option value="120. Dönem">🏅 120. Dönem Sınavı</option>
             <option value="119. Dönem">🏅 119. Dönem Sınavı</option>
@@ -524,10 +557,10 @@
         </div>
 
         <div class="filter-right">
-          <button class="mode-switch-btn active" id="btn-tutor-mode" onclick="toggleTutorMode()">
-            💡 Öğretici Mod: Açık
+          <button class="btn-action active" id="btn-tutor-mode" onclick="toggleTutorMode()">
+            🤖 AI Eğitmen: Açık
           </button>
-          <button class="nav-tab-btn" onclick="resetExam()">🔄 Sıfırla</button>
+          <button class="btn-action" onclick="resetExam()">🔄 Sıfırla</button>
         </div>
       </div>
 
@@ -545,13 +578,13 @@
     <!-- VIEW 2: SMART ANALYTICS & WEAK POINT DIAGNOSIS -->
     <div id="view-analytics" class="view-section" style="display: none;">
       <div class="diagnostic-panel">
-        <h2 style="font-size: 20px; color: #fff; font-weight: 800;">📊 Akıllı Eksik & Yanlış Konu Tahlili</h2>
-        <p style="font-size: 14px; color: var(--text-muted);">
-          Çözdüğünüz sorulara göre ders bazlı başarı yüzdeniz ve sınavda puan kaybetmemeniz için tekrar etmeniz gereken zayıf konular:
+        <h2 style="font-size: 19px; color: #fff; font-weight: 800;">📊 Akıllı Eksik & Yanlış Konu Tahlili</h2>
+        <p style="font-size: 13.5px; color: var(--text-muted);">
+          Çözdüğünüz sorulara göre yapay zekânın tespit ettiği ders başarı oranları ve eksik olduğunuz konular:
         </p>
 
-        <div id="analytics-topics-list" style="display: flex; flex-direction: column; gap: 14px; margin-top: 10px;">
-          <!-- Topic performance rows rendered dynamically -->
+        <div id="analytics-topics-list" style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
+          <!-- Rendered dynamically -->
         </div>
       </div>
     </div>
@@ -559,13 +592,13 @@
     <!-- VIEW 3: ACADEMY STUDY MODULES -->
     <div id="view-academy" class="view-section" style="display: none;">
       <div class="diagnostic-panel">
-        <h2 style="font-size: 20px; color: #fff; font-weight: 800;">📚 ÖGG Resmi Müfredat Ders Notları</h2>
-        <p style="font-size: 14px; color: var(--text-muted);">
-          EGM Özel Güvenlik Denetleme Başkanlığı müfredatındaki 11 temel dersin özetleri, kanun maddeleri ve sınavda kesin çıkan kritik noktalar.
+        <h2 style="font-size: 19px; color: #fff; font-weight: 800;">📚 %100 Doğrulanmış ÖGG Resmi Ders Notları</h2>
+        <p style="font-size: 13.5px; color: var(--text-muted);">
+          5188 Sayılı Kanun, EGM ve Sağlık Bakanlığı standartlarında 11 modül konu anlatımları ve sınav tüyoları.
         </p>
 
         <div class="academy-grid" id="academy-cards-container">
-          <!-- Topic cards rendered dynamically -->
+          <!-- Rendered dynamically -->
         </div>
       </div>
     </div>
@@ -576,14 +609,14 @@
   <div class="lecture-modal" id="lecture-modal">
     <div class="lecture-box">
       <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 10px;">
-        <h3 id="modal-lecture-title" style="font-size: 18px; color: var(--accent-gold);">Ders Başlığı</h3>
+        <h3 id="modal-lecture-title" style="font-size: 17px; color: var(--accent-gold);">Ders Başlığı</h3>
         <button onclick="closeLectureModal()" style="background:none; border:none; color:var(--text-muted); font-size:22px; cursor:pointer;">✕</button>
       </div>
       <div id="modal-lecture-body" style="font-size: 14px; line-height: 1.7; color: var(--text-main);">
         <!-- Content -->
       </div>
       <div style="display: flex; justify-content: flex-end; margin-top: 10px;">
-        <button class="nav-tab-btn active" onclick="closeLectureModal()">Kapat & Sorulara Dön</button>
+        <button class="btn-action active" onclick="closeLectureModal()">Kapat & Sorulara Dön</button>
       </div>
     </div>
   </div>
@@ -591,6 +624,7 @@
   <!-- Scripts -->
   <script src="./questions.js"></script>
   <script src="./topics.js"></script>
+  <script src="./ai-tutor.js"></script>
   <script>
     let userAnswers = {}; // { questionId: selectedIndex }
     let isTutorMode = true;
@@ -624,7 +658,7 @@
     function toggleTutorMode() {
       isTutorMode = !isTutorMode;
       const btn = document.getElementById('btn-tutor-mode');
-      btn.textContent = isTutorMode ? '💡 Öğretici Mod: Açık' : '📝 Sınav Modu: Kapalı';
+      btn.textContent = isTutorMode ? '🤖 AI Eğitmen: Açık' : '📝 AI Eğitmen: Kapalı';
       btn.classList.toggle('active', isTutorMode);
       renderFilteredQuestions();
     }
@@ -687,17 +721,44 @@
           `;
         });
 
-        let expHtml = '';
+        // AI Tutor Diagnostic Box on Wrong Answer
+        let aiTutorHtml = '';
         if (isAnswered && isTutorMode) {
-          expHtml = `
-            <div class="explanation-box">
-              <div class="exp-title">
-                <span>${isCorrect ? '✅ Tebrikler, Doğru Cevap!' : '❌ Yanlış Cevap — Öğretici Çözüm & İpucu:'}</span>
+          if (isWrong) {
+            const analysis = oggAi.analyzeError(q, userChoice, q.answer);
+            aiTutorHtml = `
+              <div class="ai-tutor-banner">
+                <div class="ai-tutor-header">
+                  <span>🤖 ${analysis.title}</span>
+                  <span style="font-size: 11.5px; color: var(--accent-cyan);">💡 AI Hata Tahlili</span>
+                </div>
+                
+                <div class="ai-trap-box">
+                  <strong>🔍 Soru Tuzağı & Çözüm İpucu:</strong><br>
+                  ${escapeHtml(analysis.trapAnalysis)}
+                </div>
+
+                <div style="font-size: 13px; line-height: 1.5; color: var(--text-main);">
+                  ${escapeHtml(analysis.pedagogicalRule)}
+                </div>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px;">
+                  <span style="font-family: var(--font-mono); font-size: 11.5px; color: var(--accent-gold);">📜 ${escapeHtml(q.lawRef)}</span>
+                  <button class="btn-read-lecture-fast" onclick="openLectureByTopic('${escapeForQuote(q.topic)}')">
+                    📖 "${escapeHtml(q.topic)}" Konusunu Çalış →
+                  </button>
+                </div>
               </div>
-              <div>${escapeHtml(q.explanation)}</div>
-              <div class="exp-law">📜 ${escapeHtml(q.lawRef)}</div>
-            </div>
-          `;
+            `;
+          } else {
+            aiTutorHtml = `
+              <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid var(--accent-green); border-radius: 6px; padding: 12px; font-size: 13px; color: #fff;">
+                <strong style="color: var(--accent-green);">✅ Harika! Doğru Cevap:</strong>
+                <p style="margin-top: 4px; color: var(--text-muted);">${escapeHtml(q.explanation)}</p>
+                <div style="font-family: var(--font-mono); font-size: 11.5px; color: var(--accent-cyan); margin-top: 6px;">📜 ${escapeHtml(q.lawRef)}</div>
+              </div>
+            `;
+          }
         }
 
         card.innerHTML = `
@@ -715,13 +776,12 @@
             ${optionsHtml}
           </div>
 
-          ${expHtml}
+          ${aiTutorHtml}
         `;
 
         container.appendChild(card);
       });
 
-      // Show/hide load more button
       const loadMoreBar = document.getElementById('load-more-bar');
       if (filteredQuestionsList.length > visibleLimit) {
         loadMoreBar.style.display = 'flex';
@@ -803,9 +863,9 @@
             <div class="progress-bar-fill" style="width: ${pct}%; background: ${statusColor};"></div>
           </div>
 
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 4px;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 4px; flex-wrap: wrap; gap: 6px;">
             <span style="font-size: 12px; color: var(--text-muted);">
-              ${pct < 60 ? '⚠️ Bu derste eksikleriniz var, konu tekrarı önerilir.' : '✅ Bu derste başarı oranınız yüksek.'}
+              ${pct < 60 ? '⚠️ Bu derste eksikleriniz var, AI konu tekrarı öneriyor.' : '✅ Bu derste başarı oranınız yüksek.'}
             </span>
             <button class="nav-tab-btn" style="padding: 4px 10px; font-size: 11.5px;" onclick="openLectureByTopic('${escapeForQuote(topic)}')">
               📖 Konu Anlatımına Git →
@@ -844,7 +904,7 @@
     }
 
     function openLectureByTopic(topicName) {
-      const found = OGG_TOPICS.find(t => t.title.includes(topicName) || topicName.includes(t.title));
+      const found = OGG_TOPICS.find(t => t.title.toLowerCase().includes(topicName.toLowerCase()) || topicName.toLowerCase().includes(t.title.toLowerCase()));
       if (found) openLecture(found);
       else if (OGG_TOPICS.length > 0) openLecture(OGG_TOPICS[0]);
     }

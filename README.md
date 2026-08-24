@@ -1,54 +1,53 @@
-# 🛡️ ÖGG Sınav & Öğretici Eğitim Merkezi — Özel Güvenlik Akademisi
+# 🛡️ ÖGG Zihne Kazıma & Öğretici Sınav Akademisi — Tüm Dönemler (103 - 121. Dönem)
 
-[![ÖGG Portal](https://img.shields.io/badge/ÖGG-119._Dönem_Sınavı-blue.svg)](https://tunahanhaksever.github.io/ogg-sinav-merkezi/)
-[![Lisans](https://img.shields.io/badge/Lisans-MIT-gold.svg)](LICENSE)
+[![ÖGG Soru Havuzu](https://img.shields.io/badge/ÖGG_Soru_Havuzu-2.375_Soru_(19_Dönem)-gold.svg)](https://tunahanhaksever.github.io/ogg-sinav-merkezi/)
+[![Lisans](https://img.shields.io/badge/Lisans-MIT-blue.svg)](LICENSE)
 [![Mobil Uyumlu](https://img.shields.io/badge/Mobil-%25100_Responsive-emerald.svg)](https://tunahanhaksever.github.io/ogg-sinav-merkezi/)
 
-EGM Özel Güvenlik Denetleme Başkanlığı 119. Dönem resmi sınav soruları, anında gerekçeli kanun maddeleri çözümü, ders bazlı akıllı eksik analiz raporu ve kapsamlı ders konu anlatımları sunan yeni nesil öğretici web platformu.
+EGM Özel Güvenlik Denetleme Başkanlığı **103. Dönem'den 121. Dönem'e kadar olan 19 sınav döneminin tamamını (2.375 Resmi Çıkmış Soru)** kapsayan, hafıza şifreleri ve yapay zekâ destekli inatçı öğrenme akademisi.
 
 ---
 
-## 🌐 🚀 CANLI WEB UYGULAMASI (HEMEN ÇÖZ)
+## 🌐 🚀 CANLI WEB UYGULAMASI (HEMEN TÜM DÖNEMLERİ ÇÖZ)
 ### 👉 **[https://tunahanhaksever.github.io/ogg-sinav-merkezi/](https://tunahanhaksever.github.io/ogg-sinav-merkezi/)** 👈
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+## 🌟 Entegre Edilen 19 Sınav Dönemi (Toplam 2.375 Soru)
 
-- **📝 119. Dönem Resmi Sınavı (125 Soru):**
-  - 100 Temel Eğitim + 25 Silah Bilgisi ve Atış sorusu birebir orijinal sınav formatında.
-- **💡 Öğretici Çözüm Modu (Neden Yanlış Yaptığını Anında Gör):**
-  - Bir şıkkı işaretlediğiniz an doğru/yanlış durumu ile birlikte **5188 Sayılı Kanun maddesi, mevzuat dayanağı ve detaylı gerekçeli çözüm** ekrana gelir.
-- **📊 Akıllı Yanlış & Eksik Konu Tahlili (Diagnostic Analytics):**
-  - Çözdüğünüz sorular üzerinden hangi derslerde (Yangın, Hukuk, İlkyardım, Silah Bilgisi, Devriye vb.) zayıf olduğunuzu analiz eder ve tek tıkla ilgili konu anlatımına yönlendirir.
-- **📚 ÖGG Resmi Müfredat Ders Akademisi:**
-  - 11 Temel ders modülünün detaylı özetleri, kanun maddeleri, yangın sınıfları, X-Ray renk skalaları ve kritik sınav tüyoları.
-- **📱 %100 Mobil & Tablet Uyumlu (Responsive):**
-  - Cep telefonundan otobüste, görevde veya evde kesintisiz soru çözme ve ders çalışma deneyimi.
-- **🔊 Sesli Soru Dinleme (Web Speech API):**
-  - Soruları ve açıklamaları tek tıkla sesli olarak dinleme imkânı.
-
----
-
-## 📚 Kapsanan Ders Modülleri
-
-| Modül | Ders Adı | Soru / İçerik |
+| Sınav Dönemi | Soru Sayısı | Durum |
 |---|---|---|
-| ⚖️ | **Özel Güvenlik Hukuku** | 5188 Sayılı Kanun, Yetkiler, Yasaklar, TCK |
-| 🛡️ | **Güvenlik Tedbirleri** | Devriye Türleri, Nokta Nöbeti, Olay Yeri Koruma |
-| 🔥 | **Yangın Güvenliği** | A/B/C/D/F Yangın Sınıfları, Söndürme Cihazları |
-| 🚑 | **Temel İlkyardım** | CPR (30:2), Heimlich, Rentek, Şok Pozisyonu |
-| 🎯 | **Silah Bilgisi & Atış** | Yiv-Set, Namlu, Çap, Arızalar, Emniyet Kuralları |
-| 📡 | **Güvenlik Sistemleri** | X-Ray Renk Skalası, Metal Detektörleri, CCTV |
-| 👥 | **Kalabalık Yönetimi** | Grup Psikolojisi, Panik, Cop Kullanımı |
-| 💬 | **Etkili İletişim** | Empati, Beden Dili, İletişim Engelleri |
-| 💊 | **Uyuşturucu Madde** | Narkotik Maddeler, Tanıma ve Mücadele |
-| 👮 | **Kişi Koruma (VIP)** | Koruma Çemberleri, Öncü İstihbarat, Yaya/Araç |
+| 🏅 **121. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **120. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **119. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **118. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **117. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **116. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **115. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **114. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **113. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **112. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **111. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **110. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **109. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **108. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **107. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **106. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **105. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **104. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| 🏅 **103. Dönem Sınavı** | 125 Soru | ✅ %100 Entegre |
+| **TOPLAM ARŞİV** | **2.375 Soru** | **DEV SORU HAVUZU** |
 
 ---
 
-## 👨‍💻 Geliştirici & Mimarlık
-**Tunahan Haksever**  
-*Şair, Yazar, Dil Tasarımcısı & Yazılım Geliştiricisi*  
-- GitHub: [@tunahanhaksever](https://github.com/tunahanhaksever)
-- Web: [bitigey.com](https://bitigey.com)
+## 🧠 Zihne Kazıma Sistemi Nasıl Çalışır?
+
+1. **İnatçı Tekrar Kuyruğu:** Yanlış yaptığınız soruları hafızanıza kazıyana kadar döngüye sokar ve peşinizi bırakmaz.
+2. **Hafıza Kodlamaları & Şifreler:**
+   - *Yangın:* **A**ğaç (Katı), **B**enzin (Sıvı - Su sıkma!), **C**ızz Gaz (Vana kapat), **D**emir (Metal tozu), **F**ritöz (Mutfak).
+   - *İlkyardım:* 30 gün oruç / 2 bayram = **30:2 CPR**, Heimlich (Karına yumruk), Rentek (Araçtan omurilik korumalı tahliye).
+   - *Silah:* Çukur=**YİV**, Tepe=**SET**, Boş kovanı çeken=**TIRNAK**, Dışarı fırlatan=**ÇIKARICI**.
+   - *X-Ray:* **TURUNCU** (Organik/Patlayıcı C4/Uyuşturucu), **YEŞİL** (Cam/Alüminyum), **MAVİ** (Metal/Silah).
+
+---
+**Geliştirici:** [Tunahan Haksever](https://github.com/tunahanhaksever)

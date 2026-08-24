@@ -1,6 +1,6 @@
 /**
- * ÖGG Sınav & Eğitim Merkezi — Tüm Dönemler Resmi Soru Havuzu (110 - 121. Dönemler)
- * EGM Özel Güvenlik Denetleme Başkanlığı Resmi Çıkmış Sorular Arşivi
+ * ÖGG Sınav & Eğitim Merkezi — Tüm Dönemler Resmi Soru Havuzu (103 - 121. Dönemler)
+ * EGM Özel Güvenlik Denetleme Başkanlığı 19 Dönem Resmi Çıkmış Sorular Arşivi
  */
 
 const OGG_QUESTION_BANK = [
@@ -24003,5 +24003,14005 @@ const OGG_QUESTION_BANK = [
     "answer": 3,
     "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Fişek Verme Tertibatı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 110. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
     "lawRef": "5188 Sayılı Kanun (110. Dönem Sınavı)"
+  },
+  {
+    "id": 1501,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Yabancı bir şirketin ülkemizde özel güvenlik hizmeti verebilmesi için mütekabiliyet olup olmadığı nereden sorulur?",
+    "options": [
+      "A) Dışişleri Bakanlığına",
+      "B) İçişleri Bakanlığına",
+      "C) Aile ve Sosyal Hizmetler Bakanlığına",
+      "D) Valiliğe",
+      "E) Kaymakamlığa"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Dışişleri Bakanlığına** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1502,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "En az kaç özel güvenlik görevlisinin görev yapması halinde güvenlik sorumlusu atanması zorunludur?",
+    "options": [
+      "A) 5",
+      "B) 10",
+      "C) 15",
+      "D) 30",
+      "E) 50"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 15** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1503,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "“Şirketlerin özel güvenlik alanında faaliyette bulunması .......... iznine bağlıdır.”  Yukarıdaki cümlede noktalı yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Adalet Bakanlığının",
+      "B) İçişleri Bakanlığının",
+      "C) Valiliğin",
+      "D) Kaymakamlığın",
+      "E) Gençlik ve Spor Bakanlığının"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İçişleri Bakanlığının** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1504,
+    "period": "109. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un 7’nci maddesinde düzenlenen özel güvenlik görevlilerinin yetkilerinden biri değildir?",
+    "options": [
+      "A) Hava meydanı, liman, gar, istasyon ve terminal gibi toplu ulaşım tesislerinde kimlik sormak",
+      "B) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenleri duyarlı kapıdan geçirmek",
+      "C) Kişilerin üstlerini dedektörle aramak",
+      "D) El ile üst araması yapmak",
+      "E) Kişilerin eşyalarını X-ray cihazından veya benzeri güvenlik sistemlerinden geçirmek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) El ile üst araması yapmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1505,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanuna göre özel güvenlik eğitimini aşağıdakilerden hangisi veya hangileri veremez?  I- İçişleri Bakanlığı  II- Özel güvenlik eğitim kurumları  III- Üniversiteler  IV- Milli Eğitim Bakanlığına bağlı özel okullar  V- Özel hocalar",
+    "options": [
+      "A) I, II",
+      "B) I, II, III",
+      "C) II, III",
+      "D) IV, V",
+      "E) Yalnız II"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) IV, V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1506,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "“Kişi korumasında çalışan özel güvenlik görevlilerinin görev alanı; koruduğu kişi ile birlikte olduğunda .......... geneli, koruduğu kişi olmaksızın kişi koruma izni verilen ......... sınırlarıdır.”  yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "A) İlçe – iş yeri",
+      "B) İl – iş yeri",
+      "C) İl – ilçe",
+      "D) İlçe – mahalle",
+      "E) Ülke – il"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Ülke – il** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1507,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi Ebru, vardiya değişiminde özel güvenlik görevlisi kimlik kartını evde unutan arkadaşı Tarkan’a kendi kimlik kartını görevde kullanması için vermiştir. Bu durumun tespiti halinde Tarkan’a nasıl bir yaptırım uygulanır?",
+    "options": [
+      "A) Adli para cezası uygulanarak özel güvenlik görevlisi kimlik kartı iptal edilir",
+      "B) Sadece özel güvenlik görevlisi kimlik kartı iptal edilir",
+      "C) Hapis cezası adli para cezasına çevrilir",
+      "D) İdari para cezası uygulanarak özel güvenlik görevlisi kimlik kartı valilikçe iptal edilir",
+      "E) Hakkında hapis cezası ile adli para cezası uygulanır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İdari para cezası uygulanarak özel güvenlik görevlisi kimlik kartı valilikçe iptal edilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1508,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel hukuk tüzel kişileri ve özel güvenlik şirketleri, istihdam ettikleri özel güvenlik görevlilerinin üçüncü kişilere verecekleri zararın tazmini amacıyla aşağıdakilerden hangisini yaptırmak zorundadır?",
+    "options": [
+      "A) Özel güvenlik mali sorumluluk sigortası",
+      "B) Ödenek tahsisi",
+      "C) Hizmet içi eğitim",
+      "D) Maaş kesintisi",
+      "E) Fon kesintisi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Özel güvenlik mali sorumluluk sigortası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1509,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin sorumluluklarından birisi değildir?",
+    "options": [
+      "A) Görev alanında genel kolluğun talebi halinde araştırma ve delil toplama faaliyetlerine yardımcı olmak",
+      "B) Olay yerini ve suç delillerini muhafaza etmek",
+      "C) Görev alanında bir suçla karşılaşıldığında suça el koymak",
+      "D) Görev alanında işlenmiş suçu savcıya bildirmek",
+      "E) Görev alanında karşılaşılan suçun devamını önlemek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Görev alanında işlenmiş suçu savcıya bildirmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1510,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdaki yaptırımlardan hangisi doğrudur?",
+    "options": [
+      "A) Özel güvenlik iznini almadan özel güvenlik görevlisi istihdam eden kişiler veya kuruluşların yöneticileri bir daha özel güvenlik alanında çalışamazlar",
+      "B) Diğer kişi, kurum ve kuruluşlara sağlanacak özel güvenlik hizmetini 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da belirtilen süre içinde ilgili valiliğe bildirmeyen özel güvenlik şirketlerinin faaliyet izni iptal edilir",
+      "C) Mülki idare amirlerince istenen ilave tedbirleri almayan kişi, kurum, kuruluş veya şirketlerin yöneticileri altı ay süreyle özel güvenlik alanında görev alamazlar",
+      "D) Çalışma izni verilmeyen kişileri özel güvenlik görevlisi olarak istihdam eden kişi, kurum, kuruluş veya şirketlerin yetkilileri, hapis cezası ile cezalandırılır",
+      "E) Özel güvenlik mali sorumluluk sigortasını yaptırmadan özel güvenlik görevlisi istihdam eden kişi, kurum, kuruluş veya şirketlerin yöneticileri, istihdam ettikleri her kişi için idari para cezası ile cezalandırılır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Çalışma izni verilmeyen kişileri özel güvenlik görevlisi olarak istihdam eden kişi, kurum, kuruluş veya şirketlerin yetkilileri, hapis cezası ile cezalandırılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1511,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik izni olan kurum ve kuruluşların talebi olması halinde, mevcut özel güvenlik görevlilerinin izin veya istirahat durumlarında ihtiyaç duyulan yerlerde görevlendirilmek amacıyla özel güvenlik komisyonlarınca ne kadar özel güvenlik görevlisi istihdam etme izni verilebilir?",
+    "options": [
+      "A) İl genelinde izin verilen özel güvenlik görevlisi kadrosunun %10’unu aşmayacak kadar",
+      "B) İlgili yerde izin verilen özel güvenlik görevlisi sayısının %10’unu aşmayacak kadar",
+      "C) İlgili yerde çalışan özel güvenlik görevlisi sayısının %10’unu aşmayacak kadar",
+      "D) İl genelinde genel kolluk görevlisi sayısının %10’unu aşmayacak kadar",
+      "E) Sınırlama olmadığından ilgili kurum ve kuruluşların talep ettiği sayı kadar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İl genelinde izin verilen özel güvenlik görevlisi kadrosunun %10’unu aşmayacak kadar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1512,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahsız özel güvenlik görevlisi olmak için 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un 10. maddesine göre aşağıdaki şartlardan hangisi aranmaz?",
+    "options": [
+      "A) Üniversite mezunu olmak",
+      "B) Özel güvenlik eğitimini başarıyla tamamlamış olmak",
+      "C) Güvenlik soruşturması olumlu olmak",
+      "D) Türkiye Cumhuriyeti vatandaşı olmak",
+      "E) 18 yaşını doldurmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Üniversite mezunu olmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1513,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da aşağıdakilerden hangisi/hangileri “yasak” adı altında düzenlenmiştir?\r\n I. Özel güvenlik görevlisinin greve katılması\r\n II. Özel güvenlik görevlisinin lokavt dolayısıyla işten uzaklaştırılması\r\n III. Özel güvenlik görevlisinin izin verilen dışında teçhizat giydirilerek çalıştırılması\r\n IV. Özel güvenlik görevlisinin koruma ve güvenlik hizmetleri dışında başka bir işte çalıştırılması\r\n V. Özel güvenlik görevlisinin görevi dışında üniforması ile toplantı ve gösteri yürüyüşüne katılması",
+    "options": [
+      "A) I ve IV",
+      "B) II",
+      "C) III ve V",
+      "D) I, II, V",
+      "E) I ve V"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) I ve IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1514,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre il özel güvenlik komisyonu için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İl valisi, il özel güvenlik komisyonuna başkanlık eder",
+      "B) İl özel güvenlik komisyonu özel güvenlikle ilgili kararları almak üzere toplanır",
+      "C) Sanayi odasının bulunmadığı illerde il özel güvenlik komisyonuna esnaf ve sanatkârlar odası başkanlığının temsilcisi katılır",
+      "D) İl özel güvenlik komisyonunda karar alınırken çekimser oy kullanılabilir",
+      "E) Oyların eşitliği halinde il özel güvenlik komisyonu karar alamaz ve karar valiye bırakılır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İl özel güvenlik komisyonu özel güvenlikle ilgili kararları almak üzere toplanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1515,
+    "period": "109. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Özel güvenlik görevlisi Ahmet, görevi sırasında karşılaştığı ve suç teşkil eden eşyayı emanete almış ve derhal genel kolluk kuvvetlerine bildirmiştir. Ahmet’in bilgilendirdiği genel kolluk kuvveti aşağıdakilerden hangisi/hangileri olabilir?\r\n I. Polis\r\n II. Jandarma\r\n III. Belediye zabıtası\r\n IV. Orman muhafaza memuru",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) III ve IV"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) I ve II** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1516,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik birimleri için doğrudur?",
+    "options": [
+      "A) 6102 sayılı Türk Ticaret Kanunu’na göre kurulan ve üçüncü kişilere koruma ve güvenlik hizmeti veren yerlerdir",
+      "B) Özel güvenlik görevlisi ve yönetici adaylarına özel güvenlik eğitimi veren işletmelerdir",
+      "C) İl özel güvenlik komisyonu kararı ve valinin izni ile bir kurum veya kuruluşun güvenliğini sağlamak üzere kendi bünyesinde oluşturulduğu teşkildir",
+      "D) Özel güvenlik izni ile koruma ve güvenlik hizmetinin özel güvenlik şirketlerine gördürüldüğü yerlerdir",
+      "E) Özel güvenlik şirket şubelerinin yürüttükleri koruma ve güvenlik hizmetinin niteliğine göre sınıflandırıldığı alt teşkillerdir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İl özel güvenlik komisyonu kararı ve valinin izni ile bir kurum veya kuruluşun güvenliğini sağlamak üzere kendi bünyesinde oluşturulduğu teşkildir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1517,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlileri 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre kimlik sorma yetkisini aşağıdakilerden hangisinde kullanamaz?",
+    "options": [
+      "A) Düğün ve cenaze merasimlerinde",
+      "B) Havalimanı, gar ve terminal gibi tesislerde",
+      "C) Konser ve toplantı etkinliklerinde",
+      "D) Kamuya açık park ve bahçelerde",
+      "E) Sahne gösterisi ve spor müsabakası yapılan yerlerde"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kamuya açık park ve bahçelerde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1518,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahlı olarak çalışan özel güvenlik görevlisi Mehmet’in görev yeri aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "A) Eğitim kurumu",
+      "B) Spor müsabakası",
+      "C) Sahne gösterisi",
+      "D) Hastane",
+      "E) Kişi koruma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kişi koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1519,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktalarında uygulanan tedbirler bakımından yanlıştır?",
+    "options": [
+      "A) Kontrol noktasında şahısların kontrolü kapı dedektörü ile yapılır",
+      "B) Kontrol noktasında eşyaların kontrolü X-ray cihazı ile yapılır",
+      "C) Tesise girmekten vazgeçen şahıs yakalanarak aranmalıdır",
+      "D) Kontrol noktasında şahısların aranması el dedektörü ile yapılır",
+      "E) Giriş kontrollerinde kart sistemi kullanılabilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tesise girmekten vazgeçen şahıs yakalanarak aranmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1520,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanuna göre, özel güvenlik görevlilerinin ‘‘Yangın, deprem gibi tabii afet ve imdat istenmesi halinde .......... işyeri ve konutlara girme’’ yetkisine yönelik boşluğa aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "A) Çalıştığı ildeki",
+      "B) Görev alanındaki",
+      "C) Çalıştığı ilçedeki",
+      "D) Çalıştığı mahalledeki",
+      "E) Çalıştığı belediye sınırlarındaki"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Görev alanındaki** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1521,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi eşkal tarifinde ayırt edici özelliklerden biri değildir?",
+    "options": [
+      "A) Giyim ve kuşam",
+      "B) Yüzde iz veya leke",
+      "C) Boy veya kilo",
+      "D) Fiziki engel durumu",
+      "E) Karakter"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Karakter** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1522,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi devriye görevlisinin üzerinde bulunması gereken teçhizatlardan biri değildir?",
+    "options": [
+      "A) Kamera",
+      "B) El feneri",
+      "C) Kelepçe",
+      "D) Cop",
+      "E) Telsiz"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kamera** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1523,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": ".......... her zaman en son çare olarak düşünülmeli ve uygulanması esnasında da görevin ve koşulların gerektirdiği doz aşılmadan meşru sınırlar içerisinde kalınmalıdır.\r\n Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Yakalama",
+      "B) Arama (Kontrol)",
+      "C) Zor kullanma",
+      "D) Emanete alma",
+      "E) Koruma"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Zor kullanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1524,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi, özel güvenlik görevlilerinin devriye bölgesindeki önemli yerler ile denetlediği diğer yerleri zamana bağlı kalmaksızın yeniden kontrol etmesiyle yerine getirdiği devriye yöntemidir?",
+    "options": [
+      "A) Planlı devriye",
+      "B) Geri dönüşlü devriye",
+      "C) Rutin (Olağan) devriye",
+      "D) Dairesel devriye",
+      "E) Belirsiz devriye"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Geri dönüşlü devriye** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1525,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi, kontrol noktalarının aşaması olan kritik alan giriş noktası kriterlerinden biri değildir?",
+    "options": [
+      "A) Genellikle kurumun üst düzey idarecilerinin bulunduğu bölümdür",
+      "B) Bu halka teknolojik cihazlar ve koruma görevlileri ile birlikte korunmalıdır",
+      "C) Yetkili veya izin verilen kişiler ancak bu alana girebilmelidir",
+      "D) Bu alanda duvar, çit, tel örgü, parmaklık, kapan, bariyer vb. fiziki engeller oluşturulmalıdır",
+      "E) En fazla kısıtlanmış alandır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Bu alanda duvar, çit, tel örgü, parmaklık, kapan, bariyer vb. fiziki engeller oluşturulmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1526,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi devriye görevini yerine getiren özel güvenlik görevlilerinin telsiz konuşmaları sırasında dikkat etmesi gereken hususlar arasında yer almaz?",
+    "options": [
+      "A) Telsiz ağızdan 5-10 cm mesafede tutulur",
+      "B) Kısa, öz ve anlaşılır bir şekilde konuşulur",
+      "C) Kod dışında herhangi bir isim, unvan veya lakap kullanılmaz",
+      "D) Diğer istasyonların haberleşmesi sırasında da telsizin mandalına basılır",
+      "E) Gizli ve özel haberleşme yapılmaz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Diğer istasyonların haberleşmesi sırasında da telsizin mandalına basılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1527,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi şüpheli paket tespit edilen olay yerinde alınması gereken tedbirlerden birisi değildir?",
+    "options": [
+      "A) Şüpheli paketin bomba olabileceği düşünülerek derhal genel kolluğa bilgi verilmelidir",
+      "B) Şüpheli paketin etrafında en az 100 metre uzaklıkta emniyet şeridi çekilmelidir",
+      "C) Pakete dokunulmamalı, çevresinde dolaşılmamalı ve pakete yaklaşılması engellenmelidir",
+      "D) Şüpheli paketin çevresinde ikinci bir bomba olabileceği unutulmamalı ve gerekli kontroller yapılmalıdır",
+      "E) Basın mensuplarının emniyet şeridinin içinde sadece görüntü almasına izin verilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Basın mensuplarının emniyet şeridinin içinde sadece görüntü almasına izin verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1528,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi “Olay yeri inceleme sırasında olay yeri-fail-mağdur arasındaki ilişkiyi ortaya koymak amacıyla olay yerinde elde edilen ve henüz hukuki nitelik kazanmamış her türlü maddi (fiziksel) unsurlara .......... denir.” cümlesindeki boşluğa en uygun ifadedir?",
+    "options": [
+      "A) Bulgu",
+      "B) Beyan",
+      "C) Sanık",
+      "D) Şüpheli durum",
+      "E) Olay yeri"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Bulgu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1529,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Suç işlendikten sonra özel güvenlik görevlisi tarafından yakalanan şüpheli ve emanete alınan eşyalar kime, nasıl teslim edilir?",
+    "options": [
+      "A) Bekçiye - raporla",
+      "B) Adliyeye - tutanakla",
+      "C) Yetkili genel kolluğa - tutanakla",
+      "D) İlçe Emniyet Müdürlüğüne - raporla",
+      "E) Özel güvenlik amirine – tutanakla"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yetkili genel kolluğa - tutanakla** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1530,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi zor kullanma ile ilgili doğru bir kavramdır?",
+    "options": [
+      "A) Zor kullanma tedbirinin kanuni dayanağı olmalıdır",
+      "B) Zor kullanma tedbirleriyle olay arasında dengesizlik olmalıdır",
+      "C) Mecbur kalınmadan zor kullanılmalıdır",
+      "D) Zor kullanmada ilk olarak silaha başvurulmalıdır",
+      "E) Zor kullanmada ilgili kişinin rızası aranır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Zor kullanma tedbirinin kanuni dayanağı olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1531,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi durdurma işlemi yapılırken dikkat edilmesi gereken hususlardan birisi değildir?",
+    "options": [
+      "A) Bir kişiyi durdurmak için haklı bir neden olmalıdır",
+      "B) Kişiye durdurulma nedeni açıklanmalıdır",
+      "C) Durdurmaya direnç gösterilmesi halinde sahip olunan yetki hatırlatılmalıdır",
+      "D) Yetkiye karşı gelinmesi halinde ani ve kaba davranış sergilenmelidir",
+      "E) Soğukkanlı ve profesyonel bir tavır içerisinde hareket edilmelidir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yetkiye karşı gelinmesi halinde ani ve kaba davranış sergilenmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1532,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Özel güvenlik görevlilerinin korumakla görevli olduğu yerde meydana gelen bir suç sonrasında aşağıdakilerden hangisi görev ve yetki alanlarına girmez?",
+    "options": [
+      "A) Olay yerini ve suç delillerini muhafaza etmek",
+      "B) Şüphelilerin ifadesini almak",
+      "C) Suçun devamını önlemek",
+      "D) Suça karışanları yakalamak",
+      "E) Genel kolluğa bilgi vermek"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Şüphelilerin ifadesini almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1533,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "6222 sayılı Sporda Şiddetin ve Düzensizliğin Önlenmesine Dair Kanun hükümleri doğrultusunda aşağıdakilerden hangisi özel güvenlik görevlilerinin temel görevlerinden birisidir?",
+    "options": [
+      "A) Kontrollü yasak maddelerin sokulmasını sağlamak",
+      "B) Takımlara güzergâhta koruma yapmak",
+      "C) Stat alanına usulsüz seyirci girişini önlemek",
+      "D) Stat dışında seyyar satıcıların satışını önlemek",
+      "E) Sadece spor tesislerini korumak"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Stat alanına usulsüz seyirci girişini önlemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1534,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktalarını oluşturan aşamalarından biri değildir?",
+    "options": [
+      "A) Bina giriş kontrol noktası (orta halka)",
+      "B) Kritik alan giriş noktası (iç halka)",
+      "C) Ana giriş kontrol noktası (dış halka)",
+      "D) Zirve noktası (üst halka)",
+      "E) Uzak çevre güvenlik halkası (en dış halka)"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Zirve noktası (üst halka)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1535,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin düzenleyebileceği tutanaklar arasında yer almaz?",
+    "options": [
+      "A) Yer gösterme tutanağı",
+      "B) İhbar tutanağı",
+      "C) Emanete alma tutanağı",
+      "D) Yakalama tutanağı",
+      "E) Olay tutanağı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yer gösterme tutanağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1536,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi parmak izinin özelliklerinden birisidir?",
+    "options": [
+      "A) Parmak izi her insanda aynıdır",
+      "B) Parmak izinin tasnifi mümkün değildir",
+      "C) Parmak izi istenildiğinde başka insanların parmak izine benzetilebilir",
+      "D) İnsan yaşlandıkça parmak izi değişir",
+      "E) Parmak izi sınıflandırılır, karşılaştırılabilir ve arşivlenebilir özelliğe sahiptir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Parmak izi sınıflandırılır, karşılaştırılabilir ve arşivlenebilir özelliğe sahiptir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1537,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik görevlisi Ali’nin, koruma ve güvenlik hizmeti sunduğu tesise suç unsuru olabilecek materyaller ile şüpheli şahısların ve araçların girişlerini engellemek için, giriş ve çıkışları kontrol altında tuttuğu noktaya ne ad verilir?",
+    "options": [
+      "A) Kontrol noktası",
+      "B) Giriş-çıkış noktası",
+      "C) Muayene noktası",
+      "D) Gözetim noktası",
+      "E) Karşılama noktası"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kontrol noktası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1538,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Güvenlik planlamasında kurulacak sistem ve tedbirler kullanışlı, geliştirilebilir, artırılabilir ve azaltılabilir olmalıdır” ifadesi, güvenlik planlamasının hangi özelliğini tanımlar?",
+    "options": [
+      "A) Caydırıcılık",
+      "B) Maliyet-Fayda",
+      "C) Dinamiklik",
+      "D) Özgürlükçü",
+      "E) Güvenlikçi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Dinamiklik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1539,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Aşağıdakilerden hangisi CCTV (Kapalı devre kamera kayıt sistemi) kullanılmasıyla sağlanacak bir fayda değildir?",
+    "options": [
+      "A) Caydırıcı etki oluşturması",
+      "B) Olayların geriye dönük incelenmesine imkan sunması",
+      "C) Olaylara zamanında müdahale etmeyi sağlaması",
+      "D) Ziyaretçilerin çantalarının içeriğinin görüntülenmesi",
+      "E) Çevre güvenliği sağlamak amacıyla kullanılması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Ziyaretçilerin çantalarının içeriğinin görüntülenmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1540,
+    "period": "109. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdaki cihazlardan hangisi metal olmayan illegal maddelerin girişini engellemek amacıyla kullanılır?",
+    "options": [
+      "A) Kartlı geçiş sistemi",
+      "B) Metal arama detektörü",
+      "C) Biometrik okuyuculu giriş sistemleri",
+      "D) X-Ray cihazı",
+      "E) Termal kamera"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) X-Ray cihazı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1541,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi EDS sistemini tanımlar?",
+    "options": [
+      "A) Uyuşturucu madde algılama sistemi",
+      "B) Metal algılama sistemi",
+      "C) Patlayıcı tespit sistemi",
+      "D) Duman algılama sistemi",
+      "E) Ses algılama sistemi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Patlayıcı tespit sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1542,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Güvenlik yapılandırılması dikkate alındığında aşağıdakilerden hangisi bir kamu kurumuna ait binanın ziyaretçi girişine kurulması gereken güvenlik sistem ve cihazlarından birisi değildir?",
+    "options": [
+      "A) X-ray",
+      "B) Kapı tipi metal arama dedektörü",
+      "C) El tipi metal arama dedektörü",
+      "D) Kartlı geçiş sistemi",
+      "E) İris tanıma sistemi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İris tanıma sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1543,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi fiziki güvenlik önlemleri arasında yer almaz?",
+    "options": [
+      "A) Yol kesiciler",
+      "B) Tel örgüler",
+      "C) Kart okuyucu",
+      "D) Duvarlar",
+      "E) Koruyucu aydınlatma"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kart okuyucu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1544,
+    "period": "109. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Sara krizinde (epilepsi) yapılan ilkyardım uygulamaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Sıkılmış olan çene veya eller açılmaya çalışılmaz",
+      "B) Hasta kusarsa yan çevrilerek dışarı akması sağlanır",
+      "C) Kolonya soğan gibi nefes açan maddeler koklatılır",
+      "D) Hastanın güvenliği sağlanarak sara krizinin kendi sürecini tamamlaması beklenir",
+      "E) Ağızdan yiyecek içecek verilmez"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kolonya soğan gibi nefes açan maddeler koklatılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1545,
+    "period": "109. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Bilinci kapalı olan hastanın, solunum yolunu açmak için yapılacak ilkyardım ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hastaya oturur pozisyonunda oksijen verilir",
+      "B) Hasta yüzüstü yatırılır",
+      "C) Hastanın ağzına solunum cihazı takılır",
+      "D) Baş-boyun-gövde eksenini bozmadan ağız içine bakılarak baş-çene pozisyonu verilir",
+      "E) Öncelikle kalp masajı yapılır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Baş-boyun-gövde eksenini bozmadan ağız içine bakılarak baş-çene pozisyonu verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1546,
+    "period": "109. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Donmalarda ilkyardım uygulamaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Sıcak içecekler verilir",
+      "B) Kuru giysiler giydirilir",
+      "C) Donmuş bölge hızla ovularak ısıtılır",
+      "D) Soğukla teması kesilir",
+      "E) Su toplamış bölgeler patlatılmaz"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Donmuş bölge hızla ovularak ısıtılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1547,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Sindirim yolu zehirlenmelerinde yapılan ilk yardım uygulamaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yaşam bulguları değerlendirilir",
+      "B) Hasta-yaralı kusturularak rahatlatılır",
+      "C) Ağız zehirli madde ile temas etmişse ağız içi su ile çalkalanır",
+      "D) Bilinci kapalı ise koma pozisyonu verilir",
+      "E) Tıbbi yardım istenir (112)"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hasta-yaralı kusturularak rahatlatılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1548,
+    "period": "109. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi toplardamar kanamasının özelliklerinden biridir?",
+    "options": [
+      "A) Koyu renkli ve sızıntı şeklindedir",
+      "B) Küçük kabarcıklar şeklindedir",
+      "C) Kalp atımları ile uyumlu kesik kesik akan tarzdadır",
+      "D) Koyu renkli fışkırır tarzdadır",
+      "E) Açık renkli sızıntı şeklindedir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Koyu renkli ve sızıntı şeklindedir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1549,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi yaşam bulgularından biri değildir?",
+    "options": [
+      "A) Bilinç",
+      "B) Solunum",
+      "C) Vücut ısısı",
+      "D) Sindirim ve boşaltım",
+      "E) Dolaşım"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sindirim ve boşaltım** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1550,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Trafik kazası sonucu oluşan yaralanmaya müdahale edilirken, aşağıdaki hangi durumda yaralı araçtan çıkarılır?",
+    "options": [
+      "A) Yaralı sıkışmamış ise ve bir tehlike yoksa",
+      "B) Yaralının kol ve bacağında kırık varsa",
+      "C) Yaralının ön kolunda kontrol edilebilir bir kanama varsa",
+      "D) Yaralının solunumu yoksa",
+      "E) Hastanın bilinci açıksa"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yaralının solunumu yoksa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1551,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hasta-yaralı taşınmasındaki genel kurallar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Hasta-yaralı mümkün olduğunca az hareket ettirilmelidir",
+      "B) İlkyardımcı taşıma sırasında hasta-yaralıya en yakın mesafede bulunmalıdır",
+      "C) Kuvvetli olan ilkyardımcı hasta-yaralının ayak tarafında olacak şekilde taşıma yapmalıdır",
+      "D) Taşımada ve özellikle yön değiştirmelerde ani hareket yapılmamalıdır",
+      "E) Taşıma esnasında hasta-yaralının başı gidiş yönünde olmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kuvvetli olan ilkyardımcı hasta-yaralının ayak tarafında olacak şekilde taşıma yapmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1552,
+    "period": "109. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Atardamar kanamalarında ilkyardım uygulamaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kesik kesik fışkırır tarzda kanar",
+      "B) Kanayan bölgenin üzerine temiz bir bez ile baskı uygulanır",
+      "C) Kanayan bölgenin bir üstündeki bası noktasına basılarak kanama durdurulabilir",
+      "D) Kanayan bölge kalp seviyesinden yukarıda tutulur",
+      "E) Yara bölgesinin kanamasına müsaade edilerek kirli kanın akmasına yardımcı olunur"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yara bölgesinin kanamasına müsaade edilerek kirli kanın akmasına yardımcı olunur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1553,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hasta-yaralı değerlendirilirken ilk önce aşağıdakilerden hangisi kontrol edilmelidir?",
+    "options": [
+      "A) Hava yolu açıklığı",
+      "B) Solunum durumu",
+      "C) Dolaşım durumu",
+      "D) Kanama",
+      "E) Bilinç durumu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Bilinç durumu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1554,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Lpg, doğalgaz gibi maddeler hangi yangın sınıfına örnek olarak verilebilir?",
+    "options": [
+      "A) B sınıfı",
+      "B) A sınıfı",
+      "C) C sınıfı",
+      "D) D sınıfı",
+      "E) F sınıfı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) C sınıfı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1555,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi su kullanılarak söndürülmesi en uygun yangınlardandır?",
+    "options": [
+      "A) Akaryakıt yangınları",
+      "B) Elektrik yangınları",
+      "C) Doğalgaz yangınları",
+      "D) Orman yangınları",
+      "E) Yağ yangınları"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Orman yangınları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1556,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Lpg kullanılan kapalı ortamlarda gaz kaçağı algılama detektörü kurulması gerektiğinde, detektörün konulacağı yer seçeneklerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Duvarda uygun bir yer",
+      "B) Tavan",
+      "C) Tavana yakın duvar",
+      "D) Kapı",
+      "E) Zemine yakın duvar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Zemine yakın duvar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1557,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Doğalgaz kaçağından şüphelenilen bir ortamda aşağıdakilerden hangisi yapılmaz?",
+    "options": [
+      "A) Sigara, kibrit, telefon kesinlikle kullanılmamalıdır",
+      "B) Taban kısmından süpürülerek gaz tahliye edilir",
+      "C) Kapı ve pencereler açılarak tahliye edilmelidir",
+      "D) Gaz vanaları tamamen kapatılmalıdır",
+      "E) Elektrikli aletler fişe takılmamalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Taban kısmından süpürülerek gaz tahliye edilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1558,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yangın oluşum safhaları hangi şıkta doğru sırayla verilmiştir?",
+    "options": [
+      "A) Koku-duman-alev",
+      "B) Alev-koku-duman",
+      "C) Koku-yanma-buhar",
+      "D) Duman-buhar-ateş",
+      "E) Ateş-duman-koku"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Koku-duman-alev** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1559,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Likit petrol gazı olarak bilinen LPG nin içeriğinde hangi gazlar bulunur?",
+    "options": [
+      "A) Propan-bütan",
+      "B) Azot-oksijen",
+      "C) Metan-hidrojen",
+      "D) Oktan-asetilen",
+      "E) Etan-karbondioksit"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Propan-bütan** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1560,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdaki şıklardan hangisi yanma ürünü değildir?",
+    "options": [
+      "A) Alev",
+      "B) Isı",
+      "C) Duman",
+      "D) Zehirli gaz",
+      "E) Asit"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Asit** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1561,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi işyerlerinde olması gereken acil durum ekiplerindendir?",
+    "options": [
+      "A) Korunma Ekibi",
+      "B) Kurtarma Ekibi",
+      "C) Onarım Ekibi",
+      "D) Bakım Ekibi",
+      "E) Teknik Ekip"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kurtarma Ekibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1562,
+    "period": "109. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi madde bağımlılığı ile mücadele çözüm merkezlerinden birisi değildir?",
+    "options": [
+      "A) AMATEM",
+      "B) ÇEMATEM",
+      "C) KADES",
+      "D) YEDAM",
+      "E) ALO 191 hattı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) KADES** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1563,
+    "period": "109. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Narkotik maddelerin sınıflandırılmasına göre aşağıdakilerden hangisi Merkezi Sinir Sistemini uyaranlar sınıfında yer alır?",
+    "options": [
+      "A) Kokain",
+      "B) Eroin",
+      "C) Esrar",
+      "D) Sentetik Kannabinoid",
+      "E) Kodein"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kokain** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1564,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi empatinin aşamaları arasında yer almaması gereken bir aşamadır?",
+    "options": [
+      "A) Empati kuracak kişi kendisini karşıdaki kişinin yerine koymalı olaylara onun bakış açısıyla bakmalıdır",
+      "B) Her insan dünyaya kendine özgü bakış tarzıyla bakar. Eğer bir insanı empati yoluyla anlamak istiyorsak dünyaya onun bakış açısıyla bakabilmeliyiz",
+      "C) Empati kurduğumuz kişinin hem duygularını, hem de ne düşündüğünü bilmeliyiz",
+      "D) Yaptığımız empati ile karşımızdaki kişinin duygularını ve düşüncelerini doğru olarak anlamasak bile karşımızdaki kişiye ifade etmeliyiz",
+      "E) Empati kurduğumuz kişinin duygularını ve düşüncelerini doğru olarak hissetmeli ve bu durumu ona doğru bir biçimde iletmeliyiz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yaptığımız empati ile karşımızdaki kişinin duygularını ve düşüncelerini doğru olarak anlamasak bile karşımızdaki kişiye ifade etmeliyiz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1565,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Kişi kendinden emin olmadan karşısındaki insanlarla iletişime geçemez. Kendisi için doğru ve yanlışı ayırt edebilmekte zorlanır, kendini ifade etmede zorlanan, “yani”, “olabilir”, “bilmem ki” gibi ifadelerle durumu geçiştirmeye çalışma iletişimin önündeki engellerden hangisiyle izah edilebilir?",
+    "options": [
+      "A) Duyarsızlık",
+      "B) Kararsızlık",
+      "C) Alınganlık",
+      "D) Ben merkezcilik",
+      "E) Ön kabuller"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kararsızlık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1566,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Gizli alanımızda yer alan kişisel özelliklerimizi kendimiz biliriz ancak başkaları bilmez. Bu alandaki özelliklerimizi bilinçli olarak diğer kişilerden gizleriz.\r\n Aşağıdaki kişisel özelliklerden hangisi gizli alanda kalan özelliklere örnek olarak verilebilir?",
+    "options": [
+      "A) Cesurluk",
+      "B) Cimrilik",
+      "C) Dürüstlük",
+      "D) Yardımseverlik",
+      "E) Açık sözlülük"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Cimrilik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1567,
+    "period": "109. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Çocuğunu kaybeden ve panik içerisinde özel güvenlik görevlisine başvuran bir anneyi rahatlatmak için aşağıdakilerden hangisinin ilk önce yapılması daha uygundur?",
+    "options": [
+      "A) Anneye sakin olmasını tavsiye edip, Kayıp Çocuk Başvuru Formu’nu doldurtmak",
+      "B) Hemen 112’yi aramasını söylemek",
+      "C) Anneyi güvenlik odasına alarak sağlık sorunu yaşamasını önlemek",
+      "D) Tüm birimlere acil durum anonsu göndererek kayıp çocuk ile ilgili tüm bilgileri vermek",
+      "E) Anne ile birlikte kamera kayıtlarını izleyerek çocuğun nerede kaybolduğunu belirlemeye çalışmak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Tüm birimlere acil durum anonsu göndererek kayıp çocuk ile ilgili tüm bilgileri vermek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1568,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerinden hangisi “Eleştirisel dinlemenin” unsurlarından biri değildir?",
+    "options": [
+      "A) Konuşmacının eksik ve yanlışlarını anında cevaplamak",
+      "B) Karşımızdaki insanı dinlerken anlattıkları ile psikolojik yapısı arasındaki ilişkiyi anlamaya çalışmak",
+      "C) Karşımızdaki insanı dinlerken verdiği mesajın gerçeklik payını yargılamak",
+      "D) Karşımızdaki insanı dinlerken verdiği mesajla konuşması, sesi, tonlaması ve vurguları arasında sağlıklı bir denge olup olmadığına bakmak",
+      "E) Karşımızdaki insanı dinlerken mesajını veriş amacını bilmek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Konuşmacının eksik ve yanlışlarını anında cevaplamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1569,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel güvenlik personelinin iletişim süreçlerinde iletişimin etkili olmasını sağlayan unsurlardan biri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Önceden belirlenmiş söz kalıplarının bütün personel tarafından standart biçimde kullanılması",
+      "B) Özel güvenlik personelinin iletişimde yaratıcılığını geliştirme",
+      "C) Özel güvenlik personelinin iletişim süreçlerinde özgür olmasını sağlama",
+      "D) Özel güvenlik personelinin görev yaptığı alanın özelliklerine göre iletişim kurmasını sağlama",
+      "E) Özel güvenlik personelinin iletişim kurduğu kişinin özelliğine göre iletişim kurmasını sağlama"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Önceden belirlenmiş söz kalıplarının bütün personel tarafından standart biçimde kullanılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1570,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Yapılan bilimsel araştırmalara göre aşağıdaki davranışlardan hangisi bir özel güvenlik görevlisinin karşısındaki kişi üzerinde olumsuz etki yapmasını engeller?",
+    "options": [
+      "A) İletişim anında ellerinin cebinde olması",
+      "B) İletişim anında elleriyle saçlarını düzelterek konuşması",
+      "C) İletişim anında kılıf ve kıyafetini düzeltmesi",
+      "D) İletişim anında özel alana gösterdiği özen",
+      "E) İletişim anında bir şeyler atıştırması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İletişim anında özel alana gösterdiği özen** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1571,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel Güvenlik Görevlisi Reyhan’ın görevli olduğu müzeye gelen ziyaretçileri sürekli olarak sinirli ve mutsuz bir yüz ifadesi ile karşılayarak görevini ifa etmesi gelen ziyaretçiler üzerinde olumsuz etkiler bırakmaktadır.\r\n Yukarıda anlatılan olayda Özel Güvenlik Görevlisi Reyhan’ın hangi iletişim türünde başarısız olduğu söylenebilir?",
+    "options": [
+      "A) Sözlü iletişim",
+      "B) Sözsüz iletişim",
+      "C) Kültürel değişim",
+      "D) Sosyal etkileşim",
+      "E) Uzaktan iletişim"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Sözsüz iletişim** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1572,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bir özel güvenlik görevlisi anlaşması mümkün olmayan insanlarla tartışırken aşağıdaki unsurlardan hangisine dikkat etmelidir?",
+    "options": [
+      "A) Sorumluluk almamalı kişiyi arkadaşlarına yönlendirmelidir",
+      "B) Risk alarak kişiye görev ve yetkilerini hatırlatmalı",
+      "C) Tartışmaya girmemeli",
+      "D) Kişinin bütün saldırganlığına rağmen istifini bozmamalı",
+      "E) Görev ve sorumluluklarının gerektirdiği ölçüde iletişim çatışmasına girmeden tartışmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Görev ve sorumluluklarının gerektirdiği ölçüde iletişim çatışmasına girmeden tartışmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1573,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdaki tanımlamalardan doğru olanlar hangi şıkta bir arada verilmiştir?\r\n I. Empati, kendini karşıdakinin yerine koyabilmektir.  II. Empatik iletişiminde karşıdakinin duygu ve düşüncelerini doğru olarak algılamamız önem arz etmektedir.  III. Empatik iletişim kuran kişinin zihninde oluşan empatik anlayışın karşısındaki kişiye iletilmesi davranışının gerçekleşmesi gerekir.  IV. Empatik iletişimde karşıdaki kişiyle aynı fikri savunmak, yandaş olmak vardır.",
+    "options": [
+      "A) I, II ve III",
+      "B) I, II ve IV",
+      "C) I, III ve IV",
+      "D) III ve IV",
+      "E) II, III ve IV"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) I, II ve III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1574,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Sıralanan senaryolardan hangisi iletişimin önündeki en büyük engel olan savunuculuğun bir örneği değildir?",
+    "options": [
+      "A) Müşterinin sorduğu soruya aldırmayan çalışanın arkadaşıyla sohbet etmeye devam etmesi",
+      "B) AVM müşterisinin mağaza çalışanını güvenlik görevlisine şikayet etmesi üzerine güvenliğin, “hanımefendi bu şikayetin muhatabı mağaza yönetimidir” diyerek kişiyi ilgili mecraya yönlendirmesi",
+      "C) Yön tarifi yapan güvenlik görevlisinin karşısındaki kişinin yüzüne bakmaması",
+      "D) Güvenlik görevlisinin, otoparkta yer bulamamaktan şikayetçi olan müşteriyle tartışmaya girmesi",
+      "E) Kapı dedektöründen rahatsızlık duyduğunu kaba bir dille ifade edip el dedektörüyle aranmak isteyen müşterinin bu isteğinin güvenlik tarafından reddedilmesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) AVM müşterisinin mağaza çalışanını güvenlik görevlisine şikayet etmesi üzerine güvenliğin, “hanımefendi bu şikayetin muhatabı mağaza yönetimidir” diyerek kişiyi ilgili mecraya yönlendirmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1575,
+    "period": "109. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İletişimin başarısında beden dilinin önemine işaret eden çalışmalar bulunmaktadır. Bu çalışmalara göre, beden dili mesajın iletilmesinde kelimelerden ve ses özelliklerinden daha etkilidir.\r\n Bu çalışmaların sonuçlarından yararlanmak isteyen özel güvenlik görevlisi aşağıdakilerden hangisine iletişim sürecinde özen göstermelidir?",
+    "options": [
+      "A) Duruşuna, kelimelerine, mimiklerine",
+      "B) Duruşuna, mimiklerine, kıyafetine",
+      "C) Bakışlarına, yürüyüşüne, ses tonuna",
+      "D) Bakışlarına, ses tonuna, konuşma hızına",
+      "E) Bakışlarına, konuşma hızına, mimiklerine"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Duruşuna, mimiklerine, kıyafetine** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1576,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kalabalığın oluşumu ve genel özellikleri dikkate alındığında aşağıdakilerden hangisi bunlar arasında yer alır?",
+    "options": [
+      "A) Kalabalıklarda yer alan insanların kim oldukları bellidir ve genellikle birbirlerini tanırlar",
+      "B) Birbirlerine karşı yakın davranırlar",
+      "C) Kalabalığı oluşturan insanlar arasında bir işbölümü vardır",
+      "D) Kişiler birbirlerine karşı sorumluluk veya itaat zorunluluğu hissetmezler",
+      "E) İnsanlar arasında mesafeler çok yakın ve sosyal ilişkiler oldukça güçlüdür"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kişiler birbirlerine karşı sorumluluk veya itaat zorunluluğu hissetmezler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1577,
+    "period": "109. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Kalabalık türlerinden olan “seyirci kalabalıklara” aşağıdakilerden hangisi örnek olarak verilebilir?",
+    "options": [
+      "A) Cenaze törenine katılanlar",
+      "B) Spor etkinliklerini izlemeye katılan insanlar",
+      "C) Yasalara aykırı hareket etme arzusunda olanlar",
+      "D) Caddede yürüyen insanlar",
+      "E) Pazarda alışveriş yapan insanlar"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Spor etkinliklerini izlemeye katılan insanlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1578,
+    "period": "109. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Toplumsal olaylarda zor kullanma şartları oluştuğunda maddi güç olarak kullanılan cop için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İnsan vücudu üzerinde acı vermesi dolayısıyla psikolojik etkisi vardır",
+      "B) Gösterici veya saldırgan kişiyi etkisiz ve tesirsiz bırakmak amacı ile kullanılır",
+      "C) Cop esas itibarı ile bir müdahale teçhizatıdır",
+      "D) Cop görevli ile gösterici veya saldırgan arasında belirli bir mesafe tutmak için kolun uzantısı olarak kullanılır",
+      "E) Normal şartlarda öldürücü etkisi olan bir teçhizattır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Normal şartlarda öldürücü etkisi olan bir teçhizattır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1579,
+    "period": "109. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Üniversitedeki yasadışı kalabalığa müdahale etmek isteyen özel güvenlik görevlilerinin sorumlusu özel güvenlik görevlisi Fatih’in, kalabalığı bölmek, yanlara doğru dağıtmak ve kalabalık içerisinde yol açmak için uygulaması gereken müdahale düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Çember düzeni",
+      "B) Kama düzeni",
+      "C) Hat düzeni",
+      "D) Çatı düzeni",
+      "E) Sağa hat düzeni"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kama düzeni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1580,
+    "period": "109. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Kalabalık içerisindeki kişi tiplerinden “liderlerin” eylemleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Genelde topluluğu içeriden yöneten kişilerdir",
+      "B) Topluluğu suç sayılan bir eyleme yönlendirmekte uzmanlaşmış elemanlardır",
+      "C) Topluluğu ilgi ile izleyen, olayları seyreden insanlardır",
+      "D) Sorumluluk hissi duymayan, tekrarlanan uyarı ve cezalara rağmen davranışlarını düzeltmeyen kişilerdir",
+      "E) Kolay bir şekilde başkalarının etkisinde kalırlar ve kolayca kandırılıp her alanda kullanabilirler"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Genelde topluluğu içeriden yöneten kişilerdir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1581,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanun’una tabi olan toplantı ve gösteri yürüyüşüdür?",
+    "options": [
+      "A) Spor faaliyetleri",
+      "B) Ticari ve ekonomik amaçlı toplantılar",
+      "C) Kanunlara uymak şartı ile gelenek göreneklere göre yapılacak toplantı, tören, şenlik karşılama ve uğurlamalar",
+      "D) Belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek için gerçek ve tüzel kişiler tarafından kanun çerçevesinde düzenlenen yürüyüşler",
+      "E) Siyasi partilerin, sendikaların, vakıfların ve derneklerin özel kanunlarına ve kendi tüzüklerine göre yapacakları kapalı yer toplantıları"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek için gerçek ve tüzel kişiler tarafından kanun çerçevesinde düzenlenen yürüyüşler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1582,
+    "period": "109. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "AVM restoran katında meydana gelen yangın esnasında katta görevli özel güvenlik görevlileri Ezgi ve Asel’in paniği önlemek için uyguladıkları yöntemlerden hangisi yanlıştır?",
+    "options": [
+      "A) İnsanları yangın hakkında bilgilendirmek",
+      "B) İnsanların kolayca dağılabileceği kaçış yollarını saptamak ve bu yolların açık bulundurulmasını sağlamak",
+      "C) Kaçış yollarını kapatarak insanları yanlış yönlendiren kişilere karşı kuvvet kullanmak zorunda kalındığında, paniğe neden olmayacak fakat kaçış yolarını açmaya zorlayacak ölçüde kuvvet kullanmak",
+      "D) Yangının büyük ve tehlikeli, kaçışın sınırlı veya belirsiz bir yerde olduğu gibi panik oluşmasına neden olan grup içi seslere müdahale etmemek",
+      "E) En çok ses çıkaran kişilerin özel güvenlik görevlileri olarak kendilerinin olmasını sağlamak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yangının büyük ve tehlikeli, kaçışın sınırlı veya belirsiz bir yerde olduğu gibi panik oluşmasına neden olan grup içi seslere müdahale etmemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1583,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "“Bu yöntemin esası, çatışan taraflara çok iş vererek boş zamanlarının ortadan kaldırılması ve neticede dedikodu ve birbirleriyle uğraşacak ve çatışacak vakit bulamamalarının sağlanmasıdır.”  Bu ifade çatışmayı önleme yöntemlerinden hangisine aittir?",
+    "options": [
+      "A) Meşgul etme",
+      "B) Problem çözme",
+      "C) Hakeme başvurma",
+      "D) Uzlaşma",
+      "E) İletişimin artırılması"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Meşgul etme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1584,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bir futbol müsabakasında görev alacak özel güvenlik görevlisinin aşağıdaki konular hakkında asgari düzeyde bilgi sahibi olması beklenir. Hangisi bunlardan biri değildir?",
+    "options": [
+      "A) Grup dinamiği",
+      "B) Grup üyelerinin nüfus kayıt bilgileri",
+      "C) Grubun genel özellikleri",
+      "D) Liderin grup üzerindeki etkisi",
+      "E) Grubun ortak değerleri"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Grup üyelerinin nüfus kayıt bilgileri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1585,
+    "period": "109. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Panik kavramı ile ilgili aşağıda verilen ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Panik sadece bireysel olabilir",
+      "B) İnsanlar mantıklı ve rasyonel davranışlarını geçici olsa bile kaybetmezler",
+      "C) Toplu haldeki paniklemelerde hasar daha büyük olur",
+      "D) Panik topluluklarda geçerli olmaz",
+      "E) Panik anında insanlar sakin kalır ve soğukkanlı hareket ederler"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Toplu haldeki paniklemelerde hasar daha büyük olur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1586,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi suikastın safhalarından değildir?",
+    "options": [
+      "A) Saldırının Planlanması",
+      "B) Hedef seçme",
+      "C) Hedef İstihbaratı",
+      "D) Kaçış",
+      "E) Delillere el koyma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Delillere el koyma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1587,
+    "period": "109. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "İl sınırları içinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Emniyet Müdürü",
+      "B) Vali",
+      "C) Jandarma Komutanı",
+      "D) Hâkim",
+      "E) Cumhuriyet Başsavcısı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Vali** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1588,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Asansörde önemli kişiyi (VIP) koruma sırasında uyulması gereken kurallardan hangisi yanlıştır?",
+    "options": [
+      "A) Asansör içerisinde kapı tarafında bulunmalı, korunan önemli kişi (VIP) duvar tarafında bulunmalıdır",
+      "B) Asansörün önceden kontrol imkanı yok ise, binmeden hemen önce kontrol edilmesi ve önce koruma görevlisinin binmesi gereklidir",
+      "C) Asansörde yabancı şahıslar var ise rahatsızlık vermeden korunan önemli kişi (VIP) ile arasına girilmelidir",
+      "D) Yabancı şahısların asansöre binmesi mutlaka engellenmelidir",
+      "E) Asansörden ilk olarak koruma görevlisi çıkarak etrafı kontrol ettikten sonra VIP çıkartılmalıdır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yabancı şahısların asansöre binmesi mutlaka engellenmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1589,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi kişi koruma hizmetinde öncü istihbarat çalışmaları yapanların görevlerinden değildir?",
+    "options": [
+      "A) Gidilecek yerle ilgili daha önce yapılan keşif raporlarını incelemek",
+      "B) Gidilecek yerde yaşanabilecek olaylarda, acilen irtibat kurulması gereken görevliler ve irtibat numaralarını tespit etmek",
+      "C) Gidilecek güzergâhtaki boğma noktalarını tespit etmek",
+      "D) Korunan kişinin özel şoförlüğünü yapmak",
+      "E) Gerekiyorsa gidilecek yerdeki ilgililerle koordinasyonu sağlamak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Korunan kişinin özel şoförlüğünü yapmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1590,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Korunan önemli kişinin (VIP) araçla gideceği güzergâh üzerinde dikkat edilmesi gereken hususlar aşağıdakilerden hangisi değildir?",
+    "options": [
+      "A) Arızalı yada şüpheli biçimde park etmiş araçlar",
+      "B) Plakası olmayan yada değiştirildiği düşünülen araçlar",
+      "C) Güzergah üzerindeki yol çalışmaları ve şüpheli duran çöp konteynırları",
+      "D) Kıyafetleri mevsim şartlarına yada bölge yapısına uymayan şahıslar",
+      "E) Belediyenin sabahları çöp alan araçları"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Belediyenin sabahları çöp alan araçları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1591,
+    "period": "109. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdaki maddelerden hangisi koruma araçlarında bulunması gereken özellikler arasında sayılamaz?",
+    "options": [
+      "A) Fabrika çıkışlı zıhlı araç olması her zaman tercih sebebidir. Ön ve arka tamponlar çarpmalara karşı dayanıklı olmalıdır",
+      "B) Güçlü motora sahip olmalı, hareket kabiliyeti yüksek olmalıdır",
+      "C) Araçlar dört çeker olmalıdır, ABS, ASR ve yeni teknolojilere sahip olmalıdır",
+      "D) Frenleri ve amortisörleri takviyeli olmalı, araçlarda dört kapı bulunmalı kolay inilir binilir olmalıdır",
+      "E) Sun roof (arabanın açılabilen üst kısmı) özellikli olmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sun roof (arabanın açılabilen üst kısmı) özellikli olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1592,
+    "period": "109. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Boğma (Boğum) noktası tabirini tarif etmeyen madde aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kalabalık trafik, yol çalışmaları, kırsal ve ıssız alanla, trafik lambaları, kavşaklar",
+      "B) Özellikle sahillerde, plajlarda derinliğin aniden artarak insanların boğulma riskinin arttığı alanlar",
+      "C) Yüksek binalar ve köprüler, tüneller hemzemin geçitler",
+      "D) Koridorlar, merdivenler, asansörler",
+      "E) İniş ve biniş noktaları"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özellikle sahillerde, plajlarda derinliğin aniden artarak insanların boğulma riskinin arttığı alanlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1593,
+    "period": "109. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi kişi korumada temel koruma prensiplerinden değildir?",
+    "options": [
+      "A) Korunan önemli kişiyi (VIP) korumak ve kaçırmak asıl amaçtır",
+      "B) Koruma görevi yerine getirilirken VIP’i engellememelidir",
+      "C) Koruma sürekli olmalıdır",
+      "D) Koruma görevi sırasında silah kullanmak en son çaredir",
+      "E) Korunan önemli kişinin (VIP) giriş ve çıkış saatleri rutin, belli zaman dilimlerinde olmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Korunan önemli kişinin (VIP) giriş ve çıkış saatleri rutin, belli zaman dilimlerinde olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1594,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi olan Harun, Faruk, Doğan, Hüseyin ve Ekrem VIP şahsın koruma görevini yürüten koruma ekibinde görev yapmaktadırlar. Korunan önemli kişinin (VIP) araçtan inip görev yaptığı binaya intikali esnasında saat 3 (üç) yönünden VIP’e ateşli silahla saldırı meydana gelmiştir. Beş (5) kişi ile korunan VIP’in saldırı esnasında sağında görev yapan Faruk, en az kaç derecelik sorumluluk alanına sahiptir?",
+    "options": [
+      "A) 60",
+      "B) 72",
+      "C) 90",
+      "D) 120",
+      "E) 180"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 90** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1595,
+    "period": "109. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Kolluk yetkileri ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Özel güvenlik, görev alanında ve görev süresince yetkilidir",
+      "B) Genel kolluk, özel güvenliğin görev alanında da görevli ve yetkili değildir",
+      "C) Özel kolluk, belirli konularda ve belirli yerlerde görevlidir",
+      "D) Genel kolluk, güvenlik ile ilgili her yerde ve her zaman görevli ve yetkilidir",
+      "E) Genel kolluk, ülke genelinde görevli ve yetkilidir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Genel kolluk, özel güvenliğin görev alanında da görevli ve yetkili değildir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1596,
+    "period": "109. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Kamu güvenliğinin sağlanması yönünden vali ve kaymakamlara verilen yetkiler kapsamında, özel güvenlik görevlilerinin genel kolluk amirinin emrine girmesinin yasal dayanağı hangi kanundur?",
+    "options": [
+      "A) 4857 sayılı İş Kanunu",
+      "B) 5442 sayılı İl İdaresi Kanunu",
+      "C) 3201 sayılı Emniyet Teşkilatı Kanunu",
+      "D) 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanunu",
+      "E) 2692 sayılı Sahil Güvenlik Komutanlığı Kanunu"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) 5442 sayılı İl İdaresi Kanunu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1597,
+    "period": "109. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıdaki şıklardan hangisi 5188 Sayılı Kanun kapsamında genel kolluk-özel güvenlik ilişkilerinin yürütülmesi gereken çerçevesi içerisinde olamaz?",
+    "options": [
+      "A) Koordineli çalışma",
+      "B) Pozitif ilişki",
+      "C) Kamu yararı için, görev alanı ve süresine bakmadan olaylara müdahale",
+      "D) Kamu güvenliğinin sağlanması konusunda işbirliği",
+      "E) Suç işlenmesinin önlenmesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kamu yararı için, görev alanı ve süresine bakmadan olaylara müdahale** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1598,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kamu güvenliğini tamamlayıcı mahiyette görev yapan özel güvenlik görevlilerinin, genel kolluğun etkin iş birliği ve koordinasyonuyla genel güvenliğe katkı sağlayacak şekilde, olay meydana gelmeden suçu önlemek, meydana gelen olayların en seri şekilde genel kolluğa bildirilmesini sağlamak amacıyla hayata geçirilen uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Suç Araştırma Raporlama Programı (SARP)",
+      "B) Kadın Destek Uygulaması (KADES)",
+      "C) Özel Güvenlik Bilgi Sistemi Otomasyonu (ÖGNET)",
+      "D) Genel Kolluk-Özel Güvenlik İşbirliği ve Entegrasyonu (KAAN)",
+      "E) Sürekli Eğitim Projesi (SEP)"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Genel Kolluk-Özel Güvenlik İşbirliği ve Entegrasyonu (KAAN)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1599,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel Güvenlik Temel Eğitim ve Yenileme Eğitimi Sınavları, A,B ve C Sınıfı Ateşleyici Yeterlilik Belgesi Sınavları, Silah Tamir Yeri Açma Sınavı ile Görev Hayvanı ve İdarecisi Sınavına ait iş ve işlemleri yerine getiren kurum aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Milli Eğitim Bakanlığı",
+      "B) Özel güvenlik eğitim kurumu",
+      "C) Ölçme Seçme ve Yerleştirme Merkezi Başkanlığı",
+      "D) EGM Trafik Başkanlığı",
+      "E) EGM Özel Güvenlik Denetleme Başkanlığı"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) EGM Özel Güvenlik Denetleme Başkanlığı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1600,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Sivil kullanım amaçlı patlayıcı maddeler ile 6136, 2521 ve 5729 sayılı Kanunlar kapsamındaki silah ve mermi işlemlerinin etkin, verimli, ölçülebilir, kontrol edilebilir, sürdürülebilir hale getirilmesi, üretimden tüketime kadar tüm süreçlerin dijital ortamda takibinin sağlanması amacıyla Özel Güvenlik Denetleme Başkanlığı tarafından hayata geçirilen proje aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Patlayıcı ve Silah Bilgi Sistemi (PATBİS)",
+      "B) Özel Güvenlik Eğitimlerini Geliştirme ve Alan/Branş Eğitimleri Projesi (ÖZGE)",
+      "C) Özel Güvenlik Bilgi Sistemi Otomasyonu (ÖGNET)",
+      "D) Genel Kolluk-Özel Güvenlik İşbirliği ve Entegrasyonu (KAAN)",
+      "E) Sürekli Eğitim Projesi (SEP)"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Patlayıcı ve Silah Bilgi Sistemi (PATBİS)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1601,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Şarjörü oluşturan parçalar hangi şıkta doğru olarak verilmiştir?",
+    "options": [
+      "A) Şarjör tüpü – şarjör yayı – gerdel – şarjör kapağı – şarjör kapak kilidi",
+      "B) Şarjör tüpü – şarjör yayı – hatve – şarjör kapağı – şarjör kilidi",
+      "C) Şarjör tüpü – şarjör yayı – gerdel – şarjör kapağı – hatve",
+      "D) Şarjör tüpü – şarjör yayı – rayyür – şarjör kapağı – şarjör kilidi",
+      "E) Şarjör tüpü – şarjör yayı – rayyür – şarjör kapağı – hatve"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Şarjör tüpü – şarjör yayı – gerdel – şarjör kapağı – şarjör kapak kilidi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1602,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahın namlusunu temizlemek için ucuna bez ve fırça takılabilen, namlu içi yiv ve set aralarını temizlemek için kullanılan alete ne ad verilir?",
+    "options": [
+      "A) Şiş",
+      "B) Tornavida",
+      "C) İnce uçlu ahşap",
+      "D) Harbi",
+      "E) Kontrol çubuğu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Harbi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1603,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahın parçalarından biri değildir?",
+    "options": [
+      "A) Kapsül",
+      "B) Namlu",
+      "C) Sürgü",
+      "D) Tırnak",
+      "E) Horoz"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kapsül** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1604,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi şarjörün parçalarındandır?",
+    "options": [
+      "A) Hatve",
+      "B) Gerdel",
+      "C) Yiv",
+      "D) Set",
+      "E) Rayyür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Gerdel** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1605,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi namlu üzerinde bulunur?",
+    "options": [
+      "A) Fişek yatağı",
+      "B) Gez",
+      "C) Gerdel",
+      "D) Kovan atma boşluğu",
+      "E) Çıkarıcı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Fişek yatağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1606,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Fişeği oluşturan bölümler aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Barut-Kapsül-Çekirdek-Kovan",
+      "B) Kovan-Kapsül-Tırnak-Çıkarıcı",
+      "C) Tırnak-Kapsül-Gömlek- Kurşun",
+      "D) Gömlek-kurşun-Bakır-Barut",
+      "E) Barut-Kapsül-Hatve-Çekirdek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Barut-Kapsül-Çekirdek-Kovan** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1607,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hatve nedir?",
+    "options": [
+      "A) Silahın namlu boyudur",
+      "B) Namlu içindeki setlerin çekirdek üzerinde bıraktığı izdir",
+      "C) Namlu içindeki girinti ve çıkıntılardır",
+      "D) Fişek çekirdeğinin namlu içerisinde kendi etrafında bir tur dönmesi esnasında aldığı mesafedir",
+      "E) Yiv ve setlerin uzunluğudur"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Fişek çekirdeğinin namlu içerisinde kendi etrafında bir tur dönmesi esnasında aldığı mesafedir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1608,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi poligonda atış yaparken silahın ateş etmemesi veya tutukluk yapması durumunda ne yapması gerekir?",
+    "options": [
+      "A) Silahı inceler arızayı tespite çalışır",
+      "B) Silahı söker",
+      "C) Silahı tamir ve bakım kısmına götürür",
+      "D) Silahın namlusundan içeriye göz atar",
+      "E) Geriye dönmeden elini kaldırarak atış nezaretçisine haber verir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Geriye dönmeden elini kaldırarak atış nezaretçisine haber verir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1609,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Devlet Hava Meydanlarında kuruma ait demirbaş yivsiz av tüfeği ile görev yapan silahlı özel güvenlik görevlisi Ahmet, kimlik kartı ile beraber aşağıdakilerden hangisini taşımakla yükümlüdür?",
+    "options": [
+      "A) Görev belgesi",
+      "B) Yivli av tüfeği ruhsatı",
+      "C) Özel güvenlik silah taşıma/bulundurma belgesi",
+      "D) Avcılık belgesi",
+      "E) Silah bulundurma ruhsatı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Özel güvenlik silah taşıma/bulundurma belgesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1610,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabancaların başlıca parçalarından olan sürgüde (kapak takımında), aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "A) İğne ve yayı",
+      "B) Tırnak",
+      "C) Gez – Arpacık",
+      "D) Rampa",
+      "E) Kovan atma boşluğu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Rampa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1611,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Toplu tabancalarda hazne görevini .......... yerine getirirken, aynı görevi yarı otomatik tabancalarda .......... yerine getirir.\r\n Yukarıda boş bırakılan yerlere gelecek ifadeler aşağıdaki hangi seçenekte verilmiştir?",
+    "options": [
+      "A) Hatve-Harbi",
+      "B) Top yuvaları-Şarjör",
+      "C) Harbi-Hatve",
+      "D) Rayyür-Yiv",
+      "E) Yiv-Rayyür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Top yuvaları-Şarjör** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1612,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Selim, atış yapmadan önce tabancasını kontrol ederek namlu içerisinde toz, kurum, nem varsa temizler. Özel güvenlik görevlisinin yaptığı bu bakım, hangi bakım türüne girer?",
+    "options": [
+      "A) Atış öncesi bakım",
+      "B) Atış sonrası bakım",
+      "C) Değişik iklim şartlarında bakım",
+      "D) Haftalık bakım",
+      "E) Yıllık bakım"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Atış öncesi bakım** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1613,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahla ilgili emniyet kurallarından değildir?",
+    "options": [
+      "A) Her silaha dolu muamelesi yap",
+      "B) Şarjör çıkarmadan silahı sökmeye başla",
+      "C) Ateş etmeye karar vermedikçe parmağını tetik korkuluğuna sokma",
+      "D) Hedefini bil, çevresini dikkate al",
+      "E) Ateş etmeye karar vermedikçe namluyu ölü noktaya tut"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Şarjör çıkarmadan silahı sökmeye başla** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1614,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki seçeneklerden hangisinde silahların genel çalışma prensibiyle ilgili ifade doğru değildir?",
+    "options": [
+      "A) Tabancanın tırnağı kırık ise kovan dışarı atılamaz",
+      "B) Tabancanın sürgüsü atış yaptıktan sonra geride kalmışsa yerine getiren yay kırıktır",
+      "C) Tabancanın namlusuna fişek sürülemiyorsa şarjör veya şarjör yayı arızalıdır",
+      "D) Tabancanın fişek rampası kırık ise şarjörden fişek yatağına fişek sürülmez",
+      "E) Tabancanın iğnesi kırık ise horoz düşse bile ateşleme gerçekleşmez"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tabancanın sürgüsü atış yaptıktan sonra geride kalmışsa yerine getiren yay kırıktır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1615,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki parçalardan hangisi yarı otomatik tabancalarda sürgüde (kapak takımı) yer almaz?",
+    "options": [
+      "A) Arpacık",
+      "B) Gez",
+      "C) Tırnak",
+      "D) İğne",
+      "E) Horoz"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Horoz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1616,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Hangisi yarı otomatik tabancalarda bulunabilen emniyet tertibatlarından biri değildir?",
+    "options": [
+      "A) Tetik emniyeti",
+      "B) Tırnak emniyeti",
+      "C) Mandal emniyeti",
+      "D) Kabza emniyeti",
+      "E) Şarjör emniyeti"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tırnak emniyeti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1617,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Hangisi silah sökülürken dikkat edilecek hususlardan biri değildir?",
+    "options": [
+      "A) Sürgü çekilerek fişek yatağı kontrol edilir",
+      "B) Şarjör çıkartılır",
+      "C) Silah kirli ise sökülmez",
+      "D) Silah ölü bir noktaya çevrilir",
+      "E) Silah sökülürken mümkün olduğunca boş bir alan seçilmelidir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Silah kirli ise sökülmez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1618,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki seçeneklerden hangisi silahlarla ilgili doğru bir ifadedir?",
+    "options": [
+      "A) Atışa hazır fişeğin beklediği yer şarjördür",
+      "B) Nişan tertibatında gez ve arpacık bulunur",
+      "C) Toplu tabancalarda kabza emniyeti bulunur",
+      "D) Tabancalarda her çaptaki fişek kullanılır",
+      "E) Namlunun içerisinde bulunan girintilere çap denir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Nişan tertibatında gez ve arpacık bulunur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1619,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişeği veya boş kovanı fişek yatağından çıkarmayı sağlayan tertibata ne denir?",
+    "options": [
+      "A) Fişek verme tertibatı",
+      "B) Nişan tertibatı",
+      "C) Ateşleme tertibatı",
+      "D) Emniyet tertibatı",
+      "E) Kovan atma tertibatı"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kovan atma tertibatı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1620,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Bazı ateşli silahlarda bulunan kilitleme makaralarının görevi nedir?",
+    "options": [
+      "A) Yüksek güç özelliği sağlar",
+      "B) Fişeğin namludan çıkışını sağlar",
+      "C) Fişeğin düz gitmesini sağlar",
+      "D) Gez ve arpacığın namlu üzerinde sabit durmasını sağlar",
+      "E) Gövde üzerinde bulunan çıkarıcının hareket etmesini sağlar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yüksek güç özelliği sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1621,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Selim’in görev esnasında kullanmış olduğu silahında bulunan ''Rampa'', aşağıda bulunan bölümlerden hangisindedir?",
+    "options": [
+      "A) Şarjörde gerdel yayı içerisinde",
+      "B) Fişek yatağı gerisinde",
+      "C) Namlu ağzında",
+      "D) Tetik ile tetik korkuluğu arasında",
+      "E) Horozun altında"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Fişek yatağı gerisinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1622,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşli silahlarda iğnenin darbesi ile fişeğin ateşlenen parçası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Çekirdek",
+      "B) Kapsül",
+      "C) Kovan",
+      "D) Barut",
+      "E) Kovan dip tablası"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kapsül** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1623,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi kovan atma tertibatının bir parçasıdır?",
+    "options": [
+      "A) Çıkarıcı",
+      "B) İğne",
+      "C) Gerdel",
+      "D) Namlu",
+      "E) Emniyet Mandalı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Çıkarıcı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1624,
+    "period": "109. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi ateşli silahlarda bulunan yiv ve setin faydalarından değildir?",
+    "options": [
+      "A) Çekirdeğin havada kendi ekseni etrafında dönerek gitmesini sağlar",
+      "B) Çekirdeğin hedefe ilk önce uç kısmı ile vurmasını sağlar",
+      "C) Çekirdeğin hedefi parçalamasını sağlar",
+      "D) Çekirdeğin menzilini uzatır",
+      "E) Çekirdeğin delme gücünü artırır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çekirdeğin hedefi parçalamasını sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1625,
+    "period": "109. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İstinat boşluğu aşağıdakilerden hangisi ile ilgilidir?",
+    "options": [
+      "A) Tetik",
+      "B) Horoz",
+      "C) Şarjör",
+      "D) Arpacık",
+      "E) Gez"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Tetik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 109. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (109. Dönem Sınavı)"
+  },
+  {
+    "id": 1626,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre göreve başlama ve görevden ayrılma bildirimleri kaç gün içerisinde hangi makama bildirilir?",
+    "options": [
+      "A) 30 gün içinde İçişleri Bakanlığına ve ilgili valiliğe",
+      "B) 30 gün içinde Ticaret Bakanlığına ve şirketin merkezinin bulunduğu valiliğe",
+      "C) 60 gün içinde İçişleri Bakanlığına",
+      "D) 15 gün içinde ilgili valiliğe",
+      "E) Aynı gün içinde İçişleri ve Ticaret Bakanlıklarına"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) 15 gün içinde ilgili valiliğe** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1627,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdakilerden hangisi il özel güvenlik komisyonunda  yer almaz?",
+    "options": [
+      "A) Vali Yardımcısı",
+      "B) İl Emniyet Müdürlüğü temsilcisi",
+      "C) Cumhuriyet Başsavcısı",
+      "D) İl Jandarma Komutanlığı temsilcisi",
+      "E) Ticaret Odası Başkanlığı ve Sanayi Odası Başkanlığının temsilcileri"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Cumhuriyet Başsavcısı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1628,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da özel güvenlik görevlilerinde aranacak şartlar sayılmıştır. Bu kapsamda özel güvenlik görevlileri hakkında bazı suçlarla ilgili devam etmekte olan bir soruşturma veya kovuşturma bulunmama şartı aranmaktadır. Aşağıdaki suçlardan hangisi bu kapsamda değildir?",
+    "options": [
+      "A) Dolandırıcılık",
+      "B) Anayasal düzene ve bu düzenin işleyişine karşı suçlar",
+      "C) Özel hayata ve hayatın gizli alanına karşı suçlar",
+      "D) Cinsel dokunulmazlığa karşı suçlar",
+      "E) Uyuşturucu ve uyarıcı madde suçları"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Dolandırıcılık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1629,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisinde il özel güvenlik komisyonunun kararı aranmaz?",
+    "options": [
+      "A) Ateşli silah alma yetkisi",
+      "B) Özel güvenlik birimlerinin üniforma ve teçhizatı",
+      "C) Geçici veya acil haller özel güvenlik izni",
+      "D) Görev alanının genişletilmesi",
+      "E) Özel güvenlik uygulamasının sona erdirilmesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Geçici veya acil haller özel güvenlik izni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1630,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik sertifikası kaç yıl geçerlidir?",
+    "options": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 7"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 5** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1631,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahlı görev yapan özel güvenlik görevlisi Murat’a, işlediği bir suçtan dolayı özel güvenlik kimlik kartının valilikçe iptal edilmesi ve bir daha özel güvenlik alanında çalışamama cezası verilmiştir. Murat’ın işlediği suç aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "A) Özel güvenlik kimlik kartını başkasına kullandırmak",
+      "B) Grev yasağına uymamak",
+      "C) Yetkili genel kolluk kuvvetlerine karşı görevini yapmasını engellemek amacıyla direnmek",
+      "D) Ateşli silahını görev alanı dışında kullanmak",
+      "E) Görevi dışında üniforması ile toplantı ve gösteri yürüyüşlerine katılmak"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Grev yasağına uymamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1632,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Acil haller dışındaki geçici özel güvenlik izinleri için, söz konusu etkinliğin başlamasından en az kaç saat önce müracaatta bulunulmalıdır?",
+    "options": [
+      "A) 12",
+      "B) 24",
+      "C) 48",
+      "D) 72",
+      "E) 96"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 48** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1633,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "“Şirketlerin özel güvenlik alanında faaliyette bulunması ..........  iznine bağlıdır.”  Yukarıdaki cümlede noktalı yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Adalet Bakanlığının",
+      "B) Valiliğin",
+      "C) Kaymakamlığın",
+      "D) Gençlik ve Spor Bakanlığının",
+      "E) İçişleri Bakanlığının"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İçişleri Bakanlığının** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1634,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun, en az kaç özel güvenlik görevlisinin görev yaptığı yerlerde özel güvenlik sorumlusunun atanmasını zorunlu kılmıştır?",
+    "options": [
+      "A) 5",
+      "B) 10",
+      "C) 15",
+      "D) 30",
+      "E) 50"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 15** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1635,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Görev alanında karşılaştıkları olaylar ile ilgili olarak, özel güvenlik görevlilerinin görev ve yetkileri arasında aşağıdakilerden hangisi yer alır?",
+    "options": [
+      "A) Parmak izi almak",
+      "B) Gözaltına almak",
+      "C) Olay yerindeki delilleri incelemek",
+      "D) Olay yerini koruma altına almak",
+      "E) Soruşturma yapmak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Olay yerini koruma altına almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1636,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik izni almak üzere valiliğe yapılan başvurularda aşağıdakilerden hangisinin/hangilerinin belirtilmesi gereklidir?  I. Özel güvenlik hizmetinin konusu  II. Hizmetin azami kaç özel güvenlik görevlisi ile verileceği  III.İhtiyaç duyulacak silah ve teçhizatın miktarı ve niteliği",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I, II ve III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1637,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Özel hukuk tüzel kişileri ve özel güvenlik şirketleri, istihdam ettikleri özel güvenlik görevlilerinin üçüncü kişilere verecekleri zararın tazmini amacıyla .......... yaptırmak zorundadır.”  Cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "A) Zorunlu deprem sigortası",
+      "B) Özel güvenlik mali sorumluluk sigortası",
+      "C) Eşyam güvende sigortası",
+      "D) Konut sigortası",
+      "E) Trafik sigortası"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özel güvenlik mali sorumluluk sigortası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1638,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Yabancı bir şirketin Türkiye’de özel güvenlik hizmeti vermesi, Türkiye’de kurulan bir şirkette yabancı ortak bulunması veya bir özel güvenlik eğitim kurumunda uzman eğitici olarak yabancı uyruklu kişilerin istihdam edilebilmesi için mütekabiliyetin mevcut olup olmadığı aşağıdakilerden hangisine sorulur?",
+    "options": [
+      "A) Dışişleri Bakanlığına",
+      "B) İçişleri Bakanlığına",
+      "C) Emniyet Genel Müdürlüğüne",
+      "D) Valiliğe",
+      "E) Kaymakamlığa"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Dışişleri Bakanlığına** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1639,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Görev alanında hırsızlık olayıyla karşılaşan özel güvenlik görevlisi Selçuk, olayla ilgili şahısların ifadelerini ..........”\r\n Yukarıdaki cümlede boşluğu doğru şekilde dolduran ifade hangisidir?",
+    "options": [
+      "A) alamaz",
+      "B) vakit geçirmeden almalıdır",
+      "C) genel kolluktan izin aldıktan sonra almalıdır",
+      "D) ifade vermeyi kabul ederlerse alabilir",
+      "E) amirini bilgilendirdikten sonra almalıdır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) alamaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1640,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Mülki idare amirlerince istenen ilave tedbirleri almayan kişi, kurum, kuruluş veya şirketlerin yöneticilerine, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında uygulanacak yaptırım/ceza aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Adli para cezası verilir",
+      "B) İdari para cezası verilir",
+      "C) Altı ay süreyle özel güvenlik alanında görev verilmez",
+      "D) Bir yıl süreyle özel güvenlik alanında görev verilmez",
+      "E) Üç aydan bir yıla kadar hapis cezası verilir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İdari para cezası verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1641,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Kişi korumada görevli özel güvenlik görevlisi aşağıdakilerden hangisi ya da hangilerini yanında bulundurması zorunludur?  I. Sürücü belgesi  II. Görev belgesi  III.Sağlık kurulundan alınan rapor  IV. Taşıdığı silaha ait özel güvenlik silah taşıma/bulundurma belgesi  V. Özel güvenlik görevlisi kimlik kartı",
+    "options": [
+      "A) Yalnız II",
+      "B) I, II, IV",
+      "C) II, III, IV, V",
+      "D) II, IV, V",
+      "E) I, V"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) II, IV, V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1642,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik şirketlerinin kurucu, temsilci ve yöneticilerinin aranan şartları kaybetmeleri halinde, eksikliğin giderilmesi için ya da bu kurucu, temsilci ve yöneticilerin değiştirilmesi için, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da tanınan süre ne kadardır?",
+    "options": [
+      "A) 10 gün",
+      "B) 15 gün",
+      "C) 1 ay",
+      "D) 2 ay",
+      "E) 3 ay"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) 2 ay** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1643,
+    "period": "108. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "18. Aşağıdakilerden hangisi genel kolluk değildir?  I. Polis  II. Jandarma  III.Sahil Güvenlik  IV. Orman Muhafaza  V. Özel Güvenlik",
+    "options": [
+      "A) III ve V",
+      "B) IV ve V",
+      "C) I ve III",
+      "D) II ve IV",
+      "E) I ve IV"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) IV ve V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1644,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin yaptığı devriye yöntemlerinden biri değildir?",
+    "options": [
+      "A) Rutin devriye",
+      "B) Sınırlı devriye",
+      "C) Planlı devriye",
+      "D) Geri dönüşlü devriye",
+      "E) Dairesel devriye"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Sınırlı devriye** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1645,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi kimyasal bulgu çeşitlerinden birisi değildir?",
+    "options": [
+      "A) Fişek ve çekirdek",
+      "B) Atış artıkları",
+      "C) Yanıcı ve yakıcı maddeler",
+      "D) Narkotik ve uyuşturucu maddeler",
+      "E) Toksik maddeler"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Fişek ve çekirdek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1646,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi parmak izinin özelliklerinden birisi değildir?",
+    "options": [
+      "A) Değişmez",
+      "B) Değiştirilemez",
+      "C) Benzemez",
+      "D) Benzetilemez",
+      "E) Tasnif edilemez"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Tasnif edilemez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1647,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi adli arama olarak değerlendirilemez?",
+    "options": [
+      "A) Suçüstü yakalanan şüphelinin aranması",
+      "B) Hükümlünün yakalanması amacıyla yapılan arama",
+      "C) Suç delillerinin elde edilmesi amacıyla yapılan arama",
+      "D) Kişilerin can ve mal güvenliğini sağlamak amacıyla görev alanında yapılan arama",
+      "E) Tutuklunun yakalanması için yapılan arama"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kişilerin can ve mal güvenliğini sağlamak amacıyla görev alanında yapılan arama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1648,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi gerekli tedbirler alınarak genel kolluğa haber verilmesi gereken şüpheli paket veya mektup bomba özelliklerinden biri değildir?",
+    "options": [
+      "A) Normal mektuplara göre daha kalın olması",
+      "B) Aynı ebattaki normal mektuptan daha ağır ve denge noktasının farklı olması",
+      "C) Normalde olmaması gereken bazı parçalar veya dışarı sızmış madde bulunan paketler",
+      "D) Gönderenin adresinin olmaması, gereğinden fazla pul olması veya alıcı isim ve adresinde belirgin hataların olması",
+      "E) Mektup zarfı üzerindeki yazıların kusursuz olması"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Mektup zarfı üzerindeki yazıların kusursuz olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1649,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Eşkal tarifinde, şişman, ağır, kalın yapılı, iri kemikli, zayıf, ince, dik, hımbıl, kambur ve geniş omuzlu gibi vasıflar .......... ile ilgilidir” cümlesindeki boşluğa aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Ten",
+      "B) Boy",
+      "C) Çene",
+      "D) Davranış",
+      "E) Vücut Yapısı"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Vücut Yapısı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1650,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlisinin düzenleyebileceği tutanaklardan biri değildir?",
+    "options": [
+      "A) Şüpheli Teşhis Tutanağı",
+      "B) Olay Tespit Tutanağı",
+      "C) Yakalama Tutanağı",
+      "D) Emanete Alma Tutanağı",
+      "E) Teslim Tesellüm Tutanağı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Şüpheli Teşhis Tutanağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1651,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi noktada görevli özel güvenlik görevlisi Murat’ın görevlerinden biri değildir?",
+    "options": [
+      "A) Görev alanı ile ilgili tedbirleri almak",
+      "B) Suç kovuşturması yapmak",
+      "C) Görev alanına ilgisiz kişilerin girmesine mani olmak",
+      "D) Görev esnasında olan olumsuzlukları ilgilisine bildirmek",
+      "E) Görev alanının sınırlarını bilmek"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Suç kovuşturması yapmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1652,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin devriye görevleri arasında yer almaz?",
+    "options": [
+      "A) Önleyici görevler",
+      "B) Koruyucu görevler",
+      "C) Dış görev",
+      "D) Adli görevler",
+      "E) Yardım görevleri"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Dış görev** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1653,
+    "period": "108. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıdakilerden hangisi, genel kolluk gözetim ve denetiminde, özel güvenlik görevlilerinin elle arama yapabileceği yerlerden birisidir?",
+    "options": [
+      "A) İşyerleri",
+      "B) Alışveriş Merkezleri",
+      "C) Spor Müsabakaları",
+      "D) Fabrikalar",
+      "E) Siteler, Konutlar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Spor Müsabakaları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1654,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Sitede görevli özel güvenlik görevlileri hangi durumda konuta giremez?",
+    "options": [
+      "A) Yangın olduğunda",
+      "B) Deprem meydana geldiğinde",
+      "C) Aşırı gürültü olduğunda",
+      "D) Sel olduğunda",
+      "E) Konut içerisinden yardım istendiğinde"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Aşırı gürültü olduğunda** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1655,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, telsiz konuşmalarında dikkat edilmesi gereken hususlar arasında yer almaz?",
+    "options": [
+      "A) Telsiz haberleşmesi; kısa, öz ve anlaşılır şekilde Türkçe olarak yapılır",
+      "B) Telsizden, gizli ve özel haberleşme yapılmaz",
+      "C) Konuşmak isteyen görevli, önce kendi kodunu, sonra (varsa merkez ibaresini) daha sonra da konuşmak istediği görevlinin kodunu söyleyerek haberleşme yapar",
+      "D) Telsizden, gizli ve özel haberleşme yapılır",
+      "E) Telsiz haberleşmeleri, kod üzerinden yapılır. Kod dışında herhangi bir isim, unvan veya lakap kullanılmaz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Telsizden, gizli ve özel haberleşme yapılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1656,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi Ali, görev yeri ve mesai saatleri içerisinde bir şahsın darp edildiğini görmüştür. Aşağıdaki uygulamalardan hangisi yanlıştır?",
+    "options": [
+      "A) Darp olayına müdahale eder",
+      "B) Kolluğa arar ve bilgi verir",
+      "C) Şüpheliyi kelepçeler ve Polis Merkezine götürür",
+      "D) Şüpheliyi kolluğa tutanakla teslim eder",
+      "E) Şüpheliyi zor kullanarak yakalar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Şüpheliyi kelepçeler ve Polis Merkezine götürür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1657,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Yerine getirilen hizmetin yapılan bir çalışmanın ve ortaya konulan yeni bir uygulamanın etkinliğinin ve verimliliğinin ortaya konulması amacıyla yazılan raporlardır”. Tanımı yapılan rapor çeşidi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Devir teslim raporu",
+      "B) Olay bildirim raporu",
+      "C) Bilirkişi raporu",
+      "D) Değerlendirme raporu",
+      "E) Ekspertiz raporu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Değerlendirme raporu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1658,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlileri Önder ile Yaşar görev alanı içerisinde tabanca bulmuşlardır. Tutanağı düzenlerken aşağıdakilerden hangisinin tutanakta belirtilmesine gerek yoktur?",
+    "options": [
+      "A) Tabancanın çapı",
+      "B) Tabancanın rengi",
+      "C) Tabancanın seri numarası",
+      "D) Tabancanın markası",
+      "E) Tabancanın güncel fiyatı"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Tabancanın güncel fiyatı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1659,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Kontrol noktasında görevli özel güvenlik görevlileri Aynur ile Deniz’in hangi davranışı yanlıştır?",
+    "options": [
+      "A) Ziyaretçilerin çantalarının içindeki evrakları incelemek",
+      "B) Korunan yere gelen gönderileri kontrolden geçirerek içeri almak",
+      "C) Suç teşkil etmemekle birlikte tehlike doğurabilecek eşyaları emanete almak",
+      "D) Haklarında mahkûmiyet kararı bulunan kişileri yakalamak",
+      "E) Ziyaretçileri kapı detektöründen tek tek geçirerek içeri almak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Ziyaretçilerin çantalarının içindeki evrakları incelemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1660,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Güvenlik sistem ve cihazları seçilirken kullanışlı olmasına, yeterli personelle çalışmasına ve maliyet durumuna dikkat edilmesi gerekir.” ifadesi risk analizi ve güvenlik planlaması yapılırken dikkate alınması gereken kriterlerden hangisini tanımlamaktadır?",
+    "options": [
+      "A) Caydırıcılık",
+      "B) Dinamiklik",
+      "C) Kullanışlılık",
+      "D) Fayda/maliyet dengesi",
+      "E) Özgürlük/güvenlik dengesi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Fayda/maliyet dengesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1661,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi olay yerinin korunmasında yapılan hatalardan biri değildir?",
+    "options": [
+      "A) Emniyet şeridinin çekilmesi",
+      "B) Yetkisiz kişilerin olay yerine girmesi",
+      "C) Özellikle bomba ve patlama olaylarında olay yerine girildiği halde bunun inceleme ekibine bildirilmemesi",
+      "D) Olay yerinde her şeyin delil/bulgu olabileceğinin göz önünde bulundurulmaması",
+      "E) Olay ile ilgili şüphelilerin birbirleriyle ve çevredekilerle iletişim halinde olması ve konu hakkında inceleme ekibine bilgi verilmemesi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Emniyet şeridinin çekilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1662,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktalarının aşamalarından değildir?",
+    "options": [
+      "A) En dış halka",
+      "B) Dış halka",
+      "C) Orta halka",
+      "D) İç halka",
+      "E) En iç halka"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) En iç halka** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1663,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin, yapmış oldukları kontrol ve aramalar sırasında suç teşkil eden veya delil olabilecek ya da suç teşkil etmemekle birlikte tehlike doğurabilecek eşyayı bulunduğu yerden alarak uygun bir yerde tutmasına ne ad verilir?",
+    "options": [
+      "A) Müsadere",
+      "B) Yediemin",
+      "C) Muhafaza altında tutma",
+      "D) Emanete alma",
+      "E) Zapt etme"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Emanete alma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1664,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Bu cihazlar insanların üzerindeki, paket veya bagajlar içerisindeki patlayıcı ve narkotik maddelerin varlığına dair kalıntı tespitini yapar. Bu cihazlar X-ray sistemleri gibi ana teknolojilerle birlikte kullanılmalıdır. Aşağıdakilerden hangisi yukarıda özellikleri belirtilen güvenlik sistemidir?",
+    "options": [
+      "A) Yangın algılama sistemi",
+      "B) İz detektörü",
+      "C) Kapalı devre TV sistemi (CCTV)",
+      "D) Pır detektör",
+      "E) El tipi metal detektörü"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İz detektörü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1665,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "X-ray cihazının tünel giriş çıkışlarında bulunan plastik perdelerin varlık nedeni aşağıdaki seçeneklerin hangisinde doğru açıklanmıştır?",
+    "options": [
+      "A) Tünelin içinin görünmesini engellemek",
+      "B) Gizlilik sağlamak",
+      "C) Toz girmesini engellemek",
+      "D) Görüntü kirliliğine engel olmak",
+      "E) Radyasyonun dışarı yayılmasını engellemek"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Radyasyonun dışarı yayılmasını engellemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1666,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Aşağıdakilerden hangisi veya hangileri bir binaya sadece yetkili/izinli kişilerin giriş çıkışını sağlamak üzere kullanılan bir cihaz veya sistemdir? I. Kartlı geçiş sistemi II. X-ray cihazı III.Metal detektörü",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yalnız I** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1667,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "X-ray kontrol panelinde FWD tuşu fonksiyonu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Konveyör bandının ileri hareketini ve cihaz menülerinin ayarlanmasında menüler arasında dolaşımı sağlar",
+      "B) Görüntüyü zoom yapar",
+      "C) Koyu bölgelerin içini tespit eder",
+      "D) Cismin kendi çizgilerini tespit eder",
+      "E) Görüntüyü karartır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Konveyör bandının ileri hareketini ve cihaz menülerinin ayarlanmasında menüler arasında dolaşımı sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1668,
+    "period": "108. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangileri biometrik güvenlik sistemleri arasında yer alır? I. Ses tanıma sistemi  II. İris tanıma sistemi  III.Yangın algılama sistemi  IV. Yüz tanıma sistemi  V. Kartlı geçiş sistemi",
+    "options": [
+      "A) I-II",
+      "B) III-IV",
+      "C) I-II-IV",
+      "D) II-III-V",
+      "E) I-II-III-IV-V"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) I-II-IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1669,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "112’nin aranması sırasında yanlış olan uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Sakin olunmalı ya da sakin olan bir kişinin araması sağlanmalıdır",
+      "B) Kesin yer ve adres bilgileri verilmelidir",
+      "C) 112 merkezi tarafından sorulan sorulara net bir şekilde cevap verilmelidir",
+      "D) Hasta ve yaralılarının sayısı ve durumu bildirilmelidir",
+      "E) Telefon hemen kapatılmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Telefon hemen kapatılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1670,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi zehirlenmelerde yapılan genel ilk yardım kurallarından biri değildir?",
+    "options": [
+      "A) Zehirlenmeye neden olan madde öğrenilmeye çalışılmalı varsa maddenin ambalajı sağlık kuruluşuna götürülmelidir",
+      "B) Asit ve alkali sıvıların içilmesi durumunda hasta/yaralı kusturulmalıdır",
+      "C) Hastanın/yaralının yaşamsal belirtileri değerlendirilmelidir",
+      "D) Vücuda bulaşmış zehir kalıntısı varsa soğuk su ile yıkanmalıdır",
+      "E) Gaz zehirlenmesi varsa açık havaya çıkartılmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Asit ve alkali sıvıların içilmesi durumunda hasta/yaralı kusturulmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1671,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Deri bütünlüğünün bozulduğu ve kemik uçlarının dışarı çıktığı kırık çeşidi hangisidir?",
+    "options": [
+      "A) Kapalı kırık",
+      "B) Açık kırık",
+      "C) Çıkık",
+      "D) Burkulma",
+      "E) Çökme"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Açık kırık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1672,
+    "period": "108. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Kırıklarda yapılan ilkyardım uygulamalarından hangisi yanlıştır?",
+    "options": [
+      "A) Hayatı tehdit eden kırık yaralanmalarına öncelik verilir",
+      "B) Hasta/yaralı hareket ettirilmez sıcak tutulur",
+      "C) Tespit ve sargı yapılırken parmaklar görünecek şekilde açıkta bırakılır",
+      "D) Açık kırıklarda tespitten önce yara temiz bir bezle kapatılmalıdır",
+      "E) Kol etkilenmişse yüzük ve saat gibi eşyalar çıkartılmaz"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kol etkilenmişse yüzük ve saat gibi eşyalar çıkartılmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1673,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Delici göğüs yaralanmalarında aşağıda belirtilen müdahale biçimlerinden hangisi yanlıştır?",
+    "options": [
+      "A) Hasta veya yaralının yaşamsal bulguları değerlendirilir",
+      "B) Yara üzerine plastik poşet naylon vb. sarılmış bir bezle kapatılır",
+      "C) Yara üzerine konan bezin bir ucu açık bırakılır",
+      "D) Hastaya su ve yemek verilir",
+      "E) Hasta veya yaralı bilinci açık ise yarı oturur pozisyonda oturtulur"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Hastaya su ve yemek verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1674,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi sedye ile taşımada yapılan genel kurallardan biri değildir?",
+    "options": [
+      "A) Güçlü olan ilkyardımcı hasta/yaralının ayak kısmında olmalıdır",
+      "B) Hasta/yaralı battaniye ya da çarşaf gibi bir malzeme ile sarılmalıdır",
+      "C) Düşmesini engellemek için sedyeye bağlanmalıdır",
+      "D) Sedye daima yatay konumda olmalıdır",
+      "E) Hasta/yaralının başı gidiş yönünde olmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Güçlü olan ilkyardımcı hasta/yaralının ayak kısmında olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1675,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özellikle hangi hastalarda baş, boyun ve gövde ekseni bozulmamalıdır?",
+    "options": [
+      "A) Delici karın yaralanmalarında",
+      "B) İç kanaması olan hastalarda",
+      "C) Kafatası ve omurga yaralanmalarında",
+      "D) Göz yaralanmalarında",
+      "E) Kedi, köpek ısırmalarında"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kafatası ve omurga yaralanmalarında** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1676,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Koma pozisyonu hangisidir?",
+    "options": [
+      "A) Yarı yüzükoyun yatış pozisyon",
+      "B) Yarı oturur pozisyon",
+      "C) Sırt üstü yatar pozisyon",
+      "D) Yüzükoyun yatar pozisyon",
+      "E) Oturur pozisyon"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yarı yüzükoyun yatış pozisyon** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1677,
+    "period": "108. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Sıcak çarpmasında yapılacak ilkyardım uygulamasında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hastanın giysileri çıkartılmadan havadar bir ortama alınır",
+      "B) Hasta serin bir ortama alınarak, bacakları yukarı kaldırılır",
+      "C) Hasta bulunduğu yerden kımıldatılmamalıdır",
+      "D) Hasta kusturulmaya çalışılmalıdır",
+      "E) Hasta koma pozisyonuna getirilerek üzeri örtülür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hasta serin bir ortama alınarak, bacakları yukarı kaldırılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1678,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Göğsünde kuvvetli bir ağrısı olan hasta hangi pozisyona alınmalıdır?",
+    "options": [
+      "A) Şok pozisyonu",
+      "B) Yarı oturur pozisyon",
+      "C) Koma pozisyonu",
+      "D) Sırt üstü yatar pozisyon",
+      "E) Yüzüstü yatar pozisyon"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Yarı oturur pozisyon** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1679,
+    "period": "108. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Bitkisel kökenli yağların (bezir yağı) yanması hangi yanma şekline örnektir?",
+    "options": [
+      "A) Kendi kendine yanma",
+      "B) Yavaş yanma",
+      "C) Hızlı yanma",
+      "D) Köpük",
+      "E) Kuru kimyevi toz"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kendi kendine yanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1680,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Dağ yamaçları gibi eğimli yüzeylerde biriken büyük kar kütlelerinin kendiliğinden veya tetikleyici bir etki sonucunda dengenin bozulması nedeniyle, aniden ve büyük bir hızla harekete geçip yamaç eğimi yönünde gösterdiği akma hareketine ne denir?",
+    "options": [
+      "A) Çığ",
+      "B) Deprem",
+      "C) Tsunami",
+      "D) Heyelan",
+      "E) Sel"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Çığ** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1681,
+    "period": "108. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yangın söndürmede, söndürme maddesi olarak kullanılan suyun dezavantajlarındandır?",
+    "options": [
+      "A) Soğutma etkisi",
+      "B) Donma, pas etkisi ve elektriği iletmesi",
+      "C) Diğer söndürücülerden ucuz olması",
+      "D) Akışkan olduğundan uzağa atılabilmesi",
+      "E) Temin edilmesinin kolay olması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Donma, pas etkisi ve elektriği iletmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1682,
+    "period": "108. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "İşyerinde çıkabilecek yangınlara derhal müdahale ederek mümkünse yangını kontrol altına almak, yangının genişlemesine mani olmak ve söndürme faaliyetlerini yürüten ekip aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kurtarma ekibi",
+      "B) İlkyardım ekibi",
+      "C) Koruma ekibi",
+      "D) Onarım ekibi",
+      "E) Söndürme ekibi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Söndürme ekibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1683,
+    "period": "108. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yangın yerindeki tehlikelerden değildir?",
+    "options": [
+      "A) Yüksek sıcaklık tehlikesi",
+      "B) Patlama tehlikesi",
+      "C) Elektrik tehlikesi",
+      "D) Çökme tehlikesi",
+      "E) Donma tehlikesi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Donma tehlikesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1684,
+    "period": "108. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Sıvı yangınlar (tiner, vernik, benzin vb.) için kullanılabilecek en ideal söndürme maddesi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Su",
+      "B) Toprak",
+      "C) Kuru kimyevi toz",
+      "D) Köpük",
+      "E) Karbondioksit"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Köpük** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1685,
+    "period": "108. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Yanıcı madde, ısı ve oksijenin belirli oranlarda birleşmesi sonucu oluşan kimyasal reaksiyona ne denir?",
+    "options": [
+      "A) Benzin",
+      "B) Duman",
+      "C) Yanma",
+      "D) Yanıcı madde",
+      "E) Yangın"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1686,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Fiziksel, ekonomik ve sosyal kayıplar doğuran doğa, insan ve teknoloji kaynaklı olaylar olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kriz",
+      "B) Tehlike",
+      "C) Acil durum",
+      "D) Afet",
+      "E) Kaos"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Afet** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1687,
+    "period": "108. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Bilimsel açıdan bir maddenin uyuşturucu ve uyarıcı madde olarak nitelendirilebilmesi için aşağıdakilerden hangisi gerekli değildir?",
+    "options": [
+      "A) Merkezi sinir sistemini etkilemesi",
+      "B) Sağlık yönünden zarar oluşturması",
+      "C) Ucuz olması",
+      "D) Sosyal bakımdan zarar oluşturması",
+      "E) Fiziki ya da psikolojik bağımlılık oluşturması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Ucuz olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1688,
+    "period": "108. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Narkotik maddelerin sınıflandırılmasına göre aşağıdakilerden hangisi hayal gösterenler (Halüsinojenler) sınıfında yer alır?",
+    "options": [
+      "A) Afyon",
+      "B) Esrar",
+      "C) Eroin",
+      "D) Kokain",
+      "E) Metamfetamin"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Esrar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1689,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": ".......... karşımızdakini suçlamaya ve yargılamaya yönelik bir konuşma tarzıdır. Karşımızdaki insanın hoş görülmeyen kabul edilmeyen davranışları karşısında eleştiri ve töhmet içeren bir dildir. Bu konuşma tarzı, davranışa ve duyguya değil kişiliğe yöneliktir. Bu nedenle karşımızdaki insanı savunmaya iter.  Boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Empati dili",
+      "B) Sempati dili",
+      "C) Etkili iletişim dili",
+      "D) Ben dili",
+      "E) Sen dili"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sen dili** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1690,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İletişim sürecinde kişiler arası mesafe önemli bir yer tutar. Bu itibarla 80-200 cm arası mesafe ile iletişim kurulması demek çok iyi tanımadığımız ama günlük yaşamda sık karşılaştığımız, satıcı, postacı gibi veya iş yerinde çalışma arkadaşları ile olan veya resmi işlerin yürütüldüğü alan olarak tanımlanan alana ne isim verilir?",
+    "options": [
+      "A) Kişisel mesafe",
+      "B) Sosyal alan",
+      "C) Ortak alan",
+      "D) Mahrem mesafe",
+      "E) Özel alan"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Sosyal alan** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1691,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Dinleyici konuşmanın ayrıntılarına dikkat etmez, genel konu hakkında bilgi sahibi olmak onun için yeterlidir. Söylenen sözün arkasında yatan derin anlamı kaçırır. Daha çok kendi bilgisine güvenen, konuşmacının bilgisine fazla değer vermeyen dinleyici türüdür.  Yukarıda tanımlanan dinleyici türü hangisidir?",
+    "options": [
+      "A) Yüzeysel dinleme",
+      "B) Tuzak kurucu dinleme",
+      "C) Savunmacı dinleme",
+      "D) Görünüşte dinleme",
+      "E) Saplanmış dinleme"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yüzeysel dinleme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1692,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir mesajı almak, yorumlamak ya da göndermek bizim kişisel birikimimize göre belirlenir",
+      "B) İnsanların ihtiyaçları ve tecrübeleri, onların duyma ve görme eğilimlerine etki eder",
+      "C) İletişimde temel problem, göndericinin gönderdiği mesajdan ziyade alıcının onu nasıl algıladığıdır",
+      "D) İletişim hedefin davranışlarını etkilemek amacı olmaksızın, sözlü ya da sözsüz araçlarla zihin yönlendirme faaliyetidir",
+      "E) İnsanlar iletişimi amaçlarına ulaşmanın bir aracı olarak kullanırlar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İletişim hedefin davranışlarını etkilemek amacı olmaksızın, sözlü ya da sözsüz araçlarla zihin yönlendirme faaliyetidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1693,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi Meltem 5 yıldır, Nur ise 1 yıldır aynı süper markette çalışmaktadırlar. Meltem daha tecrübeli olduğu gerekçesiyle bayram mesaisinde ilk gün Nur’un gelmesi gerektiğini söyleyerek ona baskı yapmakta, kendisinin eski çalışan olduğu için buna hakkı olduğunu söylemektedir. Nur sorunun büyümemesi için sessiz kalmakta ve Meltem’in bu davranışlarına boyun eğmektedir. İşyerindeki psikolojik şiddet, baskı ve zorlama olarak tanımlanan ve yukarıda örneklendirilen davranışı anlatan kavram hangisidir?",
+    "options": [
+      "A) Stres",
+      "B) Empati",
+      "C) Sempati",
+      "D) Kişiler arası iletişim",
+      "E) Mobbing"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Mobbing** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1694,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "“Ben olsam farklı tepki gösterirdim ama hissettiği duygularını anlıyorum.” diyen birisi etkili iletişimin hangi unsurunu kullanmıştır?",
+    "options": [
+      "A) Empati",
+      "B) Telepati",
+      "C) Sempati",
+      "D) Antipati",
+      "E) Ben Merkezcilik"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Empati** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1695,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İletişimde en çok yapılan hatalardan biri karşı tarafa yeterince net veya doğru olmayan mesajlar vermektir. Örneğin; bazı kişiler kendi istek ve ihtiyaçlarına ters olmasına rağmen karşı taraftan gelen mesajlara hayır yanıtı ile karşılık verememektedirler.  Aşağıdakilerden hangisi kişilerin hayır diyememe sebeplerinden değildir?",
+    "options": [
+      "A) Kendine güvenmek",
+      "B) Kendine güvenin zayıf olması",
+      "C) İlişkilerin bozulma olasılığı",
+      "D) Yalnız kalma endişesi",
+      "E) Karşı tarafı üzme endişesi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kendine güvenmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1696,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Derslerde ne zaman bir fikrimi ifade etsem, hocanın sanki beni küçük düşürmek için cevap verdiğini düşünüyorum.” diyen birisi hangi davranışta bulunmuştur?",
+    "options": [
+      "A) Duyarsızlık",
+      "B) Kararsızlık",
+      "C) Ön kabuller",
+      "D) Alınganlık",
+      "E) Ben merkezcilik"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Alınganlık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1697,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "“Bir insan bu kadar mı mükemmel olur, tam da kendisi gibi olmak istediğim birisi” diyen bir kimse aşağıdakilerden hangi iletişim unsurunu taşıyor olur?",
+    "options": [
+      "A) Öz güven",
+      "B) Sempati",
+      "C) Öz saygı",
+      "D) Sen dili",
+      "E) Ben dili"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Sempati** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1698,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "“Özel güvenlik görevlileri hayatın birçok alanında görevlerini yürütmekte ve bu süreçte muhatap olduğu insanlarla farklı nedenlerle iletişim kurmaktadır”.  Aşağıdakilerden hangisi özel güvenlik görevlisi Hale’nin görevi esnasında en çok kullanacağı etkili iletişim kurma nedenlerinden biridir?",
+    "options": [
+      "A) Mutlu olmak ve sevilmek",
+      "B) Paylaşmak ve haberleşmek",
+      "C) Değerli olmak ve umursanmak",
+      "D) Kabul görmek ve eğlenmek",
+      "E) Etkilemek ve yönlendirmek"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Etkilemek ve yönlendirmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1699,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi etkili iletişimin temel özelliklerinden biri değildir?",
+    "options": [
+      "A) İletişim süreklidir (Her zaman her yerde)",
+      "B) Sözcüklerle ve beden diliyle gerçekleşir",
+      "C) Her zaman bilinçli olarak gerçekleşir",
+      "D) İletişim kaynak ve alıcının aktif olduğu bir süreçtir",
+      "E) İletişim meydana geldiği ortamdan etkilenir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Her zaman bilinçli olarak gerçekleşir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1700,
+    "period": "108. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İyi bir dinleyici olmak, .......... iletişim probleminin yarısını çözmüş olmamız anlamına gelir. Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelirse iletişimin yarısını çözmüş oluruz?",
+    "options": [
+      "A) Zor insanlarla",
+      "B) Güzel insanlarla",
+      "C) İyi insanlarla",
+      "D) Ciddi insanlarla",
+      "E) Basit insanlarla"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Zor insanlarla** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1701,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Toplantı; Belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek için gerçek ve tüzel kişiler tarafından bu Kanun çerçevesinde düzenlenen açık ve kapalı yer toplantılarını ifade etmektedir.” Toplantının tanımının yapıldığı bu düzenleme hangi kanunda yer almaktadır?",
+    "options": [
+      "A) Anayasa",
+      "B) 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun",
+      "C) İcra ve İflas Kanunu",
+      "D) 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu",
+      "E) İş Kanunu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1702,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "“..........; Kazanan-kaybeden yaklaşımıyla ya da kazanmak için zorlayıcı davranışa başvurma ile açıklanabilir.” Çatışmayı önleme yöntemleri dikkate alındığında yukarıda boş bırakılan yere gelmesi gereken ifade hangisidir?",
+    "options": [
+      "A) Uyma",
+      "B) Zorlama",
+      "C) Uzlaşma",
+      "D) Hakeme başvurma",
+      "E) Meşgul etme"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Zorlama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1703,
+    "period": "108. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Ankara’da zincir mağazalarından birinin şubesinde özel güvenlik görevlisi olarak çalışan Ali, mağazada devriye halinde gezerken, ucuz mal alabilmek için oluşan kalabalıkta bazı vatandaşların mağazayı yağmalamaya ve hırsızlık yapmaya teşebbüs ettiklerini görmüştür. Bu durumda, yağma ve hırsızlık yapan kişi/kişilere karşı maddi güç çerçevesinde zor kullanma şartları oluştuğundan müdahale eden Ali’nin, copuyla şahısların vücudunun hangi bölgesine vurması doğru olur?",
+    "options": [
+      "A) Kafa",
+      "B) Kol ve bacak",
+      "C) Boyun",
+      "D) Omur",
+      "E) Kasık"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kol ve bacak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1704,
+    "period": "108. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Bir voleybol maçında görev alan özel güvenlik görevlileri, maç sonunda sahaya inen topluluk veya kalabalığı bölmek ve yanlara doğru dağıtmak, topluluk veya kalabalık içerisindeki lider suçluları yakalayıp tahliye etmek ve topluluk veya kalabalık içerinde yolu açmak için kama düzeni oluşturmuşlardır. Diğer özel güvenlik görevlilerinin, hakemi ve oyuncuları seyirciler tarafından atılan taş, anahtarlık, çakmak, su şişesi, sandalye vb. yabancı maddelerden korumak için almaları gereken düzen aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kama düzeni",
+      "B) Hat düzeni",
+      "C) Çember düzeni",
+      "D) Çatı düzeni",
+      "E) Yandan veya genel destekli düzeni"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Çatı düzeni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1705,
+    "period": "108. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Kalabalıklar organizasyon bakımından organize ve organize olmayan kalabalık, bunlar da kendi aralarında aktif ve pasif kalabalıklar diye ikiye ayrılır. Aşağıdakilerden hangisi organize aktif kalabalıklara örnek gösterilebilir?",
+    "options": [
+      "A) Toplantı, gösteri yürüyüşü ve grevlere katılanlardan oluşan kalabalıklar",
+      "B) Spor ve sanatsal etkinliklerdeki seyirciler, inanç etkinliklerinde bulunanlardan oluşan kalabalıklar",
+      "C) Ani karışıklıklar, panik karışıklıkları sonucu oluşan kalabalıklar",
+      "D) Rastgele (tesadüfi) kalabalıklar, çarşı-pazar kalabalığı",
+      "E) Belli bir alana ilgi duyan insanların bir araya gelmesi ile oluşan kalabalık (dans etmek, şarkı söylemek)"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Toplantı, gösteri yürüyüşü ve grevlere katılanlardan oluşan kalabalıklar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1706,
+    "period": "108. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Günlük hayatın akışı içinde, birbirini tanımayan insanların tesadüfen bir araya gelmeleri kalabalık olarak tanımlanmaktadır. Kalabalık içerisinde kişi tipleri bulunmaktadır. Bu tiplerden biriside; “Genelde topluluğu içeriden yöneten kişilerdir, bunlar aynı zamanda konuşmacılar da olabilirler.” şeklinde açıklanmıştır. Aşağıdakilerden hangisi açıklaması yapılan kişi tipidir?",
+    "options": [
+      "A) Liderler (Önderler)",
+      "B) Tesir altında kalanlar",
+      "C) Atılganlar",
+      "D) Provokatörler",
+      "E) İhtiyatlılar ve destekçiler"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Liderler (Önderler)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1707,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Örgüt içinde iki veya daha fazla kişi ya da grup arasında kıt kaynakların paylaşılması veya görevlerin dağıtımı ile yine bu kişi veya gruplar arasındaki statü, amaç, değer ya da algı farklılıklarından kaynaklanan anlaşmazlık veya uyuşmazlık şeklindeki tanımlamaya “çatışma” denir. Aşağıdakilerden hangisi çatışmanın nedenlerinden değildir?",
+    "options": [
+      "A) Belirli kaynakların paylaşılması, amaç farklılıkları, algılama farklılıkları",
+      "B) Yönetim alanı ile ilgili belirsizlik, işler arası fonksiyonel karşılıklı bağlılık",
+      "C) Kaynakların yeterli olması",
+      "D) İletişim noksanlıkları, statü farklılıkları, yönetici tarzları arasındaki farklılıklar, çıkar farklılıkları",
+      "E) Kişilik farklılıkları, değişen koşulların öngördüğü yeni nitelikler, işçi-işveren ilişkilerindeki kutuplaşmalar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kaynakların yeterli olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1708,
+    "period": "108. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Toplu konut sitesinde görevli özel güvenlik görevlileri Ali ve Ayşe, aniden meydana gelen trafo patlaması ve elektrik kesintisi nedeniyle panikleyen site sakinlerine yönelik paniği önlemek için uyguladıkları yöntemlerden hangisi yanlıştır?",
+    "options": [
+      "A) Site sakinlerini kolayca çıkabilecekleri kapı ve çıkışları saptamak ve bu kaçış yollarının açık bulundurulmasını sağlamak",
+      "B) Gerçek bir tehdidin olup olmadığı konusunda site sakinlerine bilgi vermek",
+      "C) Site yönetimi ile işbirliği içinde hareket etmek",
+      "D) Paniğe kapılan site sakinlerini sakinleştirmeye çalışmak için gayret sarf etmek",
+      "E) Site ve bina çıkış kapılarını kapatmak"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Site ve bina çıkış kapılarını kapatmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1709,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Toplum halinde yaşayan insanların yerine getirmek zorunda oldukları ödevleri ve kullanacakları yetkileri gösteren kurallara “Toplumsal Davranış Kuralları” denilmektedir. Toplum hayatını düzenleyen çok çeşitli sosyal düzen kuralları bulunmaktadır. Bunlardan hangisi bu kurallardan değildir?",
+    "options": [
+      "A) Din kuralları",
+      "B) Ahlak kuralları",
+      "C) Görgü kuralları",
+      "D) Hukuk kuralları",
+      "E) Bireysel kurallar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Bireysel kurallar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1710,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Çalıştığı iş yerinde akli dengesi yerinde olmayan bir şahsın elinde sopayla insanlara saldırdığını gören özel güvenlik görevlisi Ayhan saldırganlık gösteren şahsı etkisiz hale getirebilmek için ilk önce zor kullanma yetkisi içerisinde göz yaşartıcı spreyini kullanır. Ayhan’ın kullandığı göz yaşartıcı spreyi bulundurma izni nereden alınmıştır?",
+    "options": [
+      "A) İl Emniyet Müdürlüğü Özel Güvenlik Şubesinden",
+      "B) İl Özel Güvenlik Komisyonundan",
+      "C) İl Jandarma Komutanlığından",
+      "D) Emniyet Genel Müdürlüğü Özel Güvenlik Denetleme Başkanlığından",
+      "E) Hizmet veren kurum veya şirketten"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İl Özel Güvenlik Komisyonundan** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1711,
+    "period": "108. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Kişi korumada, can ve mal güvenliğine yönelik tehlike ve saldırılara karşı alınan duvar, tel örgü, bariyer, kapan ve kartlı giriş-çıkış kontrol sistemi gibi tedbirlere ne ad verilir?",
+    "options": [
+      "A) Genel güvenlik",
+      "B) Fiziki güvenlik",
+      "C) Yüksek güvenlik",
+      "D) Siyasi güvenlik",
+      "E) Özel güvenlik"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Fiziki güvenlik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1712,
+    "period": "108. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Kişi korumada, güvenlik önlemleri ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Rutin yürüyüşlerde aynı güzergâh kullanılmalıdır",
+      "B) Koruma düzeninde daima 360 derecelik sorumluluk alanı ile koruma sağlanır",
+      "C) Koruma personeli, korunan önemli kişiye (VIP) refakat ederken elinde bir şey taşımaz",
+      "D) Kalabalık yerlerde korunan önemli kişinin (VIP) emniyetini sağlayacak şekilde koruma çemberi daraltılır",
+      "E) Koruma düzeni görev alanının durumuna göre değişken bir hal alabilir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Rutin yürüyüşlerde aynı güzergâh kullanılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1713,
+    "period": "108. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi önemli kişinin (VIP) aracına binerken uyulması gereken kurallardan biri değildir?",
+    "options": [
+      "A) Araçlar, önemli kişiden (VIP) hemen önce binilecek yere getirilmelidir",
+      "B) Makam aracı mümkün olduğunca bina girişine yaklaştırılmalıdır",
+      "C) Araçlar çalışır vaziyette olmalıdır",
+      "D) Makam aracı çıkışın tam karşısında olmalıdır",
+      "E) Önemli kişi (VIP) araca binmeden koruma görevlileri aracına binmelidir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Önemli kişi (VIP) araca binmeden koruma görevlileri aracına binmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1714,
+    "period": "108. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Koruma görevlilerinin özellikleri incelendiğinde aşağıdakilerden hangisi uygun değildir?",
+    "options": [
+      "A) Korunan önemli kişinin her türlü tehlikelerden koruyan, fiziki kondisyonu yüksek, ani karar verebilme yeteneğine sahip her türlü plan ve programı uygulama yeteneği olan kişiler olmalıdır",
+      "B) Akıcı ve temiz bir dille konuşmalıdır",
+      "C) Korunan kişiyle daha önceden tanışıklığı olmalıdır",
+      "D) Protokol ve görgü kurallarını çok iyi bilmeli ve mümkünse en az bir yabancı dil konuşmalıdır",
+      "E) Taşıdığı silahını çok iyi tanımalı, kullanmalı ve atış becerisi üst düzeyde olmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Korunan kişiyle daha önceden tanışıklığı olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1715,
+    "period": "108. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Çoklu koruma düzeni ile ilgili aşağıda verilen bilgilerden hangileri doğrudur?  I- Maksimum koruma sağlar  II- Saldırı riskleri en alt düzeyde kabul edilir  III- Tehditlere karşı operasyonel koruma düzenidir  IV- Tüm koruma personeli cepheleri dışa dönük, gerekirse kol kola girerek yürürler  V- Minimum koruma personeli ile yapılır  VI- Çoklu koruma düzeninde önden arkaya sıralama; eskort, öncü koruma, ambulans, VIP aracı ve artçı koruma şeklinde olur",
+    "options": [
+      "A) I, II, IV",
+      "B) I, II, III",
+      "C) I, III, IV",
+      "D) III, IV, VI",
+      "E) I, II, III, IV, V, VI"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) I, III, IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1716,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, öncü istihbarat çalışmasının amaçlarından biri değildir?",
+    "options": [
+      "A) Korunan önemli kişinin koruma hizmeti dışındaki özel hayatını düzenlemek",
+      "B) Korunan önemli kişinin gideceği yer ve güzergâh üzerinde güvenli bir alan oluşturmak",
+      "C) Korunan önemli kişinin giriş-çıkış noktalarını belirlemek",
+      "D) Korunan önemli kişiye yönelik riskleri ortadan kaldırmak ya da minimuma düşürmek",
+      "E) Korunan önemli kişinin güvenlik planlamasını yapmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Korunan önemli kişinin koruma hizmeti dışındaki özel hayatını düzenlemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1717,
+    "period": "108. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Devletin ekonomisinde önemli bir yere sahip olan kamu ve özel kurum/kuruluş tesislerine, köprülere, petrol boru hatlarına, enerji tesis ve nakil hatlarına, hava meydanlarına, uçaklara hasar vermek amacıyla yapılan eylem türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Maddi kaynak temini için yapılan eylemler",
+      "B) Kaçırma amaçlı eylemler",
+      "C) Alıkoyma amaçlı eylemler",
+      "D) Sabotajlar",
+      "E) Suikastlar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sabotajlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1718,
+    "period": "108. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Özel güvenlik hizmetlerinde, korunan önemli kişinin (VIP) ikametgâhında ve çalışma yerlerinde, araçlı veya yaya olarak yapacağı planlı ya da ani gelişen program ve seyahatlerinde, güvenliğinin 24 saat esasına göre sağlanması ve kontrol altında bulundurulması amacıyla yapılan faaliyetlere ne ad verilir?",
+    "options": [
+      "A) Genel koruma",
+      "B) Yakın koruma",
+      "C) Güvenlik",
+      "D) Kişi koruma",
+      "E) Genel tedbir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kişi koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1719,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bombalı bir saldırıda aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      "A) Bombayı ilk gören kişinin yön belirterek arkadaşlarını uyarması",
+      "B) Saldırının aksi istikamete doğru uzaklaşması ve en kısa sürede yere yatarak hedef küçültmesi",
+      "C) Mümkünse ilk görenin bombayı alarak uzak mesafeye atması",
+      "D) İkinci bir saldırı ihtimaline karşı tedbirli ve uyanık olunması",
+      "E) Saldırı bölgesinden bir an evvel güvenli bölgeye geçilmesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Mümkünse ilk görenin bombayı alarak uzak mesafeye atması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1720,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki yetkilerden hangisi hem özel güvenlik görevlilerine, hem de Genel Kolluğa tanınmış ortak bir yetkidir?",
+    "options": [
+      "A) Parmak izi alma",
+      "B) İstihbarat toplama",
+      "C) Terk edilmiş veya bulunmuş eşyayı emanete alma",
+      "D) İfade alma",
+      "E) Zorla getirme"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Terk edilmiş veya bulunmuş eşyayı emanete alma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1721,
+    "period": "108. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Genel kolluk görevlileri ve özel güvenlik görevlilerinin üniformalı görev yapmaları, kamu güvenliği açısından aşağıdaki faydalardan hangisini sağlamaz?",
+    "options": [
+      "A) Toplum sağlığına katkı",
+      "B) Toplumda suça maruz kalma endişesinin azaltılması",
+      "C) Genel kolluk ve özel güvenlik arasında koordinasyonun kolaylaşması",
+      "D) Suç işlenmesine karşı caydırıcılık/önleyicilik",
+      "E) İhtiyaç halinde vatandaşın genel kolluğa/özel güvenlik görevlisine ulaşım kolaylığı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Toplum sağlığına katkı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1722,
+    "period": "108. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "İl ve ilçe belediye hudutları haricinde kalan ve polis teşkilatı bulunmayan yerlerde görev yapan özel güvenlik görevlileri hangi kolluğun yetki ve sorumluluk alanına girerler?",
+    "options": [
+      "A) Köy korucuları",
+      "B) Çiftçi mallarını koruma bekçileri",
+      "C) Orman muhafaza memurları",
+      "D) Jandarma",
+      "E) Belediye zabıtası"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Jandarma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1723,
+    "period": "108. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Kamu güvenliğini tamamlayıcı mahiyette görev yapan özel güvenlik görevlilerinin görev alanlarında, olay meydana gelmeden suçun önlenmesi, meydana gelen olaylarda ise en seri şekilde genel kolluğa bildirilmesi, özel güvenlik ve genel kolluk görevlilerinin etkin iş birliği ve koordinasyonu ile uygun, verimli, denetlenebilir, sürdürülebilir ve ölçülebilir güvenlik hizmetinin sunulmasını hedefleyen Özel Güvenlik Denetleme Başkanlığı tarafından hayata geçirilen proje aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Özel Güvenlik Bilgi Sistemi Otomasyon Projesi (ÖGNET)",
+      "B) Genel Kolluk-Özel Güvenlik İş Birliği ve Entegrasyon Projesi (KAAN)",
+      "C) Polis-Jandarma-Özel Güvenlik İşbirliği Projesi",
+      "D) Özel Güvenlik-Kolluk Entegrasyon Projesi",
+      "E) Özel Güvenlik Hizmetleri Entegrasyon Projesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Genel Kolluk-Özel Güvenlik İş Birliği ve Entegrasyon Projesi (KAAN)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1724,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin sınavlarına ilişkin “sınav komisyonlarının hazırlanması, soru bankasının oluşturulması, matbaa ve kurye personellerinin tespit edilmesi, optik formların hazırlanması, sınav sonuçlarının okunması ve açıklanması” işlemleri hangi kurumun koordinesinde yürütülmektedir?",
+    "options": [
+      "A) Özel Güvenlik Eğitim Kurumları",
+      "B) Milli Eğitim Bakanlığı",
+      "C) ÖSYM",
+      "D) Özel Güvenlik Denetleme Başkanlığı",
+      "E) Üniversiteler"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Özel Güvenlik Denetleme Başkanlığı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1725,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel Güvenlik Denetleme Başkanlığı tarafından hayata geçirilen Özel Güvenlik Bilgi Sistemi Otomasyonu (ÖGNET) ile e-Devlet Kapısı arasında yapılan entegrasyon ile özel güvenlik görevlileri tarafından sıfır belge ile e-Devlet kapısı üzerinden gerçekleştirilen hizmet aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Özel Güvenlik Temel Eğitim Sınavı Başvurusu",
+      "B) Özel Güvenlik Yenileme Eğitimi Sınavı Başvurusu",
+      "C) Özel Güvenlik Hizmet İçi Atış Başvurusu",
+      "D) Özel Güvenlik Sertifika Başvurusu",
+      "E) Özel Güvenlik Görevlisi Kimlik Kart Başvurusu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Özel Güvenlik Görevlisi Kimlik Kart Başvurusu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1726,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Mermi çekirdeğinin en yüksek hıza ulaşmasını sağlayarak, hedefe bu hızla çarpmak suretiyle, hedefi yok edecek ya da azami zarar verecek şekilde fırlatmayı gerçekleştiren silah parçası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Çerçeve",
+      "B) Şarjör",
+      "C) Tırnak",
+      "D) Fişek yatağı",
+      "E) Namlu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Namlu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1727,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Poligonda atış esnasında tetiği çektikten sonra silah ateşlenmez ise aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Arızayı kendi gidermeye çalışır",
+      "B) Şarjörü çıkartıp tekrar takarak atış yapmaya çalışır",
+      "C) Namluyu hedeften ayırmadan atış nezaretçisine haber verir",
+      "D) Doldur boşalt yapıp atışa devam etmeye çalışır",
+      "E) Mermi namluda kalıp kalmadığını namlunun içine gözle bakarak kontrol eder"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Namluyu hedeften ayırmadan atış nezaretçisine haber verir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1728,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Sibel'in atış esnasında horoz düşmesine rağmen silahı ateş almamış ise sebep olarak aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "A) Gez ayarsız olabilir",
+      "B) İğne kırık olabilir",
+      "C) Sürgü kilit dişleri aşınmış olabilir",
+      "D) Namlu içindeki yiv ve setler aşınmış olabilir",
+      "E) Yerine getiren yay kırık olabilir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İğne kırık olabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1729,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Recep'e verilen görev silahının fişek rampası kırık ise atış esnasında nasıl bir durumla karşılaşır?",
+    "options": [
+      "A) Şarjöre fişek doldurulamaz",
+      "B) Tetiği çekince horoz düşmez",
+      "C) Boş kovan dışarı atılamaz",
+      "D) Şarjörden fişek yatağına fişek sürülemez",
+      "E) Silahın sürgüsü geride kalır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şarjörden fişek yatağına fişek sürülemez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1730,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "“ .......... özelliği nedeniyle, yakıcı, zehirleyici, bayıltıcı, göz yaşartıcı etkilere sahip silahlara .......... silahlar denir.” ifadesindeki noktalı yerlere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Biyolojik – Biyolojik",
+      "B) Kimyasal- Kimyasal",
+      "C) Biyolojik – Kimyasal",
+      "D) Kimyasal – Ateşli",
+      "E) Biyolojik - Ateşsiz"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kimyasal- Kimyasal** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1731,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişeğin ateşlenmesiyle fişek çekirdeğinin namludan çıkıp hedefe vurmasına kadar hareketlerini, hedef üzerindeki tahribatı ve fişeğin bu hareketlerini etkileyen faktörlerin incelenmesine ne ad verilir?",
+    "options": [
+      "A) Kriminoloji",
+      "B) Kaligrafi",
+      "C) Balistik",
+      "D) Grafoloji",
+      "E) Klimatoloji"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Balistik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1732,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Atış yapılan tabancanın sürgüsünün geride kalması, aşağıdakilerin hangisinin neticesinde olur?",
+    "options": [
+      "A) Namlunun ısınması",
+      "B) Tabancanın iğnesinin kırılması",
+      "C) Şarjörün tabancadan çıkması",
+      "D) Şarjörde fişeğin bitmesi",
+      "E) Şarjör kilidinin bozuk olması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şarjörde fişeğin bitmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1733,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kısa namlulu ateşli silahlar arasında yer almaz?",
+    "options": [
+      "A) Mekanik tabancalar",
+      "B) Toplu tabancalar",
+      "C) Otomatik tabancalar",
+      "D) Tek atışlı tabancalar",
+      "E) Makineli tabancalar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Mekanik tabancalar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1734,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Sürgü (kapak takımı) üzerinde aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "A) Gez",
+      "B) Boş kovan atma boşluğu",
+      "C) Tetik korkuluğu",
+      "D) Yerine getiren yay",
+      "E) İğne grubu çerçevesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tetik korkuluğu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1735,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi hedef balistiğine etki eden faktörlerden değildir?",
+    "options": [
+      "A) Çekirdeğin biçimi",
+      "B) Çekirdeğin ağırlığı",
+      "C) Vuruş hızı",
+      "D) Çekirdeğin yapımında kullanılan maddenin cinsi",
+      "E) Havanın yoğunluğu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Havanın yoğunluğu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1736,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahın aksaksız görev yapmasını sağlayan ana tertibatlardan değildir?",
+    "options": [
+      "A) Kovan atma tertibatı",
+      "B) El kundağı tertibatı",
+      "C) Emniyet tertibatı",
+      "D) Ateşleme tertibatı",
+      "E) Nişan tertibatı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) El kundağı tertibatı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1737,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Uzaktan veya yakından, canlıları öldürebilen, yaralayan, etkisiz bırakan, canlı organizmaları hasta eden, cansızları parçalayan, yok eden araç ve aletlerin tümüne .......... denir.",
+    "options": [
+      "A) Kimyasal silah",
+      "B) Ateşsiz silah",
+      "C) Ateşli silah",
+      "D) Silah",
+      "E) Biyolojik silah"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Silah** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1738,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi fişeğin bölümlerinden biri değildir?",
+    "options": [
+      "A) Rampa",
+      "B) Barut",
+      "C) Çekirdek",
+      "D) Kovan",
+      "E) Kapsül"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Rampa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1739,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşli silahlarda ateşleme ile birlikte yanan barutun basıncıyla namluyu terk eden tahrip gücüne sahip fişeğin bölümlerinden biri olan metal parça aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Çekirdek",
+      "B) Kovan",
+      "C) Kapsül",
+      "D) Barut",
+      "E) Şarjör"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Çekirdek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1740,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişek yatağıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Atışa hazır fişeğin bulunduğu yerdir",
+      "B) Fişek yatağının çapı fişeğin çapından küçüktür",
+      "C) Namlunun gerisinde bulunur",
+      "D) Fişeğin ateşlendiği yerdir",
+      "E) Fişek yatağında yiv ve set bulunmaz"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Fişek yatağının çapı fişeğin çapından küçüktür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1741,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Hangisi silah sökülürken dikkat edilecek hususlardan biri değildir?",
+    "options": [
+      "A) Sürgü çekilerek fişek yatağı kontrol edilir",
+      "B) Silah kirli ve paslı ise sökülmez",
+      "C) Silah ölü bir noktaya çevrilir",
+      "D) Silah sökülürken mümkün olduğunca boş bir alan seçilmelidir",
+      "E) Şarjör çıkartılır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Silah kirli ve paslı ise sökülmez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1742,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah bakım malzemesi değildir?",
+    "options": [
+      "A) Bakır telli veya kıl telli fırça",
+      "B) Temizlik bezi",
+      "C) Harbi",
+      "D) Hatve",
+      "E) Koruyucu yağ"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Hatve** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1743,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Hazne görevini yarı otomatik tabancalarda şarjör yerine getirirken, aynı görevi toplu tabancalarda aşağıdakilerden hangisi yerine getirir?",
+    "options": [
+      "A) Hatve",
+      "B) Fişek yatağı",
+      "C) Top yuvaları",
+      "D) Rayyür",
+      "E) Gerdel"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Top yuvaları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1744,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahların genel olarak sınıflandırılmasında aşağıdakilerden hangisi yoktur?",
+    "options": [
+      "A) Kimyasal silahlar",
+      "B) Ateşli silahlar",
+      "C) Biyolojik silahlar",
+      "D) Ateşsiz silahlar",
+      "E) Uzun namlulu silahlar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Uzun namlulu silahlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1745,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi şarjörün parçası değildir?",
+    "options": [
+      "A) Şarjör gövdesi",
+      "B) Şarjör kapağı",
+      "C) Şarjör yayı",
+      "D) Gerdel",
+      "E) Şarjör yuvası"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Şarjör yuvası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1746,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik tabancada rampa, silahın hangi parçası üzerinde bulunur?",
+    "options": [
+      "A) Namluda",
+      "B) Sürgüde (Kapak takımında)",
+      "C) Şarjör gövdesinde",
+      "D) Şarjör yuvasında",
+      "E) Çerçevede (Gövdede)"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Namluda** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1747,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi yarı otomatik tabancanın parçalarından biri değildir?",
+    "options": [
+      "A) Hazne (Şarjör)",
+      "B) Namlu",
+      "C) Sürgü (Kapak takımı)",
+      "D) Harbi",
+      "E) Yerine getiren yay ve pimi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Harbi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1748,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi tabancaların emniyet tertibatlarından değildir?",
+    "options": [
+      "A) Horoz emniyeti",
+      "B) Kabza emniyeti",
+      "C) İkaz pimi emniyeti",
+      "D) Şarjör emniyeti",
+      "E) Fişek yatağı emniyeti"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Fişek yatağı emniyeti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1749,
+    "period": "108. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi kalibrenin eş anlamlısıdır?",
+    "options": [
+      "A) Set",
+      "B) Yiv",
+      "C) Çap",
+      "D) Rayyür",
+      "E) Gez"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çap** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1750,
+    "period": "108. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ülkemizde kullanılan MP-5 makinalı tabancada emniyet mandalında pozisyonu belirleyen harflerden E harfi ne anlama gelmektedir?",
+    "options": [
+      "A) Emniyet",
+      "B) En yavaş atış",
+      "C) En hızlı atış",
+      "D) Tek tek atış",
+      "E) Seri atış"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Emniyet** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 108. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (108. Dönem Sınavı)"
+  },
+  {
+    "id": 1751,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanununun, özel güvenlik görevlisine yakalama yetkisi verdiği durumlardan biri değildir?",
+    "options": [
+      "A) Kişiye suçu işlerken rastlanması, suçüstü bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması veya hemen kimliğini belirleme olanağının bulunmaması",
+      "B) Olay yerini ve delilleri korumak için olay yerinde görevine ait işlemlerin yapılmasına engel olunması veya yetkisi içinde aldığı tedbirlere aykırı davranılması",
+      "C) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenlerden duyarlı kapıdan geçmeyen, üstlerini dedektör ile aratmayan, eşyalarını X-Ray cihazından veya benzeri güvenlik sistemlerinden geçirmek istemeyen kişilerle karşılaşılması",
+      "D) Kişinin vücudu veya sağlığı bakımından mevcut bir tehlikeden korunması",
+      "E) Görev alanında, haklarında yakalama emri veya mahkûmiyet kararı bulunan kişilerle karşılaşılması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenlerden duyarlı kapıdan geçmeyen, üstlerini dedektör ile aratmayan, eşyalarını X-Ray cihazından veya benzeri güvenlik sistemlerinden geçirmek istemeyen kişilerle karşılaşılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1752,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Banka şubesinde silahlı olarak görev yapmakta olan özel güvenlik görevlisi Mustafa, hangi hallerde bankaya ait görev silahını evinde bulundurabilir?",
+    "options": [
+      "A) Bankaya ait silahı evinde bulunduramaz",
+      "B) Genel kolluğun onayı ile",
+      "C) Banka müdürünün izniyle",
+      "D) Acil ve zorunlu hallerde",
+      "E) 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un verdiği yetkiyle"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Bankaya ait silahı evinde bulunduramaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1753,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinde aranan şartlar arasında aşağıdakilerden hangisi vardır?",
+    "options": [
+      "A) Türkiye Cumhuriyeti vatandaşı olmak",
+      "B) 25 yaşını doldurmuş olmak",
+      "C) Sürücü belgesi sahibi olmak",
+      "D) İyi derecede en az bir yabancı dil bilmek",
+      "E) Silahsız olarak görev yapacaklar için en az lise mezunu olmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Türkiye Cumhuriyeti vatandaşı olmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1754,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre aşağıdakilerden hangisi il özel güvenlik komisyonu için doğru değildir?",
+    "options": [
+      "A) Komisyon, kararlarını oy çokluğu ile alır",
+      "B) Komisyon kararlarında çekimser oy kullanılamaz",
+      "C) Komisyon kararlarında oyların eşitliği halinde komisyon başkanının bulunduğu taraf çoğunluk sayılır",
+      "D) Komisyon 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da belirtilen görev alanındaki özel güvenlikle ilgili kararları alır",
+      "E) Komisyon, İçişleri Bakanı’nın görevlendireceği bir vali yardımcısının başkanlığında, il emniyet müdürlüğü, il jandarma komutanlığı, ticaret odası başkanlığı, sanayi odası başkanlığı temsilcisinden oluşur"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Komisyon, İçişleri Bakanı’nın görevlendireceği bir vali yardımcısının başkanlığında, il emniyet müdürlüğü, il jandarma komutanlığı, ticaret odası başkanlığı, sanayi odası başkanlığı temsilcisinden oluşur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1755,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Alışveriş merkezinde özel güvenlik görevlisi olan Mehmet, çalışmış olduğu şirketten iş sözleşmesinin tek taraflı olarak feshedildiğini, yani işten çıkarıldığını öğrenir. İş sözleşmesi feshedilen Mehmet fesih bildiriminde geçerli bir sebep olmadığı veya gösterilmediği iddiası ile fesih bildiriminin tebliğ tarihinden itibaren 1 ay içerisinde işe iade talebiyle arabulucuya başvurabilir. Anlaşmaya varılamaması halinde, son tutanağın düzenlendiği tarihten itibaren 2 hafta içerisinde .......... dava açabilir.  Buna göre boşluğa aşağıdaki seçeneklerden hangisi gelmelidir?",
+    "options": [
+      "A) İş Mahkemesine",
+      "B) Ticaret Mahkemesine",
+      "C) İcra Hukuk Mahkemesine",
+      "D) Asliye Hukuk Mahkemesine",
+      "E) Tüketici Mahkemesine"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İş Mahkemesine** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1756,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da, aşağıdakilerden hangisi özel güvenlik görevlilerinin yetkilerinden sayılmamıştır?",
+    "options": [
+      "A) Kimlik Sorma",
+      "B) Arama",
+      "C) Zor kullanma",
+      "D) Tutuklama",
+      "E) Emanete Alma"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Tutuklama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1757,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da sayılan, adli suçlar ve idari para cezası/yaptırımı gerektiren fiiller arasında yer almaz?",
+    "options": [
+      "A) Özel güvenlik iznini almadan özel güvenlik görevlisi çalıştırmak",
+      "B) Özel güvenlik görevlisini koruma ve güvenlik hizmetleri dışında başka bir işte çalıştırmak",
+      "C) Göreve başlayan özel güvenlik görevlilerini on beş gün içinde valiliğe bildirmek",
+      "D) Özel güvenlik görevlisi kimlik kartını başkasına kullandırmak",
+      "E) Birlikte görev yapılan yetkili genel kolluk amirinin verdiği emirleri yerine getirmemek"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Göreve başlayan özel güvenlik görevlilerini on beş gün içinde valiliğe bildirmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1758,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında görev alanında ateşli silah taşıyacak özel güvenlik görevlilerinde, 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun ve bu Kanunun uygulanmasına ilişkin Yönetmelikte belirtilen şartların aranması nedeniyle silahlı özel güvenlik kimlik kartı verilebilmesi için kişinin kaç yaşını doldurmuş olması gerekmektedir?",
+    "options": [
+      "A) 20",
+      "B) 21",
+      "C) 22",
+      "D) 23",
+      "E) 24"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) 21** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1759,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi il özel güvenlik komisyonu üyelerinden değildir?",
+    "options": [
+      "A) İl emniyet müdürlüğü temsilcisi",
+      "B) Sanayi odası başkanlığı temsilcisi",
+      "C) İl jandarma komutanlığı temsilcisi",
+      "D) İl milli eğitim müdürlüğü temsilcisi",
+      "E) Ticaret odası başkanlığı temsilcisi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İl milli eğitim müdürlüğü temsilcisi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1760,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdakilerden hangisi özel güvenlik şirketinin ateşli silah alması ve bulundurmasına izin verilebilmesine yönelik istisnadır?",
+    "options": [
+      "A) Özel güvenlik şirketinin riskli bir lokasyonda bulunması",
+      "B) Özel güvenlik şirketinin piyasa değerinin yüksek olması",
+      "C) Özel güvenlik şirketinin bünyesinde alarm izleme merkezinin bulunması",
+      "D) Özel güvenlik şirketi kurucu veya yöneticilerine yönelik mevcut bir tehdidin olması",
+      "E) Özel güvenlik şirketinin para ve değerli eşya nakli veya geçici süreli koruma ve güvenlik hizmeti vermesi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Özel güvenlik şirketinin para ve değerli eşya nakli veya geçici süreli koruma ve güvenlik hizmeti vermesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1761,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik hizmeti almak isteyen kişi, kurum ve kuruluşlar özel güvenlik izni almak zorundadır. Özel güvenlik izin başvurusunda aşağıdakilerden hangisinin belirtilmesi gerekmez?",
+    "options": [
+      "A) Özel güvenlik hizmetinin konusu",
+      "B) Özel güvenlik hizmetinin ne şekilde yerine getirileceği",
+      "C) Hizmetin azami olarak kaç personel eliyle yürütüleceği",
+      "D) İhtiyaç duyulacak silah ve teçhizatın miktar ve niteliği",
+      "E) Çalışanların kaç saat çalışacağı ve ücretleri"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Çalışanların kaç saat çalışacağı ve ücretleri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1762,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki durumlardan hangisi 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da belirtilen özel güvenlik görevlisi olmak için engel hallerden biri değildir?",
+    "options": [
+      "A) Affa uğramış dolandırıcılık suçundan mahkum olunması",
+      "B) Kasten işlenen bir suçtan dolayı bir yıl süreyle hapis cezasına mahkum olunması",
+      "C) Kasten işlenen ve bir yıldan fazla ceza gerektiren bir suçtan dolayı hakkında hükmün açıklanmasının geri bırakılmasına karar verilmesi",
+      "D) Güveni kötüye kullanma veya hileli iflas suçlarından hakkında devam etmekte olan bir soruşturma veya kovuşturma bulunması",
+      "E) Uyuşturucu veya uyarıcı madde suçlarından dolayı hakkında devam etmekte olan bir soruşturma veya kovuşturma bulunması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Güveni kötüye kullanma veya hileli iflas suçlarından hakkında devam etmekte olan bir soruşturma veya kovuşturma bulunması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1763,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bıçakla yaralama olayı ile karşılaşan özel güvenlik görevlilerinin aşağıdakilerden hangisini yapması uygun değildir?",
+    "options": [
+      "A) Suçun devamını önlemek",
+      "B) Suçun şüphelisini tespit etmek ve yakalamak",
+      "C) Olay yeri ve suç delillerini muhafaza etmek ve yetkili kolluğa teslim etmek",
+      "D) Olay yerindeki delilleri incelemek",
+      "E) Genel kolluk kuvvetlerine bildirmek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Olay yerindeki delilleri incelemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1764,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un 8. maddesinde belirtilen silah bulundurma ve taşıma yetkisine göre özel güvenlik görevlisi aşağıdakilerden hangisinde silahlı görev yapabilir?",
+    "options": [
+      "A) Bankalarda",
+      "B) Talih oyunları işletmelerinde",
+      "C) İçkili yerlerde",
+      "D) Sağlık tesislerinde",
+      "E) Eğitim ve öğretim kurumlarında"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Bankalarda** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1765,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki yerlerin hangisinde, özel güvenlik görevlilerinin el ile üst arama yetkisi yasa ile düzenlenmiştir?",
+    "options": [
+      "A) Sağlık tesislerinde",
+      "B) Hastanelerde",
+      "C) Otel ve turistik tesislerde",
+      "D) Spor müsabakalarında",
+      "E) Mahkemelerde"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Spor müsabakalarında** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1766,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da sayılan adli suçlar ile ilgili olarak Cumhuriyet Savcısından alacağı talimata göre adli soruşturma yapma yetkisi aşağıdakilerden hangisine aittir?",
+    "options": [
+      "A) Özel güvenlik şirketi",
+      "B) Özel güvenlik hizmeti alan yer",
+      "C) Özel güvenlik birimi",
+      "D) Genel kolluk",
+      "E) Özel güvenlik eğitim kurumu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Genel kolluk** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1767,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da, özel güvenlik hizmetlerinin yerine getirilmesindeki hedeflenen amaç aşağıdakilerden hangisinde doğru olarak ifade edilmiştir?",
+    "options": [
+      "A) Kamu güvenliğini açıklamak",
+      "B) Kamu güvenliğini öne çıkarmak",
+      "C) Kamu güvenliğini tamamlamak",
+      "D) Kamu güvenliğini fırsat eşitliğine dönüştürmek",
+      "E) Kamu güvenliğinin sürekliliğini sağlamak"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kamu güvenliğini tamamlamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1768,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerine görev yaptıkları alanlarda yangın, deprem gibi tabii afet ve imdat istenmesi durumlarında tanınan yetkidir?",
+    "options": [
+      "A) Kimlik sorma",
+      "B) Zor kullanma",
+      "C) Emanete alma",
+      "D) Yakalama ve arama",
+      "E) İşyeri ve konutlara girme"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İşyeri ve konutlara girme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1769,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi havalimanında çalışan özel güvenlik görevlisi Ali’nin görevi değildir?",
+    "options": [
+      "A) Şüpheliyi muhafaza altına almak",
+      "B) Şüphelinin ifadesini almak",
+      "C) Kişilerin can ve mal güvenliğini sağlamak",
+      "D) X-Ray, el dedektörü vb. cihazlar ile kontroller yapmak",
+      "E) Kimlik sormak"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Şüphelinin ifadesini almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1770,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Belediye girişi kontrol noktasında görevli özel güvenlik görevlisi Emre, görevi yerine getirirken aşağıdakilerden hangisini yapması uygun değildir?",
+    "options": [
+      "A) Suç teşkil eden maddelerin girişini engellemek",
+      "B) Belediyeye gelen ziyaretçilerin taşıma ruhsatlı silahlarını emanete almak",
+      "C) Yetkisiz kişilerin girişlerini engellemek",
+      "D) Gelen ziyaretçilerin kontrollü girişlerini sağlamak",
+      "E) Şüpheli araç ve kişilerin geçişini engellemek"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Belediyeye gelen ziyaretçilerin taşıma ruhsatlı silahlarını emanete almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1771,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Devriye görevini yerine getiren özel güvenlik görevlileri Emre ve Oğuz, yol kenarında şüpheli bir paket ile karşılaştıklarındaki hareket tarzı aşağıdakilerden hangisi olmalıdır?",
+    "options": [
+      "A) Paketi inceler ve sahibine ulaşmaya çalışırlar",
+      "B) Yolu araç ve yaya trafiğine kapatarak genel kolluğa bilgi verirler",
+      "C) Paketin zarar vermemesi için uygun bir alana taşırlar",
+      "D) Trafiğin aksamaması için trafik akışını sağlarlar",
+      "E) Paketin içine bakarak tehlikeli olup olmadığını kontrol ederler"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Yolu araç ve yaya trafiğine kapatarak genel kolluğa bilgi verirler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1772,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Yazının bir tutanak olduğu, taraflara okunduğu ve okutulduğu, doğruluğunun anlaşılması üzerine, birlikte imza altına alındığı hususlarının yer aldığı bölüm tutanağın hangi bölümüdür?",
+    "options": [
+      "A) Metin bölümü",
+      "B) İmza bölümü",
+      "C) Sonuç bölümü",
+      "D) Başlık bölümü",
+      "E) Giriş bölümü"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Sonuç bölümü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1773,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi risk analizi ve güvenlik planlaması yapılırken dikkat edilmesi gereken hususlardan biri değildir?",
+    "options": [
+      "A) Kurulacak sistemler ve alınacak tedbirler, ihtiyaca ve risklerin durumuna göre gerekli düzenlemeler yapılabilecek şekilde dinamik olmalıdır",
+      "B) Devriye görevlileri gizlilik içerisinde görev yapacak şekilde planlanmalıdır",
+      "C) Güvenlik tedbirlerinin planlanmasında kişilerin özgürlük ve güvenlik dengesi gözetilmelidir",
+      "D) Seçilecek güvenlik sistem ve cihazlarının fayda maliyet dengesi dikkate alınmalıdır",
+      "E) Alınacak tedbirler kişilerin günlük yaşantılarını kısıtlamaktan ziyade kolaylaştırmaya yönelik olmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Devriye görevlileri gizlilik içerisinde görev yapacak şekilde planlanmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1774,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "AVM kontrol noktasında görevli özel güvenlik görevlisi Mehmet, kapı dedektöründen geçen ziyaretçiden sinyal gelmesi üzerine yapmış olduğu kontrolde, şahsın taşıma ruhsatlı silahı bulunduğunu öğrenir. Bu olayda, özel güvenlik görevlisi Mehmet’in yapması gereken doğru davranış aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Silahı emanete alarak şahsı içeri alır",
+      "B) Silahlı gelmemesi konusunda uyararak şahsı içeri almaz",
+      "C) Silahı ile birlikte şahsı içeri alır",
+      "D) Şahsı silahı ile birlikte genel kolluğa teslim eder",
+      "E) Şahsı AVM yönetimine, silahı genel kolluğa teslim eder"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Silahı ile birlikte şahsı içeri alır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1775,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik görevlileri Alper ve Seçkin’in devriye görevine çıkmadan önce aşağıdaki teçhizatlardan hangisini yanlarına almalarına gerek yoktur?",
+    "options": [
+      "A) Kalem",
+      "B) Dergi",
+      "C) Defter",
+      "D) Düdük",
+      "E) Kelepçe"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Dergi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1776,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi kadına yönelik şiddetin önlenmesi ile ilgili düzenlemelerden biridir?",
+    "options": [
+      "A) 2559 sayılı Polis Vazife ve Salahiyet Kanunu",
+      "B) 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu",
+      "C) 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun",
+      "D) 6222 sayılı Sporda Şiddetin Önlenmesine Dair Kanun",
+      "E) 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1777,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Özel güvenlik görevlileri Elif ve Murat bir AVM’de bıçakla yaralamalı bir olaya müdahale etmişlerdir. Müdahale sürecinde hangi eylem ve işlemleri doğru değildir?",
+    "options": [
+      "A) Şüpheliyi yakalayıp etkisiz hale getirmişlerdir",
+      "B) Şüphelinin kaba üst aramasını yapmışlardır",
+      "C) Olay yerinde bulunan kesici aleti emanete almışlardır",
+      "D) Yakalanan şüpheliyi sorgulayıp tutanak hazırlamışlardır",
+      "E) Yakalanan şüphelinin kimlik bilgilerini not etmişlerdir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yakalanan şüpheliyi sorgulayıp tutanak hazırlamışlardır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1778,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktalarında dikkate alınması gereken hususlar arasında yer almaz?",
+    "options": [
+      "A) Özel güvenlik uygulamaları hukuki olmalıdır",
+      "B) Özel alanlara girişlerde kişilerin girmelerini engelleyici özel kurallar konulabilir",
+      "C) Kamuya ait, kamuya açık ya da kamunun bütününe açılmış yerlere girişler engellenemez",
+      "D) Güvenlik sorumlusunun takdirini kazanmak için yasal olmayan davranışlarda bulunulamaz",
+      "E) Mal kayıplarını önlemek için giriş ve çıkışlarda el ile arama yapılabilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Mal kayıplarını önlemek için giriş ve çıkışlarda el ile arama yapılabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1779,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Aşağıdakilerden hangisi kamera izleme odası (CCTV Odası) görevlilerinin yapması gereken davranışlar arasında yer almaz?",
+    "options": [
+      "A) Meydana gelen her türlü konuyu devir teslim ve rapor defterine kaydetmelidir",
+      "B) Kendisinden sonra gelecek görevli gelmeden izleme odasından ayrılmamalıdır",
+      "C) Hizmet alanındaki kamera görüntülerini sürekli takip etmelidir",
+      "D) Şüpheli olay veya kişileri derhal ilgili kişilere bildirmelidir",
+      "E) CCTV odasına giriş ve çıkışlara kesinlikle karışmamalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) CCTV odasına giriş ve çıkışlara kesinlikle karışmamalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1780,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "6222 sayılı Sporda Şiddetin ve Düzensizliğin Önlenmesine Dair Kanun hükümleri doğrultusunda aşağıdakilerden hangisi özel güvenlik görevlilerinin görevlerinden biri değildir?",
+    "options": [
+      "A) Alana yasak maddelerin sokulmasını önlemek",
+      "B) Alanda hakaret içeren tezahüratı önlemek",
+      "C) Alana usulsüz seyirci girişini önlemek",
+      "D) Stat dışında seyyar satıcıların satışını önlemek",
+      "E) Spor tesislerine zarar verilmesini önlemek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Stat dışında seyyar satıcıların satışını önlemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1781,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Kontrol noktasında görevli özel güvenlik görevlileri Akın ile Bekir’in hangi davranışı yanlıştır?",
+    "options": [
+      "A) El tipi metal dedektörünü kişinin vücuduna paralel tutarak kontrol ederler",
+      "B) X-Ray cihazından kontrol edilecek eşyalar arasında en az (50) cm mesafe bırakırlar",
+      "C) Haklarında mahkumiyet kararı bulunan kişileri yakalarlar",
+      "D) Kapı dedektöründen geçmek istemeyen kişileri korunan alana alırlar",
+      "E) Kişileri kapı dedektöründen tek tek geçirerek içeri alırlar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kapı dedektöründen geçmek istemeyen kişileri korunan alana alırlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1782,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi güç kullanmanın temel şartlarındandır?  I.Güç kullanmaya mecbur kalınmalıdır  II.Güç kullanma ani, kararlı ve sürekli olmalıdır  III.Güç kullanma tedbirleriyle olay arasında bir denge olmalıdır  IV.Güç kullanma kanuna uygun olmalıdır  V.Güç, ancak silah veya teçhizatla kullanılmalıdır",
+    "options": [
+      "A) I-II",
+      "B) I-III-V",
+      "C) II-III",
+      "D) II-V",
+      "E) I-III-IV"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I-III-IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1783,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin telsiz kullanırken dikkat etmesi gereken hususlardan biri değildir?",
+    "options": [
+      "A) Telsiz haberleşmeleri kod kullanılmak suretiyle yapılır",
+      "B) Telsizle gizli ve özel durumlar dışında haberleşme yapılmaz",
+      "C) Diğer istasyonların haberleşme yaptığı esnada telsizle konuşulmaya çalışılmaz",
+      "D) Telsiz haberleşmeleri kısa ve anlaşılır biçimde yapılır",
+      "E) Telsiz haberleşmesinde hafifçe yüksek ses tonuyla, ağır ve anlaşılır şekilde konuşulur"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Telsizle gizli ve özel durumlar dışında haberleşme yapılmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1784,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Etkili bir koruma ve güvenlik hizmeti sunulabilmesi için kontrol noktaları ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Kontrol noktası sayısı en az olacak şekilde planlanma yapılmalıdır",
+      "B) Geceleri kontrol noktalarındaki özel güvenlik görevlisi sayısı artırılmalıdır",
+      "C) Kontrol noktasında gerekiyorsa elle arama da yapılmalıdır",
+      "D) Kontrol noktası zaman zaman farklı girişlerde oluşturulmalıdır",
+      "E) Kontrol noktası dışarıdan fark edilmeyecek şekilde olmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kontrol noktası sayısı en az olacak şekilde planlanma yapılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1785,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi devriye görevini yerine getiren özel güvenlik görevlileri Gamze ve Ayşe’nin dikkat etmesi gereken hususlardan biri değildir?",
+    "options": [
+      "A) Olayla karşılaşmaları durumunda müdahale etmeli, gerektiğinde genel kolluğa bilgi vermelidirler",
+      "B) Görev bölgelerini iyi bilmeli ve bölgenin tamamını kontrol altında bulundurmalıdırlar",
+      "C) Teçhizatlı ve üniformalı olarak dikkatli ve duyarlı bir şekilde görev yapmalıdırlar",
+      "D) Rutin hareketler sergilemeli ve her zaman aynı güzergâhı kullanmalıdırlar",
+      "E) Devriye görevini disiplin içerisinde yerine getirmelidirler"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Rutin hareketler sergilemeli ve her zaman aynı güzergâhı kullanmalıdırlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1786,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "AVM’de görevli özel güvenlik görevlisi Emin’in görevi ile aşağıdakilerden hangisi bağdaşır?",
+    "options": [
+      "A) Suç işlenmesini önlemek",
+      "B) Devriye görevi sırasında sabit bir noktada beklemek",
+      "C) Mümkün olduğunca görünür olmamak",
+      "D) Boşalan alışveriş araçlarını toplamak",
+      "E) Ruhsatlı silahları emanete almak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Suç işlenmesini önlemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1787,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisinde kontrol noktalarının amacı tam olarak ifade edilmiştir?",
+    "options": [
+      "A) Yaya veya araçların bina, tesis gibi yerlere giriş ve çıkışlarını sağlamak",
+      "B) Fiziki görüntüsü ile caydırıcı olmak",
+      "C) Korunan yerin güvenliğini olumsuz yönde etkileyecek suç unsuru maddelerin, kişilerin ve araçların girişini engellemek",
+      "D) Danışma hizmeti vermek",
+      "E) Yaya ve motorlu taşıt trafiğinin düzgün akışını sağlamak"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Korunan yerin güvenliğini olumsuz yönde etkileyecek suç unsuru maddelerin, kişilerin ve araçların girişini engellemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1788,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi AVM’de devriye görevini yerine getiren özel güvenlik görevlisi Murat’ın görevi ile bağdaşır?",
+    "options": [
+      "A) Görevi sırasında etrafı gözetlemez, güzergâhta dolanır",
+      "B) Mümkün olduğu kadar güzergâhta görünür olmaz",
+      "C) Olay durumunda, müdahale etmez, kolluğu arar",
+      "D) Otopark alanında trafiği yönlendirir ve ceza uygular",
+      "E) Devriye görevini aksatmadan vatandaşların yardım taleplerine cevap verir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Devriye görevini aksatmadan vatandaşların yardım taleplerine cevap verir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1789,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "X-Ray cihazından geçen maddelerin ekran üzerinde göründükleri renklerle ilgili aşağıdakilerden hangisi/hangileri yanlıştır? I-İnorganik maddeler/Mavi tonları  II-Organik maddeler/Turuncu - kahve tonları  III-Karışık malzemeler/Yeşil  IV-Kurşun ve Kristaller/Pembe",
+    "options": [
+      "A) I-II",
+      "B) II-III",
+      "C) I-II-III",
+      "D) II- IV",
+      "E) IV"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1790,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Biometrik kontrollü geçiş sistemi” ne demektir?",
+    "options": [
+      "A) Kişiye özel biyolojik özelliklere göre giriş izni veren sistemlerdir",
+      "B) Sadece parmak iziyle çalışan elektronik sistemlerdir",
+      "C) Sadece göz retinasına göre yetki veren bilgisayar sistemleridir",
+      "D) Kartlı geçiş sisteminin diğer bir adıdır",
+      "E) İçerisinde elektronik hiçbir bileşen bulunmayan giriş kontrol sistemidir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kişiye özel biyolojik özelliklere göre giriş izni veren sistemlerdir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1791,
+    "period": "107. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi, yabancı maddelerin ve istenmeyen kişilerin girişini engelleyecek fiziki güvenlik sistemlerinden değildir?",
+    "options": [
+      "A) Duvarlar, Beton Engeller",
+      "B) Tel Örgüler",
+      "C) Bariyerler",
+      "D) Kartlı Geçiş Sistemleri",
+      "E) Kilit Sistemleri"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kartlı Geçiş Sistemleri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1792,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "El dedektörü ile yapılan kontrolde, el dedektörünün incelenecek bölge ile mesafesi ne kadar olmalıdır?",
+    "options": [
+      "A) 2,5-7,5 cm. uzaklıkta",
+      "B) 7,5-12,5 cm. uzaklıkta",
+      "C) 12,5-17,5 cm. uzaklıkta",
+      "D) 17,5-22,5 cm. uzaklıkta",
+      "E) 22,5-27,5 cm. uzaklıkta"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) 2,5-7,5 cm. uzaklıkta** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1793,
+    "period": "107. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Yüksek güvenlik gerektiren hassas noktalar için tasarlanmış olup, insanlar için kaçak giriş çıkışları imkansız hale getirmektedir.\r\n Yukarıda verilen açıklama aşağıda belirtilen güvenlik sistemlerinden hangisine aittir?",
+    "options": [
+      "A) Aydınlatma Sistemi",
+      "B) Kapalı Devre TV Sistemi (CCTV)",
+      "C) X-Ray Sistemi",
+      "D) Taşıt-Araç Kapanları",
+      "E) Tam Boy Turnike Sistemi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Tam Boy Turnike Sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1794,
+    "period": "107. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi ilkyardımın öncelikli amaçlarından birisi değildir?",
+    "options": [
+      "A) Yaşamsal fonksiyonların sürdürülmesini sağlamak",
+      "B) Hasta/yaralının ve çevrenin güvenliğini sağlamak",
+      "C) İlaçla müdahale etmek",
+      "D) Hasta veya yaralının durumunun kötüleşmesini önlemek",
+      "E) Hayati tehlikeyi ortadan kaldırmak"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İlaçla müdahale etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1795,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kerem Bey evinin çatı inşaatında çalışırken ayağı kayar ve 2 metre yükseklikten beton zemine düşer, o sırada üzerine bir odun parçası düşer ve göğüs sağ tarafına saplanır. İnşaatta birlikte çalıştığı arkadaşlarının Kerem Beye yaklaşımları nasıl olmalıdır?",
+    "options": [
+      "A) Cisim yerinde bırakılarak yara hava almayacak şekilde sarılır",
+      "B) Cisim çıkarılarak yara sarılır",
+      "C) Yaralının sırt üstü yatması sağlanır",
+      "D) Ağrı kesici verilerek ağrısı azaltılır",
+      "E) Odun çıkarılır, sıkıca sarılır ve 112 aranır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Cisim yerinde bırakılarak yara hava almayacak şekilde sarılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1796,
+    "period": "107. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Hayvan ısırmalarında ilkyardım uygulamalarıyla ilgili verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Ağır seyirli yerel reaksiyon görüldüğünde, sıkabilecek tüm yüzük, bilezik, saat, kolye, kravat gibi şeyler çıkartılır",
+      "B) Venöz turnike uygulanır, soğuk uygulama yapılır",
+      "C) Anaflaktik şoka karşı hazırlıklı olunur, hasta ABC yönünden değerlendirilir",
+      "D) Yaranın üstü temiz bir bezle kapatılır",
+      "E) Hafif yaralanmalarda yara sabun ve soğuk suyla kesinlikle yıkanmaz"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Hafif yaralanmalarda yara sabun ve soğuk suyla kesinlikle yıkanmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1797,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Çocuk hasta/yaralıda yapılan Temel Yaşam Desteği uygulaması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Bilinç kontrolü, omuzlardan dokunarak “İyi misiniz” diye sorularak yapılır",
+      "B) Kalp basısı uygularken tek el kullanılır",
+      "C) Kalp basısı uygularken göğüs yüksekliğinin 1/3 ü aşağı inecek şekilde bası uygulanır",
+      "D) Çocuk hareket ettirilmemelidir",
+      "E) İlk yardımcı yalnız ise bilinç kontrolünden sonra hemen 112’yi arar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İlk yardımcı yalnız ise bilinç kontrolünden sonra hemen 112’yi arar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1798,
+    "period": "107. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi ilkyardımcıda bulunması gereken özelliklerden değildir?",
+    "options": [
+      "A) İyi bir iletişim becerisine sahip olmalıdır",
+      "B) Sakin, kendine güvenli ve pratik olmalıdır",
+      "C) Önce kendi can güvenliğini korumalıdır",
+      "D) İnsan vücudu ile ilgili temel bilgilere sahip olmalıdır",
+      "E) İlkyardımda kullanabileceği malzemeleri sürekli yanında taşımalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İlkyardımda kullanabileceği malzemeleri sürekli yanında taşımalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1799,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi kaza yapmış bir aracın yanına gelindiğinde ilk yapılması gerekenlerden biridir?",
+    "options": [
+      "A) Çekilmişse el freni indirilmeli",
+      "B) Aracın kontağı kapatılmalı",
+      "C) Hemen 110 aranmalı",
+      "D) Araç ters dönmüşse düzeltilmeli",
+      "E) Hasta/yaralı hemen dışarıya çıkartılmalı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Aracın kontağı kapatılmalı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1800,
+    "period": "107. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Şok halindeki bir hasta/yaralıya aşağıdaki ilkyardım uygulamalarında hangisi yapılmaz?",
+    "options": [
+      "A) Hava yolunun açıklığı sağlanır",
+      "B) Kanama varsa hemen durdurulur",
+      "C) Hasta veya yaralı sıcak tutulur",
+      "D) Şok pozisyonu verilir",
+      "E) Koma pozisyonu verilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Koma pozisyonu verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1801,
+    "period": "107. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdaki durumlardan hangisinde rentek manevrası kullanılır?",
+    "options": [
+      "A) Dar bir tünelde sıkışmış hasta/yaralıyı kurtarmak için",
+      "B) Solunum durması veya patlama ihtimali gibi tehlikeli bir durum var ise omuriliği zedelemeden hasta/yaralıyı araçtan çıkarmak için",
+      "C) Kaza geçirmiş kişinin sakinleşmesini sağlamak için",
+      "D) Trafik akışının sağlanabilmesi için",
+      "E) Hasta/yaralının araçtan çıkmak istemesi halinde"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Solunum durması veya patlama ihtimali gibi tehlikeli bir durum var ise omuriliği zedelemeden hasta/yaralıyı araçtan çıkarmak için** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1802,
+    "period": "107. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Özellikle bilinç kaybı olanlarda ......... geri kaçarak solunum yolunu tıkayabilir.  Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Dudaklar",
+      "B) Burun",
+      "C) Dil",
+      "D) Kulak",
+      "E) Saç"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Dil** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1803,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi ısı ile oluşan yanıklarda yapılan yanlış bir uygulamadır?",
+    "options": [
+      "A) Kişi hala yanıyorsa koşması engellenir",
+      "B) Hasta/yaralının üzeri battaniye ya da bir örtü ile kapatılır yuvarlanması sağlanır",
+      "C) Solunum yolu açık tutulur",
+      "D) Yanık alanı küçükse bölge en az 20 dk. soğuk su altında tutulur",
+      "E) Su toplamış yerler patlatılır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Su toplamış yerler patlatılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1804,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Bina içindeki kişilerin, yakındaki küçük bir yangını kontrol etmek ve söndürmek için, bina içine tesis edilen sabit bir tesisatı ifade eder. Tanıma göre hangi yangın güvenlik tedbiri açıklanmıştır?",
+    "options": [
+      "A) Yangın dolapları tesisatı",
+      "B) Paratoner sistem tesisatı",
+      "C) Taşınabilir yangın söndürme cihazı",
+      "D) Yangın algılama tesisatı",
+      "E) Yangın alarm tesisatı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yangın dolapları tesisatı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1805,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yangın yerinde canlıları ve itfaiyecileri tehdit eden çeşitli tehlikeler vardır. Aşağıdakilerden hangisi yangın yerindeki bu tehlikeler arasında yer almaz?",
+    "options": [
+      "A) Yüksek sıcaklık tehlikesi",
+      "B) Patlama tehlikesi",
+      "C) Yangın şiddeti tehlikesi",
+      "D) Elektrik tehlikesi",
+      "E) Çökme tehlikesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yangın şiddeti tehlikesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1806,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Demirin paslanması hangi yanma çeşidine örnek olarak verilir?",
+    "options": [
+      "A) Yavaş yanma",
+      "B) Parlama şeklinde yanma",
+      "C) Hızlı yanma",
+      "D) Kendi kendine yanma",
+      "E) Patlama şeklinde yanma"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yavaş yanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1807,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi İtfaiye Teşkilatının görevlerinden değildir?",
+    "options": [
+      "A) Çevre düzenlemesi yapmak",
+      "B) Su baskınlarına müdahale etmek",
+      "C) Doğal afetler ve olağanüstü durumlarda kurtarma çalışmalarına katılmak",
+      "D) İmar planlarına göre parlayıcı, patlayıcı ve yanıcı madde depolama yerlerini denetlemek",
+      "E) Yangınlara müdahale etmek ve söndürmek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Çevre düzenlemesi yapmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1808,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yangın sebebiyle rahatsızlanan ve yaralanan kişilere ilk müdahaleyi yapan acil durum ekibi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Koruma ekibi",
+      "B) Kurtarma ekibi",
+      "C) Söndürme ekibi",
+      "D) İlkyardım ekibi",
+      "E) Komuta ekibi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İlkyardım ekibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1809,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Benzin, mazot vb. akaryakıt yangınlarında aşağıdaki söndürücülerden hangisi kesinlikle kullanılmaz?",
+    "options": [
+      "A) Su",
+      "B) Kuru kimyevi toz",
+      "C) Karbondioksit",
+      "D) Köpük",
+      "E) Kum"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Su** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1810,
+    "period": "107. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yangın söndürme yöntemlerinden biri değildir?",
+    "options": [
+      "A) Boğma",
+      "B) Soğutma",
+      "C) Üfleme",
+      "D) Havalandırma",
+      "E) Yakıtı giderme"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Havalandırma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1811,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hayati tehlikesi bulunan, kendi başına kurtulamayan mahsur kalmış kazazedenin bulunduğu yerden güvenli bir yere alınmasına ne denir?",
+    "options": [
+      "A) Tahliye",
+      "B) Kurtarma",
+      "C) Kaçış",
+      "D) Koruma",
+      "E) Tahsis"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kurtarma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1812,
+    "period": "107. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi hayal gösteren (halusinojen) sentetik uyuşturuculardandır?",
+    "options": [
+      "A) Toz esrar",
+      "B) Likit esrar",
+      "C) Amfetaminler",
+      "D) Kubar esrar",
+      "E) LSD"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) LSD** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1813,
+    "period": "107. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi uyuşturucuya başlama nedenlerinden birisi değildir?",
+    "options": [
+      "A) Merak",
+      "B) Özenme",
+      "C) Eğitimde başarılı olma",
+      "D) Arkadaş ısrarı",
+      "E) Eğlence amaçlı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Eğitimde başarılı olma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1814,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Bir özel güvenlik görevlisi küçük gruplarla görüşürken aşağıdaki durumlardan hangisine önem vermelidir?",
+    "options": [
+      "A) Grupla arasında herkesin kendisini tam göreceği şekilde mesafe koyarak onları dinlemeye hazır olduğunu göstermeye",
+      "B) Grubu kendisini dinlemeleri için susturmaya",
+      "C) Gruptan bir temsilci ile görüşmeye",
+      "D) Grup içinden bir kişiye hitaben görüşmeye",
+      "E) Grubun sırayla görüş bildirmesini sağlamaya"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Grupla arasında herkesin kendisini tam göreceği şekilde mesafe koyarak onları dinlemeye hazır olduğunu göstermeye** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1815,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Bir özel güvenlik hizmeti veren grubun başarısında aşağıdaki iletişim unsurlarından en önemlisi hangisidir?",
+    "options": [
+      "A) Grup üyelerinin iletişim anında birbirlerine duydukları sevgi",
+      "B) Grup üyelerinin birbirleri ile dayanışma içinde olması",
+      "C) Grup üyelerinin yasa ve yönetmelikleri bilmeleri",
+      "D) Grup üyelerinin aralarında güçlü bir takım ruhu oluşturmaları",
+      "E) Grup üyelerinin ast ve üstlerine duydukları sevgi ve saygı"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Grup üyelerinin aralarında güçlü bir takım ruhu oluşturmaları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1816,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Bireyin karşısındaki kişinin duygu ve düşüncelerini doğru olarak anlamaya çalışmasına iletişimde ne ad verilir?",
+    "options": [
+      "A) Empati",
+      "B) Sempati",
+      "C) Algı",
+      "D) Yargı",
+      "E) Egosantrizm"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Empati** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1817,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel güvenlik görevlisi Leyla’nın görevli olduğu resim galerisine gelen ziyaretçileri nazik, kibar bir şekilde ve güler yüzle karşılayarak görevini ifa etmesi gelen ziyaretçiler üzerinde olumlu etkiler bırakmaktadır.  Yukarıda anlatılan olayda özel güvenlik görevlisi Leyla’nın hangi iletişim türünde başarılı olduğu söylenebilir?",
+    "options": [
+      "A) Sözlü iletişim",
+      "B) Sözsüz iletişim",
+      "C) Kültürel değişim",
+      "D) Sosyal etkileşim",
+      "E) Uzaktan iletişim"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Sözsüz iletişim** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1818,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi kişilerin, görev alanı girişinde kimlik göstermeyi kabul etmemesi halinde kişinin görev alanına girmesine izin verilmeyeceğini nasıl ifade etmelidir?",
+    "options": [
+      "A) Hiçbir şey söylemeyerek kişinin anlamasını beklemelidir",
+      "B) Uygulanması gereken kuralı uygun bir dille izah etmelidir",
+      "C) Kapıya barikat çekerek kenarda beklemelidir",
+      "D) Sesini yükselterek karşısındaki kişiye korku vermelidir",
+      "E) Bir seferlik göz yummalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Uygulanması gereken kuralı uygun bir dille izah etmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1819,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İyi ve etkili bir iletişimde eleştiri aşağıdakilerden hangisi/hangileri biçiminde yapılmalıdır?\r\n I) Eleştiri kişiliğe değil davranışa yapılır\r\n II) Eleştiri mümkün olan en kısa zamanda yapılmalıdır\r\n III) Başkalarının yanında eleştiri yapılmaz\r\n IV) Kişinin eski olumsuz davranışlarından örnek verilmez",
+    "options": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) I- II ve III",
+      "E) I-II-III ve IV"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I-II-III ve IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1820,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İletişim çarkının temel öğeleri hangi şıkta doğru sıralanmıştır?",
+    "options": [
+      "A) Mesaj - Alıcı - Geri Bildirim - Kanal - Kaynak",
+      "B) Kaynak - Mesaj - Kanal - Alıcı - Geri Bildirim",
+      "C) Kaynak - Alıcı- Mesaj - Geri Bildirim - Kanal",
+      "D) Mesaj - Kanal - Kaynak - Geri Bildirim - Alıcı",
+      "E) Kaynak - Kanal - Alıcı - Geri Bildirim - Mesaj"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kaynak - Mesaj - Kanal - Alıcı - Geri Bildirim** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1821,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aracını otoparkta engelli araç sürücüleri için ayrılmış olan alana park eden bir kişi için aşağıdaki ifadelerden hangisinin kullanılması müşteri memnuniyeti açısından daha uygundur?",
+    "options": [
+      "A) Aracınızı buraya park etmeyin, lütfen hemen başka bir yere alın",
+      "B) Levhayı görmüyor musunuz, buraya park edemezsiniz",
+      "C) Bu alanı engelli araç sürücüleri için ayırdık, aracınızı başka bir yere park ederseniz memnun oluruz",
+      "D) Aracınızı buraya park etmeniz halinde aracınız ekipler tarafından çekilecektir",
+      "E) Aracınızı lütfen buradan alın, aksi halde biz gerekeni yapmak zorunda kalırız"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Bu alanı engelli araç sürücüleri için ayırdık, aracınızı başka bir yere park ederseniz memnun oluruz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1822,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel güvenlik hizmetlerinde kurumsal ilişkiler gereğince elektronik posta (e-posta, e-mail) ile kurulan yazılı iletişimde aşağıdakilerden hangisinin yapılması yanlıştır?",
+    "options": [
+      "A) Sempatiklik gereğince, duyguları ifade eden işaret ve simgeler kullanılmalıdır",
+      "B) E-postanın konusu kısaca ve anlaşılır şekilde yazılmalıdır",
+      "C) Mesaja, uygun bir hitap kelimesi veya cümlesiyle başlanmalıdır",
+      "D) Mesajın sonunda e-postayı gönderen kişinin kişisel bilgilerine yer verilmelidir",
+      "E) E-postanın ekine dosya eklenmişse mesaj bölümünde bu konuda bilgi verilmelidir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Sempatiklik gereğince, duyguları ifade eden işaret ve simgeler kullanılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1823,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi iletişimin temel özelliklerinden biri değildir?",
+    "options": [
+      "A) İletişim sadece bilgi alışverişi değil, aynı zamanda duygu alışverişidir",
+      "B) İletişim sürecinde gönderilen mesajın alınmasında alıcının algıları önemlidir",
+      "C) İletişim sadece bilinçli olarak gerçekleşen tek yönlü bir süreçtir",
+      "D) İletişim meydana geldiği ortamdan etkilenir",
+      "E) İletişim sadece sözcüklerle değil, beden diliyle de gerçekleşebilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İletişim sadece bilinçli olarak gerçekleşen tek yönlü bir süreçtir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1824,
+    "period": "107. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi iletişimde “ben dili” ile ilgili olarak yanlış ifade edilmiştir?",
+    "options": [
+      "A) Kişiye yöneliktir",
+      "B) İletişim kuran kişiyi rahatlatır",
+      "C) Sorumluluk duygusuna katkı sağlar",
+      "D) İletişime zarar vermez",
+      "E) İletişim sürecinde suçluluk duygusunu ortadan kaldırır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kişiye yöneliktir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1825,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki davranışlardan hangisi iyi bir dinleyicide bulunur?",
+    "options": [
+      "A) Konuşmacıya geri bildirimde bulunmak",
+      "B) Yüzeysel bir dinleme yapmak",
+      "C) Söylenenleri kendi başına gelenlerle karşılaştırmak",
+      "D) Anlatılanlardan hüzün çıkartmak",
+      "E) Dinleme ihtiyacı olan konuları seçmek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Konuşmacıya geri bildirimde bulunmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1826,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Sosyal düzen kuralları arasında yer alan “hukuk kurallarını’’ diğer sosyal düzen kurallarından en farklı kılan nitelik aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Yaptırım öğesinin olması",
+      "B) Yaptırım öğesinin olmaması",
+      "C) Yazılı olması",
+      "D) Toplum tarafından saygı duyulması",
+      "E) İlk çağdan bu yana uygulanıyor olması"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yaptırım öğesinin olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1827,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Göz yaşartıcı gazın etkisi ortalama .......... dakika gibi bir sürede geçer.”\r\n Yukarıdaki cümlede boş bırakılan yere gelmesi gereken ifade hangisidir?",
+    "options": [
+      "A) 5-10",
+      "B) 15-30",
+      "C) 35-40",
+      "D) 40-45",
+      "E) 45-50"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) 15-30** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1828,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi tesadüfi kalabalıklara bir örnektir?",
+    "options": [
+      "A) Spor etkinliklerini izleyemeye giden insanlar",
+      "B) Bir mağazanın vitrinine bakan insanlardan oluşan kalabalıklar",
+      "C) Yasalara aykırı hareket etme arzusunda olan geçici kalabalıklar",
+      "D) Tiyatro seyretmeye giden insanlar",
+      "E) Asker uğurlamasına gelen kalabalıklar"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Bir mağazanın vitrinine bakan insanlardan oluşan kalabalıklar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1829,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "AVM’de görevli özel güvenlik görevlileri Ahmet ve Zeynep, AVM’de faaliyet gösteren bir işletme önünde işletmeyi protesto eden grupla karşılaştıklarında aşağıda belirtilen davranışlardan hangisini yapmaları yanlıştır?",
+    "options": [
+      "A) Güvenlik amirine bilgi vermek",
+      "B) Genel kolluğa bilgi vermek",
+      "C) İşletmeyi protesto eden gruba yaptıklarının yasalara aykırı olduğunu belirterek, zor kullanmak suretiyle grubu dağıtmaya çalışmak",
+      "D) AVM yönetimini bilgilendirmek",
+      "E) Grubun AVM’ye ve işletmeye zarar verme ihtimaline karşı tedbirler alınmasını sağlamak"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İşletmeyi protesto eden gruba yaptıklarının yasalara aykırı olduğunu belirterek, zor kullanmak suretiyle grubu dağıtmaya çalışmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1830,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Zor kullanma şartları oluştuğunda cop kullanma yetkisine haiz özel güvenlik görevlisi saldırgan şahısları etkisiz hale getirmek amacıyla copu kullanacağı insan bedenine yönelik birinci derece vuruş bölgeleri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kafa",
+      "B) Boyun",
+      "C) Kol ve bacaklar",
+      "D) Omurga bölgesi",
+      "E) Kasık bölgesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kol ve bacaklar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1831,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "“Panik” kavramı ile ilgili olarak aşağıda verilen bilgilerden hangisi doğru değildir?",
+    "options": [
+      "A) Bireysel olabileceği gibi topluluklarda da geçerli olabilir",
+      "B) İnsanlar mantıklı ve rasyonel davranışlarını geçici olarak kaybederler",
+      "C) Soğukkanlı hareket edemezler",
+      "D) Panik anında insanlar ya şoka girer ve hareketsiz kalır ya da o durumdan hızla ve düşünmeden kurtulmaya çalışırlar",
+      "E) Büyük ve ani gelişen deprem, sel, toprak kayması ve çığ düşmesi gibi doğal afetler kalabalıklarda paniğe neden olmaz"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Büyük ve ani gelişen deprem, sel, toprak kayması ve çığ düşmesi gibi doğal afetler kalabalıklarda paniğe neden olmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1832,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi/hangileri liderin grubu etkilemek ve yönlendirmek için kullandığı yöntemlerdendir?\r\n I. İnandırma (İkna Etme)\r\n II. Ödüllendirme\r\n III. Zor kullanma",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I- II-III",
+      "D) Yalnız III",
+      "E) I ve II"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) I- II-III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1833,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Davranış; insanın gözlenebilen veya ölçülebilen hareketleri, eylemleri, başka bir deyişle, uyarılmalara verilen tepkidir. Etkili ve verimli bir güvenlik hizmeti için insan davranışlarını, bu davranışların nedenlerini ve hedeflerini iyi anlamak gerekir. Aşağıdakilerden hangisi genel olarak davranışlarımızın ortaya çıkış biçimi olarak sonradan kazanılan (öğrenilen) davranışlardan değildir?",
+    "options": [
+      "A) Herhangi bir müzik aletini çalabilme",
+      "B) Resim yapma",
+      "C) İçgüdü",
+      "D) Bisiklete binme",
+      "E) Çocuğun evini bulabilmesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İçgüdü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1834,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Kalabalık içerisindeki kişi türlerinden biri olan provokatörlerin eylemleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Provokatörler genellikle plan yapmazlar",
+      "B) Topluluğu suç sayılan bir eyleme yönlendirmekte uzmanlaşmış elemanlardır",
+      "C) Provokatörler genellikle açık kimlikleriyle faaliyet gösterirler",
+      "D) Provokatörler, genellikle katılımcıları kışkırtma eylemine girmezler",
+      "E) Provokatörler, kargaşa yaratma ve olumsuz olaylara yol açabilecek hareketlerde bulunmaktan kaçınırlar"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Topluluğu suç sayılan bir eyleme yönlendirmekte uzmanlaşmış elemanlardır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1835,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Üniversitede, toplanan öğrencilerden oluşan kalabalık tarafından topluluğu takip eden özel güvenliğin bulunduğu yere doğru bazı cisimler atılmaya başlanmıştır. Özel güvenlikçilerin bu cisimlerden korunmak için uygulaması gereken müdahale düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Toplanma düzeni",
+      "B) Çember düzeni",
+      "C) Çatı düzeni",
+      "D) Kama düzeni",
+      "E) Hat düzeni"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çatı düzeni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1836,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi koruyucu güvenlik ilkelerine uygun değildir?",
+    "options": [
+      "A) Sağduyulu olmak",
+      "B) Uyanık ve şüpheci olmak",
+      "C) Mevcut teknik cihazları yeterli düzeyde kullanmak",
+      "D) Sistemli ve hızlı olmak",
+      "E) Rutin şekilde hareket etmek"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Rutin şekilde hareket etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1837,
+    "period": "107. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi terörist faaliyetlerin eyleme dönüşmesi safhalarından birisi değildir?",
+    "options": [
+      "A) Bilgi toplama",
+      "B) Hedef seçimi",
+      "C) Yemleme yapma",
+      "D) Planlama",
+      "E) Saldırı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yemleme yapma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1838,
+    "period": "107. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi Koruma Hizmetleri Yönetmeliğinde bulunan koruma karar çeşitlerinden biri değildir?",
+    "options": [
+      "A) Yakın koruma",
+      "B) Konut koruma",
+      "C) Çağrı üzerine koruma",
+      "D) İş yeri koruma",
+      "E) Genel koruma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Genel koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1839,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi öncü istihbarat çalışmasının aşamalarından biri değildir?",
+    "options": [
+      "A) Büro çalışmalarının yapılması",
+      "B) Varış noktalarının belirlenmesi",
+      "C) Katılacak kişilerin listesinin yapılması",
+      "D) Program süresinin belirlenmesi",
+      "E) Programa uygun malzeme temini yapılması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Program süresinin belirlenmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1840,
+    "period": "107. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "VIP koruma hizmeti yerine getirilirken takip edilmesi ve uygulanması gereken hususlar ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Saldırı ihtimali olan her yerde kaçış yönü ve kaçış şekli belirlenmelidir",
+      "B) Basınla ilişkiler uyumlu olmalıdır",
+      "C) Gerekli müdahale yerinde ve zamanında yapılmalıdır",
+      "D) Korunan önemli kişinin giriş ve çıkış saatleri rutin olmalıdır",
+      "E) Koruma personeli bütün dikkatini görevine vermeli, başka bir konu ile ilgilenmemelidir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Korunan önemli kişinin giriş ve çıkış saatleri rutin olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1841,
+    "period": "107. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi, korumanın temel amaçlarından biri değildir?",
+    "options": [
+      "A) Korunan önemli kişiyi bedensel bir zarardan korumak",
+      "B) Korunan önemli kişinin günlük hayat akışını aksatmadan güvenliğini sağlamak",
+      "C) Korunan önemli kişinin özel ve resmi tüm isteklerini yerine getirmek",
+      "D) Korunan önemli kişiyi utandırıcı, gülünç duruma düşürücü hallerden korumak",
+      "E) Korunan önemli kişinin hayatını tehlikeye sokacak her türlü durumlardan uzak tutmak"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Korunan önemli kişinin özel ve resmi tüm isteklerini yerine getirmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1842,
+    "period": "107. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Çoklu konvoy düzeninde aşağıdaki sıralamalardan hangisi doğrudur?",
+    "options": [
+      "A) Eskort-VIP aracı-Öncü koruma- Artçı koruma-Ambulans",
+      "B) Ambulans-Eskort-Öncü koroma- VIP aracı-Artçı koruma",
+      "C) Eskort-Öncü koruma-VIP aracı- Artçı koruma-Ambulans",
+      "D) Eskort-Ambulans-Öncü koruma- VIP aracı-Artçı koruma",
+      "E) Öncü koruma-VIP aracı-Artçı koruma-Ambulans-Eskort"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Eskort-Öncü koruma-VIP aracı- Artçı koruma-Ambulans** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1843,
+    "period": "107. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Kişi korumanın yaya olarak yapılmasında koruma sayısı göz önüne alındığında en zor olan ve düşük seviyeli tehdit durumlarında kullanılan koruma düzeni/şekli aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bir kişi ile koruma",
+      "B) İki kişi ile koruma",
+      "C) Üç kişi ile koruma",
+      "D) Dört kişi ile koruma",
+      "E) Beş kişi ile koruma"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Bir kişi ile koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1844,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Zor kullanma ve yakalama yetkilerinin kullanılmasını gerektiren olaylar en seri vasıtayla kime bildirilir?",
+    "options": [
+      "A) Mülki amire",
+      "B) Yetkili genel kolluğa",
+      "C) Güvenlik müdürüne",
+      "D) Belediyeye",
+      "E) Herhangi bir polis karakoluna"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Yetkili genel kolluğa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1845,
+    "period": "107. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi temel koruma prensiplerinden değildir?",
+    "options": [
+      "A) Koruma hizmetleri, korunan önemli kişinin özelliklerine, personel sayısına ve değişen şartlara göre farklı şekillerde yerine getirilir",
+      "B) Koruma görevlisi, koruma konusu ile ilgili her türlü konuyu, korunan kişi ile rahatça paylaşabilmelidir",
+      "C) Tam bir koruma mümkündür",
+      "D) Koruma görevinde silah kullanmak son çaredir",
+      "E) Koruma görevlisi ceketini iliklememelidir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tam bir koruma mümkündür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1846,
+    "period": "107. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıdaki görevlilerden hangisi özel kolluk görevlilerinden sayılmamaktadır?",
+    "options": [
+      "A) Belediye zabıtası",
+      "B) Gümrük muhafaza memuru",
+      "C) Orman muhafaza memuru",
+      "D) Polis memuru",
+      "E) Kır bekçisi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Polis memuru** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1847,
+    "period": "107. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıdakilerden hangisi hem genel kolluk hem de özel güvenlik görevlileri tarafından kullanılabilecek yetkilerden biri değildir?",
+    "options": [
+      "A) Zor kullanma",
+      "B) Yakalama",
+      "C) Suça el koyma",
+      "D) Kimlik tespiti",
+      "E) Emanete alma"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kimlik tespiti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1848,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik denetlemelerinde kullanılacak raporların şekil, içerik ve formatları hangi birim tarafından hazırlanır?",
+    "options": [
+      "A) EGM Hukuk Müşavirliği",
+      "B) Sayıştay",
+      "C) EGM Teftiş Kurulu Başkanlığı",
+      "D) EGM Özel Güvenlik Denetleme Başkanlığı",
+      "E) İçişleri Bakanlığı Mülkiye Teftiş Kurulu Başkanlığı"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) EGM Özel Güvenlik Denetleme Başkanlığı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1849,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kamu güvenliğini tamamlayıcı mahiyette görev yapan özel güvenlik görevlilerinin, genel kolluğun etkin iş birliği ve koordinasyonuyla genel güvenliğe katkı sağlayacak şekilde, olay meydana gelmeden suçu önlemek, meydana gelen olayların en seri şekilde genel kolluğa bildirilmesini sağlamak amacıyla hayata geçirilen uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) KADES",
+      "B) UYAP",
+      "C) KAAN",
+      "D) ÖGNET",
+      "E) ÖZGE"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) KAAN** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1850,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi Özel Güvenlik Denetleme Başkanlığı tarafından yapılan sınavlardan değildir?",
+    "options": [
+      "A) Özel Güvenlik Temel ve Yenileme Eğitim Sınavı",
+      "B) Bomba İmha Uzmanı Sınavı",
+      "C) Silah Tamir Yeri Açma Sınavı",
+      "D) Ateşleyici Yeterlilik Belge Sınavı",
+      "E) Görev Köpeği ve İdarecisi Sınavı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Bomba İmha Uzmanı Sınavı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1851,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Rayyür nedir?",
+    "options": [
+      "A) Yiv ve setin çekirdek üzerinde bıraktığı izlerdir",
+      "B) Çekirdek ağırlığıdır",
+      "C) Kapsül içindeki yanıcı maddedir",
+      "D) Silah markasıdır",
+      "E) Namlu içindeki genişliktir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yiv ve setin çekirdek üzerinde bıraktığı izlerdir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1852,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki parçalardan hangisi toplu tabancalarda bulunmaktadır?",
+    "options": [
+      "A) Şarjör dip tablası",
+      "B) Sürgü",
+      "C) Yerine getiren yay",
+      "D) Yerine getiren yay mili",
+      "E) Horoz"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Horoz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1853,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Gez ve arpacık yarı otomatik tabancaların hangi ana parçası üzerinde bulunur?",
+    "options": [
+      "A) Gövde",
+      "B) Namlu",
+      "C) Şarjör",
+      "D) Sürgü",
+      "E) İğne mekanizması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sürgü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1854,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahların parçalarından biri değildir?",
+    "options": [
+      "A) Kabza",
+      "B) Namlu",
+      "C) Sürgü",
+      "D) Harbi",
+      "E) Horoz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Harbi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1855,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşleme tertibatında bulunan horozun hareketini fişek kapsülüne intikal ettiren ve patlatmayı gerçekleştiren parçaya ne ad verilir?",
+    "options": [
+      "A) İğne",
+      "B) Hatve",
+      "C) Tetik",
+      "D) Çıkarıcı",
+      "E) Tetik manivelası"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İğne** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1856,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Temel atış tekniklerinde nişan hattını oluşturan unsurlar içerisinde en hareketli parça aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Gez",
+      "B) Hedef",
+      "C) Kabza",
+      "D) Namlu",
+      "E) Arpacık"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Arpacık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1857,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kimyasal silahların sınıflarından değildir?",
+    "options": [
+      "A) Yakıcı",
+      "B) Zehirleyici",
+      "C) Parça tesirli",
+      "D) Göz yaşartıcı",
+      "E) Bayıltıcı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Parça tesirli** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1858,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabancaların hareketli ve sabit bütün parçalarını üzerinde taşıyan bölüm hangisidir?",
+    "options": [
+      "A) Çerçeve (gövde)",
+      "B) Horoz",
+      "C) Emniyet mandalı",
+      "D) Sürgü (Kapak Takımı)",
+      "E) Namlu"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Çerçeve (gövde)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1859,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşli silahlarda iğnenin kırılması durumunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tabanca dolduruş yapamaz",
+      "B) Fişek ateşlenemez",
+      "C) Tabanca emniyete alınamaz",
+      "D) Horoz düşmez",
+      "E) Tetik çalışmaz"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Fişek ateşlenemez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1860,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahlarda ‘‘Hazne’’nin tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Boş kovandır",
+      "B) Dolu fişektir",
+      "C) Atış sırası bekleyen fişeklerin beklediği yerdir",
+      "D) Fişek yatağıdır",
+      "E) Şarjör yuvasıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Atış sırası bekleyen fişeklerin beklediği yerdir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1861,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıda verilen şıklardan hangisi tabancanın başlıca parçalarından biri değildir?",
+    "options": [
+      "A) Namlu",
+      "B) Yiv ve set",
+      "C) Sürgü",
+      "D) Yerine getiren yay ve mili",
+      "E) Çerçeve (Gövde)"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Yiv ve set** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1862,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi şarjörün parçalarından biri değildir?",
+    "options": [
+      "A) Şarjör gövdesi",
+      "B) Şarjör yayı",
+      "C) Gerdel",
+      "D) Şarjör yuvası",
+      "E) Şarjör kapak kilidi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şarjör yuvası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1863,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Atış yapılan tabancanın sürgüsünün geride takılı kalması aşağıdakilerden hangisinin sonucunda olur?",
+    "options": [
+      "A) Şarjörün tabancadan çıkması",
+      "B) Tabancanın iğnesinin kırılması",
+      "C) Şarjörde fişeğin bitmesi",
+      "D) Kabzanın iki elle çok sıkı şekilde tutulması",
+      "E) Namlunun ısınması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Şarjörde fişeğin bitmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1864,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kısa namlulu ateşli silah sınıfından değildir?",
+    "options": [
+      "A) Tek atışlı tabancalar",
+      "B) Toplu tabancalar",
+      "C) Av tüfekleri",
+      "D) Makineli tabancalar",
+      "E) Otomatik tabancalar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Av tüfekleri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1865,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahların ana sınıflandırmalarından değildir?",
+    "options": [
+      "A) Ateşli silahlar",
+      "B) Ateşsiz silahlar",
+      "C) Kimyasal silahlar",
+      "D) Patlayıcı maddeler",
+      "E) İlkel silahlar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İlkel silahlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1866,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tetik ile horoz arasındaki irtibatı sağlayan parçaya ne ad verilir?",
+    "options": [
+      "A) Şarjör kilitleme mandalı",
+      "B) Tetik manivelası",
+      "C) Gerdel",
+      "D) Çıkarıcı",
+      "E) Kabza"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tetik manivelası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1867,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Ateşleme tertibatında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "A) Tetik",
+      "B) Horoz",
+      "C) Gerdel",
+      "D) Tetik manivelası",
+      "E) İğne yayı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Gerdel** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1868,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Mustafa, görevinde kullanmış olduğu tabancanın atış esnasında tetiğine bastığında hem horozu kuruyor hem de düşürüyor ise bu tabanca aşağıdakilerden hangi tip tabancalara girer?",
+    "options": [
+      "A) Makinalı",
+      "B) Tek atışlı",
+      "C) Tam otomatik",
+      "D) Yarı otomatik",
+      "E) Çift hareketli"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Çift hareketli** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1869,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi yiv ve setlerin sağladığı faydalardan biri değildir?",
+    "options": [
+      "A) Çekirdeğe kendi ekseni etrafında dönüş verir",
+      "B) Çekirdeğin tahrip gücünü arttırır",
+      "C) Çekirdeğin takla atarak ilerlemesini sağlar",
+      "D) Çekirdeğin azami mesafesini artırır",
+      "E) Çekirdeğin delme gücünü arttırır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çekirdeğin takla atarak ilerlemesini sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1870,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Poligonda atış yaparken silahın ateş etmemesi veya tutukluk yapması durumunda ne yapılır?",
+    "options": [
+      "A) Atıcı, silahı inceler arızayı tespite çalışır",
+      "B) Atıcı, silahı söker",
+      "C) Atıcı, silahı tamir ve bakım kısmına götürür",
+      "D) Atıcı silahın namlusundan içeriye göz atar",
+      "E) Atıcı, silahın arızası ile ilgilenmez ve silahı hedeften ayırmadan nezaretçiye teslim ederek diğer talimatı bekler"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Atıcı, silahın arızası ile ilgilenmez ve silahı hedeften ayırmadan nezaretçiye teslim ederek diğer talimatı bekler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1871,
+    "period": "107. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi fişeğin bölümlerinden biri değildir?",
+    "options": [
+      "A) Barut",
+      "B) Kapsül",
+      "C) Kovan",
+      "D) Yiv",
+      "E) Çekirdek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yiv** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1872,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Kabza emniyeti bulunan tabancalarda atış yapabilmek için aşağıdakilerden hangisini yapmak gerekir?",
+    "options": [
+      "A) El ayası ile kabza gerisine basınç yapmak",
+      "B) Tetiği yavaş çekmek",
+      "C) Horozu yavaş düşürmek",
+      "D) Şarjöre baskı yapmak",
+      "E) Horozu elle kurulu hale getirmek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) El ayası ile kabza gerisine basınç yapmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1873,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik tabancada “Rampa” nerede bulunur?",
+    "options": [
+      "A) Namlu çıkışında",
+      "B) Fişek yatağının gerisinde",
+      "C) Şarjör yuvasında",
+      "D) Şarjörde",
+      "E) Gövdede"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Fişek yatağının gerisinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1874,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişek yatağındaki fişek ateşlenmiyor ise sebebi aşağıdakilerden hangisi değildir?",
+    "options": [
+      "A) İğne arızalıdır",
+      "B) Horoz veya horoz yayı arızalıdır",
+      "C) İğne yayı esnekliğini kaybetmiş veya kırıktır",
+      "D) Fişek hatalıdır",
+      "E) Tırnak veya çıkarıcı arızalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Tırnak veya çıkarıcı arızalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1875,
+    "period": "107. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yapılan atış eğitiminde, kuru tetik çalışması ile fişekli çalışmanın bir arada olduğu bir çalışma şeklidir. Atıcı silahın boş mu dolu mu olduğunu bilmeden atış yapar. Atıcı ve atış hocası, atış hatalarını daha net görür. Bu atış çalışmasına ne ad verilir?",
+    "options": [
+      "A) Sürpriz atış çalışması",
+      "B) İkili çalışma",
+      "C) Ayna çalışması",
+      "D) Seri atış çalışması",
+      "E) Parayla tetik ezme çalışması"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Sürpriz atış çalışması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 107. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (107. Dönem Sınavı)"
+  },
+  {
+    "id": 1876,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da, aşağıdakilerden hangisi göreve başlayan ve herhangi bir sebeple görevinden ayrılan özel güvenlik görevlilerinin valiliğe bildirim süresi olarak belirlenmiştir?",
+    "options": [
+      "A) 15 gün",
+      "B) Bir ay",
+      "C) İki ay",
+      "D) 20 gün",
+      "E) Göreve başlama ya da görevden ayrılma gününün mesai saati bitimine kadar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) 15 gün** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1877,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisini izin verilen dışında teçhizat giydirerek çalıştıran kişi, kurum veya kuruluşlara aşağıdaki yaptırımlardan hangisi verilir?",
+    "options": [
+      "A) İdari para cezası",
+      "B) Adli para cezası",
+      "C) Bir yıl süreyle özel güvenlik alanında görev alamama",
+      "D) Bir daha özel güvenlik alanında çalışamama",
+      "E) Hapis cezası"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İdari para cezası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1878,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Görevin ve işyerinin özelliği nedeniyle gerekli görülen hallerde özel güvenlik görevlilerinin sivil kıyafetle görev yapmasına izin verme yetkisi aşağıdakilerden hangisine aittir?",
+    "options": [
+      "A) İl Emniyet Müdürü",
+      "B) İl Özel Güvenlik Komisyonu",
+      "C) Belediye Başkanı",
+      "D) İl Jandarma Komutanı",
+      "E) Hizmet Verilen Yer Yetkilisi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İl Özel Güvenlik Komisyonu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1879,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik izni verilecek hususlardan değildir?",
+    "options": [
+      "A) Bina ve tesislerin korunması",
+      "B) Kişilerin korunması",
+      "C) Toplantı ve konserler",
+      "D) Sahne gösterileri ve benzeri etkinlikler",
+      "E) Bankaların özel güvenlik birimlerince gerçekleştirilecek para nakilleri"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Bankaların özel güvenlik birimlerince gerçekleştirilecek para nakilleri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1880,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında uygulanan adli/idari cezalar ve yaptırımlar arasında yoktur?",
+    "options": [
+      "A) Hapis cezası",
+      "B) Para cezası",
+      "C) Özel güvenlik alanında bir daha görev verilmemesi",
+      "D) Görev yerinin değiştirilmesi",
+      "E) Özel güvenlik kimlik kartının iptal edilmesi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Görev yerinin değiştirilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1881,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi istihdam edilen özel güvenlik görevlilerinin üçüncü kişilere verecekleri zararların tazmini amacıyla yaptırılması zorunlu olan sigortadır?",
+    "options": [
+      "A) Mali sorumluluk sigortası",
+      "B) Kasko",
+      "C) Zorunlu trafik sigortası",
+      "D) Hayat sigortası",
+      "E) Sağlık sigortası"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Mali sorumluluk sigortası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1882,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlileri, görev alanında bir suçla karşılaştığında aşağıdaki hangi hususlar ile ilgili görevli ve yetkili değildir?",
+    "options": [
+      "A) Suça el koymak",
+      "B) Suçun şüphelisini tespit etmek",
+      "C) Suçun şüphelisini yakalamak",
+      "D) Suç delillerini delil torbasına koymak",
+      "E) Suçun devamını önlemek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Suç delillerini delil torbasına koymak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1883,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Konusu suç teşkil eden emir hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Konusu suç teşkil eden emir, üst amir tarafından yazılı olarak tekrar edilmesi halinde yerine getirilir",
+      "B) Konusu suç teşkil eden emir, üst amirin ısrar etmesi halinde yerine getirilir",
+      "C) Konusu suç teşkil eden emir, özel güvenlik şirket bölüm yöneticisi tarafından verilmesi halinde yerine getirilir",
+      "D) Konusu suç teşkil eden emir, polis amiri tarafından verilmesi halinde yerine getirilir",
+      "E) Konusu suç teşkil eden emir hiçbir şekilde yerine getirilmez"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Konusu suç teşkil eden emir hiçbir şekilde yerine getirilmez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1884,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "R şirketinde silahlı olarak görev yapmakta olan özel güvenlik görevlisi Anıl, hangi hallerde R şirketince alınan ve demirbaşa kayıtlı görev silahını evinde bulundurabilir?",
+    "options": [
+      "A) Genel kolluk kuvvetlerinin onayı ile",
+      "B) Mülki amirin izniyle",
+      "C) Evinde silah bulunduramaz",
+      "D) Acil ve zorunlu hallerde",
+      "E) 5188 sayılı Kanun’un verdiği yetkiyle"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Evinde silah bulunduramaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1885,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik komisyonu kararları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Komisyon başkanı valinin görevlendireceği bir vali yardımcısıdır",
+      "B) Kararlar oy çokluğuyla alınır",
+      "C) Oyların eşitliği halinde başkanın bulunduğu taraf çoğunluk sayılır",
+      "D) Özel güvenlik izni için başvuran kişi ya da kuruluşun temsilcisi toplantıya katılır",
+      "E) Üyeler çekimser oy kullanabilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Üyeler çekimser oy kullanabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1886,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdakilerden hangisi çalışma izni için doğrudur?",
+    "options": [
+      "A) Çalışma izni verilmeyen kişileri özel güvenlik görevlisi olarak istihdam eden kişi, kurum, kuruluş veya şirketlerin yetkilileri idari para cezası ile cezalandırılır",
+      "B) Özel güvenlik görevlisi olduktan sonra aranan şartlardan herhangi birisinin kaybedilmesi çalışma iznine engel olmaz",
+      "C) Güvenlik soruşturması ve arşiv araştırmasının olumlu ya da olumsuz olması çalışma izninin verilmesine mani değildir",
+      "D) Çalışma izni verilmeyen kişiler, özel güvenlik görevlisi olarak istihdam edilebilir",
+      "E) Özel güvenlik görevlilerine çalışma izni verilmesi ruhsat harcına tabidir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Özel güvenlik görevlilerine çalışma izni verilmesi ruhsat harcına tabidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1887,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin yetkilerini kullanabilmesi için aşağıdaki unsurların hangilerinin bir arada olması gerekir?\r\n I. Özel güvenlik görevlisi kimlik kartı “herkes tarafından görünebilecek şekilde yakasında takılı” olmalıdır\r\n II. Özel güvenlik görevlisinin bulunduğu yer “görev alanı” olmalıdır\r\n III. Özel güvenlik görevlisi hizmet verilen yerde “o süre esnasında görevli” olmalıdır.",
+    "options": [
+      "A) I",
+      "B) II,III",
+      "C) III",
+      "D) I, II, III",
+      "E) I, II"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) I, II, III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1888,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdakilerden hangisi özel güvenliğin sağlanmasına ilişkin yöntemlerden biri değildir?",
+    "options": [
+      "A) Kişiler tarafından özel güvenlik görevlisi istihdam edilmesi",
+      "B) Kurum veya kuruluş bünyesinde özel güvenlik birimi kurulması",
+      "C) Özel güvenlik şirketlerinden hizmet satın alınması",
+      "D) Kurum veya kuruluşlarda istihdam edilenlerden koruma ve güvenlik hizmeti yerine getirecek kişilerin belirlenmesi",
+      "E) Kurum veya kuruluş bünyesinde özel güvenlik birimi kurulması ile birlikte özel güvenlik şirketlerinden hizmet satın alınması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kurum veya kuruluşlarda istihdam edilenlerden koruma ve güvenlik hizmeti yerine getirecek kişilerin belirlenmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1889,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik komisyonu, koruma ve güvenlik hizmetini yerine getirecek personelin, bulundurabilecek veya taşınabilecek silah ve teçhizatın azami miktarını ve niteliğini, gerekli hallerde diğer fiziki ve aletli güvenlik tedbirlerini belirlemeye yetkilidir.\r\n Aşağıdakilerden hangisinde komisyon görevini yerine getirirken uluslararası yükümlülükleri de göz önünde bulundurur?",
+    "options": [
+      "A) Havalimanları",
+      "B) Özel ve kamu bankaları",
+      "C) Öğrenci yurtları",
+      "D) Turizm ruhsatlı işyerleri",
+      "E) Kamu ve özel eğitim kurumları"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Havalimanları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1890,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, ek önlemler için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kamu güvenliğinin gerektirdiği hallerde ek önlemlerin alınması istenir",
+      "B) Ek önlemler aldırmaya mülki idare amirleri yetkilidir",
+      "C) Ek önlemler, özel güvenlik izni verilen yerlerde alınan özel güvenlik tedbirlerinin yetersiz bulunduğu durumlarda istenir",
+      "D) Kamu güvenliğinin sağlanması yönünden 5442 sayılı İl İdaresi Kanunu’nda vali ve kaymakamlara verilen yetkilerin kullanılması durumunda, özel güvenlik görevlileri mülki idare amirinin ve genel kolluk amirinin emirlerini yerine getirmek zorundadır",
+      "E) Mülki idare amirlerince istenen ilave tedbirleri almayan kişi, kurum, kuruluş veya şirketlerin yöneticileri bir daha özel güvenlik alanında çalışamazlar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Mülki idare amirlerince istenen ilave tedbirleri almayan kişi, kurum, kuruluş veya şirketlerin yöneticileri bir daha özel güvenlik alanında çalışamazlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1891,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin işyeri ve konutlara girme yetkisi ile ilgili aşağıdakilerden hangisi bu yetki kullanım şartlarından biri değildir?",
+    "options": [
+      "A) Yangın, deprem gibi tabii afet durumlarında işyeri ve konutlara girme yetkisi kullanılabilir",
+      "B) İşyeri ve konutlara girebilmek için mağdur tarafından imdat çağrısında bulunulmalıdır",
+      "C) Genel kolluğa derhal bildirmek şartıyla işyeri ve konutlara girilebilir",
+      "D) Özel güvenlik görevlisi şartlar oluşunca ve görev alanındaki işyeri ve konutlara girebilir",
+      "E) Özel güvenlik görevlisi işyeri ve konutlara şartlar oluşunca ve görevli oldukları süre içinde girebilirler"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Genel kolluğa derhal bildirmek şartıyla işyeri ve konutlara girilebilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1892,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi geçici hallerde verilen özel güvenlik izni için doğru değildir?",
+    "options": [
+      "A) Geçici hallerde, özel güvenlik izni vali tarafından verilir",
+      "B) Geçici hallerde özel güvenlik izni, hizmeti yerine getirecek güvenlik şirketi tarafından alınır",
+      "C) İzin başvurusunda koruma ve güvenlik hizmeti verilecek alan, istihdam edilecek özel güvenlik görevlileri ve kullanılacak teçhizat belirtilir",
+      "D) Özel güvenlik uygulaması, en az bir ay önce başvurulması şartıyla komisyonun kararı ve valinin onayı ile sona erdirilebilir",
+      "E) Geçici özel güvenlik izni için valiliğe, söz konusu etkinliğin başlamasından en az 48 saat önce müracaatta bulunulur"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Özel güvenlik uygulaması, en az bir ay önce başvurulması şartıyla komisyonun kararı ve valinin onayı ile sona erdirilebilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1893,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin, görev ve yetkilerine ilişkin aşağıda seçeneklerde örnekler verilmiştir.\r\n Hangi örnekte verilen yetki kullanımı yanlıştır?",
+    "options": [
+      "A) Görev alanında özel güvenlik görevlisi İrem’in, yağma amacıyla girenlere müdahale etmesi",
+      "B) Alışveriş merkezinde görevli özel güvenlik görevlileri Tuğba ve İzzet’in, bulundukları yerden geçenlere kimlik sormaları",
+      "C) Görev yaptığı sitede özel güvenlik görevlisi Öznur’un, ziyaret için gelen cezaevi firarisini yakalaması",
+      "D) Görev yaptığı yerde deprem olan özel güvenlik görevlisi Sinem’in, imdat istenen işyerine girmesi",
+      "E) Görev yerinde terk edilmiş eşya bulan özel güvenlik görevlisi Serhat’ın, eşyayı emanete alması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Alışveriş merkezinde görevli özel güvenlik görevlileri Tuğba ve İzzet’in, bulundukları yerden geçenlere kimlik sormaları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1894,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktalarının aşamalarından değildir?",
+    "options": [
+      "A) Uzak çevre güvenlik halkası",
+      "B) Ana giriş kontrol noktası",
+      "C) Bina giriş kontrol noktası",
+      "D) Kritik alan giriş noktası",
+      "E) Makam giriş kontrol noktası"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Makam giriş kontrol noktası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1895,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktalarında bulunması gereken görevlilerden değildir?",
+    "options": [
+      "A) Yönlendirme görevlisi",
+      "B) Kontrol görevlisi",
+      "C) Koruma görevlisi",
+      "D) Cihaz görevlisi",
+      "E) Kontrol nokta sorumlusu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Cihaz görevlisi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1896,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik görevlilerinin; suç öncesi ve esnasındaki görevlerini ifası sırasında herhangi bir olay, konu veya şahısla ilgili olarak mevcut durumu tespit etmek, gördüğü, duyduğu ve bizzat yaptığı inceleme ve araştırma ve ilgili hususları açıklamak üzere hazırladıkları tutanakların imza bölümünde en az kaç görevlinin imzası bulunmak zorundadır?",
+    "options": [
+      "A) 1",
+      "B) 3",
+      "C) 2",
+      "D) 4",
+      "E) 6"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 2** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1897,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Risk analizi ve güvenlik planlaması yapılırken dikkate alınacak ana kriterler arasında hangi seçenek yer almaz?",
+    "options": [
+      "A) İhtiyaca ve risklerin durumuna göre sistem üzerinde düzenlemeler yapılabilmelidir",
+      "B) Suç işleme potansiyeli olan kişiler eylem öncesi genelde plan ve keşif yaptıklarından dolayı alınacak güvenlik tedbirleri caydırıcı olmalıdır",
+      "C) Güvenlik sistem ve cihazları seçilirken kullanışlı olmasına, yeterli personelle çalışmasına ve maliyet durumuna dikkat edilmelidir",
+      "D) Güvenlik planlanmasında kurulacak sistemler ve tedbirler kullanışlı, geliştirilebilir, arttırılabilir ve azaltılabilir olmalıdır",
+      "E) Risk analizi ve güvenlik planlaması yapılırken uygulanan güvenlik tedbirleri ile kişilerin özgürlükleri sınırlandırılabilmelidir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Risk analizi ve güvenlik planlaması yapılırken uygulanan güvenlik tedbirleri ile kişilerin özgürlükleri sınırlandırılabilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1898,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi olayın işleniş tarzının, mağdur ve failin ilişkisinin saptanabildiği dinamik bölgeyi ifade eder?",
+    "options": [
+      "A) Delil",
+      "B) İpucu",
+      "C) Olay yeri",
+      "D) Bulgu",
+      "E) Olay"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Olay yeri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1899,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi bir kişinin tanınmasında ve diğer kişilerden ayırt edilmesinde etkin olan özelliklerin bütününe verilen addır?",
+    "options": [
+      "A) Tanımlama",
+      "B) Cinsiyet",
+      "C) Fiziki özellik",
+      "D) Kimlik",
+      "E) Eşkal"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Eşkal** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1900,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi araç kontrol noktasında engelleyici ve hız kesici olarak kullanılmaz?",
+    "options": [
+      "A) Hidrolik bariyerler",
+      "B) Ters kapan",
+      "C) Araç altı inceleme kamerası",
+      "D) Kollu bariyer",
+      "E) Sürgülü demir kapı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Araç altı inceleme kamerası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1901,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangileri, fiziksel bulgu çeşitlerindendir?",
+    "options": [
+      "A) Kan, kıl, tükürük, ter, cinsel akıntı, idrar",
+      "B) Atış artıkları, patlayıcı maddeler, yanıcı ve yakıcı maddeler",
+      "C) Ateşli ve ateşsiz silahlar, fişek, çekirdek, kovan, kartuş, tapalar, olay ile ilgili belgeler, lifler, cam veya cam parçaları, suçta kullanılan diğer araç ve gereçler",
+      "D) Parmak izi, avuç izi, ayak izi, kulak izi, diş izi, araç lastik izi, alet izi vb",
+      "E) Narkotik ve uyuşturucu maddeler"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Ateşli ve ateşsiz silahlar, fişek, çekirdek, kovan, kartuş, tapalar, olay ile ilgili belgeler, lifler, cam veya cam parçaları, suçta kullanılan diğer araç ve gereçler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1902,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Şüpheli eşkal tarifi için aşağıdaki açıklamalardan hangisi yanlıştır?",
+    "options": [
+      "A) Eşkal, kişilerin gözle görülebilen belirgin özellikleridir",
+      "B) Gözlem gücü zayıf olan bir kişi de sağlıklı eşkal tarifi yapması mümkündür",
+      "C) Eşkal tanımlamanın gözlemle çok yakın bir ilişkisi vardır",
+      "D) Özel güvenlik görevlileri, tarif ve tanımlamalarda ortak bir standarda ve terminolojiye sahip olmalıdır",
+      "E) Kişileri, araçları, nesneleri veya yerleri tarif ederken belirli ve açık ifade ve tanımlamalar kullanılmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Gözlem gücü zayıf olan bir kişi de sağlıklı eşkal tarifi yapması mümkündür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1903,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangi yetki özel güvenlik görevlilerine doğrudan 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunla verilmiştir?",
+    "options": [
+      "A) Müsabakalarda tehdit ve hakaret içeren tezahüratların önlenmesi",
+      "B) Müsabakalarda buluntu eşyaların emanete alınması",
+      "C) Maçlarda kadına yönelik şiddetin önlenmesi",
+      "D) Tribünlerde şüphelenilen seyircilerin üzerinin aranması",
+      "E) Şüpheli şahısların muhafaza altına alınması"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Müsabakalarda tehdit ve hakaret içeren tezahüratların önlenmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1904,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Tutanaklarda başlık yazımı ile ilgili olarak aşağıdakilerden hangisi doğru ifade edilmiştir?",
+    "options": [
+      "A) Kural olarak tutanakların içeriğine uygun başlığı olmak zorunda değildir",
+      "B) İçeriğe uygun başlık konulamıyorsa kağıdın üst orta kısmına TUTANAKTIR yazılmalıdır",
+      "C) İçeriğe uygun başlık konulamıyorsa kağıdın üst sağ kısmına TUTANAKTIR yazılmalıdır",
+      "D) İçeriğe uygun başlık konulamıyorsa kağıdın üst sol kısmına TUTANAKTIR yazılmalıdır",
+      "E) İçeriğe uygun başlık konulamıyorsa başlık kısmı boş bırakılmalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İçeriğe uygun başlık konulamıyorsa kağıdın üst orta kısmına TUTANAKTIR yazılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1905,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi AVM kontrol noktasında görevli özel güvenlik görevlisi Tuğçe’nin yapması gereken doğru uygulamalardan biri değildir?",
+    "options": [
+      "A) Eşyalarını X-ray cihazından geçirmek istemeyen şahsı kontrol noktasından geçirmemesi",
+      "B) Taşıma ruhsatlı silahıyla giriş yapmak istediğini belirten şahsa ruhsatını sorması",
+      "C) Kapı detektörünün uyarı vermesi üzerine aynı cinsiyetteki şahsın üzerini elle araması",
+      "D) Kişileri elektronik sistemler kullanmak suretiyle araması",
+      "E) Çanta ve eşyaları elektronik sistemler kullanmak suretiyle araması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kapı detektörünün uyarı vermesi üzerine aynı cinsiyetteki şahsın üzerini elle araması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1906,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin, görevlerine ilişkin yazacağı raporlarda uyulması gereken kurallar şekil kuralları ve içerik kuralları olmak üzere iki ana başlık altında sınıflandırılmıştır.  Aşağıdakilerden hangisi rapor yazımında uyulması gereken içerik kurallarından birisidir?",
+    "options": [
+      "A) Raporlar A4 veya A5 kâğıda yazılır",
+      "B) Kelimeler okunaklı ve doğru yazılmalıdır",
+      "C) Hitap bölümüne büyük harflerle raporun sunulduğu makam yazılır",
+      "D) Raporlar, konunun tam anlaşılması için gerektiğinde detaylı olmalıdır",
+      "E) Raporu yazan kişi ad, soyad ve ünvanını yazarak imzalamalıdır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Raporlar, konunun tam anlaşılması için gerektiğinde detaylı olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1907,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik görevlisi Mihrimah, parkta devriye görevi sırasında bir çocuğun darp edildiğini görmüştür. Olaya müdahalede aşağıdaki uygulamalardan hangisi yanlıştır?",
+    "options": [
+      "A) Darp olayına müdahale eder",
+      "B) Şüpheliyi kelepçeleyip karakola götürür",
+      "C) Şüpheliyi muhafaza altına alır",
+      "D) Şüpheliyi yakalar",
+      "E) Şüpheliyi kolluğa teslim eder"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Şüpheliyi kelepçeleyip karakola götürür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1908,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Devriye görevini yerine getiren özel güvenlik görevlileri görev bölgelerinde karşılaştıkları adli bir olayla ilgili hangisini yapmaları uygun olmaz?",
+    "options": [
+      "A) Şüpheli veya şüphelileri yakalamak",
+      "B) Olay yerinin ve delillerin korunmasını sağlamak",
+      "C) Emniyet şeridini çekmek",
+      "D) Delilleri toplamak ve muhafaza altına almak",
+      "E) Genel kolluğa bilgi vermek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Delilleri toplamak ve muhafaza altına almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1909,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlisi Büşra’nın görev sırasında ve görev yerinde kullanacağı istisnai adli görev ve yetkilerden değildir?",
+    "options": [
+      "A) Ceza Muhakemesi Kanunu’nun 90’ıncı maddesine göre yakalama",
+      "B) Haklarında yakalama emri veya mahkûmiyet kararı bulunan kişileri yakalama ve arama",
+      "C) Olay yerini ve delilleri koruma, bu amaçla Ceza Muhakemesi Kanunu’nun 168’inci maddesine göre yakalama",
+      "D) Türk Ceza Kanununun 24 ve 25’inci maddelerine göre zor kullanma",
+      "E) Polis Vazife ve Salahiyetleri Kanunu madde 15’e göre silah kullanma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Polis Vazife ve Salahiyetleri Kanunu madde 15’e göre silah kullanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1910,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi şüpheli şahıs tespitinde dikkat edilecek hususlardan biri değildir?",
+    "options": [
+      "A) Kaygılı davranış sergileyen kişi",
+      "B) Donuk bakışlı kişi",
+      "C) Sıcak havada mont giyen kişi",
+      "D) Uzun boylu kişi",
+      "E) Taşıdığı eşyayı bırakıp ayrılan kişi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Uzun boylu kişi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1911,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi tren garında devriye görevini yerine getiren özel güvenlik görevlileri Feyza ile Beyza’nın önleyici görevlerindendir?",
+    "options": [
+      "A) Buluntu eşyayı emanete alma",
+      "B) Terkedilmiş eşyayı emanete alma",
+      "C) Kimlik sorma",
+      "D) Yankesicilik suçunu işleyen şahsı yakalama",
+      "E) Kaybolan çocuğu bularak ailesine teslim etme"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kimlik sorma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1912,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Devriye hizmetini yerine getiren özel güvenlik görevlileri İbrahim ile Merve, bir işyerinden imdat sesi gelmesi üzerine işyerine girerler. Bu davranışlarıyla hangi görevi yerine getirmiş olurlar?",
+    "options": [
+      "A) Yardım",
+      "B) Önleyici",
+      "C) İdari",
+      "D) Yargısal",
+      "E) Koruyucu"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yardım** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1913,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki kanunların hangisi/ hangileri özel güvenlik görevlilerine zor kullanma yetkisi vermiştir?\r\n I. 6098 sayılı Türk Borçlar Kanunu\r\n II. 5237 sayılı Türk Ceza Kanunu\r\n III. 4721 sayılı Türk Medeni Kanunu",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I, II ve III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1914,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Bir havalimanında X-ray cihazı operatörü olarak çalışan güvenlik görevlisi Kader, X-ray tünelinden geçen bir çantanın içerisini X-ray cihazı monitöründe görüntüleyememektedir. Bu durumda Kader’in öncelikli olarak X-ray kontrol panelinde bakması gereken bölge ve gösterge aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) 2. Bölge - X ışını üretip üretmediğini gösteren lamba",
+      "B) 3. Bölge - X ışını üretip üretmediğini gösteren lamba",
+      "C) 1.Bölge - HI-PEN tuşu",
+      "D) 2.Bölge - EDGE-TRACE tuşu",
+      "E) 1. Bölge - X ışını üretip üretmediğini gösteren lamba"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) 1. Bölge - X ışını üretip üretmediğini gösteren lamba** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1915,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "I. Dozimetre ödünç verilmez veya ödünç alınmaz\r\n II. X-ray cihazının tüneline veya kenarına konulmaz\r\n III. Metal parçaların veya giyeceklerin arkasına bırakılabilir\r\n IV. Radyasyona ne kadar maruz kalındığını ölçmek için kullanılır\r\n Dozimetre için yukarıda ifade edilen hususlardan hangileri doğrudur?",
+    "options": [
+      "A) I-II",
+      "B) I-II-IV",
+      "C) I-II-III-IV",
+      "D) II-III-IV",
+      "E) I-II-III"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) I-II-IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1916,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İz dedektörleri ile aşağıdakilerden hangisi tespit edilir?",
+    "options": [
+      "A) Patlayıcı/Sıvı Parlayıcı ve Yanıcı Maddeler",
+      "B) Kontrolsüz geçişler",
+      "C) Su",
+      "D) Meyve Suyu",
+      "E) Metaller"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Patlayıcı/Sıvı Parlayıcı ve Yanıcı Maddeler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1917,
+    "period": "106. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Bir fabrikada güvenlik görevlisi olarak çalışan Ada aynı zamanda yangın algılama sisteminden de sorumludur. Fabrikada yangın alarm sirenlerinin çalması durumunda aşağıdakilerden hangisi Ada’nın şüphelenmesi gereken durumlar arasında yer almaz?",
+    "options": [
+      "A) Fabrikada duman dedektörleri yangın dumanı tespit etmiştir",
+      "B) Fabrikada elektirik kesintisi nedeniyle duman dedektörlerinin arızalandığını tespit etmiştir",
+      "C) Fabrikada gaz dedektörleri gaz kaçağı tespit etmiştir",
+      "D) Fabrikada ısı dedektörleri yüksek ısı tespit etmiştir",
+      "E) Fabrikada alev dedektörleri alev tespit etmiştir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Fabrikada elektirik kesintisi nedeniyle duman dedektörlerinin arızalandığını tespit etmiştir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1918,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "EDS sistemi ne işe yarar?",
+    "options": [
+      "A) Yangın önleme amaçlı olarak duman algılamada kullanılan bir sistemdir",
+      "B) Hırsızlığı önleme amaçlı kullanılan bir alarm sistemidir",
+      "C) Görüntülerin kaydedilmesini sağlar",
+      "D) Bir çeşit kartlı geçiş sistemidir",
+      "E) Patlayıcı maddelerin taranmasında kullanılan bir çeşit patlayıcı tarama sistemidir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Patlayıcı maddelerin taranmasında kullanılan bir çeşit patlayıcı tarama sistemidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1919,
+    "period": "106. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "RENTEK manevrası aşağıdaki uygulamalar içinde hangi durumlarda kullanılır?",
+    "options": [
+      "A) Dar bir tünelde sıkışmış kişiyi kurtarmak için",
+      "B) Kaza geçirmiş kişiyi sakinleştirmek için",
+      "C) Eğer tehlikeli bir durum varsa (solunum durması, patlama ihtimali) omuriliği zedelemeden araçtan çıkarmak için",
+      "D) Araç trafiğinin akışını sağlanabilmesi için",
+      "E) Kırığı olan hastayı araçtan çıkarmak için"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Eğer tehlikeli bir durum varsa (solunum durması, patlama ihtimali) omuriliği zedelemeden araçtan çıkarmak için** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1920,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Sara krizinde yapılan müdahalelerden hangisi yanlıştır?",
+    "options": [
+      "A) Hasta sıkıca bağlanır",
+      "B) Hasta yol ortasında kriz geçiriyorsa trafik akışı kesilir",
+      "C) Kriz kendi sürecini tamamlamaya bırakılır",
+      "D) Başını çarpmasını engellemek için başın altına yumuşak bir malzeme konur",
+      "E) Hasta kusmaya başlarsa hemen yana çevrilir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Hasta sıkıca bağlanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1921,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Ayak bileği kırığında aşağıdakilerden hangisi yapılmaz?",
+    "options": [
+      "A) Yaralının ayakkabıları çıkartılmadan bağları çözülür",
+      "B) 8 şeklinde bir bandajla her iki ayak birlikte tespit edilir",
+      "C) Yaralının ayakkabıları çıkartılır",
+      "D) Yastık gibi yumuşak bir malzemenin üzerine koyularak ayak yukarıda tutulur",
+      "E) Soğuk uygulama yapılır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yaralının ayakkabıları çıkartılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1922,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bilinci açık bir bebekte hava yolu tam tıkanmışsa aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "A) Sırta 5 vuru göğüs kemiğine 5 bası uygulanır",
+      "B) Koma pozisyonu verilir",
+      "C) Temel yaşam desteği uygulanır",
+      "D) Karına bası uygulanır",
+      "E) Şok pozisyonu verilir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Sırta 5 vuru göğüs kemiğine 5 bası uygulanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1923,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kaza yapmış bir aracın yanına gelindiğinde ilk olarak aşağıdakilerden hangisi yapılır?",
+    "options": [
+      "A) Çekilmişse el freni indirilir",
+      "B) Hasta/yaralı hemen araçtan çıkarılır",
+      "C) Aracın kontağı kapatılır, el freni çekilir",
+      "D) Hemen 110 aranır",
+      "E) Hemen 155 aranır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Aracın kontağı kapatılır, el freni çekilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1924,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bebeklerde başa pozisyon verirken hangisine dikkat edilmelidir?",
+    "options": [
+      "A) Hafif bir baş-çene pozisyonu verilmelidir",
+      "B) Baş öne doğru eğilmelidir",
+      "C) Başa 45 derecelik açı verilmelidir",
+      "D) Burun kapatılmalıdır",
+      "E) Başa 90 derecelik açı verilmelidir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Başa 45 derecelik açı verilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1925,
+    "period": "106. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Hangisi dış kanamalarda yapılan ilkyardım uygulaması değildir?",
+    "options": [
+      "A) Kanayan yer üzerine temiz bir bezle bastırılır",
+      "B) Kanama durmazsa ikinci bir bez koyarak basıncı arttırılır",
+      "C) Gerekirse bandaj ile sararak basınç uygulanır",
+      "D) Kanayan yere en yakın basınç noktasına baskı uygulanır",
+      "E) Kanayan bölge içeride kalacak şekilde hastanın üstü örtülür"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kanayan bölge içeride kalacak şekilde hastanın üstü örtülür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1926,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Damar bütünlüğünün bozulması sonucu kanın damar dışına akmasına ne isim verilir?",
+    "options": [
+      "A) Kırık",
+      "B) Burkulma",
+      "C) Kanama",
+      "D) Yaralama",
+      "E) Çıkık"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kanama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1927,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Olay yerinin değerlendirilmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yaralının paniğe kapılmasını engellemek için yarasını görmesine izin verilmelidir",
+      "B) Hasta sıcak tutulmalıdır",
+      "C) Yardım ekibi gelene kadar hasta/yaralının yanında kalınmalıdır",
+      "D) 112 aranarak doğru şekilde bilgi verilmelidir",
+      "E) Yaralı yerinden oynatılmamalıdır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yaralının paniğe kapılmasını engellemek için yarasını görmesine izin verilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1928,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hayvan ısırmaları ve böcek sokmalarıyla ilgili aşağıda verilenlerden hangisi doğrudur?",
+    "options": [
+      "A) Köpek ısırmalarında yara 5 dakika süreyle sabun ve soğuk suyla yıkanır",
+      "B) Arı sokmalarında yaraya sıcak uygulama yapılır",
+      "C) Akrep sokmalarında yaraya sıcak uygulama yapılır",
+      "D) Deniz canlılarının sokmalarında yaraya soğuk uygulama yapılır",
+      "E) Yılan sokmalarında yara bıçakla kesilerek zehir emilir ve tükürülür"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Köpek ısırmalarında yara 5 dakika süreyle sabun ve soğuk suyla yıkanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1929,
+    "period": "106. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Bir maddenin sıcaklığının artmasına sebep olan fiziksel etki nedir?",
+    "options": [
+      "A) Duman",
+      "B) Alev",
+      "C) Yanma",
+      "D) Isı",
+      "E) Oksijen"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Isı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1930,
+    "period": "106. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Kontrol dışına çıkmış yanma olayına ne denir?",
+    "options": [
+      "A) Benzin",
+      "B) Yanma",
+      "C) Duman",
+      "D) Yanıcı madde",
+      "E) Yangın"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yangın** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1931,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki açıklamalardan hangisi yanlıştır?",
+    "options": [
+      "A) Yangın kontrolden çıkmış bir yanma olayıdır",
+      "B) Yanıcı madde, oksijen ve ısı yanma üçgenini oluşturur",
+      "C) Yanmanın devam edebilmesi için ortamda yeterli miktarda oksijen olması gerekir",
+      "D) Akaryakıt yangınlarında yüksek basınçlı su uygulaması en etkin müdahale yöntemidir",
+      "E) Yangınlarda zehirli gazlar açığa çıkar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Akaryakıt yangınlarında yüksek basınçlı su uygulaması en etkin müdahale yöntemidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1932,
+    "period": "106. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yangın yerindeki tehlikelerden biridir?",
+    "options": [
+      "A) Genleşme tehlikesi",
+      "B) Patlama tehlikesi",
+      "C) Kopma tehlikesi",
+      "D) Yırtılma tehlikesi",
+      "E) Bozulma tehlikesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Patlama tehlikesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1933,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Metan, Etan, Propan vb. olarak bilinen bu tür gazlar bulundukları alandaki oksijeni bertaraf ettikleri için oksijen yetersizliğine neden olmaktadır. Bu tür gazlar hangi grup gazlar olarak nitelendirilir?",
+    "options": [
+      "A) 1.Grup Gazlar",
+      "B) 2.Grup Gazlar",
+      "C) 3.Grup Gazlar",
+      "D) 4.Grup Gazlar",
+      "E) 5.Grup Gazlar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) 1.Grup Gazlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1934,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Muhtemel panik ve kargaşayı önlemek, acil durum ekipleri arasındaki koordinasyon işlerini gerçekleştirmek, sayım işlerini yürütmek gibi görevleri yapan ekip hangisidir?",
+    "options": [
+      "A) Koruma ekibi",
+      "B) Kurtarma ekibi",
+      "C) Söndürme ekibi",
+      "D) İlkyardım ekibi",
+      "E) Komuta ekibi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Koruma ekibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1935,
+    "period": "106. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Gaz yağı, tiner, boya gibi yanıcı maddelerin söndürülmesinde en etkili söndürme maddesi hangisidir?",
+    "options": [
+      "A) Su",
+      "B) Kuru kimyevi toz",
+      "C) Karbondioksit",
+      "D) Köpük",
+      "E) Kum"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Köpük** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1936,
+    "period": "106. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Tam yanmanın olmadığı, oksijenin yeterli ama ısının yetersiz olduğu yangın oluşum safhası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Denge safhası",
+      "B) Başlangıç safhası",
+      "C) Sıcak tütme safhası",
+      "D) Sonlanma safhası",
+      "E) Soğuk safha"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Başlangıç safhası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1937,
+    "period": "106. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Narkotik maddelerin sınıflandırılmasına göre aşağıdakilerden hangisi Hayal Gösterenler (Halüsinojenler) sınıfında yer alır?",
+    "options": [
+      "A) Eroin",
+      "B) Ecstasy",
+      "C) Kodein",
+      "D) Metamfetamin",
+      "E) Esrar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Esrar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1938,
+    "period": "106. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Kullanılan uyuşturucu madde miktarını her geçen gün arttırma isteği bağımlılığa giden yolda neyi ifade eder?",
+    "options": [
+      "A) Duygu durumunda yükselmeyi",
+      "B) Yoksunluk halini",
+      "C) Tolerans etkisini",
+      "D) Uyku halini",
+      "E) Çevre değişikliğini"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tolerans etkisini** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1939,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Etkili iletişimde alıcının taşıması gereken bir takım özellikler vardır. Aşağıdaki özelliklerden hangisi alıcının taşıması gereken özelliklerden birisi değildir?",
+    "options": [
+      "A) Alıcı iyi bir dinleyici olmalıdır",
+      "B) Alıcı bilgisiyle geri besleme yeteneğine sahip olmalıdır",
+      "C) Alıcı mesajı tam almalı, seçici olmamalıdır",
+      "D) Alıcı kaynaktan gelen mesajı almaya istekli olmamalı olumlu yaklaşmamalıdır",
+      "E) Alıcı bilgi ve birikimi ile mesajı algılayabilme yeteneğine sahip olmalıdır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Alıcı kaynaktan gelen mesajı almaya istekli olmamalı olumlu yaklaşmamalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1940,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel güvenlik görevlisi çok önemli durumlarda ikna edici olabilmek için bireysel iletişimini kurarken ortamı nasıl düzenlemelidir?",
+    "options": [
+      "A) Görev yerindeki masasından kalkmadan iletişime girmelidir",
+      "B) Görev yerinden yalnızca pencere ve stanttan iletişime girmelidir",
+      "C) Yerinden kalkarak omuz hizasından yüz yüze gelecek biçimde iletişime girmelidir",
+      "D) İletişime girdiği kişiyle arasına mutlaka bir mesafe koyarak iletişime girmelidir",
+      "E) Yoğun olduğunu ima edecek şekilde hareket ederek iletişime girmelidir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yerinden kalkarak omuz hizasından yüz yüze gelecek biçimde iletişime girmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1941,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Bir özel güvenlik görevlisinin güçlü bir iletişim becerisine sahip olması, görev yaptığı kuruma aşağıdaki izlenimlerden en çok hangisini kazandırır?",
+    "options": [
+      "A) Kurumun güçlü bir kurumsal yapıya sahip olduğu izlenimini yaratır",
+      "B) Güven duyulacak bir kuruma gelindiği izlenimi yaratır",
+      "C) Saygın bir kuruma geldiği izlenimini yaratır",
+      "D) Kurum güvenliğinin sempatik bir biçimde sağlandığı izlenimini yaratır",
+      "E) Kurumda işlerin sağlıklı yürüdüğü izlenimini yaratır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kurumda işlerin sağlıklı yürüdüğü izlenimini yaratır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1942,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Özel güvenlik görevlileri zaman zaman grupları bilgilendirmek durumunda kalırlar. Bu bilgilendirmede grupla güvenlik görevlisi arasındaki mesafe ne kadar olmalıdır?",
+    "options": [
+      "A) Görevli olabildiğince gruba yakın olmalıdır",
+      "B) Görevli grup içinden birkaç kişiyi muhatap alarak konuşmalıdır",
+      "C) Görevli grubun tamamının kendisini görebileceği bir mesafede durması gerekir",
+      "D) Görevlinin gruba seslenirken kabininden çıkmaması gerekir",
+      "E) Görevlinin gruptan daha yüksek ve uzak bir mesafede durmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Görevli grubun tamamının kendisini görebileceği bir mesafede durması gerekir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1943,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Fertlerin ve toplumların anlama ve kavrama farklılıklarından ötürü, bir gruba veya topluluğa sosyal mesajları veya sosyal olayları, onların anlayacağı ve kavrayacağı dilde anlatan, yol gösteren kişilere .......... adı verilir. Bu kişiler gruplar üzerinde hayli etkindir ve davranışları grup tarafından çok çabuk benimsenir.\r\n Yukarıdaki cümlede bırakılan boşluk seçeneklerden hangisi ile doldurulmalıdır?",
+    "options": [
+      "A) Usta",
+      "B) Kanaat önderi",
+      "C) Öncü",
+      "D) Yönetici",
+      "E) Yaşam koçu"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kanaat önderi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1944,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Yazılı iletişim becerisinin bir özel güvenlik görevlisine gerekliliği konusunda aşağıdaki cümlelerden hangisi doğrudur?",
+    "options": [
+      "A) Yazılı iletişim becerisi bir özel güvenlik görevlisinin birinci önceliği değildir",
+      "B) Yazılı iletişim becerisi bir özel güvenlik görevlisi için her zaman gereklidir",
+      "C) Yazılı iletişim becerisi bir özel güvenlik görevlisine arada sırada gereklidir",
+      "D) Yazılı iletişim becerisi bir özel güvenlik görevlisine rapor ve tutanak yazımı için gerekli olabilir",
+      "E) Özel güvenlikle yazılı iletişim becerisi arasında bir ilgi bulunmamaktadır."
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Yazılı iletişim becerisi bir özel güvenlik görevlisi için her zaman gereklidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1945,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel güvenlik görevlilerinin görev sürecinde aşağıdaki kişilerden hangisi ile başarılı iletişim kurması diğerlerine nazaran daha az önemlidir?",
+    "options": [
+      "A) Genel kolluk görevlileri",
+      "B) Ekip üyeleri",
+      "C) Müşteriler",
+      "D) Kurum çalışanları",
+      "E) Seyyar satıcılar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Seyyar satıcılar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1946,
+    "period": "106. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Bir özel güvenlik görevlisinin iletişim sürecinde başarısını belirleyen unsurlar arasında soru sormanın önemi nedir?",
+    "options": [
+      "A) Soru sorma genellikle iletişim sürecinde iletişim kopukluğu yaratır",
+      "B) Soru sorma sadece ilk iletişim anında önemlidir",
+      "C) Soru sorma iletişimin bütün süreçlerinde etkili bir iletişim aracıdır",
+      "D) Soru sormadan da bir özel güvenlik görevlisi etkili iletişim kurabilir",
+      "E) İletişimin başarısını sağlamada soru sormanın önemi üzerine bir bilimsel araştırma bulunmamaktadır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Soru sorma iletişimin bütün süreçlerinde etkili bir iletişim aracıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1947,
+    "period": "106. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik hizmeti veren bir grubun sözlü mesaj iletiminde dikkat etmesi gereken nokta aşağıdakilerden hangisi değildir?",
+    "options": [
+      "A) Sözlü mesajın açık ve anlaşılır olmasına dikkat etmek",
+      "B) Sözün içinde bulunan mesajın net bir şekilde ifade edilmesi",
+      "C) Mesajın kısa sürede yerine getirilecek biçimde iletilmesi",
+      "D) Konuşmanın önemli kısımlarının vurgu ve tonlama ile pekiştirilmesi",
+      "E) Mesajın mesajı alan kişi tarafından tekrarlanması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Mesajın kısa sürede yerine getirilecek biçimde iletilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1948,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Özel güvenlik görevlisi koruma ve güvenliğini sağlamakla görevli olduğu yerde görev yaparken stresli, kızgın bir vatandaşa nasıl davranmamalıdır?",
+    "options": [
+      "A) Sakin olması gerektiğini teskin etmesi",
+      "B) Kendisine yardımcı olması",
+      "C) Sorunun ne olduğunu anlamaya çalışması",
+      "D) Karşısındakini koltuğa oturtup bir şeyler ikram etmesi",
+      "E) Yüksek sesle konuşarak karşısındakini susturması"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yüksek sesle konuşarak karşısındakini susturması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1949,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel Güvenlik Amiri Nur, görevle ilgili bilgilendirici bir konuşma yapıyorsa bu konuşmada aşağıdakilerden hangisini bir ölçüt olarak görmemelidir?",
+    "options": [
+      "A) Bilginin açık iletiminin olması",
+      "B) Bilginin alıcı için anlamlı olması",
+      "C) Bilginin doğru iletiliyor olması",
+      "D) Bilginin üstü kapalı iletiminin olması",
+      "E) Bilginin alıcı için ilgi çekici olması"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Bilginin üstü kapalı iletiminin olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1950,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İletişim ile ilgili olarak aşağıdaki ifadelerden hangisi doğru değildir?",
+    "options": [
+      "A) İletişim, toplumun temelini oluşturan bir sistemdir",
+      "B) İletişim, sosyal uyum için gerekli olan bir sanattır",
+      "C) İletişim, sosyal süreçler bakımından zorunlu bir bilimdir",
+      "D) İletişim, örgütsel ve yönetsel yapının karmaşık ve sorunlu işleyişini sağlayan bir araçtır",
+      "E) İletişim, bireysel davranışları görüntüleyen ve etkileyen bir tekniktir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İletişim, örgütsel ve yönetsel yapının karmaşık ve sorunlu işleyişini sağlayan bir araçtır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1951,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanun’una göre toplantı ve gösteri yürüyüşü yapılması yasak yerlerden değildir?",
+    "options": [
+      "A) Parklar",
+      "B) Mabetler",
+      "C) Kamu hizmeti görülen bina ve tesisler",
+      "D) Mahallin en büyük mülki amiri tarafından belirlenen genel meydanlar",
+      "E) Şehirlerarası karayolları"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Mahallin en büyük mülki amiri tarafından belirlenen genel meydanlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1952,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Otoriteye, mülkiyete veya insanlara karşı şiddetli bir toplumsal rahatsızlıktan kaynaklanan ve bir grup tarafından gerçekleştirilen sivil itaatsizlik, başka bir tanıma göre ise; toplumsal düzeni etkileyen veya bozan, kamu otoritesini zaafa düşüren, maddi hasarlara, yaralanmalara veya can kayıplarına yol açan organize gösteri ve eylemlerin tümü ne olarak tanımlanmıştır?",
+    "options": [
+      "A) İsyan etmek",
+      "B) Başkaldırmak",
+      "C) Toplumsal olay",
+      "D) Provokasyon",
+      "E) Kuvvet gösterisi ve caydırıcılık"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Toplumsal olay** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1953,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi toplumsal olaylarda kanuna aykırı eylem biçimlerinden biri değildir?",
+    "options": [
+      "A) Yasalara uygun afiş, pankart, resim veya flama taşımak",
+      "B) Onur kırıcı davranış ve tahrikte bulunulması",
+      "C) Ateşli silahlar ve patlayıcı maddelerin kullanılması",
+      "D) Barikatlar yapmak",
+      "E) Yangın çıkarmak veya kendini yakmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yasalara uygun afiş, pankart, resim veya flama taşımak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1954,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Toplumsal olaylar sırasında ortaya çıkan belirsizlik süreci ve kırılgan durum sosyal istikrarı tehdit eden bir unsur olarak ortaya çıkar. Bu süreçte toplumsal olayların işleyişi, sonuçları ve toplum üzerindeki etkilerini öngörebilmek çoğu zaman mümkün olmaz. Yeni şartlar, faktörler ve aktörler ortaya çıkarak yeni çatışmalara sebebiyet verebilirler. Buna göre toplumsal olayları başlatma usul ve aşamaları aşağıdakilerden hangisi değildir?\r\n I. Yaygın, sürekli ve etkili propaganda yapmak  II. İstenilen yönde kışkırtıcı konuşmalar yapmak  III. Heyecanı artırmak ve eyleme geçiş  IV. Sonucunda eylem yapmadan beklemek ve propagandaya devam etmek",
+    "options": [
+      "A) Yalnızca I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) Yalnızca IV",
+      "E) I ve IV"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yalnızca IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1955,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Yasal olmayan toplumsal olayları başlatan ve yürüten topluluklar hedeflerini gerçekleştirmek için kendilerini önlemeye çalışan güvenlik görevlilerine karşı aşağıdaki hangi taktikleri kullanırlar?  I. Farklı olaylar çıkararak dikkatleri başka tarafa çekme  II. Dağılıyor gibi yaparak tekrar toplanma  III. Çevredeki esnaftan yardım isteme  IV. Topluluğun güvenlik görevlilerini kuşatması  V. Etraflarına çocuk ve kadınların dizilmesi",
+    "options": [
+      "A) I, V",
+      "B) I, III, IV",
+      "C) II, III, IV",
+      "D) III, IV, V",
+      "E) I, II, IV,V"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I, II, IV,V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1956,
+    "period": "106. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Çok tanınmış ve herkesçe sevilen ses sanatçısı İzzet’in şehrin en büyük meydanlarından birinde açık havada düzenlenen aşırı kalabalık bir sahne konseri esnasında, sanatçı ve sahneyi korumak için aşağıda belirtilen güvenlik tedbirinden hangisi veya hangilerini uygulamak daha güvenli ve etkili olur?  I. Hat düzeni  II. Kama düzeni  III. Çember düzeni  IV. Alan çevre ve kapı koruma  V. Çatı düzeni",
+    "options": [
+      "A) I ve V",
+      "B) Yalnızca III",
+      "C) I ve III",
+      "D) III ve V",
+      "E) II ve III"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) I ve III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1957,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi göz yaşartıcı kimyasal gazların kullanım esasları için söylenemez?",
+    "options": [
+      "A) Göz yaşartıcı maddeler direniş ve saldırısına son vermiş kişilere karşı asla kullanılmaz",
+      "B) Spreyler kullanılırken bir kişiye bir sıkım olarak en az 1 m. mesafeden sıkılır",
+      "C) Gazdan etkilenen şahısların kaçış yolları kapalı tutulmalıdır",
+      "D) Göz yaşartıcı maddeler yetkili kılınmış ve iyi eğitim görmüş personel tarafından kullanılmalıdır",
+      "E) Göz yaşartıcı maddeler amacı dışında ve gerekli tedbirler alınmadan kullanılmamalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Gazdan etkilenen şahısların kaçış yolları kapalı tutulmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1958,
+    "period": "106. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi göz yaşartıcı gaza maruz kalan kişilere uygulanacak ilkyardım esaslarından biri değildir?",
+    "options": [
+      "A) Kişiler göz yaşartıcı maddenin bulunduğu gazlı ortamdan hemen uzaklaştırılır, mümkünse açık alana çıkartılır",
+      "B) Gözler ovuşturulmadan mümkünse açık tutulmalı, lens varsa çıkartılmalıdır",
+      "C) Hızlı hızlı nefes almaya çalışılır",
+      "D) Gözler rüzgara veya varsa vantilatöre karşı açık tutulur. Böylece gözlerin temizlenmesi hızlandırılır",
+      "E) Vücudun açık yerleri ile gözler ovuşturulmadan soğuğa yakın ılık suyla yıkanır. Ağız ve buruna su alınarak gargara yapılır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Hızlı hızlı nefes almaya çalışılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1959,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Güvenlik görevlileri toplumun huzurunu sağlamak için vardır. Toplum psikolojisinin güvenlik kuvvetleri için önemi konusunda aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "A) Toplumu oluşturan bireyler, kitle ve gruplar hakkında bilgi sahibi olması gerekir",
+      "B) Güvenlik kuvvetleri, görev yaptığı çevrenin sosyal durumunu tanımasına gerek yoktur",
+      "C) Toplumu oluşturan bireyler, kitle ve grupların davranışlarını önceden tahmin edebilmesi gerekir",
+      "D) Görev yaptığı çevrenin siyasal durumunu iyi tanımalı ve gelişmeleri sürekli takip etmelidir",
+      "E) Güvenlik kuvvetleri, görev yaptığı çevrenin ekonomik ve psikolojik durumunu iyi tanımalıdır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Güvenlik kuvvetleri, görev yaptığı çevrenin sosyal durumunu tanımasına gerek yoktur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1960,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik sorumlusu Mehmet’in emrindeki özel güvenlik görevlilerine “Hat düzeni al!” talimatı verdiği duyulduğuna göre, güvenlik sorumlusu aşağıda sayılan hangi durum veya olaya müdahale ettirmeyi planlamıştır?",
+    "options": [
+      "A) Topluluk veya kalabalığı bölmek ve yanlara doğru dağıtmak",
+      "B) Topluluk veya kalabalığı geriye doğru itmek",
+      "C) Kişi veya kıymetli bir eşyayı çevirerek koruma altına alma",
+      "D) Kalabalığın atacağı taş gibi her türlü zarar verici madde saldırılarından personelini koruma",
+      "E) Topluluk veya kalabalık içerisinde yolu açma"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Topluluk veya kalabalığı geriye doğru itmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1961,
+    "period": "106. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Öncü istihbarat çalışması sırasında hazırlanan hastane koruyucu kontrol listesinde aşağıdaki maddelerden hangisi yer almaz?",
+    "options": [
+      "A) Acil servisin yeri",
+      "B) Hastanenin servis imkanları",
+      "C) Ambulans servisinin yeri ve telefonu",
+      "D) Hastanenin uzman cerrah durumu",
+      "E) Hastanenin sosyal ve temizlik ihtiyaçlarını karşılama durumu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Hastanenin sosyal ve temizlik ihtiyaçlarını karşılama durumu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1962,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi Ekip Amirinin görevlerinden değildir?",
+    "options": [
+      "A) Korunan önemli kişinin (VIP) Özel Kalem Müdürü veya Sekreteri ile irtibatta bulunup, programlar hakkında bilginin zamanında verilmesini sağlamak",
+      "B) Koruma Amirine taktiksel durumlar hakkında bilgi vermek",
+      "C) Günlük koruma planları hazırlamak",
+      "D) Koruma personelinin görevlerine sevklerini düzenlemek",
+      "E) Kendi vardiyasındaki personelin disiplininden sorumlu olmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Korunan önemli kişinin (VIP) Özel Kalem Müdürü veya Sekreteri ile irtibatta bulunup, programlar hakkında bilginin zamanında verilmesini sağlamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1963,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Korunan önemli kişinin (VIP) araçla gideceği güzergâhı üzerinde dikkat edilmesi gereken hususlar aşağıdakilerden hangisi değildir?",
+    "options": [
+      "A) Mevsime ya da bölgeye göre uygunsuz olarak giyinmiş kişiler",
+      "B) Plakası okunamayacak derecede silinmiş ya da değiştirildiği bariz olan araçlar",
+      "C) Arıza yapmış araçlar",
+      "D) Yol üzerinde yapılan yol çalışmaları",
+      "E) Yol üzerinde seyreden iş makinaları"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yol üzerinde seyreden iş makinaları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1964,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Kişi koruma görevi ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Koruma görevine ilişkin her türlü alternatif plan ve teçhizat önceden hazırlanmalıdır",
+      "B) Koruma görevi esnek planlanmalı, önemli kişinin görevini engellememelidir",
+      "C) Koruma görevi devamlılık arz etmelidir",
+      "D) Koruma elemanı ceketinin önünü iliklemeli ve VIP şahsa saygıda kusur etmemelidir",
+      "E) Koruma elamanı silah kullanmayı son çare olarak görmelidir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Koruma elemanı ceketinin önünü iliklemeli ve VIP şahsa saygıda kusur etmemelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1965,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Öncü istihbarat çalışmasının amacı korunan kişinin .......... ve .......... üzerinde güvenli bir alan oluşturarak önemli kişiye yönelik ......... ortadan kaldırmak veya ................ indirmektir.  Aşağıdaki seçeneklerden hangisi boşluklara uygun olur?",
+    "options": [
+      "A) Ofisi/İkameti/Riski/Maksimuma",
+      "B) Seyahati/Ofisi/Suikastı /Maksimuma",
+      "C) Mekan/Yol/Riski/Maksimuma",
+      "D) Gideceği yer/Güzergah/Karşılama/Minimuma",
+      "E) Gideceği yer/Güzergah/Riski/Minimuma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Gideceği yer/Güzergah/Riski/Minimuma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1966,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi, koruma amirinin görevlerinden biri değildir?",
+    "options": [
+      "A) Koruma ekibinin görevini eksiksiz yapmasından sorumludur",
+      "B) Koruma ekibi arasında hiçbir şekilde ayrıcalık yapmaz",
+      "C) Korunan önemli kişi ile sürekli irtibatta olur ve gerektiğinde güvenlik brifingi verir",
+      "D) Korunan önemli kişiyi taşıyan aracın sağ önünde oturur, görevde olan tüm ekiple irtibatı sağlar",
+      "E) Korunan önemli kişinin sağında ve bir adım önünde yer alır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Korunan önemli kişinin sağında ve bir adım önünde yer alır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1967,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Korunan önemli kişinin bulunduğu VIP aracı dışında başka bir araçla yapılan koruma düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Beş araçlı koruma",
+      "B) Tek araçlı koruma",
+      "C) Dört araçlı koruma",
+      "D) İki araçlı koruma",
+      "E) Üç araçlı koruma"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tek araçlı koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1968,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi suikastçıların sık olarak kullandığı yöntemlerden değildir?",
+    "options": [
+      "A) Yakından Yapılan Saldırılar",
+      "B) Uzaktan Yapılan Saldırılar",
+      "C) Patlayıcılarla Yapılan Saldırılar",
+      "D) Adam kaçırma, yangınlar ve sabotajlar",
+      "E) Sosyal medyadan yapılan saldırılar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sosyal medyadan yapılan saldırılar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1969,
+    "period": "106. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "“Sadece koruma görevlerinin bulunabileceği, korunan önemli kişinin en yakını olan kişilerin ve güvenlik kontrolü yapılmış olanların girebileceği, korunan önemli kişiye en yakın ve koruma görevlilerinden oluşturulan güvenli halkadır.” tanımı hangi çember çeşidini ifade eder?",
+    "options": [
+      "A) Ana Çember",
+      "B) Dış Çember",
+      "C) İç Çember",
+      "D) Orta Çember",
+      "E) Yan Çember"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İç Çember** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1970,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangi kurum temsilcisi Özel Güvenlik Komisyonunda yer almaz?",
+    "options": [
+      "A) İl Emniyet müdürlüğü temsilcisi",
+      "B) İl Jandarma komutanlığı temsilcisi",
+      "C) İl Belediyesi temsilcisi",
+      "D) Ticaret odası başkanlığı temsilcisi",
+      "E) Sanayi odası başkanlığı temsilcisi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İl Belediyesi temsilcisi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1971,
+    "period": "106. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıdaki makamlardan hangisi il ve ilçe sınırları içeresinde bulunan genel ve özel bütün kolluk kuvvet ve teşkilatının amiridir?",
+    "options": [
+      "A) Belediye Başkanı",
+      "B) Vali",
+      "C) Kaymakam",
+      "D) Emniyet Genel Müdürü",
+      "E) Milli Savunma Bakanı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Vali** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1972,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlileri, yer ve zaman bakımından yetkilerini hangi durumda kullanamaz?",
+    "options": [
+      "A) Özel güvenlik izni verilen yerde",
+      "B) Görev alanında",
+      "C) Kimlik kartını görünür şekilde taşımak suretiyle",
+      "D) Güvenlik ile ilgili her zaman ve her yerde",
+      "E) Görev süresince"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Güvenlik ile ilgili her zaman ve her yerde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1973,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bir suçla karşılaşıldığında genel kolluğa bildirim yapılabilmesi için sadece özel güvenlik görevlilerince kullanılabilen uygulama hangisidir?",
+    "options": [
+      "A) KADES",
+      "B) KAAN",
+      "C) UYAP",
+      "D) ÖGNET",
+      "E) ÖZGE"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) KAAN** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1974,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik hizmetlerine ilişkin iş ve işlemlerin dijital platforma taşındığı, sektör unsurlarının zorunlu başvuru ve bildirimlerini tam zamanlı olarak gerçekleştirebildiği Özel Güvenlik Denetleme Başkanlığı tarafından hayata geçirilen uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) PATBİS",
+      "B) ÖGNET",
+      "C) ASİP",
+      "D) KAAN",
+      "E) ÖZGE"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) ÖGNET** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1975,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel Güvenlik Denetleme Başkanlığı tarafından yapılan entegrasyon çalışması sonrasında, özel güvenlik görevlisi kimlik kartı başvuru işlemlerinin ilgili müracaat birimlerine belge ibraz edilmeksizin yapılabilmesine imkan sağlayan elektronik platform aşağıdakilerden hangisidir?",
+    "options": [
+      "A) MEBSİS",
+      "B) ÖGNET",
+      "C) KAAN",
+      "D) POL-NET",
+      "E) E-DEVLET KAPISI"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) E-DEVLET KAPISI** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1976,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik tabancaların başlıca parçalarından olan, sürgü (kapak takımı) üzerinde aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "A) Rampa",
+      "B) İğne ve yayı",
+      "C) Tırnak",
+      "D) Gez – Arpacık",
+      "E) Kovan atma boşluğu"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Rampa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1977,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah bakım ve temizliği türlerinden değildir?",
+    "options": [
+      "A) Günlük bakım",
+      "B) Haftalık bakım",
+      "C) Atış öncesi bakım",
+      "D) Atış sonrası bakım",
+      "E) Aylık Bakım"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Aylık Bakım** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1978,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi dolu fişeğin veya boş kovanın dışarı atılmasını sağlar?",
+    "options": [
+      "A) Yerine getiren yay ve mili",
+      "B) Kızak",
+      "C) Tırnak ve çıkarıcı",
+      "D) Sürgü tutucu pimi",
+      "E) Şarjör ve fişek yatağı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tırnak ve çıkarıcı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1979,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kimyasal silahların sınıflandırılması içinde yer almaz?",
+    "options": [
+      "A) Yakıcı",
+      "B) Zehirleyici",
+      "C) Bayıltıcı",
+      "D) Göz Yaşartıcı",
+      "E) Delici, kesici"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Delici, kesici** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1980,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi yarı otomatik tabancanın başlıca parçalarından biri değildir?",
+    "options": [
+      "A) Namlu",
+      "B) Sürgü (kapak takımı)",
+      "C) Emniyet mandalı",
+      "D) Çerçeve (gövde)",
+      "E) Şarjör (hazne)"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Emniyet mandalı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1981,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hangisi bakım aracı değildir?",
+    "options": [
+      "A) Bakır telli ve kıl telli fırça",
+      "B) Hatve",
+      "C) Temizlik bezi",
+      "D) Harbi",
+      "E) Koruyucu yağ"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hatve** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1982,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Namlu içindeki girintilere ne ad verilir?",
+    "options": [
+      "A) Rayyür",
+      "B) Hatve",
+      "C) Set",
+      "D) Yiv",
+      "E) Rampa"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yiv** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1983,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Gerdel aşağıdakilerden hangisinin parçasıdır?",
+    "options": [
+      "A) Ateşleme tertibatı",
+      "B) Kovan atma tertibatı",
+      "C) Emniyet tertibatı",
+      "D) Şarjör",
+      "E) Nişan tertibatı"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şarjör** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1984,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Horozlu tabancalarda tetik ile horoz arasındaki irtibatı sağlayan parçanın adı nedir?",
+    "options": [
+      "A) Sürgü tutucu pim",
+      "B) Gerdel ve gerdel yayı",
+      "C) Tetik ve tetik yayı",
+      "D) Tetik manivelası",
+      "E) İğne ve iğne yayı"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Tetik manivelası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1985,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki parçalardan hangisi yarı otomatik tabancada gövde (çerçeve) üzerinde bulunmaz?",
+    "options": [
+      "A) Çıkarıcı",
+      "B) Horoz",
+      "C) Kovan atma boşluğu",
+      "D) Tetik",
+      "E) Tetik korkuluğu"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kovan atma boşluğu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1986,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabancalardaki ateşleme tertibatında, ateşlemeyi başlatan ilk hareketi sağlayan parça aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Horoz",
+      "B) Yerine getiren yay ve mili",
+      "C) Emniyet mandalı",
+      "D) Tetik",
+      "E) Ateşleme iğnesi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Tetik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1987,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik tabancada, kovan atma boşluğu gez, arpacık ve tırnak ……… üzerinde bulunur. Yukarıda boş bırakılan yere gelecek ifade aşağıdaki hangi seçenekte verilmiştir?",
+    "options": [
+      "A) Namlu",
+      "B) Sürgü (Kapak takımı)",
+      "C) Şarjör yuvası",
+      "D) Şarjör gövdesi",
+      "E) Çerçeve (Gövde)"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Sürgü (Kapak takımı)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1988,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahı sökmeye başlamadan önce yapılması gereken ilk işlemdir?",
+    "options": [
+      "A) Sürgü çekilerek fişek yatağı kontrol edilir",
+      "B) Şarjör çıkartılır",
+      "C) Silah ölü noktaya tutulur",
+      "D) Sürgü çekilerek namlu parmakla da kontrol edilir",
+      "E) Sürgü geriye çekilerek namlu gözle kontrol edilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Silah ölü noktaya tutulur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1989,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi poligonda dikkat edilecek emniyet tedbirlerinden değildir?",
+    "options": [
+      "A) Silah, atış yolu dışına çıkarılabilir",
+      "B) Atış esnasında atışı biten personel atışların bitmesini bekler",
+      "C) Namlu hedef istikametinde tutulur",
+      "D) Poligon talimatnamesi okunur",
+      "E) Atış amiri komutları dışında hareket edilmez"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Silah, atış yolu dışına çıkarılabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1990,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabanca iğnesinin kırılması durumunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tabanca dolduruş yapamaz",
+      "B) Tabanca emniyete alınamaz",
+      "C) Horoz düşmez",
+      "D) Tetik çalışmaz",
+      "E) Fişek ateşlenemez"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Fişek ateşlenemez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1991,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah temizliğinde gerekli malzemelerden değildir?",
+    "options": [
+      "A) Harbi",
+      "B) Süngü",
+      "C) Temizleyici yağ",
+      "D) Kıl fırça",
+      "E) Temizlik bezi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Süngü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1992,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Yerine getiren yayın görevi nedir?",
+    "options": [
+      "A) Düzgün nişan alınmasını sağlar",
+      "B) Namluyu kilitleyerek emniyete alır",
+      "C) Çekirdeğin uzağa gitmesini sağlar",
+      "D) Sürgünün atış sırasında oluşan basınçla geriye gelmesinden sonra ileriye gitmesini sağlar",
+      "E) Tetik çekildiğinde horozun yavaş düşmesini sağlayarak zarar görmesini engeller"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sürgünün atış sırasında oluşan basınçla geriye gelmesinden sonra ileriye gitmesini sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1993,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Atışa hazır fişeğin beklediği yer şarjördür",
+      "B) Nişan tertibatında gez ve arpacık bulunur",
+      "C) Namlunun içerisinde bulunan girintilere çap denir",
+      "D) Toplu tabancalarda kabza emniyeti bulunur",
+      "E) Tabancalarda her çaptaki fişek kullanılır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Nişan tertibatında gez ve arpacık bulunur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1994,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Fişeğin bölümleri aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Kovan-Kapsül-Tırnak-Çıkarıcı",
+      "B) Tırnak-Kapsül-Gömlek- Kurşun",
+      "C) Gömlek-Kurşun-Bakır-Barut",
+      "D) Barut-Kapsül-Çekirdek-Kovan",
+      "E) Barut-Kapsül-Gömlek-Çekirdek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Barut-Kapsül-Çekirdek-Kovan** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1995,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi tabancalarda bulunan emniyet sistemi değildir?",
+    "options": [
+      "A) Kabza emniyeti",
+      "B) Şarjör emniyeti",
+      "C) Mandal emniyeti",
+      "D) Namlu emniyeti",
+      "E) Horoz emniyeti"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Namlu emniyeti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1996,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Atış yapılan tabancanın sürgüsünün geride takılı kalması aşağıdakilerden hangisinin sonucunda olur?",
+    "options": [
+      "A) Şarjörde fişeğin bitmesi",
+      "B) Şarjörün tabancadan çıkması",
+      "C) Tabancanın iğnesinin kırılması",
+      "D) Kabzanın iki elle çok sıkı şekilde tutulması",
+      "E) Namlunun ısınması"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Şarjörde fişeğin bitmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1997,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Asya, tabancasına ilk dolduruşu yaparken fişek yatağına fişek süremiyor ise nedeni aşağıdakilerden hangisi olabilir?",
+    "options": [
+      "A) İğne kırıktır",
+      "B) Çıkarıcı kırıktır",
+      "C) Tetik veya tetik yayı arızalıdır",
+      "D) Tırnak kırıktır",
+      "E) Şarjör veya şarjör yayı arızalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Şarjör veya şarjör yayı arızalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1998,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silah ruhsatları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Taşıma ve bulundurma ruhsatları onay tarihinden itibaren 5 yıl geçerlidir",
+      "B) İşyerinde bulundurma ruhsatı olanlar akşamları silahını evine götürebilir",
+      "C) Bulundurma ruhsatı, meskende ve işyerinde olmak üzere iki şekilde düzenlenebilir",
+      "D) Silah bulundurma ruhsatı olanlar atış poligonunda atış yapacaksa mülki amirden Silah Nakil Belgesi almak zorundadır",
+      "E) Taşıtlar, işyeri ve mesken sayılmazlar"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İşyerinde bulundurma ruhsatı olanlar akşamları silahını evine götürebilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 1999,
+    "period": "106. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kapsamlı bakım için hangisi doğrudur?",
+    "options": [
+      "A) Elinde silahı bulunduran herkes bu bakımı yapabilir",
+      "B) Silah teknisyeni tarafından yapılması gereken bakımdır.",
+      "C) Her zaman yapılan bakımdır",
+      "D) Periyodik olarak yapılan bakımdır",
+      "E) Bütün parçaların boyanması işlemidir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Silah teknisyeni tarafından yapılması gereken bakımdır.** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 2000,
+    "period": "106. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Barut gazının geri tepme etkisiyle ve icra yayının ileri itmesiyle çalışan, 9x19 mm çapında parabellum fişek kullanan, sabit namlulu, yarı ve tam otomatik olarak çalışan, şarjörle beslenen silah aşağıdakilerden hangisidir?",
+    "options": [
+      "A) MP-5 makineli tabanca",
+      "B) Kalaşnikof (AK-47) piyade tüfeği",
+      "C) M-16-A2 (Rifle) tüfeği",
+      "D) CZ-75 tabanca",
+      "E) Yavuz-16 tabanca"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) MP-5 makineli tabanca** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 106. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (106. Dönem Sınavı)"
+  },
+  {
+    "id": 2001,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre aşağıdakilerden hangisi özel güvenlik şirketi faaliyet izni için doğrudur?",
+    "options": [
+      "A) Şirketlerin özel güvenlik alanında faaliyette bulunması Millî Savunma Bakanlığının iznine tabidir",
+      "B) Şirketlere faaliyet izni verilebilmesi için şirket hisselerinin hamiline yazılı olması gerekir",
+      "C) Özel güvenlik şirketlerinin faaliyet alanı her türlü hizmet olabilir",
+      "D) Yabancı kişilerin özel güvenlik şirketi kurabilmesi veya yabancı şirketlerin Türkiye'de özel güvenlik hizmeti verebilmesi mümkün değildir",
+      "E) Kurucu, temsilci ve yöneticilerde aranan şartların kaybedilmesi ve iki ay içinde eksikliğin giderilmemesi halinde faaliyet izni iptal edilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kurucu, temsilci ve yöneticilerde aranan şartların kaybedilmesi ve iki ay içinde eksikliğin giderilmemesi halinde faaliyet izni iptal edilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2002,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdakilerden hangisi özel güvenlik görevlilerinin sahip olduğu yetkilerden birisidir?",
+    "options": [
+      "A) Olay yerini ve delilleri koruma",
+      "B) Şüpheli gördükleri kişilere kimlik sorma",
+      "C) Aramalar sırasında suç teşkil eden veya delil olabilecek eşyaya el koyma",
+      "D) Görev alanında, haklarında yakalama emri veya mahkumiyet kararı bulunan kişileri gözaltına alma",
+      "E) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenlerin üstlerini elle arama"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Olay yerini ve delilleri koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2003,
+    "period": "105. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Özel güvenlik görevlisinin, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da belirtilen koruma ve güvenlik hizmetleri dışında başka bir işte çalıştırılmasının yaptırımı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Hapis cezası",
+      "B) İdari para cezası",
+      "C) Adli para cezası",
+      "D) Bir daha özel güvenlik alanında çalışamama",
+      "E) Altı ay süreyle özel güvenlik alanında görev alamama"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İdari para cezası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2004,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Zor kullanma ve .......... yetkilerinin kullanılmasını gerektiren olaylar en seri vasıtayla .......... bildirilir; yakalanan kişi ve zapt edilen eşya genel kolluğa teslim edilir.” cümlesindeki boşluklara aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Yakalama, yetkili genel kolluğa",
+      "B) İşyeri veya konutlara girme, işyeri veya konut sahibine",
+      "C) Dedektörle arama, mülki idare amirine",
+      "D) Sahne gösterileri ve benzeri etkinliklerde kimlik sorma, etkinliği düzenleyen kişi, kurum veya kuruluşa",
+      "E) Terk edilmiş ve bulunmuş eşyayı emanete alma, arama ve kurtarma ekiplerine"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yakalama, yetkili genel kolluğa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2005,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Kişilerin silahlı özel güvenlik görevlileri tarafından korunması, kurum ve kuruluşlar bünyesinde özel güvenlik biriminin kurulması veya güvenlik hizmetinin özel güvenlik şirketlerine gördürülmesi için verilen izin aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Faaliyet izni",
+      "B) Çalışma izni",
+      "C) Korunma izni",
+      "D) Özel güvenlik izni",
+      "E) Silah bulundurma ve taşıma izni"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Özel güvenlik izni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2006,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik hizmetini, özel güvenlik şirketinden hizmet satın alan kuruluşun yükümlülüğündedir?",
+    "options": [
+      "A) İstihdam edilen veya herhangi bir sebeple görevinden ayrılan özel güvenlik görevlilerinin bildirimi",
+      "B) Özel güvenlik uygulamasını sona erdirmek için başvuru yapılması",
+      "C) Koruma ve güvenlik hizmeti verilen tesis ve alanlara ilişkin koruma ve güvenlik planlarının bir örneğinin valiliğe verilmesi",
+      "D) Koruma ve güvenlik hizmeti için yapılan yazılı sözleşmenin bildirimi",
+      "E) Kayıp edilen özel güvenlik görevlisi kimlik kartı bildirimi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özel güvenlik uygulamasını sona erdirmek için başvuru yapılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2007,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’un üçüncü maddesine göre “Toplantı, konser, sahne gösterileri ve benzeri etkinliklerde; para veya değerli eşya nakli gibi geçici veya acil hallerde, .......... aranmaksızın, valilik tarafından özel güvenlik izni verilebilir.” cümlesindeki noktalı yere aşağıdaki ifadelerden hangisi gelmelidir?",
+    "options": [
+      "A) Özel güvenlik şirketinin özel güvenlik izin talebi",
+      "B) Özel güvenlik hizmeti alacak kişi, kurum veya kuruluş yetkilisinin kararı",
+      "C) Komisyon kararı",
+      "D) Özel güvenlik görevlisinin rızası",
+      "E) Özel güvenlik hizmetinin yürütüleceği yerin çevresinde yer alan gerçek veya tüzel kişilerin yazılı beyanı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Komisyon kararı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2008,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, aşağıdaki durumlardan hangisinde özel güvenlik görevlisi yakalama yetkisini kullanamaz?",
+    "options": [
+      "A) Kişiye suçu işlerken rastlanması ya da suçüstü bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması veya hemen kimliğini belirleme olanağının bulunmaması nedeniyle yakalama",
+      "B) Görev alanında, haklarında yakalama emri veya mahkumiyet kararı bulunan kişileri yakalama",
+      "C) Kişinin vücudu veya sağlığı bakımından mevcut bir tehlikeden korunması amacıyla yakalama",
+      "D) Olay yerini ve delilleri korumak amacıyla kendisine engel olan veya aldığı tedbirlere aykırı davranan kişileri yakalama",
+      "E) Suç teşkil etmemekle birlikte tehlike doğurabilecek eşyayı bulunduran kişileri yakalama"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Suç teşkil etmemekle birlikte tehlike doğurabilecek eşyayı bulunduran kişileri yakalama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2009,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da öngörülen idari para veya yaptırım gerektiren fiillere ceza vermeye yetkilidir?",
+    "options": [
+      "A) Mahalli mülki amir",
+      "B) İçişleri Bakanlığı",
+      "C) İdari mahkemeler",
+      "D) İl özel güvenlik komisyonu",
+      "E) Özel Güvenlik Denetleme Başkanlığı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Mahalli mülki amir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2010,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, özel güvenlik görevlilerinin yükümlülüklerinden birisi değildir?",
+    "options": [
+      "A) Görev alanı dışında meydana gelebilecek yangın, deprem ve sel gibi tabii afetlerde arama ve kurtarma görevlilerine yardımcı olmak",
+      "B) Görev alanında bir suçla karşılaştığında suça el koymak ve suçun devamını önlemek",
+      "C) Görev alanında işlenmiş suçun sanığını tespit etmek ve yakalamak",
+      "D) Olay yerini ve suç delillerini muhafaza etmek",
+      "E) Genel kolluğun talebi halinde araştırma ve delil toplama faaliyetlerinde yardımcı olmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Görev alanı dışında meydana gelebilecek yangın, deprem ve sel gibi tabii afetlerde arama ve kurtarma görevlilerine yardımcı olmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2011,
+    "period": "105. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, özel güvenlik görevlisi aşağıdaki kanunlardan hangilerine göre zor kullanabilir?  I. Borçlar Kanunu  II. Polis Vazife ve Salahiyet Kanunu  III. Türk Ticaret Kanunu  IV. Türk Ceza Kanunu  V. Türk Medeni Kanunu",
+    "options": [
+      "A) I-II",
+      "B) II-III",
+      "C) III-IV",
+      "D) I-IV-V",
+      "E) I-II-III-IV-V"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) I-IV-V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2012,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Aşağıdakilerden hangisi alarm izleme merkezleri için doğrudur?",
+    "options": [
+      "A) Alarm izleme merkezi, abonelerin işyerleri veya konutlarında özel güvenlik görevlisi görevlendirerek izleme yapar",
+      "B) Alarm izleme merkezi, sadece gece belirli saatler arası alarm izleme hizmeti verir",
+      "C) Alarm izleme merkezi, hizmet verilen yerden gelen ihbarları değerlendirmeye tabi tutmaksızın genel kolluğa bildirir",
+      "D) Alarm izleme merkezi, teknik bakımdan doğrulanan ihbarları sorumluluk bölgesindeki genel kolluğa en kısa zamanda bildirir",
+      "E) Alarm izleme merkezi, İçişleri Bakanlığı tarafından Alarm İzleme Merkezi Kurma ve İşletme Yeterlilik Belgesi düzenlenmesinden sonra faaliyet gösterebilir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Alarm izleme merkezi, teknik bakımdan doğrulanan ihbarları sorumluluk bölgesindeki genel kolluğa en kısa zamanda bildirir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2013,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "İl özel güvenlik komisyonu özel güvenlik hizmetinde kullanılmak üzere ateşli silah kullanılmasına izin verirken aşağıdakilerden hangisine karar vermez?",
+    "options": [
+      "A) Görevde ateşli silah kullanımından önce fiziki önlemlere ve güvenlik cihazlarına öncelik verir",
+      "B) Fiziki önlemler ve güvenlik cihazlarının yetersiz olduğu durumlarda orantılılık ilkesine uygun olarak canlılar üzerinde kalıcı etkisi olmayan kimyasalların kullanılmasına izin verebilir",
+      "C) Görevin niteliği gereği fiziki önlemler, güvenlik cihazları veya canlılar üzerinde kalıcı etkisi olmayan kimyasalların yeterli olmayacağının anlaşılması halinde ateşli silahların bulundurulmasına ve taşınmasına karar verir",
+      "D) Ateşli silahların sayısı ve niteliği il özel güvenlik komisyon kararında belirtilir",
+      "E) Özel güvenlik hizmetlerinde hangi marka ve model silah kullanılacağını belirler"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Özel güvenlik hizmetlerinde hangi marka ve model silah kullanılacağını belirler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2014,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik birimi için doğru değildir?",
+    "options": [
+      "A) İzin almadan özel güvenlik birimi oluşturan kurum ve kuruluşların yöneticileri idari para cezası ile cezalandırılır",
+      "B) Özel güvenlik birimi, bir kurum veya kuruluşun güvenliğini sağlamak üzere kendi bünyesinde kurulur",
+      "C) Bir kuruluş bünyesinde özel güvenlik birimi kurulmuş olması, ihtiyaç duyulduğunda ayrıca güvenlik şirketlerine hizmet gördürülmesine mani değildir",
+      "D) Özel güvenlik birimi, mülki idare amirinin ve genel kolluk amirinin emirlerini yerine getirmek zorundadır",
+      "E) Özel güvenlik birimlerinde, üniforma ve üniformayı tamamlayan unsurlar ve teçhizat belirlendikten sonra il özel güvenlik komisyonu onayına sunulur"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İzin almadan özel güvenlik birimi oluşturan kurum ve kuruluşların yöneticileri idari para cezası ile cezalandırılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2015,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin görev alanını genişletme yetkisi aşağıdakilerden hangisine aittir?",
+    "options": [
+      "A) Özel Güvenlik Şirket Yöneticisi",
+      "B) İl Emniyet Müdürü",
+      "C) Belediye Başkanı",
+      "D) İl Jandarma Komutanı",
+      "E) İl Özel Güvenlik Komisyonu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İl Özel Güvenlik Komisyonu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2016,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel Güvenlik Hizmetlerine Dair Kanunun Uygulanmasına İlişkin Yönetmelik’te özel güvenlik hizmetinde kullanılacak ateşli silahlar için il özel güvenlik komisyonunun izin verdiği fişek miktarı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Her silah için ayrı ayrı 25",
+      "B) Tüm silahlar için 25",
+      "C) Kısa namlulu her silah için 25, uzun namlulu her silah için 30",
+      "D) Kısa namlulu silah için sınırsız, uzun namlulu her silah için 50",
+      "E) Görev yeri ile koruma ve güvenlik hizmetinin niteliğine göre her silah için en az 15, en fazla 5"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Her silah için ayrı ayrı 25** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2017,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki durumlardan hangisinde özel güvenlik görevlisi görev alanı dışına çıkmış sayılır?",
+    "options": [
+      "A) Görev yaptığı yerin arka sokağında meydana gelen hırsızlık olayına müdahale eden silahlı özel güvenlik görevlisi",
+      "B) Görev yaptığı kurumun demirbaş silahı ile işlenmiş bir suçun sanığını takip eden silahlı özel güvenlik görevlisi",
+      "C) Özel güvenlik birimine ait silahla koruduğu yere dışarıdan yapılan saldırılara karşı tedbir alan özel güvenlik görevlisi",
+      "D) Özel güvenlik şirketine ait silahla para ve değerli eşya nakli hizmeti veren silahlı özel güvenlik görevlisi",
+      "E) Özel güvenlik komisyonunun tahsis ettiği ve koruduğu kişiye ait silahla kişi koruma hizmeti veren silahlı özel güvenlik görevlisi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Görev yaptığı yerin arka sokağında meydana gelen hırsızlık olayına müdahale eden silahlı özel güvenlik görevlisi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2018,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İl Özel Güvenlik Komisyonunun başkanı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Vali Yardımcısı",
+      "B) İl Emniyet Müdürü",
+      "C) İl Jandarma Komutanı",
+      "D) İl Sağlık Müdürü",
+      "E) Ticaret Odası Başkanı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Vali Yardımcısı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2019,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Risk analizi aşamaları aşağıdakilerden hangisinde doğru sıra ile verilmiştir?",
+    "options": [
+      "A) Riskler belirlenir, tedbirler alınır, belirlenen risklerin gerçekleşip gerçekleşmeyeceği test edilir",
+      "B) Tedbirler alınır, riskler tespit edilir, tespit edilen riskler kontrol altına alınır",
+      "C) Riskler önceden belirlenir, tespiti yapılan riskler değerlendirilir, önem sırasına göre kontrol altına alınır",
+      "D) Riskler tespit edilir, risklere karşı tedbirler geliştirilir, değerlendirme yapılır",
+      "E) Riskler tespit edilir, tespit edilen risklere karşı tedbirler geliştirilir, sınıflandırma yapılır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Riskler önceden belirlenir, tespiti yapılan riskler değerlendirilir, önem sırasına göre kontrol altına alınır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2020,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Kontrol noktasında görevli özel güvenlik görevlileri Sevgi ile Ayşe aşağıdaki yetkilerden hangisini kullanamaz?\r\n  I-Yakalama  II-Olay yerini koruma  III-Zor kullanma  IV-Emanete alma  V-Olay yerini inceleme",
+    "options": [
+      "A) III",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) V"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2021,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi risk analizi ve güvenlik planlaması yapılırken dikkat edilecek kriterlerin tamamını kapsar?",
+    "options": [
+      "A) İnsan unsuruna dayanır, sadece güvenlik sisteminin açıklarına odaklanır",
+      "B) Dinamik ve caydırıcıdır, maliyet/fayda ile özgürlük ve güvenlik dengesi gözetilir",
+      "C) Statiktir, değiştirilemez, elde edilecek fayda için maliyet önemsenmez",
+      "D) Özgürlük ikinci plandadır, asıl olan güvenliğin tam olarak sağlanmasıdır",
+      "E) Güvenlik açıklarından ziyade eldeki fiziki ve teknik sistemlerin sayısı önemlidir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Dinamik ve caydırıcıdır, maliyet/fayda ile özgürlük ve güvenlik dengesi gözetilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2022,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik görevlileri Murat ve Ayhan devriye görevi esnasında hangi durumda konuta giremez?",
+    "options": [
+      "A) İçki içildiğinde",
+      "B) Yangın olduğunda",
+      "C) Sel olduğunda",
+      "D) İmdat istenmesi durumunda",
+      "E) Deprem olduğunda"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İçki içildiğinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2023,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi spor müsabakalarında görevli özel güvenlik görevlisinin görev, yetki ve sorumlulukları arasında yer almaz?",
+    "options": [
+      "A) Spor alanı içerisinde düzeni bozan fiilleri işleyen seyircileri en yakın genel kolluk görevlisine bildirmek",
+      "B) Spor alanında ev sahibi takım ile misafir takım seyircileri arasındaki geçişleri engellemek",
+      "C) Müsabaka öncesi ve esnasında bilet kontrolleri yaparak biletsiz ve başkasına ait elektronik kartla seyirci girişini engellemek",
+      "D) Müsabaka alanında ve seyir alanında insan hayatı açısından tehlike oluşturabilecek yerlerden müsabakanın izlenmesini engellemek ve gerekli güvenlik tedbirlerini almak",
+      "E) Sporcu ve hakemler dışında kimseyi müsabaka alanına almamak"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sporcu ve hakemler dışında kimseyi müsabaka alanına almamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2024,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi nokta görevi yapan özel güvenlik görevlisi Mehmet’in yapması gereken davranışlardan biri değildir?",
+    "options": [
+      "A) Korumakla görevli olduğu alanda ayakta ve nizami bir şekilde görevini yerine getirir",
+      "B) Nöbet devir teslimlerinde, devir teslim defterini usulüne uygun şekilde doldurur",
+      "C) Görevli olduğu yerin krokisini ve riskli noktalarını bilir",
+      "D) Nokta görevi yaparken gazete ve kitap okuyabilir",
+      "E) Nöbet noktasında yangına sebebiyet verebilecek ateş bulundurmaz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Nokta görevi yaparken gazete ve kitap okuyabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2025,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi Halim, görev yerinde bir kadının darp edildiğini görmüştür. Aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Darp olayına müdahale etmelidir",
+      "B) Olayı kolluğa bildirmelidir",
+      "C) Hemen Cumhuriyet Savcısını aramalıdır",
+      "D) Şüpheliyi kolluğa tutanakla teslim etmelidir",
+      "E) Şüphelinin bilgilerini not etmelidir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Hemen Cumhuriyet Savcısını aramalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2026,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi olay yerinde bulunan kimyasal bulgu çeşitlerinden biridir?",
+    "options": [
+      "A) Kemik parçaları",
+      "B) Ateşsiz silahlar",
+      "C) Toprak numuneleri",
+      "D) Deri döküntüleri",
+      "E) Burun akıntısı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Toprak numuneleri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2027,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Olay yerinin korunmasına ilişkin alınan tedbirlerde aşağıdakilerden hangisi usule ve mevzuata uygundur?",
+    "options": [
+      "A) İz ve delil olabilecek nesnelere kesinlikle dokunulmaz",
+      "B) Olay yeri en az 10 metre çapında “GİRİLMEZ ŞERİDİ” ile çevrilir",
+      "C) Olay yerinin temizlemesi sağlanır ve kolluğa temiz teslim edilir",
+      "D) Olay yerindeki olayla ilgili cihazlar ihtiyaç olursa kullanılır",
+      "E) Olay yerinde bulunan eşyaların bir kısmı sahiplenilebilir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İz ve delil olabilecek nesnelere kesinlikle dokunulmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2028,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi şüpheli şahıs tespitinde dikkat edilecek hususlardan değildir?",
+    "options": [
+      "A) Taşıdıkları paket ve eşyaları bırakıp ayrılan kişiler",
+      "B) Hamile izlenimi veren kadınlar",
+      "C) Gözlerini sabit bir noktaya diken ve donuk bakışları olan kişiler",
+      "D) Sıcak havalarda ceket, mont, kaban gibi giysileri giyen kişiler",
+      "E) Sakin ve sempatik davranış sergileyen, göz teması kuran kişiler"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sakin ve sempatik davranış sergileyen, göz teması kuran kişiler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2029,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi şahıs üst arama yöntemlerinden biri değildir?",
+    "options": [
+      "A) Ayakta durdurarak",
+      "B) Duvar veya araca yaslayarak",
+      "C) Çömelterek",
+      "D) Diz çöktürmek suretiyle",
+      "E) Yüz üstü yatırmak suretiyle"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çömelterek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2030,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi/ hangileri zor kullanmanın şartlarındandır? I. Güç kullanma kanuna uygun olmalıdır  II. Güç kullanmaya mecbur kalınmalıdır  III. Güç kullanma tedbirleriyle olay arasında bir denge olmalıdır",
+    "options": [
+      "A) Yalnız II",
+      "B) Yalnız I",
+      "C) Yalnız III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I, II ve III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2031,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Görev yerinde, kimliği yakasına takılı vaziyette görev yapan özel güvenlik görevlisi Atilla, şüpheli bir paket görmüştür ve paniğe kapılmadan derhal genel kolluğa bilgi vermiştir. Paketin etrafında en az 100 metre mesafede emniyet şeridi çekmek suretiyle güvenli alan sağlamıştır. Şüpheli pakete kişilerin veya basın mensuplarının yaklaşmasına müsaade etmemiştir. İkinci bir bomba ihtimaline karşı çevrede gerekli kontrolleri yapmıştır. Şüpheli paketi patlaması halinde en az zarar verecek yere götürmüştür.  Yukarıda anlatılan senaryoda özel güvenlik görevlisi Atilla’nın davranışlarından hangisi yanlıştır?",
+    "options": [
+      "A) Genel kolluğa haber vermek",
+      "B) Güvenli alan sağlamak",
+      "C) Kişileri veya basın mensuplarının şüpheli pakete yaklaşmasına engel olmak",
+      "D) İkinci bir şüpheli paket ihtimaline karşı çevreyi kontrol etmek",
+      "E) Şüpheli paketi bulunduğu yerden kaldırmak"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Şüpheli paketi bulunduğu yerden kaldırmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2032,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi ziyaretçi kontrolü için doğru değildir?",
+    "options": [
+      "A) Ziyaretçiler ve beraberinde getirdiği eşyalar güvenlik sistem ve cihazlarından geçirilerek içeri alınmalıdır",
+      "B) Ziyaretçilerin davetli olup olmadığı kontrol edilmelidir",
+      "C) Ziyaretçi giriş kartı, sadece ziyaret edilecek bölgeye gidebilecek şekilde yetkilendirilmelidir",
+      "D) Kurum/kuruluş personelinin ziyaretçi ile içeriye girerken kendi kartını okutarak ziyaretçiyi içeriye almasına müsaade edilmemelidir",
+      "E) Kontrollerde suç teşkil eden veya delil olabilecek eşya emanete alınarak çıkışta teslim edilmelidir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kontrollerde suç teşkil eden veya delil olabilecek eşya emanete alınarak çıkışta teslim edilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2033,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi not alırken yapılmaması gereken hususlardan birisidir?",
+    "options": [
+      "A) Notta kişisel düşünce ve yorumlara yer verilir",
+      "B) Bilgisine başvurulan ve bilgi vermemekle birlikte konuşulan kişilerin kimlik bilgileri yer alır",
+      "C) Not, mümkün olduğu kadar detaylı olmalıdır",
+      "D) İşlemlerin ve olayın meydana geliş zamanı ve sırası esas alınır",
+      "E) Konum ve yer belirten ifadelerde sabit bir yer ya da nesne baz alınmalı, yön ve mesafe belirtilmelidir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Notta kişisel düşünce ve yorumlara yer verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2034,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Tutanaklar ilgili hangi ifade doğrudur?",
+    "options": [
+      "A) Tutanaklar kurşun kalemle yazılmalıdır",
+      "B) Tutanaklar kağıdın sadece bir yüzüne yazılmalıdır",
+      "C) Tutanaklar üzerinde silinti ve kazıntı yapılabilir",
+      "D) Tutanaklar sadece bilgisayar ile yazılmalıdır",
+      "E) Tutanaklarda gereksiz bilgilere yer verilebilir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tutanaklar kağıdın sadece bir yüzüne yazılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2035,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Raporlarla ilgili hangi ifade yanlıştır?",
+    "options": [
+      "A) Sadece el yazısı ile yazılmalıdır",
+      "B) Sade ve basit bir dille yazılmalıdır",
+      "C) Tarih belirtilmelidir",
+      "D) İlgililerle yapılan görüşmelere yer verilmelidir",
+      "E) Raporda sunulan bilgiler doyurucu olmalıdır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Sadece el yazısı ile yazılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2036,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağılardan hangisi olay yerinde elde edilen biyolojik bulgudur?",
+    "options": [
+      "A) Yapıştırıcı madde",
+      "B) Kan",
+      "C) Parmak izi",
+      "D) Kovan",
+      "E) Araç lastik izi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kan** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2037,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlisi devriyesinin kullanacağı teçhizat ve malzemelerden birisi olamaz?",
+    "options": [
+      "A) Kelepçe",
+      "B) Cop",
+      "C) El feneri",
+      "D) Düdük",
+      "E) Sopa"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sopa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2038,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin görev alanları içerisinde hangi tür arama yapmaları uygun değildir?",
+    "options": [
+      "A) Üstlerin teknik cihazlar dışında elle aranması",
+      "B) Duyarlı kapıdan geçirmek suretiyle arama",
+      "C) Üstlerin el detektörleri vasıtasıyla aranması",
+      "D) Çanta ve eşyaları X-ray cihazı vasıtasıyla arama",
+      "E) Görev hayvanları ile yapılan arama"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Üstlerin teknik cihazlar dışında elle aranması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2039,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Kamera sistemi uygulamasında kameraya karşıdan gelecek bir ışığın görüntüyü bozmaması için kamerada aşağıdaki özelliklerden hangisi bulunmalıdır?",
+    "options": [
+      "A) Termal özelliği",
+      "B) Uzaktan kontrol özelliği",
+      "C) Backlight özelliği",
+      "D) Metal muhafazalı olması",
+      "E) Dome tipi olması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Backlight özelliği** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2040,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bireyin fiziksel ve davranışsal karakteristik özelliklerini tanıyarak geçiş kontrolüne izin veren sistemlere .......... denir.  Yukarıda boş bırakılan yere aşağıdaki şıklardan hangisi gelmelidir?",
+    "options": [
+      "A) Turnike sistemi",
+      "B) CCTV sistemi",
+      "C) Biometrik geçiş sistemi",
+      "D) Kart kontrollü geçiş sistemi",
+      "E) Plaka tanıma sistemi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Biometrik geçiş sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2041,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi EDS sistemini tanımlar?",
+    "options": [
+      "A) Elektronik denetleme sistemi",
+      "B) Patlayıcı tarama sistemi",
+      "C) Elektronik dedektör sistemi",
+      "D) Araç altı görüntüleme sistemi",
+      "E) Kartlı geçiş sistemi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Patlayıcı tarama sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2042,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "5188 sayılı Kanun’un 7. maddesine göre özel güvenlik görevlisinin kişileri duyarlı kapıdan geçirme ve eşyaları X-Ray cihazından geçirme faaliyetlerine ne denir?",
+    "options": [
+      "A) Gizli denetim",
+      "B) Güvenlik kontrolü",
+      "C) Tarama",
+      "D) Yakalama",
+      "E) Arama"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Güvenlik kontrolü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2043,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Monitörde yer alan bagaj görüntüsünün kenar çizgileri daha belirgin ve görüntüdeki cismin daha kolay tanınmasını sağlayan kontrol panelinde yer alan tuş aşağıdakilerden hangisidir?",
+    "options": [
+      "A) INORG STRIP",
+      "B) EDGE TRACE",
+      "C) REV",
+      "D) PSEUDO",
+      "E) HI-PEN"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) EDGE TRACE** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2044,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisinde temel ilk yardım uygulamaları doğru olarak verilmiştir?",
+    "options": [
+      "A) Koruma, bildirme, kurtarma",
+      "B) Koruma, kurtarma, tedavi etme",
+      "C) Koruma, bildirme, tedavi etme",
+      "D) Bildirme, tedavi etme, kurtarma",
+      "E) Tedavi etme, bildirme, kurtarma"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Koruma, bildirme, kurtarma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2045,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Yaralının yarı yüzükoyun-yan yatırıldığı pozisyona ne isim verilir?",
+    "options": [
+      "A) Şok pozisyonu",
+      "B) Yarı oturur pozisyon",
+      "C) Baş-çene pozisyonu",
+      "D) Koma pozisyonu",
+      "E) Sırt üstü yatış pozisyonu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Koma pozisyonu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2046,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Vücuda gerekli gaz alışverişini yaparak hücre ve dokuların oksijenlenmesini sağlayan sistem hangisidir?",
+    "options": [
+      "A) Hareket sistemi",
+      "B) Boşaltım sistemi",
+      "C) Solunum sistemi",
+      "D) Dolaşım sistemi",
+      "E) Sinir sistemi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Solunum sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2047,
+    "period": "105. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Solunum yolu tam tıkanmış bilinci açık hasta/yaralıya aşağıdaki ilkyardım uygulamalarından hangisi yapılır?",
+    "options": [
+      "A) Öksürmeye teşvik edilir",
+      "B) Su verilir",
+      "C) Heimlich manevrası (karına bası) uygulanır",
+      "D) Rentek manevrası uygulanır",
+      "E) Koma pozisyonu verilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Heimlich manevrası (karına bası) uygulanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2048,
+    "period": "105. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Erişkin bir insanın dakikadaki solunum sayısı normalde ne kadardır?",
+    "options": [
+      "A) 5 - 8",
+      "B) 12 – 20",
+      "C) 37,5 - 38",
+      "D) 60 - 100",
+      "E) 120 – 80"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) 12 – 20** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2049,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hayat kurtarma zincirinin birinci halkası hangisidir?",
+    "options": [
+      "A) 112 aranır",
+      "B) Olay yerinde yapılan temel yaşam desteğidir",
+      "C) Ambulans ekiplerince yapılan müdahaledir",
+      "D) Hastane acil servislerinde yapılan müdahaledir",
+      "E) Hastane yoğun bakımda yapılan müdahaledir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) 112 aranır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2050,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Suda boğulmalarda aşağıdaki uygulamalardan hangisi yapılmaz?",
+    "options": [
+      "A) Yaralı sudan çıkarılır",
+      "B) Yaşamsal bulguları değerlendirilir",
+      "C) Karnına bastırılarak yuttuğu sular çıkarılmaya çalışılır",
+      "D) Gerekiyorsa temel yaşam desteği uygulanır",
+      "E) Temel yaşam desteğine suni solunum ile başlanır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Karnına bastırılarak yuttuğu sular çıkarılmaya çalışılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2051,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi akrep sokmasında yapılmaz?",
+    "options": [
+      "A) Soğuk uygulama yapılır",
+      "B) Yara üzerine bir girişimde bulunulmaz",
+      "C) Isırılan bölge kesilerek emilir",
+      "D) Yaraya yakın bölgedeki baskı yapabilecek eşyalar çıkarılır",
+      "E) Yara su ile yıkanır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Isırılan bölge kesilerek emilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2052,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hangi durumda yaralı kaza yapan araçtan çıkartılır?",
+    "options": [
+      "A) Yaralının ayakları sıkışmışsa",
+      "B) Bilinci olmayan yaralının solunumu varsa",
+      "C) Yaralının kolunda bacağında kırık varsa",
+      "D) Yaralının kolunda kanama varsa",
+      "E) Yaralının solunumu durmuş ve/veya aracın patlama tehlikesi varsa"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yaralının solunumu durmuş ve/veya aracın patlama tehlikesi varsa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2053,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi olay yerinde yapılacak uygulamalardan biri değildir?",
+    "options": [
+      "A) Olay yeri yeterince görülebilecek şekilde işaretlenmelidir",
+      "B) Patlama ve yangın riskini önlemek için sigara içilmemelidir",
+      "C) Ortamda tehlike yok ise hasta yerinden oynatılmamalıdır",
+      "D) Hasta/yaralı hızla yaşam bulguları yönünden değerlendirilir",
+      "E) Hasta/yaralı soğuk tutulmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Hasta/yaralı soğuk tutulmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2054,
+    "period": "105. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Orman yangınlarında kullanılan ve tekrar tutuşmayı engelleyen söndürme maddesi hangisidir?",
+    "options": [
+      "A) Su",
+      "B) Köpük",
+      "C) Halokarbon",
+      "D) Karbondioksit",
+      "E) Kuru kimyevi toz"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Su** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2055,
+    "period": "105. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yanabilen gazların oluşturduğu yangınlar, yangın sınıfları içerisinde hangi harf ile sembolize edilir?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D",
+      "E) F"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) C** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2056,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Ortamdaki oksijen miktarını düşürerek yapılan söndürme işleminde uygulanan söndürme yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Soğutma",
+      "B) Köpük",
+      "C) Boğma",
+      "D) Karbondioksit",
+      "E) Yakıtı giderme"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Boğma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2057,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bulunduğu bölgede duman oluşumu, alev oluşumu, ani ısı değişiklikleri gibi değişiklikleri algılayan cihazlara ne denir?",
+    "options": [
+      "A) Dedektör",
+      "B) Siren",
+      "C) Yangın alarmı",
+      "D) Yangın dolabı",
+      "E) Sprinkler"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Dedektör** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2058,
+    "period": "105. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Standartlara uygun yangın söndürme cihazlarında, tüpün içerisinde bulunan itici gazın basıncını gösteren, manometrenin ibresi hangi boyalı bölgede olmalıdır?",
+    "options": [
+      "A) Yeşil",
+      "B) Sarı",
+      "C) Mavi",
+      "D) Mor",
+      "E) Siyah"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yeşil** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2059,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Ekonomik, fiziksel ve sosyal kayıplar doğuran doğa, insan ve teknoloji kaynaklı olaylara ne denir?",
+    "options": [
+      "A) Tsunami",
+      "B) Afet",
+      "C) Erozyon",
+      "D) Sel",
+      "E) Toprak kayması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Afet** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2060,
+    "period": "105. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yanmayı meydana getiren unsurlar aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Yakıcı madde, hava, nitrojen",
+      "B) Yanıcı madde, hava, oksijen",
+      "C) Yanıcı madde, ısı, oksijen",
+      "D) Yanıcı madde, hava, nitrojen",
+      "E) Yakıcı madde, ısı, oksijen"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yanıcı madde, ısı, oksijen** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2061,
+    "period": "105. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Isı, ışık, korlaşma ve alev görülmeyen yanma şekli aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Yavaş yanma",
+      "B) Kendi kendine yanma",
+      "C) Hızlı yanma",
+      "D) Parlama ve patlama şeklinde yanma",
+      "E) Oksijensiz yanma"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yavaş yanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2062,
+    "period": "105. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Narkotik maddelerin sınıflandırılmasına göre aşağıdakilerden hangisi “Merkezi Sinir Sistemini Uyaranlar” sınıfında yer alır?",
+    "options": [
+      "A) Eroin",
+      "B) Morfin",
+      "C) LSD",
+      "D) Metamfetamin",
+      "E) Esrar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Metamfetamin** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2063,
+    "period": "105. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi madde kullanımının fiziksel belirtilerinden birisidir?",
+    "options": [
+      "A) Gözde Kanlanma",
+      "B) İlgi-istek Kaybı",
+      "C) Zaman zaman aşırı haraketlilik durumu",
+      "D) Aşırı para harcama",
+      "E) Konuşma içeriğinde değişme"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Gözde Kanlanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2064,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi motivasyonu etkileyen faktörlerden birisi değildir?",
+    "options": [
+      "A) İş ve çalışma düzeni",
+      "B) Çalışanların yaş düzeyi",
+      "C) Ücret, maaş",
+      "D) Kararlara katılım",
+      "E) Yöneticinin tavır ve davranışları"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Çalışanların yaş düzeyi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2065,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Depresyon, kaygı, endişe, gerginlik, saldırganlık stresin en net bir şekilde ortaya çıkan belirtileridir. Bu durum stresin belirtilerinden hangi belirtiyle izah edilir?",
+    "options": [
+      "A) Duygusal belirtiler",
+      "B) Sosyal belirtiler",
+      "C) Fiziksel belirtiler",
+      "D) Zihinsel belirtiler",
+      "E) Şekilsel belirtiler"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Duygusal belirtiler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2066,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Başarılı bir özel güvenlik görevlisi kurumuna gelen kişi ile kurduğu ilk temas anında özellikle aşağıdaki noktalardan hangisine önem vermelidir?",
+    "options": [
+      "A) Kişinin iletişim amacını anladığını göstermek üzere sözlerini ona yansıtmaya",
+      "B) En kısa süre içinde gerekli işlemi yapmaya",
+      "C) Başvuran kişinin memnuniyetini sağlamaya",
+      "D) Kurumun güvenliğini sağlamaya",
+      "E) Karşısındakini anlamaktan çok görevine odaklanmaya"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kişinin iletişim amacını anladığını göstermek üzere sözlerini ona yansıtmaya** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2067,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İletişimde bireyler karşısındakine aşağıdakilerden hangisi/hangileri nedeniyle “hayır” diyemez?  I) Diğer insanları incitme korkusu  II) Terk edilme ve ayrılma korkusu  III) Cezalandırılma korkusu  IV) Mahcup duruma düşürülme korkusu",
+    "options": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) I- II ve III",
+      "E) I-II-III ve IV"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I-II-III ve IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2068,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi farklı kültürlere mensup kişilerle sağlıklı iletişim kurabilmeyi sağlayan hususlardan değildir?",
+    "options": [
+      "A) Kendi kültürünü üstün görmemek",
+      "B) Empati kurmak",
+      "C) Yetersiz görmek",
+      "D) Kültürel değerleri yargılamamak",
+      "E) Saygı göstermek"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yetersiz görmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2069,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Çalışma yaşamında iş arkadaşlarıyla veya müşterilerle kurulan ilişkilerde en sağlıklı iletişim hangi benlik durumları arasında olan iletişimdir?",
+    "options": [
+      "A) Anababa&anababa benlik durumu",
+      "B) Anababa& çocuk benlik durumu",
+      "C) Yetişkin & çocuk benlik durumu",
+      "D) Yetişkin &anababa benlik durumu",
+      "E) Yetişkin & yetişkin benlik durumu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yetişkin & yetişkin benlik durumu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2070,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Bir mesajın birden fazla iletişim kanalı kullanılarak iletilmesinin aşağıdakilerden hangisine faydası vardır?",
+    "options": [
+      "A) İletilen mesajın anlaşılırlığına",
+      "B) Kaynağa daha fazla saygı duyulmasına",
+      "C) Mesajın daha az kelimeyle iletilmesine",
+      "D) Empatiye ihtiyaç duyulmamasına",
+      "E) İletişim süresinin uzamasına"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İletilen mesajın anlaşılırlığına** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2071,
+    "period": "105. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Bir özel güvenlik noktasına başvuran kişinin hangi davranışları, kuşku yaratıcı bir art niyet taşır?",
+    "options": [
+      "A) Kılık kıyafetine gösterdiği özen ve titizlik",
+      "B) Daha önce rolünü ezberlemiş gibi akıcı konuşması",
+      "C) Yürüyüş biçimi",
+      "D) Sözleri ile davranışları arasındaki uyumsuzluk",
+      "E) Güvenlik görevlisi ile iletişim biçimi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sözleri ile davranışları arasındaki uyumsuzluk** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2072,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Empatik dinleme tekniği aşağıdaki durumlardan hangisinde kullanılmaz?",
+    "options": [
+      "A) Kurum içi rutin görev dağılımı toplantılarında",
+      "B) Kuruma iş takibi için gelen kişilerle kurulan iletişim sürecinde",
+      "C) Mesai arkadaşlarının birbirleri ile kurdukları özel iletişim anlarında",
+      "D) Amir memur görüşmelerinde",
+      "E) Duygusal yoğunluğu olan iletişim süreçlerinde"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kurum içi rutin görev dağılımı toplantılarında** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2073,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Özel Güvenlik Görevlisi Sezer, Arena Spor Salonundaki arama ve koruma görevi ile ilgili olarak Güvenlik Amiri Cengiz’den aldığı talimatları Amirinin ses tonunun yetersizliğinden dolayı net bir biçimde anlayamadığını ve bundan dolayı görevini tam anlamıyla ifade edemediğini kendisine ifade etmiştir. Yukarıda anlatılan durum iletişim süreçlerinden hangisini tanımlamaktadır?",
+    "options": [
+      "A) Yorumlama",
+      "B) Gürültü",
+      "C) Geri bildirim",
+      "D) Algılama",
+      "E) Anlamlandırma"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Geri bildirim** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2074,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İletişimde yapılan hatalardan bir tanesi de; sinirli gözükme ve güvensizlik duygusu sergilemedir.\r\n Bu ifade aşağıdaki iletişim hatalarından hangisi ile ifade edilir?",
+    "options": [
+      "A) Çene altı ile oynama",
+      "B) Baş parmak sıkma",
+      "C) Göz ovuşturma",
+      "D) Alınla oynama",
+      "E) Kaş çatma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kaş çatma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2075,
+    "period": "105. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Kişiler arasındaki mesafenin iletişimde yeri ve önemi büyüktür; Bu bağlamda kalabalık bir gruba hitap ettiğimiz, paylaştığımız bölgedir. Tanımadığımız kişilerle aramızdaki uyguladığımız mesafeye ne ad verilir?",
+    "options": [
+      "A) Sosyal alan (mesafe)",
+      "B) Kişisel alan (mesafe)",
+      "C) Ortak alan (mesafe)",
+      "D) Mahrem alan (mesafe)",
+      "E) Özel alan (mesafe)"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Ortak alan (mesafe)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2076,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Direnme engellenemez ise cop kullanma yetkisinde, ikinci aşama olarak devreye giren, reaksiyon eli açık olarak ileri uzanırken “Dur! Kal Orda! Çekil Geri! Bırak Elindekini! Kaldır Ellerini vs.” komutlar verilerek cop kullanılan, el omuz yanına alınan copla duruş pozisyonu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Rahat pozisyon",
+      "B) Hazır pozisyon",
+      "C) Caydırma duruşu",
+      "D) Savunma duruşu",
+      "E) Mülakat duruşu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Savunma duruşu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2077,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi kalabalıklarda paniğin sebeplerinden biri değildir?",
+    "options": [
+      "A) Güvenlik güçlerinin yönlendirmelerine riayet edilmesi",
+      "B) Bir tehlike hissedilmesi",
+      "C) Kalabalığın takip ve taklit edilmesi",
+      "D) Güvenilir iletişim eksikliği",
+      "E) Kaçış yollarının kapalı olması ve izdiham"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Güvenlik güçlerinin yönlendirmelerine riayet edilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2078,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi çatışma nedenidir",
+    "options": [
+      "A) Amaçların aynı olması",
+      "B) İletişim noksanlığı/eksikliği",
+      "C) Yönetim alanlarının belirli olması",
+      "D) Statülerin aynı olması",
+      "E) Çıkarların uyuşması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İletişim noksanlığı/eksikliği** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2079,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Üniversitedeki yasadışı kalabalığa müdahale eden özel güvenlik görevlilerinin, kalabalığı bölmek, yanlara doğru dağıtmak ve kalabalık içerisinde yol açmak için hangi müdahale düzenini uygulaması gerekir?",
+    "options": [
+      "A) Hat düzeni",
+      "B) Çatı düzeni",
+      "C) Kama düzeni",
+      "D) Çember düzeni",
+      "E) Sağa hat düzeni"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kama düzeni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2080,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Belirlenen bir amaca, hedefe ulaşabilmek için takip edilecek yol, usul ve bu yolda karşılaşılabilecek engellerin ortadan kaldırılması için önceden hazırlanmış gerekli, plan, program ve yöntemlere ne ad verilir?",
+    "options": [
+      "A) Eylem",
+      "B) Taktik",
+      "C) Propaganda",
+      "D) Tahrik",
+      "E) Provakasyon"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Taktik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2081,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi toplumsal eylem taktikleri arasında yer almaz?",
+    "options": [
+      "A) Olay yaratarak dikkatleri başka yöne çekme",
+      "B) Dağılıyor görünüp tekrar toplanma",
+      "C) Kutsal simgeleri kullanma ve marş söyleme",
+      "D) Topluluğun çevresine yaşlı kadın, yaşlı erkek ve çocukların dizilmesi",
+      "E) Güvenlik güçleri ile işbirliği içinde olma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Güvenlik güçleri ile işbirliği içinde olma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2082,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Grubun veya kişinin güvenlik görevlisine uzanabileceği ve fiziksel olarak dokunabileceği ve/veya herhangi bir şekilde zarar verebileceği iki metrenin altında olan ara bölgeye .......... denir.” Boş bırakılan yere gelmesi gereken ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tepki bölgesi",
+      "B) Tepkisel ara",
+      "C) Tehlike bölgesi",
+      "D) Güvenlik bölgesi",
+      "E) Uzak bölge"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tehlike bölgesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2083,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Kalabalıkları organizasyon bakımından da sınıflandırabiliriz. Buna göre; özel güvenlik görevlisi Ahmet’in görev yaptığı banka şubesi önündeki pazaryerinde alışveriş yapanların oluşturduğu kalabalık türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Saldırgan kalabalık",
+      "B) Organize aktif kalabalık",
+      "C) Organize pasif kalabalık",
+      "D) Organize olmayan aktif kalabalık",
+      "E) Organize olmayan pasif kalabalık"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Organize olmayan pasif kalabalık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2084,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Görev alanında zor kullanma şartlarının oluşması sonucu copunu kullanmak zorunda kalan özel güvenlik görevlisi Caner, kendisine saldıran ve elinde herhangi bir saldırı aleti bulunmayan şahsın vücudunun hangi bölgesine vurmamalıdır?",
+    "options": [
+      "A) Kalça dış kası",
+      "B) Kalça iç kası",
+      "C) Baldır kası",
+      "D) Boyun",
+      "E) Aşı kası"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Boyun** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2085,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kişi, grup ya da topluluklar arası çatışmaları önleme yöntemlerinden biri değildir?",
+    "options": [
+      "A) Kura çekme",
+      "B) Problemi görmezden gelme",
+      "C) Politik yaklaşımlar",
+      "D) Kaynakların artırılması",
+      "E) Uzlaşma"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Problemi görmezden gelme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2086,
+    "period": "105. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Terörist faaliyetin eyleme dönüşmesinde belirli safhaları olur. Aşağıdaki seçeneklerden hangisi bu safhalardan biri değildir?",
+    "options": [
+      "A) Hedef seçimi",
+      "B) Maddi kaynak toplama",
+      "C) Bilgi toplama",
+      "D) Planlama",
+      "E) Kaçış"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Maddi kaynak toplama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2087,
+    "period": "105. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Önemli kişinin (VIP) bulunduğu aracın dışında başka bir araçla yapılan koruma düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Sadece VIP aracı ile koruma",
+      "B) İki araçlı koruma",
+      "C) Üç araçlı koruma",
+      "D) Tek araçlı koruma",
+      "E) Üç ve daha fazla araçlı koruma"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Tek araçlı koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2088,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Kişi koruma hizmetinde kullanılan silahlara ait “Özel Güvenlik Silah Taşıma/Bulundurma Belgesi” kaç yılda bir değiştirilmelidir?",
+    "options": [
+      "A) 3 yıl",
+      "B) 4 yıl",
+      "C) 5 yıl",
+      "D) 6 yıl",
+      "E) 7 yıl"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) 5 yıl** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2089,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, öncü istihbarat çalışması yapılan alanlardan değildir?",
+    "options": [
+      "A) Seyahatler",
+      "B) Ziyaretler",
+      "C) VIP İkametgahı",
+      "D) İntikaller",
+      "E) Tüm resepsiyonlar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) VIP İkametgahı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2090,
+    "period": "105. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Önemli kişinin (VIP) her türlü ulaşım aracındayken (Otomobil, Otobüs, Uçak, Tren, Gemi, Helikopter vb.) yapılan koruma hizmetine ne ad verilir?",
+    "options": [
+      "A) Motorize koruma",
+      "B) Hareketli koruma",
+      "C) Yaya Koruma",
+      "D) Gezici koruma",
+      "E) Sürekli koruma"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Motorize koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2091,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi koruyucu güvenliğin ilkelerine uygun değildir?",
+    "options": [
+      "A) Gizliliğe riayet etmek",
+      "B) İşlerin rutin bir şekilde devam etmesini sağlamak",
+      "C) Uyanık ve şüpheci olmak",
+      "D) Sistemli ve hızlı olmak",
+      "E) Haberleşme imkanlarını etkili kullanmak"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İşlerin rutin bir şekilde devam etmesini sağlamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2092,
+    "period": "105. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi, acil durumlarda önemli kişinin (VIP) kullanabileceği güvenli yerlerden biri değildir?",
+    "options": [
+      "A) Hastaneler",
+      "B) Belediye binaları",
+      "C) Kaymakamlıklar",
+      "D) Haberleşme merkezleri",
+      "E) Alışveriş merkezleri"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Alışveriş merkezleri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2093,
+    "period": "105. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi suikastın safhalarından değildir?",
+    "options": [
+      "A) Hedef Seçimi",
+      "B) Keşif",
+      "C) Delillere el koyma",
+      "D) Kaçış",
+      "E) Planlama"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Delillere el koyma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2094,
+    "period": "105. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi “Koruma Görevinin Aşamaları” arasında sayılamaz?",
+    "options": [
+      "A) Yaya koruma",
+      "B) Uzayda koruma",
+      "C) Motorize koruma",
+      "D) Bina ve tesis koruma",
+      "E) Öncü istihbarat çalışması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Uzayda koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2095,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi genel kolluğun yetkilerinden değildir?",
+    "options": [
+      "A) Engel olma, önleme yetkisi",
+      "B) Kovuşturma yapma yetkisi",
+      "C) Trafik hizmetlerine ilişkin yetkiler",
+      "D) Zorla getirme ve ifade alma yetkisi",
+      "E) İstihbarat toplama ve dinleme yetkisi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kovuşturma yapma yetkisi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2096,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki şıklardan hangisi özel güvenlik görevlisinin yetkilerindendir?",
+    "options": [
+      "A) Sorgulama",
+      "B) Kimlik tespiti yapma",
+      "C) İfade alma",
+      "D) Emanete alma",
+      "E) Zorla getirme"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Emanete alma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2097,
+    "period": "105. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Genel kolluk kuvvetlerinden olan Sahil Güvenlik Komutanlığı’nın görev, yetki ve sorumlulukları hangi kanunla düzenlenmiştir?",
+    "options": [
+      "A) 7245 Sayılı Kanun",
+      "B) 2803 Sayılı Kanun",
+      "C) 5442 Sayılı Kanun",
+      "D) 2692 Sayılı Kanun",
+      "E) 657 Sayılı Kanun"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) 2692 Sayılı Kanun** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2098,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki projelerden hangisi Özel Güvenlik Denetleme Başkanlığınca hazırlanan projelerden değildir?",
+    "options": [
+      "A) ÖGNET",
+      "B) KAAN",
+      "C) PATBİS",
+      "D) ASİP",
+      "E) UYAP"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) UYAP** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2099,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik sınav talimatı hangi birim tarafından yayımlanır?",
+    "options": [
+      "A) Polis Akademisi Başkanlığı",
+      "B) EGM Özel Güvenlik Denetleme Başkanlığı",
+      "C) EGM Güvenlik Daire Başkanlığı",
+      "D) ÖSYM",
+      "E) Milli Eğitim Bakanlığı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) EGM Özel Güvenlik Denetleme Başkanlığı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2100,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Meydana gelen olayların özel güvenlik görevlileri tarafından doğrudan genel kolluğa bildirilmesini sağlanması amacıyla Özel Güvenlik Denetleme Başkanlığı tarafından hazırlatılan uygulama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) UYUMA",
+      "B) KADES",
+      "C) KAAN",
+      "D) ÖGNET",
+      "E) HAYDİ"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) KAAN** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2101,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi ateşleme tertibatında bulunmaz?",
+    "options": [
+      "A) Tetik",
+      "B) Tetik manivelası",
+      "C) Rayyür",
+      "D) Horoz",
+      "E) İğne ve yayı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Rayyür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2102,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tetik ile horozun arasındaki irtibatı sağlayan parçaya ne ad verilir?",
+    "options": [
+      "A) Yerine getiren yay",
+      "B) Çıkarıcı",
+      "C) Şarjör yuvası",
+      "D) Şarjör kilitleme mandalı",
+      "E) Tetik manivelası"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Tetik manivelası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2103,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kimyasal silahların sınıflarından değildir?",
+    "options": [
+      "A) Yakıcı",
+      "B) Ezici",
+      "C) Zehirleyici",
+      "D) Bayıltıcı",
+      "E) Göz yaşartıcı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Ezici** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2104,
+    "period": "105. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "MP-5 makineli tabanca da atış anında elimizin yanmasını önleyen parça hangisidir?",
+    "options": [
+      "A) Kabza",
+      "B) Kovan atma boşluğu",
+      "C) Şarjör",
+      "D) El kundağı",
+      "E) Alev gizleyen"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) El kundağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2105,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabancalarda ateşleme ilk olarak aşağıdaki parçalardan hangisiyle başlar?",
+    "options": [
+      "A) Horoz",
+      "B) Tetik",
+      "C) Emniyet mandalı",
+      "D) Yerine getiren yay ve mili",
+      "E) Ateşleme iğnesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tetik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2106,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İsabetli vuruş için aşağıdakilerden hangisi öncelikli temel unsur değildir?",
+    "options": [
+      "A) Nefes kontrolü",
+      "B) Duruş",
+      "C) Kabza kavrama",
+      "D) Sivri uçlu fişek",
+      "E) Tetik ezme"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sivri uçlu fişek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2107,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi namluda bulunan yiv ve setlerin görevleri arasında sayılmaz?",
+    "options": [
+      "A) Çekirdeğin havayı burgu gibi delerek gitmesi",
+      "B) Kovanın atılması",
+      "C) Atış menzilinin uzaması",
+      "D) Delme gücünün artması",
+      "E) Çekirdeğin menzil içindeki hedefe uç kısmı ile temas etmesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kovanın atılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2108,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahın ateşlenememesinin nedenlerinden biri değildir?",
+    "options": [
+      "A) Tetik mekanizması arızalı olabilir",
+      "B) Tırnak arızalı olabilir",
+      "C) Fişek arızalı veya rutubetli olabilir",
+      "D) Silahın iğnesi kırık olabilir",
+      "E) Silahta bulunan emniyet kapalı olabilir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tırnak arızalı olabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2109,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşli silahlarda iğnenin darbesi ile fişeğin ateşlenen parçası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Çekirdek",
+      "B) Kapsül",
+      "C) Kovan",
+      "D) Barut",
+      "E) Kovan dip tablası"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kapsül** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2110,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişekler aşağıdaki hangi bölümlerden oluşur?",
+    "options": [
+      "A) Kovan-Kapsül-Çekirdek",
+      "B) Saçma- Kovan dip tablası-Kovan",
+      "C) Çekirdek-Barut-Kovan-Kapsül",
+      "D) Gömlek-Alev kanalı-Kapsül",
+      "E) Çekirdek-Barut-Kovan"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çekirdek-Barut-Kovan-Kapsül** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2111,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Atışa hazır fişeğin beklemiş olduğu, aynı zamanda iğnenin kapsüle çarparak ateşlemenin meydana geldiği yere ne ad verilir?",
+    "options": [
+      "A) Fişek yatağı",
+      "B) Rampa",
+      "C) Dirsekli kurs",
+      "D) Rayyür",
+      "E) Hatve"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Fişek yatağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2112,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi iyi bir atıcıda bulunması gereken özelliklerden değildir?",
+    "options": [
+      "A) Silahını güvenli kullanır",
+      "B) Hedefi vurur",
+      "C) Silah bakımını yapar",
+      "D) Silahını kanunlara uygun kullanır",
+      "E) Başparmağı kabzaya baskı yapmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Başparmağı kabzaya baskı yapmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2113,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Doğru nişan tekniğinde aşağıdakilerden hangisi paralel hatayı tanımlar?",
+    "options": [
+      "A) Arpacığın gez içine düzgün yerleştirilememesi",
+      "B) Göz gez ve arpacığın hedefe doğru yerleştirilememesi",
+      "C) Doğru tetik düşürülememesi",
+      "D) Doğru tetik ezme işleminin yapılamaması",
+      "E) Kabzanın doğru kavranamaması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Göz gez ve arpacığın hedefe doğru yerleştirilememesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2114,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik görevlisi Taner'e verilen görev silahının fişek rampası kırık ise atış esnasında nasıl bir durumla karşılaşır?",
+    "options": [
+      "A) Şarjörden fişek yatağına fişek sürülemez",
+      "B) Emniyet mandalı hareket etmez",
+      "C) Şarjöre fişek doldurulamaz",
+      "D) Boş kovan dışarı atılamaz",
+      "E) Sürgü geride kalır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Şarjörden fişek yatağına fişek sürülemez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2115,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik tabancada şarjör yuvası nerede bulunur?",
+    "options": [
+      "A) Sürgüde (Kapak takımında)",
+      "B) Namluda",
+      "C) Çerçevede (Gövdede)",
+      "D) Şarjör tüpünde",
+      "E) Şarjör gövdesinde"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çerçevede (Gövdede)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2116,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşli silahların namlusu içerisinde bulunan çıkıntılara ne ad verilir?",
+    "options": [
+      "A) Hatve",
+      "B) Rayyür",
+      "C) Set",
+      "D) Gerdel",
+      "E) Yiv"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Set** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2117,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi yarı otomatik tabancanın gövde (çerçeve) kısmında yer almaz?",
+    "options": [
+      "A) Tırnak",
+      "B) Şarjör yuvası",
+      "C) Tetik",
+      "D) Çıkarıcı",
+      "E) Kızak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Tırnak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2118,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "MP5 makinalı tabancalarda mesafe ayarı yapılan parça ile emniyet sisteminde yazılı harfler hangi şıkta doğru olarak verilmiştir?",
+    "options": [
+      "A) Arpacık-ETS",
+      "B) El kundağı-EST",
+      "C) Kurma kolu-STE",
+      "D) Döner gez-ETS",
+      "E) Gez-TSE"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Döner gez-ETS** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2119,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki şıklardan hangisi tabanca fişeğinin bölümlerinden değildir?",
+    "options": [
+      "A) Kovan",
+      "B) Kapsül",
+      "C) Çekirdek",
+      "D) İğne",
+      "E) Barut"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İğne** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2120,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi tabancalarda ana emniyet sistemlerinden birisidir?",
+    "options": [
+      "A) İkaz pim emniyeti",
+      "B) Horoz emniyeti",
+      "C) Kabza emniyeti",
+      "D) İğne emniyeti sistemi",
+      "E) Tetik emniyeti"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kabza emniyeti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2121,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi şarjörü oluşturan parçalar arasında yer almaz?",
+    "options": [
+      "A) Gerdel",
+      "B) Emniyet ve ateş ayar mandalı",
+      "C) Şarjör yayı",
+      "D) Şarjör tüpü",
+      "E) Şarjör kapağı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Emniyet ve ateş ayar mandalı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2122,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah temizliği için kullanılan malzemelerden biridir?",
+    "options": [
+      "A) Gerdel",
+      "B) Harbi",
+      "C) Çıkarıcı",
+      "D) Hatve",
+      "E) Rayyür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Harbi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2123,
+    "period": "105. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İğne emniyetinin görevi nedir?",
+    "options": [
+      "A) Tetik çekilmediği sürece iğnenin kapsüle vurmasını önler",
+      "B) Kapsüle isabetli vurmasını sağlar",
+      "C) Hedefe isabetli atış yapılmasını sağlar",
+      "D) Kovanın dip tablasına iz bırakır",
+      "E) İğnenin rahat çalışmasını sağlar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Tetik çekilmediği sürece iğnenin kapsüle vurmasını önler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2124,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahlar genel olarak sınıflandırıldığında aşağıdakilerden hangisi bu sınıflandırmanın dışında kalır?",
+    "options": [
+      "A) Ateşli silahlar",
+      "B) Nükleer silahlar",
+      "C) Kimyasal silahlar",
+      "D) Ateşsiz silahlar",
+      "E) Makineli silahlar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Makineli silahlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2125,
+    "period": "105. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah sökülürken dikkat edilecek hususlardandır?",
+    "options": [
+      "A) Şarjör çıkartılmaz",
+      "B) Fişek yatağında fişek olup olmaması önemli değildir",
+      "C) Sökmeye başlamadan önce tetik bir kez çekilerek kontrol yapılır",
+      "D) Silah ölü bir noktaya çevrilir",
+      "E) Sürgünün geriye çekilerek, namlunun gözle kontrol edilmesine gerek yoktur"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Silah ölü bir noktaya çevrilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 105. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (105. Dönem Sınavı)"
+  },
+  {
+    "id": 2126,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre özel güvenlik görevlisinin sivil kıyafetle görev yapmasına aşağıdakilerden hangi sebeple izin verilebilir?",
+    "options": [
+      "A) Görevin ve işyerinin özelliği",
+      "B) Coğrafi konum",
+      "C) Mevsim koşulları",
+      "D) Kamu ya da özel sektörde çalışılması",
+      "E) Özel güvenlik görevlisinin isteği"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Görevin ve işyerinin özelliği** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2127,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre, istihdam edilen özel güvenlik görevlilerinin üçüncü kişilere verebileceği zararların karşılanması amacıyla özel hukuk tüzel kişileri ve özel güvenlik şirketlerinin yaptırmak zorunda oldukları sigorta aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Özel güvenlik mali sorumluluk sigortası",
+      "B) Özel hayat sigortası",
+      "C) Özel güvenlik iş sigortası",
+      "D) Özel güvenlik maddi sorumluluk sigortası",
+      "E) Özel güvenlik zorunlu mali mensubiyet sigortası"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Özel güvenlik mali sorumluluk sigortası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2128,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre özel güvenlik görevlisinin işlediği suçtan dolayı “kamu görevlisi gibi” cezalandırılmasının nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Suç işlediği kişinin cinsiyeti",
+      "B) Görev yaptığı yerin özelliği",
+      "C) Suçun işlendiği zaman",
+      "D) İşlenen suçun göreviyle bağlantılı olması",
+      "E) Suçun işleniş şekli"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İşlenen suçun göreviyle bağlantılı olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2129,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre aşağıdakilerden hangisinde ceza bir kat artırılır?",
+    "options": [
+      "A) Faaliyet iznini almadan özel güvenlik faaliyetinde bulunulması",
+      "B) Özel güvenlik iznini almadan özel güvenlik görevlisi istihdam edilmesi",
+      "C) Çalışma izni verilmeyen kişilerin silahlı özel güvenlik görevlisi olarak çalıştırılması",
+      "D) Faaliyet iznini almadan özel güvenlik eğitimi verildiğinin ilan edilmesi veya reklam yapılması",
+      "E) Özel güvenlik mali sorumluluk sigortasını yaptırmadan özel güvenlik görevlisi istihdam edilmesi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çalışma izni verilmeyen kişilerin silahlı özel güvenlik görevlisi olarak çalıştırılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2130,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "“Özel güvenlik görevlileri, görev alanında bir suçla karşılaştığında suça el koymak, suçun devamını önlemek, olay yerini korumak, olay yeri ile suç delillerini incelemek, şüpheliyi tespit ederek yakalamak ve yetkili genel kolluğa teslim etmekle görevli ve yetkilidir.” cümlesindeki görev ve yetkilerden hangisi yanlış olarak ifade edilmiştir?",
+    "options": [
+      "A) Suça el koymak",
+      "B) Suçun devamını önlemek",
+      "C) Şüpheliyi tespit ederek yakalamak",
+      "D) Olay yeri ile suç delillerini incelemek",
+      "E) Olay yerini korumak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Olay yeri ile suç delillerini incelemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2131,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik mali sorumluluk sigortasının yaptırılmaması halinde ceza kime verilir?",
+    "options": [
+      "A) İlgili branşta çalışmaya yetkili olan sigorta şirketine",
+      "B) Özel güvenlik görevlisi istihdam eden kişi, kurum, kuruluş veya şirket yetkililerine",
+      "C) Özel güvenlik görevlisine",
+      "D) İl özel güvenlik komisyonuna",
+      "E) Özel güvenlik hizmeti satın alan kişi, kurum veya kuruluş yetkililerine"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özel güvenlik görevlisi istihdam eden kişi, kurum, kuruluş veya şirket yetkililerine** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2132,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlisi olmak isteyenlerde aranan şartlardan biri değildir?",
+    "options": [
+      "A) Yaş",
+      "B) Eğitim",
+      "C) Vatandaşlık",
+      "D) Sağlık",
+      "E) Askerlik"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Askerlik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2133,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin yetkileri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yangın gibi durumlarda ve imdat istenmesi halinde görev alanındaki işyerlerine girebilir",
+      "B) Aramalar sırasında suç teşkil etmemekle birlikte tehlike doğurabilecek eşyayı emanete alabilir",
+      "C) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenleri duyarlı kapıdan geçirebilir",
+      "D) Görev alanında, haklarında yakalama emri bulunan kişileri gözaltına alabilir",
+      "E) Toplantı, konser, spor müsabakası, sahne gösterileri ve benzeri etkinliklerde kimlik sorabilir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Görev alanında, haklarında yakalama emri bulunan kişileri gözaltına alabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2134,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlisinin silah bulundurma ve taşıması ile ilgili olarak doğrudur?",
+    "options": [
+      "A) Talih oyunları işletmelerinde silahlı özel güvenlik görevlisi çalıştırılmasına izin verilebilir",
+      "B) Özel güvenlik görevlileri, sahne gösterileri ve benzeri etkinliklerde silahlı olarak görev yapabilir",
+      "C) Özel güvenlik görevlileri 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da sayılan hallerde silahlarını görev alanı dışına çıkarabilir",
+      "D) Koruma ve güvenlik hizmetinde kullanılacak silah ve teçhizat, özel güvenlik görevlisi tarafından temin edilir",
+      "E) İlgili il valisinin kararı ve İçişleri Bakanının onayı ile silah alma, bulundurma ve taşıma izni verilebilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Özel güvenlik görevlileri 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da sayılan hallerde silahlarını görev alanı dışına çıkarabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2135,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’a göre özel güvenlik hizmetinin verildiği yerlerde ek önlemler aldırma yetkisi kime aittir?",
+    "options": [
+      "A) Mülki idare amirine",
+      "B) Özel güvenlik hizmetinin yürütüldüğü yerden sorumlu genel kolluk birimine",
+      "C) Özel güvenlik şirketi yöneticisine",
+      "D) Kişi, kurum veya kuruluş yetkilisine",
+      "E) Belediye başkanına"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Mülki idare amirine** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2136,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi Valilik tarafından yerine getirilir?",
+    "options": [
+      "A) Özel güvenlik şirketlerince kullanılacak üniforma ve üniformayı tamamlayan unsurlar ile teçhizatı onaylamak",
+      "B) Amacı dışında faaliyet gösteren veya suç kaynağına dönüşen alarm izleme merkezlerinin yeterlilik belgesini iptal etmek",
+      "C) Özel güvenlik eğitim kurumlarına faaliyet izni vermek",
+      "D) Ücreti karşılığında özel güvenlik eğitimi vermek",
+      "E) Özel güvenlik şirketlerine faaliyet izni vermek"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Amacı dışında faaliyet gösteren veya suç kaynağına dönüşen alarm izleme merkezlerinin yeterlilik belgesini iptal etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2137,
+    "period": "104. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıda sayılan genel kolluk yetkilerinden hangisi özel güvenlik görevlileri tarafından da kullanılır?",
+    "options": [
+      "A) Kimlik tespiti yapma",
+      "B) İfade alma",
+      "C) Yakalama",
+      "D) Parmak izi ve fotoğraf alma",
+      "E) Gözaltına alma"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yakalama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2138,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Özel güvenlik görevlisinin 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da belirtilen koruma ve güvenlik hizmetleri dışında başka bir işte çalıştırılması halinde aşağıdaki yaptırımlardan hangisi uygulanır?",
+    "options": [
+      "A) Bir yıl süreyle özel güvenlik alanında görev alamama",
+      "B) Hapis ve adli para cezası",
+      "C) Hapis cezası",
+      "D) Adli para cezası",
+      "E) İdari para cezası"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İdari para cezası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2139,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İl özel güvenlik komisyonunda aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) Vali",
+      "B) Vali yardımcısı",
+      "C) İl emniyet müdürlüğü temsilcisi",
+      "D) İl jandarma komutanlığı temsilcisi",
+      "E) Ticaret odası başkanlığı ve sanayi odası başkanlığı temsilcileri"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Vali** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2140,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlileri ile yöneticilerin kimlik kartlarının yenilenebilmesi ile ilgili aşağıdakilerden hangisi zorunludur?",
+    "options": [
+      "A) Beş yılda bir iş akdini yenilemesi",
+      "B) Beş yılda bir özel güvenlik temel eğitimi alması",
+      "C) Beş yılda bir özel güvenlik yenileme eğitimi alması",
+      "D) Kesintisiz beş yıl özel güvenlik görevlisi veya yönetici olarak çalışması",
+      "E) Beş yılda bir hastaneden veya herhangi bir sağlık kuruluşundan sağlık raporu alması"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Beş yılda bir özel güvenlik yenileme eğitimi alması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2141,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun ile özellikle konser, spor müsabakası, sahne gösterileri ve benzeri etkinlikler, cenaze ve düğün törenleri, hava meydanı, liman, gar, istasyon ve terminal gibi toplu ulaşım tesislerinde kişilerin üstlerinin dedektörle aranması, duyarlı kapıdan geçirilmesi, eşyaların x-ray cihazı veya benzeri güvenlik sistemlerinden geçirilmesi ile birlikte kişilerin kontrolü amacıyla özel güvenlik görevlilerine verilen bütünleşik yetki aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kimlik sorma",
+      "B) İşyeri ve konutlara girme",
+      "C) Emanete alma",
+      "D) Zor kullanma",
+      "E) Olay yerini koruma"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kimlik sorma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2142,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Özel güvenlik hizmetlerinde kullanılan ateşli silahlar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Ateşli silahlar, devir teslim ve rapor defterine kaydedilerek imza karşılığı devir teslim edilir",
+      "B) Ateşli silahlar, ilgili kişi, kurum veya kuruluşun silah demirbaş defterine kaydedilir",
+      "C) Ateşli silahlar, silahlı özel güvenlik kimlik kartına sahip özel güvenlik görevlileri tarafından görevde taşınabilir",
+      "D) Ateşli silahlara özel güvenlik görevlisi adına silah taşıma ruhsatı düzenlenir",
+      "E) Ateşli silahlar, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun’da belirtilen istisnalar dışında görev alanı dışına çıkarılamaz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Ateşli silahlara özel güvenlik görevlisi adına silah taşıma ruhsatı düzenlenir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2143,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, İçişleri Bakanlığı ve il valiliklerinin özel güvenlikle ilgili denetimi kapsamında değildir?",
+    "options": [
+      "A) 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun hükümlerinin yerine getirilip getirilmediği",
+      "B) Özel Güvenlik Hizmetlerine Dair Kanunun Uygulanmasına İlişkin Yönetmelik hükümlerinin yerine getirilip getirilmediği",
+      "C) Özel güvenlik mevzuatındaki yasak uygulama ve davranışların bulunup bulunmadığı",
+      "D) Hizmet binalarının yapım, bakım, onarımlarının usulüne uygun yapılıp yapılmadığı",
+      "E) Amacı dışında faaliyet gösterilip gösterilmediğini"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Hizmet binalarının yapım, bakım, onarımlarının usulüne uygun yapılıp yapılmadığı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2144,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Verilecek özel güvenlik hizmetinin gereği, ateşli silah bulundurulması ve taşınması gerekiyorsa il özel güvenlik komisyonu aşağıda belirtilenlerden hangilerine izin verebilir?  I. Roketatar  II. Keskin nişancı tüfeği  III. Patlayıcı madde  IV. Av tüfeği  V. Uzun namlulu silah",
+    "options": [
+      "A) I, III",
+      "B) I, V",
+      "C) IV, V",
+      "D) III, IV",
+      "E) I, II, III, IV, V"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) IV, V** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2145,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Acil ve geçici haller hariç, özel güvenlik uygulaması nasıl sonlandırılır?",
+    "options": [
+      "A) Uygulamanın başlaması için izin alınırken süre talep edilir, bu süre sonunda uygulama kendiliğinden sona erer",
+      "B) Uygulamayı talep eden kişi veya kuruluş tarafından sonlandırılır",
+      "C) İl özel güvenlik komisyonu tarafından verilen süre bitiminde sonlandırılır",
+      "D) Mülki idare amiri tarafından gerekli görüldüğünde sonlandırılır",
+      "E) Uygulamayı talep eden kişi veya kuruluş tarafından en az bir ay önce yapılan müracaat üzerine, il özel güvenlik komisyonun kararı, valilik onayı ile sonlandırılır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Uygulamayı talep eden kişi veya kuruluş tarafından en az bir ay önce yapılan müracaat üzerine, il özel güvenlik komisyonun kararı, valilik onayı ile sonlandırılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2146,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Olayın başlangıç, gelişme ve sonucunun yazıldığı bölüm tutanağın hangi bölümüdür?",
+    "options": [
+      "A) Metin bölümü",
+      "B) Giriş bölümü",
+      "C) Sonuç bölümü",
+      "D) Başlık bölümü",
+      "E) İmza bölümü"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Metin bölümü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2147,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi zor kullanmanın aşamalarından olan maddi gücün araçlarından biridir?",
+    "options": [
+      "A) Tabanca",
+      "B) Tüfek",
+      "C) Mavzer",
+      "D) Cop",
+      "E) Bıçak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Cop** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2148,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi olay yerinin korunmasında yapılan hatalardan biridir?",
+    "options": [
+      "A) Olay yerinde bulunan her şeyin delil olabileceğinin değerlendirilmesi",
+      "B) Olay yerindeki telefonun kullanılması",
+      "C) Delillere dokunulmaması",
+      "D) Uzman ekibe bilgi verilmesi",
+      "E) İlgisiz kişilerin olay yerine sokulmaması"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Olay yerindeki telefonun kullanılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2149,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlileri tarafından, görev alanları içerisinde meydana gelen adli bir olayla ilgili olayın faillerinin özgürlüklerinin fiilen geçici olarak kısıtlanmasına ne denir?",
+    "options": [
+      "A) El koyma",
+      "B) Muhafaza altına alma",
+      "C) Nezarete alma",
+      "D) Gözaltına alma",
+      "E) Yakalama"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yakalama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2150,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin tutabileceği tutanaklar arasında yer alır?",
+    "options": [
+      "A) Yer gösterme tutanağı",
+      "B) Olay yeri inceleme tutanağı",
+      "C) Emanete alma tutanağı",
+      "D) Konut arama tutanağı",
+      "E) Otopsi tutanağı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Emanete alma tutanağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2151,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Alışveriş merkezi girişinde görevli özel güvenlik görevlisi elektronik cihazlarla yaptığı kontrol sırasında ruhsatsız bir ateşli silaha rastladığında nasıl davranmalıdır?",
+    "options": [
+      "A) Silahlı kişiyi alışveriş merkezine almaz ve hiçbir işlem yapmadan oradan uzaklaştırır",
+      "B) Silahlı kişinin kimlik bilgilerini alır ve serbest bırakır",
+      "C) Silahın marka ve modelini alıp şahsı serbest bırakır",
+      "D) Silahı muhafaza altına alır, şahsı serbest bırakır",
+      "E) Şahsı ve silahı muhafaza altına alır, derhal genel kolluğa bilgi verir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Şahsı ve silahı muhafaza altına alır, derhal genel kolluğa bilgi verir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2152,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Birbiri ardınca ve sürekli bir surette çalınan düdük sesi ile imdat istenildiğinde aşağıdaki düdük seslerinden hangisiyle karşılık verilir?",
+    "options": [
+      "A) Tek düdük sesiyle",
+      "B) Kesik ve kısa fasılalı üç düdük sesiyle",
+      "C) Birbiri ardınca ve sürekli bir surette çalınan düdük sesiyle",
+      "D) Birbirini müteakip iki düdük sesiyle",
+      "E) Bir uzun bir kısa fasılalı dört düdük sesiyle"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kesik ve kısa fasılalı üç düdük sesiyle** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2153,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Eşkal tarifi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kişilerin belirgin özelliklerine göre yapılır",
+      "B) Mümkün olduğu kadar fazla detay bilgi verilir",
+      "C) Tarif ve tanımlamalarda yuvarlak ifadeler kullanılır",
+      "D) Ayırt edici, kolay, görülüp tanımlanabilir hususlara dikkat edilir",
+      "E) Tarif ve tanımlamalarda ortak bir standart ve terminoloji kullanılır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tarif ve tanımlamalarda yuvarlak ifadeler kullanılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2154,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi olay yerinde elde edilen kimyasal bulgulardan biridir?",
+    "options": [
+      "A) Boya",
+      "B) Kan",
+      "C) Parmak izi",
+      "D) Kovan",
+      "E) Araç lastik izi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Boya** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2155,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin kullandığı devriye çeşitlerinden biri değildir?",
+    "options": [
+      "A) Yaya devriye",
+      "B) Motorize devriye",
+      "C) Atlı devriye",
+      "D) Bisikletli devriye",
+      "E) Planlı devriye"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Planlı devriye** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2156,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktası oluşturulurken dikkat edilmesi gereken hususlardan biri değildir?",
+    "options": [
+      "A) İş yoğunluğu ve özel güvenlik görevlilerinin sayısı dikkate alınmalıdır",
+      "B) Risk durumuna göre güvenlik halkaları oluşturulmalıdır",
+      "C) Özel güvenlik görevlilerinin uyuyabilmeleri için gerekli tedbirler alınmalıdır",
+      "D) Korunan binaya ait kontrolsüz giriş ve çıkış noktaları olmamalıdır",
+      "E) Görevli personelin dikkatsizlik ve monotonluk durumlarına yönelik gerekli tedbirler alınmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Özel güvenlik görevlilerinin uyuyabilmeleri için gerekli tedbirler alınmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2157,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Ulaştırma ve Altyapı Bakanlığı giriş noktasında görevli özel güvenlik görevlisi Mehmet, görev ve yetkilerini aşağıdaki kanunlardan hangisine göre kullanmaktadır?",
+    "options": [
+      "A) 2559 sayılı Polis Vazife ve Salahiyet Kanunu",
+      "B) 3201 sayılı Emniyet Teşkilatı Kanunu",
+      "C) 3348 sayılı Ulaştırma Bakanlığının Teşkilat ve Görevleri Hakkında Kanun",
+      "D) 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun",
+      "E) Ulaştırma ve Altyapı Bakanlığı Bilgi Güvenliği Politikaları Yönergesi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2158,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi eşkal tarifinde belirtilmesi gereken özelliklerden biri değildir?",
+    "options": [
+      "A) Uzuv eksikliği",
+      "B) Ten rengi",
+      "C) Boy durumu",
+      "D) Cinsiyet durumu",
+      "E) Şaşkınlık durumu"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Şaşkınlık durumu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2159,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi parmak izinin özelliklerinden biri değildir?",
+    "options": [
+      "A) Değişmez/değiştirilemez",
+      "B) Benzemez/benzetilemez",
+      "C) Tasnif edilemez/karşılaştırılamaz",
+      "D) Sınıflandırılabilir/arşivlenebilir",
+      "E) Benzemez/karşılaştırılabilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tasnif edilemez/karşılaştırılamaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2160,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi devriyelerin dikkat etmesi gereken hususlardan değildir?",
+    "options": [
+      "A) Teçhizatlı olunmalı",
+      "B) Üniforma giyilmeli",
+      "C) Görünür olunmalı",
+      "D) Dikkatli olunmalı",
+      "E) Telsiz kapalı olmalı"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Telsiz kapalı olmalı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2161,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin önleme araması yapmaya yönelik olarak kullandığı teknolojik güvenlik sistemlerinden biri değildir?",
+    "options": [
+      "A) Duyarlı kapı",
+      "B) Görev hayvanı",
+      "C) El detektörü",
+      "D) Kapı detektörü",
+      "E) X-ray cihazı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Görev hayvanı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2162,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin görev alanları içerisinde meydana gelen adli olaylarla ilgili hazırlayacakları yakalama tutanağında belirtilmesi gereken hususlardan hangisi yanlıştır?",
+    "options": [
+      "A) Yakalama zamanı belirtilir",
+      "B) Yakalama sırasında direnmeye karşı zor kullanılmışsa belirtilmez",
+      "C) Yakalama yeri belirtilir",
+      "D) Yakalama nedeni belirtilir",
+      "E) Yakalanan şahsın açık kimliği belirtilir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Yakalama sırasında direnmeye karşı zor kullanılmışsa belirtilmez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2163,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin görev alanları içerisinde meydana gelen bir patlama sonrası yapması gereken görevleri arasında yer almaz?",
+    "options": [
+      "A) Olay yerinin çevre emniyetini alır",
+      "B) Kolluk kuvvetlerine ve üst amirlerine bilgi verir",
+      "C) Olay yerine ilgisiz kişilerin girmesini engeller",
+      "D) Delilleri toplayarak patlayıcının nevini bulmaya çalışır",
+      "E) İnsanların can güvenliğini sağlar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Delilleri toplayarak patlayıcının nevini bulmaya çalışır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2164,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, maddi delil çeşitlerinden biri değildir?",
+    "options": [
+      "A) Biyolojik bulgular",
+      "B) Kimyasal bulgular",
+      "C) Fiziksel bulgular",
+      "D) İz bulgular",
+      "E) Davranışsal bulgular"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Davranışsal bulgular** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2165,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Araç kontrol noktasında görevli özel güvenlik görevlileri Yaşar ile Salim’in hangi davranışı yetki aşımına girer?",
+    "options": [
+      "A) Araç altı arama aynası ile araçları kontrol etmek",
+      "B) Personel araçlarındaki misafirlerin kontrolsüz girişlerini engellemek",
+      "C) Kontrollerde suç unsuru ile karşılaştıklarında derhal genel kolluğa bilgi vermek",
+      "D) Hırsızlığı önlemek için iş çıkışı çalışanlara ait araçların içini ve bagajını elle arama yapmak",
+      "E) Görevli oldukları yere malzeme getiren araçları kontrol yaparak içeri almak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Hırsızlığı önlemek için iş çıkışı çalışanlara ait araçların içini ve bagajını elle arama yapmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2166,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi güvenlik sistem ve cihazları arasında yer almaz?",
+    "options": [
+      "A) İz dedektörü",
+      "B) Hareket sensörü",
+      "C) Duman dedektörü",
+      "D) El tipi sıvı iz dedektörü",
+      "E) El tipi metal algılama dedektörü"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hareket sensörü** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2167,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Kamera sistem (CCTV) operatörü olarak görev yapacak bir güvenlik görevlisinin dikkatli bir şekilde izleme yapabilmesi için aşağıdaki hususlardan hangisine dikkat etmesi gerekir?",
+    "options": [
+      "A) Görevli olduğu zaman boyunca ara vermeksizin izlemeye devam etmelidir",
+      "B) Yemek ihtiyacını görevi sırasında gidermelidir",
+      "C) Telefon görüşmelerini izlemeye ara vermeksizin yapmalıdır",
+      "D) Uyku ihtiyacı duyması halinde görevi sırasında gidermelidir",
+      "E) Her 20 dakikada bir istirahat etmeli ve dikkatini dağıtacak şeylerle uğraşmamalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Her 20 dakikada bir istirahat etmeli ve dikkatini dağıtacak şeylerle uğraşmamalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2168,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Aşağıdakilerden hangisi kamera türlerinden biri değildir?",
+    "options": [
+      "A) Dedektör Tipi",
+      "B) Dome Tipi",
+      "C) Termal Tipi",
+      "D) Balık Gözü Tipi",
+      "E) Speed Dome Tipi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Dedektör Tipi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2169,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi biometrik geçiş sistemlerinden bir tanesi değildir?",
+    "options": [
+      "A) Parmak izi tanıma sistemi",
+      "B) İris tanıma sistemi",
+      "C) Yüz tanıma sistemi",
+      "D) Ses tanıma sistemi",
+      "E) Manyetik kartlı geçiş sistemi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Manyetik kartlı geçiş sistemi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2170,
+    "period": "104. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "X-ray cihazı ile kontrollerde röntgen ışınlarını emerek görüntü yorumlanmasında netlik göstermeyen madde aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Deri ile kaplanmış nesneler",
+      "B) Tahta kutu içerisine konmuş nesneler",
+      "C) Nemli bezlere sarılmış nesneler",
+      "D) Kurşun ve kristal maddelerle kaplanmış nesneler",
+      "E) Branda ile ambalajlanmış nesneler"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Kurşun ve kristal maddelerle kaplanmış nesneler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2171,
+    "period": "104. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Donmalarda ilkyardım uygulamaları açısından aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Hasta/yaralının soğuk ile teması kesilir",
+      "B) Isı kaybını önlemek için kuru giysiler giydirilir",
+      "C) Donmuş bölge hızla ovularak ısıtılır",
+      "D) Donan bölgede yara oluşmuşsa üzeri temiz bir bezle örtülür",
+      "E) Hasta/yaralı oda sıcaklığına alınır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Donmuş bölge hızla ovularak ısıtılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2172,
+    "period": "104. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Yaralanmalarda ilkyardım ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yaraya saplanmış durumda olan cisimler çıkarılır",
+      "B) Yaşam bulguları değerlendirilir",
+      "C) Kanama durdurulur",
+      "D) Yara üzeri kapatılır",
+      "E) Yara üzerine herhangi bir şey sürülmez"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yaraya saplanmış durumda olan cisimler çıkarılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2173,
+    "period": "104. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi sıcak çarpmalarında yapılacak ilkyardım uygulamalarından biri değildir?",
+    "options": [
+      "A) Kişi serin bir yere alınır",
+      "B) Üzerindeki giyisiler çıkarılarak sıcağın etkilerinin azalması sağlanır",
+      "C) Sırt üstü yatırılır",
+      "D) Kolları ve bacakları kalp seviyesinden yukarı kaldırılır",
+      "E) Bilinci kapalı ise su içirilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Bilinci kapalı ise su içirilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2174,
+    "period": "104. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi solunum yolu tam tıkanmış ve bilinci açık kişiye yapılması gereken ilkyardım uygulamalarından birisidir?",
+    "options": [
+      "A) Heimlich manevrası (karına bası uygulaması) uygulamak",
+      "B) Şok pozisyonu vermek",
+      "C) Su vermek",
+      "D) Rentek manevrası uygulamak",
+      "E) Kalp basısı uygulamak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Heimlich manevrası (karına bası uygulaması) uygulamak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2175,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Temel yaşam desteği aşağıdakilerden hangisini kapsamaz?",
+    "options": [
+      "A) Bilinç kontrolünü",
+      "B) Solunum kontrolünü",
+      "C) Vücut ısısını",
+      "D) Suni solunumu",
+      "E) Kalp basısını"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Vücut ısısını** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2176,
+    "period": "104. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Hava yolunda kısmi tıkanıklık olan bir hastaya ilkyardımda ne yapılmalıdır?",
+    "options": [
+      "A) Karına bası uygulanır",
+      "B) Hastaya dokunulmaz, öksürmeye teşvik edilir",
+      "C) Kalp masajı yapılır",
+      "D) Koma pozisyonu verilir",
+      "E) Hastanın zıplaması söylenir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hastaya dokunulmaz, öksürmeye teşvik edilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2177,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hangisi vücudu oluşturan sistemlerden birisi değildir?",
+    "options": [
+      "A) Hareket",
+      "B) Dolaşım",
+      "C) Solunum",
+      "D) Sindirim",
+      "E) Böbrekler"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Böbrekler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2178,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hasta/Yaralının ilk değerlendirilmesinde ilk önce aşağıdakilerden hangisi kontrol edilmelidir?",
+    "options": [
+      "A) Solunum yolu açıklığı",
+      "B) Vücut ısısı",
+      "C) Bilinci",
+      "D) Dolaşımı",
+      "E) Sindirimi"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Bilinci** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2179,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "112’nin aranması sırasında yapılması yanlış olan hangisidir?",
+    "options": [
+      "A) Sakin olunmalıdır",
+      "B) Sorulan sorulara net cevaplar verilmelidir",
+      "C) Kesin yer ve adres bilgileri verilmelidir",
+      "D) Hasta/yaralı sayısı ve durumu bildirilmelidir",
+      "E) Görüşme mümkün olduğu kadar uzun tutulmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Görüşme mümkün olduğu kadar uzun tutulmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2180,
+    "period": "104. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Aşağıdakilerden hangisi ilkyardımın tanımıdır?",
+    "options": [
+      "A) Olaya müdahale etmeden hemen yardım çağırmaktır",
+      "B) Olay yerinde ilaç vererek yapılan müdahaledir",
+      "C) Hastanedeki hekimler tarafından yapılan ilk müdahaledir",
+      "D) Olay yerinde, hastanın durumunun daha da kötüleşmesini engellemek amacıyla ilaçsız olarak yapılan müdahaledir",
+      "E) Olay yerinde doktorların yaptığı tedavidir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Olay yerinde, hastanın durumunun daha da kötüleşmesini engellemek amacıyla ilaçsız olarak yapılan müdahaledir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2181,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yanma çeşitlerinden değildir?",
+    "options": [
+      "A) Hızlı yanma",
+      "B) Yavaş yanma",
+      "C) Parlama patlama şeklinde yanma",
+      "D) Yapay yanma",
+      "E) Kendi kendine yanma"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yapay yanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2182,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "A sınıfı yangınlar yangın sınıfları içerisinde hangi adı alırlar?",
+    "options": [
+      "A) Sıvı madde yangınları",
+      "B) Pişirme ve kızartma yağı yangınları",
+      "C) Hafif metal yangınları",
+      "D) Gaz madde yangınları",
+      "E) Katı madde yangınları"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Katı madde yangınları** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2183,
+    "period": "104. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Günlük yaşantımızda türlü alanlarda kullandığımız benzin, mazot, gazyağı vb. ürünlerin en ideal söndürme maddesi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Su",
+      "B) Köpük",
+      "C) Toprak",
+      "D) Kuru kimyevi toz",
+      "E) Karbondioksit"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Köpük** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2184,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Alüminyum, magnezyum, titanyum gibi hafif metallerin yangınlarında aşağıdaki söndürme maddelerinden hangisi kesinlikle kullanılmaz?",
+    "options": [
+      "A) Kum",
+      "B) D tozu",
+      "C) Toprak",
+      "D) Su",
+      "E) Kuru kimyevi toz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Su** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2185,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yanan cisimlerden koparak, dağılan parçacıklardan meydana gelen yangın etkeni nedir?",
+    "options": [
+      "A) İhmal",
+      "B) Bilgisizlik",
+      "C) Dikkatsizlik",
+      "D) Sabotaj",
+      "E) Sıçrama"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sıçrama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2186,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Metallerin paslanma olayı hangi yanma çeşidine örnek olarak verilir?",
+    "options": [
+      "A) Parlama şeklinde yanma",
+      "B) Hızlı yanma",
+      "C) Kendi kendine yanma",
+      "D) Yavaş yanma",
+      "E) Patlama şeklinde yanma"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yavaş yanma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2187,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdaki şıkların hangisinde yanma üçgenini oluşturan elemanlar doğru olarak verilmiştir?",
+    "options": [
+      "A) Yanıcı madde, ısı, oksijen",
+      "B) Yakıcı madde, hava, nitrojen",
+      "C) Yanıcı madde, hava, oksijen",
+      "D) Yanıcı madde, hava, nitrojen",
+      "E) Yakıcı madde, ısı, oksijen"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yanıcı madde, ısı, oksijen** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2188,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yangının oluşum safhaları aşağıdaki şıkların hangisinde doğru sırayla verilmiştir?",
+    "options": [
+      "A) Duman – Koku – Alev",
+      "B) Koku – Duman – Alev",
+      "C) Duman – Alev – Koku",
+      "D) Alev – Duman – Koku",
+      "E) Alev – Koku – Duman"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Koku – Duman – Alev** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2189,
+    "period": "104. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Narkotik maddelerin sınıflandırılmasına göre aşağıdakilerden hangisi Merkezi Sinir Sistemini Uyuşturanlar (Yavaşlatan) sınıfında yer alır?",
+    "options": [
+      "A) Eroin",
+      "B) Kokain",
+      "C) Esrar",
+      "D) Metamfetamin",
+      "E) Sentetik Kannabinoid (Bonzai)"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Eroin** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2190,
+    "period": "104. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdakilerden hangisi Metamfetamin narkotik maddesinin sokak jargonudur?",
+    "options": [
+      "A) Bonzai, gold, kaliteli esrar",
+      "B) Pırlanta, otoban, toz şeker",
+      "C) Ateş, buz, elmas",
+      "D) Spid, kumaş, vitamin",
+      "E) Beyaz toz, kireç, beyaz peynir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Ateş, buz, elmas** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2191,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Sözsüz iletişimde; baş, el, kol, ayak ve bedenin duruşu ile verilen mesaj ne ile ifade edilir?",
+    "options": [
+      "A) Mimik",
+      "B) Jest",
+      "C) Diksiyon",
+      "D) Dönüt",
+      "E) Empati"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Jest** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2192,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Zor insanlarla iletişim kurabilmek için üç temel iletişim becerisi vardır.\r\n Aşağıdakilerden hangisi bu iletişim becerilerinden birisidir?",
+    "options": [
+      "A) Sevilmek",
+      "B) Paylaşmak",
+      "C) Haberleşmek",
+      "D) Dinlemek",
+      "E) Kabul görmek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Dinlemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2193,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Dünyayı karşıdaki kişinin gözünden görebilme” ifadesi aşağıdaki kavramlardan hangisiyle ifade edilir?",
+    "options": [
+      "A) Antipati",
+      "B) Sempati",
+      "C) Empati",
+      "D) Diyalog",
+      "E) İletişim"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Empati** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2194,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi iyi bir dinleyicinin özelliklerinden değildir?",
+    "options": [
+      "A) Kendinizi onun yerine koyarak empatik yaklaşmalıyız",
+      "B) Eleştiri ve yargılayıcı ifade ve davranışta bulunabiliriz",
+      "C) Davranış ve sözlerimizle tasdik etmeliyiz",
+      "D) Duygu ve düşüncelerimizi aktararak, söz alıp konuşmalıyız",
+      "E) Yüzümüzü kesinlikle konuşmacıya dönmeliyiz"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Eleştiri ve yargılayıcı ifade ve davranışta bulunabiliriz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2195,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi empatinin faydalarından biri değildir?",
+    "options": [
+      "A) Empati uzun süre sağlıklı iletişim kurmada etkili olmaz",
+      "B) Empati ilişkilerde doyumu sağlar",
+      "C) Empati farklı bakış açıları kazandırır",
+      "D) Empati bireyin kendini daha rahat ifade etmesini sağlar",
+      "E) Empati iletişimde yaşanan problemleri giderir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Empati uzun süre sağlıklı iletişim kurmada etkili olmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2196,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi ikna edici konuşmanın öğelerinden biri değildir?",
+    "options": [
+      "A) İkna edici konuşma, bir sanattır",
+      "B) İkna edici konuşma sözel tartışma oluşturma ile ilgilidir",
+      "C) İkna edici konuşma sözel tartışmaları özel dinleyicilerle uyumlaştırma ile ilgilidir",
+      "D) İkna edici konuşma inanılır değildir",
+      "E) İkna edici konuşma amaçlı ve istendik değişimler ortaya çıkarmaya yöneliktir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) İkna edici konuşma inanılır değildir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2197,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Moral ve motivasyonu yükseltmek için işverenin personele yapması gereken davranış aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Toplantılar yapıp personeli dinlemek ve çalışmalarından dolayı takdir etmek",
+      "B) Hiçbir şekilde konuşmamak",
+      "C) Sorunlarına duyarsız kalmak",
+      "D) Görevleri esnasında görmezden gelmek",
+      "E) Konuşurken görevli personeli önemsememek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Toplantılar yapıp personeli dinlemek ve çalışmalarından dolayı takdir etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2198,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi iletişimin temel becerilerinden birisi değildir?",
+    "options": [
+      "A) Saygı",
+      "B) Dinleme",
+      "C) Sempati",
+      "D) Etkin ifade",
+      "E) Kendini tanıma"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Sempati** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2199,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Karşısındakini dinler gibi görünüp aslında onu duymayan, başka şeyler düşünmekle meşgul olan kişi aşağıdaki dinleme biçimlerinden hangisini sergilemektedir?",
+    "options": [
+      "A) Seçici dinleme",
+      "B) Yüzeysel dinleme",
+      "C) Ben merkezli dinleme",
+      "D) Savunucu dinleme",
+      "E) Görünüşte dinleme"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Görünüşte dinleme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2200,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi içsel motivasyona örnektir?",
+    "options": [
+      "A) Bir işyerinin üstün başarı gösteren elemanına bir maaş ikramiye vermesi",
+      "B) Bir yarışmada birinci gelene altın plaket verilmesi",
+      "C) Çukura düşen bir vatandaşı kurtaran görevlinin çevredekiler tarafından alkışlanması",
+      "D) Pazar sabahları erken kalkıp balık tutmaya giden birisinin büyük bir huzur duyması",
+      "E) Başarılı öğrencilere yılsonunda takdir belgesi verilmesi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Pazar sabahları erken kalkıp balık tutmaya giden birisinin büyük bir huzur duyması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2201,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "İletişim sürecinin temel ögelerinden biri; iletişimi başlatandır. Bilgi, duygu, düşünce, fikir, tutum, davranışlar ve becerileri kapsayan ögeye ne ad verilir?",
+    "options": [
+      "A) Geri bildirim (Dönüt)",
+      "B) Kanal (Araç)",
+      "C) Alıcı (Hedef)",
+      "D) Mesaj (Haber)",
+      "E) Kaynak (Verici)"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kaynak (Verici)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2202,
+    "period": "104. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi bir iletişim engeli değildir?",
+    "options": [
+      "A) Dikkatini konuşana vermek",
+      "B) Yıkıcı eleştiri yapmak",
+      "C) Hep kendisini haklı görmek",
+      "D) Akıl okumak",
+      "E) İşi yokuşa sürmek"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Dikkatini konuşana vermek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2203,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kişi, grup ya da topluluklar arası çatışmaları önleme yöntemlerinden biri değildir?",
+    "options": [
+      "A) Çatışmanın sebebini ortadan kaldırma",
+      "B) İletişimin kesilmesi",
+      "C) Hakeme başvurma",
+      "D) Kaynakların artırılması",
+      "E) Uzlaşma"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İletişimin kesilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2204,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi yasadışı toplulukların güvenlik güçlerinin engellemelerini aşabilmek için kullandıkları taktiklerden değildir?",
+    "options": [
+      "A) Toplanma yerinin terk edilmesi",
+      "B) Olay yaratarak dikkatleri başka yöne çekme",
+      "C) Topluluğun çevresine yaşlı kadın ve yaşlı erkek ve çocukların dizilmesi",
+      "D) Kutsal simgeleri kullanma ve marş söyleme",
+      "E) Güvenlik görevlilerinin hareket kabiliyetini azaltacak şekilde topluluğun güvenlik güçlerini kuşatması"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Toplanma yerinin terk edilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2205,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Topluluğu takip eden güvenlik görevlilerinin üzerine topluluk içerisinden yabancı maddeler atılmaya başlanmıştır. Atılan bu maddelerden korunmak isteyen güvenlik görevlilerinin hangi düzene geçmesi gerekir?",
+    "options": [
+      "A) Hat düzeni",
+      "B) Kama düzeni",
+      "C) Çatı düzeni",
+      "D) Çember düzeni",
+      "E) Sağa hat düzeni"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çatı düzeni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2206,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Cop ve güvenlik görevlilerinin cop kullanımı ile ilgili aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "A) Cop, usulüne uygun kullanıldığında öldürücü etkisi olmayan bir teçhizattır",
+      "B) İnsana acı vermesinden dolayı copun psikolojik bir etkisi de vardır",
+      "C) Cop, karşıdakine zarar vermekten ziyade, zor kullanma şartları doğrultusunda kişiyi etkisiz bırakmak ya da saldırıyı bertaraf etmek için kullanılır",
+      "D) Cop kullanımında orantı gözetilmeksizin karşıdakinin vücudunun bütün bölümlerine vurulabilir",
+      "E) Cop, saldırganı belli bir mesafede tutmak için kolun uzantısı olarak kullanılır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Cop kullanımında orantı gözetilmeksizin karşıdakinin vücudunun bütün bölümlerine vurulabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2207,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi Ahmet üniversitede toplumsal olaya müdahale edecek olan özel güvenlik görevlilerinin sorumlusudur. Aşağıdakilerden hangisi Ahmet’in görevi esnasında dikkat etmesi ve uygulaması gereken ilkelerden biri değildir?",
+    "options": [
+      "A) Tarafsız olmalıdır",
+      "B) Tahriklere kapılmamalıdır",
+      "C) Teknolojiden yararlanmalıdır",
+      "D) İkna edici ve inandırıcı olmalıdır",
+      "E) Duygusal hareket etmelidir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Duygusal hareket etmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2208,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Pazarda alışveriş yapan insanların oluşturduğu kalabalık türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Organize aktif kalabalık",
+      "B) Organize olmayan pasif kalabalık",
+      "C) Organize olmayan aktif kalabalık",
+      "D) Organize pasif kalabalık",
+      "E) Düzenli kalabalık"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Organize olmayan pasif kalabalık** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2209,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kişiler ya da gruplar arasındaki çatışma sebeplerinden biri değildir?",
+    "options": [
+      "A) Çıkar farklılıkları",
+      "B) Kaynakların artırılması",
+      "C) Amaç farklılıkları",
+      "D) İletişim eksikliği",
+      "E) Kişilik farklılıkları"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kaynakların artırılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2210,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Toplumsal olaylarda topluluklar amaçlarına ulaşmak için değişik eylemler yaparlar.  Aşağıdakilerden hangisi/hangileri bu eylem biçimlerindendir?  I. Onur kırıcı davranışlar ve tahrik  II. Barikat kurmak  III. İşyeri ve araçlara saldırmak",
+    "options": [
+      "A) Yalnız II",
+      "B) Yalnız I",
+      "C) Yalnız III",
+      "D) I- II- III",
+      "E) Yalnız I ve II"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) I- II- III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2211,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Kalabalık içerisinde kişi tipleri bulunmaktadır. Bu tiplerden birisi de; “Bir örgüte girerek veya bir mitinge bir gösteriye sızarak örgüt üyelerini veya gösteriye katılanları suç sayılan bir eyleme davranışa iten kişidir. Bu kişi eylemlerin yönlendirilmesi konusunda uzmanlaşmış elemanlardır. Bunlar önceden çok ince hesaplar yaparlar. Bir eylemin nasıl başlayacağı, hangi söylentilerin yayılacağı, topluluğun ne yana ne düşünceyle sevk edileceği gibi konuların planını yapar ve uygularlar.” şeklinde açıklanmıştır.  Aşağıdakilerden hangisi açıklaması yapılan tiptir?",
+    "options": [
+      "A) Liderler (önderler)",
+      "B) Provokatörler",
+      "C) Atılganlar ve seyirciler",
+      "D) Tesir altında kalanlar ve karşı eylemciler",
+      "E) İhtiyatlılar ve destekçiler"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Provokatörler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2212,
+    "period": "104. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "”Şehir dışındaki üniversite kampüs meydanında yönetimin uygulamalarını protesto etmek amacıyla bir grup öğrenci tarafından kanunsuz toplantı ve gösteri yürüyüşü eylemi başlatılmıştır. Eylemciler bu kanunsuz eyleme katılmayan diğer öğrencilere ve çevreye zarar verebilecek duruma gelmiş, ancak üniversite rektörü olaya müdahale edebilecek yeteri kadar özel güvenlik görevlisi bulunduğu gerekçesiyle henüz kolluğun kampüs içerisine girmesine izin vermemiştir.” Bu eylemin kontrol altına alınması ve eylemcilerin çevreye daha fazla zarar vermemesi için olaya müdahale etmeyi planlayan özel güvenlik amirinin aşağıdaki hangi davranışı yapması yanlış olur?",
+    "options": [
+      "A) Eylemcilerle diyalog kurma",
+      "B) Profesyonel olma",
+      "C) Provokasyona gelmeme",
+      "D) İkna edici ve inandırıcı olma",
+      "E) Çoğalmadan önce silah dâhil her türlü zoru kullanarak eylemci kalabalığı dağıtma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Çoğalmadan önce silah dâhil her türlü zoru kullanarak eylemci kalabalığı dağıtma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2213,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Konvoy güzergâhındaki güzergah analizi aşağıdakilerden hangisini kapsamaz?",
+    "options": [
+      "A) Sarı Bölgeleri (Saldırı hazırlığında olanların bulunduğu yerler)",
+      "B) Boğma noktalarını",
+      "C) İdeal saldırı noktalarını",
+      "D) Kırmızı bölgeleri (Suikast gözetleyicilerinin mevzilenmesi mümkün yerler)",
+      "E) Yeşil bölgeleri (Kırmızı bölgelerin gözetlenebileceği yerler)"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Sarı Bölgeleri (Saldırı hazırlığında olanların bulunduğu yerler)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2214,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "I. Gidilecek mahalli makul bir süre önceden incelemek  II. Program yerinin krokilerini çıkarmak  III. Konvoy ve koruma düzenini belirlemek  Bir koruma personeli yukarıdaki işlemleri gerçekleştiriyorsa aşağıdakilerden hangisinden bahsedilir?",
+    "options": [
+      "A) Öncü istihbarat çalışması",
+      "B) Keşif",
+      "C) Ön inceleme",
+      "D) Koordinasyon",
+      "E) İstihbarat"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Öncü istihbarat çalışması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2215,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bir insanlık suçu, zulüm ve vahşet olan ve hiçbir gerekçe ile meşru kılınamayan intihar saldırılarının nedenleri aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "A) Örgüt adlarını ve amaçlarını bu vesileyle duyurmak",
+      "B) Panik ve korku dalgası meydana getirmek",
+      "C) Şok edici ve sarsıcı eylemle gündemin başına oturmak",
+      "D) Örgüt üyeleri için birer model oluşturmak",
+      "E) Destekleyenlerine ve karşı tarafa güven telkin etmek"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Destekleyenlerine ve karşı tarafa güven telkin etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2216,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi temel koruma prensiplerinden değildir?",
+    "options": [
+      "A) Koruma görevlisi koruma ile ilgili her türlü konuyu, korunan kişi ile rahatça paylaşabilmelidir",
+      "B) Korunan kişiden daha üst makamdaki korunan başka bir kişi ile birlikte olduğunda onun korunmasına geçilmelidir",
+      "C) Koruma hizmetleri, korunan kişinin özelliklerine, personel sayısına ve değişen şartlara göre farklı şekillerde yerine getirilebilir",
+      "D) Koruma görevlisi ceketini iliklememelidir",
+      "E) Koruma görevinde silah kullanmak son çaredir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Korunan kişiden daha üst makamdaki korunan başka bir kişi ile birlikte olduğunda onun korunmasına geçilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2217,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi koruma görevlisinin dikkat edeceği hususlardan değildir?",
+    "options": [
+      "A) Ekip uyumu en üst seviyede olmalıdır",
+      "B) Her elemen düzendeki yerini bilmelidir",
+      "C) Sorumluluk alanında kalması gerektiğini unutmamalıdır",
+      "D) Saldırı anında müdahalede bulunabilecek mesafede olmalıdır",
+      "E) Koşullara göre değişebilen koruma düzenine hazırlıklı olmamalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Koşullara göre değişebilen koruma düzenine hazırlıklı olmamalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2218,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdaki tanımlardan hangisi iç çemberi (halka) ifade etmez?",
+    "options": [
+      "A) Yakın koruma timinin korunan önemli kişi (VIP) çevresinde oluşturduğu halkadır",
+      "B) Çemberler içinde en kısıtlanmış olanıdır",
+      "C) Bu çemberde yerel güvenlik görevlileri de bulunur",
+      "D) İç halkaya korunan önemli kişinin (VIP) izin verdiği yakınları ve güvenlik kontrolünden geçmiş kişi/kişiler girebilir",
+      "E) Bu çemberde sadece koruma görevlileri bulunur"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Bu çemberde yerel güvenlik görevlileri de bulunur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2219,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi yaya koruma düzenlerinde dikkat edilecek hususlardan değildir?",
+    "options": [
+      "A) Kalabalık yerlerde korunan önemli kişinin (VIP) emniyetini sağlayacak şekilde koruma çemberi daraltılır",
+      "B) Açık alanlarda koruma çemberi daraltılır",
+      "C) Tehlike yoksa çember olabildiğince geniş tutulmalıdır",
+      "D) Koruma düzeni görev alanının durumuna göre değişken bir hal alabilir",
+      "E) Koruma düzeninde daima 360 derecelik sorumluluk alanı ile koruma sağlanır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Açık alanlarda koruma çemberi daraltılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2220,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kişisel fiziki güvenlik önlemleri, can ve mal güvenliğimize yönelik tehlike ve saldırılara karşı aldığımız maddi ve teknolojik tedbirlerdir. Bu tedbirler tehlikeleri önceden algılayacak ve erken müdahale sağlayacak nitelikte olmalıdır.  Aşağıdakilerden hangisi bu tedbirlere örnek değildir?",
+    "options": [
+      "A) Işıklandırma",
+      "B) Kapılar",
+      "C) Haberleşme",
+      "D) Pencereler",
+      "E) Kilitler"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Haberleşme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2221,
+    "period": "104. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi kişi korumanın amaçlarından değildir?",
+    "options": [
+      "A) Korunan önemli kişinin (VIP) küçük düşmesine engel olmak",
+      "B) Korunan önemli kişiyi (VIP) herhangi bir saldırıdan korumak",
+      "C) Korunan önemli kişinin (VIP) mahremiyetini korumak",
+      "D) Korunan önemli kişinin (VIP) özel hayatını düzenlemek",
+      "E) Özel ve resmi görevini engellememek, hareketlerini kısıtlamamak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Korunan önemli kişinin (VIP) özel hayatını düzenlemek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2222,
+    "period": "104. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Genel kolluk - özel güvenlik ilişkileri açısından aşağıdaki seçeneklerden hangisi en doğru uygulamadır?",
+    "options": [
+      "A) Genel kolluk, özel güvenlik alanına görev harici giremez",
+      "B) Genel kolluk - özel güvenlik ilişkileri tek taraflıdır",
+      "C) Genel kolluk, özel güvenlik alanına sadece üniformalı iken girebilir",
+      "D) Genel kolluk - özel güvenlik ilişkilerinde yardımlaşma, iş birliği ve koordinasyon esastır",
+      "E) Genel kolluğun özel güvenlik alanına silahla girmemesi esastır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Genel kolluk - özel güvenlik ilişkilerinde yardımlaşma, iş birliği ve koordinasyon esastır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2223,
+    "period": "104. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Spor müsabakalarında, müsabakanın yapılacağı alana girişlerde genel kolluk tarafından veya genel kolluğun denetim ve gözetiminde özel güvenlik görevlileri tarafından üst araması yapılması için kimin izni gerekir?",
+    "options": [
+      "A) Hakim kararı veya gecikmesinde sakınca bulunan hallerde mülki amirin yazılı izni",
+      "B) İl emniyet müdürünün",
+      "C) İl spor müdürünün",
+      "D) Belediye başkanının",
+      "E) Müsabaka güvenlik amirinin"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Hakim kararı veya gecikmesinde sakınca bulunan hallerde mülki amirin yazılı izni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2224,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Havalimanında görev yapan özel güvenlik görevlisi Ergün, şüpheli bir paket bulduğunda/gördüğünde ilk hareket tarzı ne olmalıdır?",
+    "options": [
+      "A) Paketi alarak güvenli bir bölgeye götürmeli",
+      "B) Arkadaşına haber vermeli",
+      "C) Polislere bilgi vermeli",
+      "D) Paketin kime ait olduğunu araştırmalı",
+      "E) Görmemezlikten gelmeli"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Polislere bilgi vermeli** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2225,
+    "period": "104. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Genel kolluk ile özel güvenlik görevlileri ilişkilerinde suçun önlenmesi bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Genel kolluk kamu güvenliğini tamamlayıcı mahiyette görev yapan özel güvenlik görevlileri ile birlikte daha etkin suçla mücadele etmektedir",
+      "B) Suç ve suçlularla mücadelede hedefler ortaktır",
+      "C) Suçu önlemeye yönelik çalışırlar",
+      "D) Temelde amaçları kamu güvenliğini ve düzenini sağlamaktır",
+      "E) Suç önlemede birbirlerini rakip olarak görürler"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Suç önlemede birbirlerini rakip olarak görürler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2226,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisinde tabancanın sökülme sırası doğru olarak verilmiştir?  I. Yerine getiren yayı çıkarılır  II. Fişek yatağı boşaltılır  III. Kapak takımı çıkarılır  IV. Namlu çıkarılır   V. Şarjör çıkarılır  VI. Tabanca ölü noktaya çevrilir",
+    "options": [
+      "A) VI-I-II-III-IV-V",
+      "B) II-V-III-VI-I-VI",
+      "C) VI-V-II-III-IV-I",
+      "D) VI-V-II-III-I-IV",
+      "E) III-II-I-V-VI-IV"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) VI-V-II-III-I-IV** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2227,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "I.Barut nemli olabilir  II.Tırnak kırık olabilir  III.İğne ucu aşınmış olabilir  IV.Şarjör yerine oturmamış olabilir  V.Gerdel yayı kırık olabilir  Yukarıdakilerden hangileri fişek yatağındaki fişeğin ateş almamasına yol açabilecek nedenlerdendir?",
+    "options": [
+      "A) I-II",
+      "B) I-III",
+      "C) II-III",
+      "D) IV-V",
+      "E) I-V"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) I-III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2228,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahların genel sınıflandırılması aşağıdaki şıklardan hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Ateşli silahlar - Ateşsiz silahlar - Nükleer silahlar - Biyolojik silahlar-Makineli silahlar",
+      "B) Ateşli silahlar-Ateşsiz silahlar-Tam otomatik silahlar- Nükleer silahlar- Biyolojik silahlar",
+      "C) Ateşli silahlar-Ateşsiz silahlar-Kimyasal silahlar-Nükleer silahlar-Biyolojik silahlar",
+      "D) Ateşli silahlar-Ateşsiz silahlar- Kimyasal silahlar-Kesici ve delici silahlar-Nükleer silahlar",
+      "E) Ateşli silahlar-Ateşsiz silahlar- Kimyasal silahlar- Nükleer silahlar-Yakıcı silahlar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Ateşli silahlar-Ateşsiz silahlar-Kimyasal silahlar-Nükleer silahlar-Biyolojik silahlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2229,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi fişeğin bölümlerinden değildir?",
+    "options": [
+      "A) Kovan",
+      "B) Gez",
+      "C) Kapsül",
+      "D) Barut",
+      "E) Çekirdek"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Gez** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2230,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "ÖGG Ahmet poligonda atış yaparken tetik düşürmesine rağmen fişek ateş almamışsa öncelikle aşağıdakilerden hangisini yapması doğru olur?",
+    "options": [
+      "A) Şarjör çıkarılarak tekrar tetiğe basılır",
+      "B) Vakit kaybetmeden şarjör değiştirilir",
+      "C) Atış olana kadar tekrar tetiğe basılır",
+      "D) Tekrar doldur boşalt yapılarak tetik düşürülür",
+      "E) Namlu hedeften ayrılmadan en az 15 saniye beklenir, sonra şarjör çıkarılır fişek dışarıya alınır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Namlu hedeften ayrılmadan en az 15 saniye beklenir, sonra şarjör çıkarılır fişek dışarıya alınır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2231,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tam otomatik tabanca ile yarı otomatik tabanca arasındaki fark aşağıdaki ifadelerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Tam otomatik tabancalar tek, yarı otomatik tabancalar ise çift hareketlidir",
+      "B) Yarı otomatik tabancalar tek, tam otomatik tabancalar çift hareketlidir",
+      "C) Yarı otomatik tabancalarda şarjör, tam otomatik tabancalar da ise mayon veya şerit bulunur",
+      "D) Yarı otomatik tabanca tam otomatik tabancaya göre daha uzun menzillidir",
+      "E) Tam otomatik tabanca ile seri ve tek tek, yarı otomatik tabanca ile tek tek atış yapılabilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Tam otomatik tabanca ile seri ve tek tek, yarı otomatik tabanca ile tek tek atış yapılabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2232,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahı ile atış yapan ÖGG Selim, yaptığı atış sonrasında boş kovan dışarı atılamamıştır. Bunun sebebi aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "A) Tırnak yayı kırıktır",
+      "B) Çıkarıcı kırıktır veya arızalıdır",
+      "C) Yiv ve setler özelliğini kaybetmiştir",
+      "D) Fişekteki barutun az olmasından dolayı basınç geri tepmeyi yeterince sağlamamıştır",
+      "E) Tırnak arızalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yiv ve setler özelliğini kaybetmiştir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2233,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi atış yaparken dikkat edilecek hususlardan değildir?",
+    "options": [
+      "A) Tetik üzerine uygulanan baskıdan nişan hattı hiçbir şekilde etkilenmemelidir",
+      "B) Tetiğe uygulanan basınç giderek orantılı olarak artırılmalıdır",
+      "C) Tetik işaret parmağının ikinci boğumunun etli kısmı ile düşürülmelidir",
+      "D) Kabza kavrama bütün atışlarda aynı şekilde ve sıkılıkta olmalıdır",
+      "E) Tetik düşürülürken nefes kontrolü yapılmalıdır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tetik işaret parmağının ikinci boğumunun etli kısmı ile düşürülmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2234,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki yerlerin hangisinde özel güvenlik görevlisi silahlı olarak görev yapabilir?",
+    "options": [
+      "A) Her türlü spor karşılaşma veya yarışmalarının yapıldığı yerlerde",
+      "B) Eğitim ve öğretim kurumlarında",
+      "C) Adliye binaları girişlerinde",
+      "D) Siyasi partilerin açık hava veya kapalı yer toplantıları ve kongrelerinde",
+      "E) Öğrencilerin toplu olarak oturdukları yurtlarda"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Adliye binaları girişlerinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2235,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Atışa hazır fişeğin bulunduğu yere .........., atış sırası bekleyen fişeklerin bulunduğu yere de .......... denir.  Yukarıdaki boşluklara gelmesi gereken kelimeler, aşağıdaki seçeneklerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Fişek yatağı-hazne",
+      "B) Fişek yatağı-namlu",
+      "C) Namlu-hazne",
+      "D) Hazne-şarjör",
+      "E) Rampa-fişek yatağı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Fişek yatağı-hazne** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2236,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Şarjörü oluşturan parçalar aşağıda hangi şıkta doğru olarak verilmiştir?",
+    "options": [
+      "A) Şarjör Tüpü – Şarjör Yayı – Rayyür – Şarjör Kapağı – Hatve",
+      "B) Şarjör Tüpü – Şarjör Yayı – Rayyür – Şarjör Kapağı – Şarjör Kilidi",
+      "C) Şarjör Tüpü – Şarjör Yayı – Gerdel – Şarjör Kapağı – Hatve",
+      "D) Şarjör Tüpü - Şarjör Yayı – Gerdel – Şarjör Kapağı – Şarjör Kapak Kilidi",
+      "E) Şarjör Tüpü – Şarjör Yayı – Hatve – Şarjör Kapağı – Şarjör Kilidi"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şarjör Tüpü - Şarjör Yayı – Gerdel – Şarjör Kapağı – Şarjör Kapak Kilidi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2237,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişek çekirdeğin namlu içerisinde kendi etrafında bir tur dönüş esnasında aldığı mesafeye .......... ; Karşılıklı iki set arasındaki mesafeye de .......... denir.  Yukarıda boş bırakılan yerler, aşağıdakilerden hangi şıkta doğru olarak verilmiştir?",
+    "options": [
+      "A) Yiv – Set",
+      "B) Hatve – Çap",
+      "C) Rayyür – Hatve",
+      "D) Yarıçap – Çap",
+      "E) Set – Rayyür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hatve – Çap** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2238,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik horozlu tabancası olan özel güvenlik görevlisi Murat'ın ateşleme tertibatının işleyiş sırası aşağıdakilerden hangi şıkta doğru olarak verilmiştir?",
+    "options": [
+      "A) Horoz - iğne - tetik - tetik manivelası",
+      "B) Tetik - tetik manivelası - horoz - iğne",
+      "C) Tetik manivelası - tetik - horoz - iğne",
+      "D) İğne - tetik - tetik manivelası - horoz",
+      "E) Tetik - iğne - tetik manivelası - horoz"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Tetik - tetik manivelası - horoz - iğne** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2239,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "İğnesi kırık olan bir silahla ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Yerine getiren yay görevini yapamaz",
+      "B) Fişek yatağına fişek sürülemez",
+      "C) Tetik çalışmaz",
+      "D) Namludan boş kovan atılmaz",
+      "E) Silah ateşleme yapmaz"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Silah ateşleme yapmaz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2240,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahlarda balistik parçalardan olan tırnağın görevlerindendir?",
+    "options": [
+      "A) Ateşleme sonrası boş kovanın fişek yatağından çekilip çıkarılmasını sağlar",
+      "B) Kapsülün patlaması ile meydana gelen alevin baruta intikal etmesini sağlar",
+      "C) Sürgüyü gövdeye sabitler",
+      "D) Barut gazının dışarı atılmasını sağlar",
+      "E) Şarjörün yuvasından çıkmasını önler"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Ateşleme sonrası boş kovanın fişek yatağından çekilip çıkarılmasını sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2241,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi atış hattında alınacak emniyet ve güvenlik tedbirleri arasında yer almaz?",
+    "options": [
+      "A) Komut verilmediği sürece silahlara şarjör takılmaz",
+      "B) Silahlar atış hattının gerisinde iken doldurulmaz ve kurulmaz",
+      "C) Atış hattında silah arızası meydana gelirse, silah emniyetli pozisyona getirilir, silahsız el havaya kaldırılarak atış nezaretçisinin gelmesi beklenir",
+      "D) Atış hattında yere düşen ve görülen malzemeler hiçbir şekilde komutsuz alınmaz",
+      "E) Atış bittikten sonra silahın bakım ve temizliği yapılır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Atış bittikten sonra silahın bakım ve temizliği yapılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2242,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Mehmet atış poligonunda yaptığı 10 adet atışın tamamı hedef kağıdının üst orta kısmında (saat 12 istikametinde) toplandığını gördü. Mehmet’in yaptığı atış hatası hangi şıkta doğru olarak verilmiştir?",
+    "options": [
+      "A) Mehmet atış esnasında geriye yatma temayülü göstermiş veya arpacığı yukarıda görmüştür",
+      "B) Mehmet patlama sesinden irkilerek silahı ileri itmiş veya arpacığı aşağıda görmüştür",
+      "C) Mehmet tetik parmağını (sağ el) yerleştirme hatası yapmıştır",
+      "D) Mehmet acele tetik çekmiştir",
+      "E) Mehmet atış esnasında kabzayı gevşek tutmuştur"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Mehmet atış esnasında geriye yatma temayülü göstermiş veya arpacığı yukarıda görmüştür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2243,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi ateşli silahlardaki emniyet tertibatlarından değildir?",
+    "options": [
+      "A) Horoz emniyeti",
+      "B) Namlu emniyeti",
+      "C) Mandal emniyeti",
+      "D) İğne emniyeti",
+      "E) Kabza emniyeti"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Namlu emniyeti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2244,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi ateşli silahta bulunan tertibatlardan biri değildir?",
+    "options": [
+      "A) Atış tertibatı",
+      "B) Emniyet tertibatı",
+      "C) Nişan tertibatı",
+      "D) Kovan atma tertibatı",
+      "E) Ateşleme tertibatı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Atış tertibatı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2245,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Yarı otomatik tabancada şarjör yuvası nerede bulunur?",
+    "options": [
+      "A) Kapakta (sürgü)",
+      "B) Namluda",
+      "C) Şarjör gövdesi içinde",
+      "D) Gövdede (çerçeve)",
+      "E) Tetik korkuluğu içinde"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Gövdede (çerçeve)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2246,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kalibre neyi ifade eder?",
+    "options": [
+      "A) Namlu kalınlığını",
+      "B) Hazne uzunluğunu",
+      "C) Nişangâh tertibatı uzunluğunu",
+      "D) Fişek yatağı kalınlığını",
+      "E) Namlunun çapını"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Namlunun çapını** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2247,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ülkemizde kullanılan MP-5 makinalı tabancada emniyet mandalında pozisyonu belirleyen harflerden S harfi ne anlama gelmektedir?",
+    "options": [
+      "A) Emniyet",
+      "B) Süratli",
+      "C) Seri atış",
+      "D) Saldırı",
+      "E) Tek tek atış"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Seri atış** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2248,
+    "period": "104. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Sürgü (kapak takımı) üzerinde aşağıdaki parçalardan hangisi bulunmaz?",
+    "options": [
+      "A) Gez",
+      "B) Arpacık",
+      "C) Tırnak",
+      "D) Yiv ve setler",
+      "E) Kovan atma boşluğu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yiv ve setler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2249,
+    "period": "104. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Fişeğin ateşlenmesiyle; yanma odasında (fişek yatağı) ve namluda meydana gelen basınç - ısı değişimlerini, mermi çekirdeğinin namlu içerisindeki ivmeli hareketini, mermi çekirdeğinin havadaki hareketini, mermi çekirdeğinin hedef üzerindeki etkilerini, inceleyen bilim dalı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kriminalistik",
+      "B) Olay yeri inceleme",
+      "C) Jeoloji",
+      "D) Balistik",
+      "E) Kriminoloji"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Balistik** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2250,
+    "period": "104. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah bakım ve temizliği türlerinden değildir?",
+    "options": [
+      "A) Günlük bakım",
+      "B) Haftalık bakım",
+      "C) Yıllık bakım",
+      "D) Atış öncesi bakım",
+      "E) Atış sonrası bakım"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Günlük bakım** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 104. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (104. Dönem Sınavı)"
+  },
+  {
+    "id": 2251,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "İl özel güvenlik komisyonu kararı ile özel güvenlik hizmeti verilen yere tahsis edilen silahların satın alınması durumunda, silahlar için aşağıdakilerden hangisi düzenlenir?",
+    "options": [
+      "A) Silah taşıma ruhsatı",
+      "B) Özel güvenlik silah taşıma/bulundurma belgesi",
+      "C) Görev belgesi",
+      "D) Silah satın alma belgesi",
+      "E) Silah nakil belgesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özel güvenlik silah taşıma/bulundurma belgesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2252,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Kanun, özel güvenlik görevlisi kimlik kartı üzerinde olmayan özel güvenlik görevlileri için aşağıdakilerden hangisini kısıtlamıştır?",
+    "options": [
+      "A) 5188 sayılı Kanun’un yedinci maddesinde belirtilen yetkileri kullanamazlar",
+      "B) Görev alanı dışına çıkamazlar",
+      "C) Özel güvenlik şirketi veya özel güvenlik birimine ait motorlu taşıtları kullanamazlar",
+      "D) Genel kolluğa bilgi veremezler",
+      "E) İçişleri Bakanlığı veya valilikçe gerçekleştirilen denetimlerde hazır bulunamazlar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) 5188 sayılı Kanun’un yedinci maddesinde belirtilen yetkileri kullanamazlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2253,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıda belirtilen durumlardan hangisi sitede görevli özel güvenlik görevlisi Ayşe’nin görevi değildir?",
+    "options": [
+      "A) Site yönetimine aidat toplamada yardım etmek",
+      "B) Siteye gelen misafirlere gidecekleri yer konusunda yardımcı olmak",
+      "C) Siteye giren çıkan araçları takip etmek",
+      "D) Site sakinlerince istenmeyen misafirlerin girişini engellemek",
+      "E) Vardiya değişimlerinde rapor tutmak"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Site yönetimine aidat toplamada yardım etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2254,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silahlı özel güvenlik görevlisi çalıştırılabilecek yerler/etkinlikler arasındadır?",
+    "options": [
+      "A) Bankalar",
+      "B) Hastaneler",
+      "C) Sahne gösterileri",
+      "D) Okullar",
+      "E) Spor müsabakaları"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Bankalar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2255,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin sivil kıyafetle görev yapabilmeleri için hangi makamdan izin alınmalıdır?",
+    "options": [
+      "A) Özel Güvenlik Denetleme Başkanlığı",
+      "B) İl Özel Güvenlik Komisyonu",
+      "C) Çalışma Bakanlığı",
+      "D) İçişleri Bakanlığı",
+      "E) Kültür ve Turizm Bakanlığı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İl Özel Güvenlik Komisyonu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2256,
+    "period": "103. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Aşağıdakilerden hangisi kamu güvenliğini tamamlayıcı mahiyette görev yapan ve özel kolluk olmayan görevlilerdendir?",
+    "options": [
+      "A) Gümrük Muhafaza Görevlileri",
+      "B) Özel Güvenlik Görevlileri",
+      "C) Orman Muhafaza Görevlileri",
+      "D) İnfaz Koruma Görevlileri",
+      "E) Belediye Zabıtası Görevlileri"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özel Güvenlik Görevlileri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2257,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi 5188 sayılı Kanun’da düzenlenen hususlardan değildir?",
+    "options": [
+      "A) Özel güvenlik izninin verilmesi",
+      "B) Özel güvenlik hizmetini yerine getirecek kişi ve kuruluşların ruhsatlandırılması",
+      "C) Genel kolluk yetkileri",
+      "D) Özel güvenlik görevlilerinin yetkileri",
+      "E) Özel güvenlik komisyonunun teşekkülü"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Genel kolluk yetkileri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2258,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "AVM’de görevli özel güvenlik görevlisi Nilgün, 5188 sayılı Kanun’da sayılmış olan yetkilerini nerede kullanabilir?",
+    "options": [
+      "A) Görev yaptığı ilçe sınırları içerisinde",
+      "B) Görevli olduğu il sınırları içerisinde",
+      "C) Sadece görevli oldukları alan içerisinde",
+      "D) Görev alanının 20 km çapındaki sınırları içerisinde",
+      "E) Tüm ülke sınırları içerisinde"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Sadece görevli oldukları alan içerisinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2259,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Kanun’da, özel güvenlik görevlilerini lokavt dolayısıyla işten uzaklaştıranlara yönelik yaptırım nedir?",
+    "options": [
+      "A) Bir daha özel güvenlik alanında çalıştırılmaz",
+      "B) İdari para cezası verilir",
+      "C) Adli ceza verilir",
+      "D) Özel güvenlik şirketlerinde ve eğitim kurumlarında kurucu ve yönetici olamaz",
+      "E) Doğrudan bir yaptırımı yoktur"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Doğrudan bir yaptırımı yoktur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2260,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Kanun’a göre, mülki idare amirleri hangi hallerde özel güvenlik izni verilen yerlerde, özel güvenlik tedbirlerini yetersiz bulduğu takdirde ek önlemler aldırmaya yetkilidir?",
+    "options": [
+      "A) Kamu güvenliğinin gerektirdiği hallerde",
+      "B) Hiçbir kurala bağlı olmaksızın her halde",
+      "C) Kişi, kurum ya da kuruluşların talebi halinde",
+      "D) Özel mülkiyet kapsamında özel güvenlik izni verildiği hallerde",
+      "E) Sadece kamu kurum ve kuruluşlarına yönelik özel güvenlik izni verildiği hallerde"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kamu güvenliğinin gerektirdiği hallerde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2261,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İl özel güvenlik komisyonunun başkanı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Belediye başkanı",
+      "B) Vali yardımcısı",
+      "C) İl emniyet müdürlüğü temsilcisi",
+      "D) İl jandarma komutanlığı temsilcisi",
+      "E) Ticaret odası başkanı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Vali yardımcısı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2262,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İl özel güvenlik komisyonu aşağıdakilerden hangisine karar vermez?",
+    "options": [
+      "A) Kişilerin silahlı özel güvenlik görevlileri tarafından korunması",
+      "B) Kurum ve kuruluşlar bünyesinde özel güvenlik birimi kurulması",
+      "C) Güvenlik hizmetinin özel güvenlik şirketi tarafından yerine getirilmesi",
+      "D) Özel güvenlik izninde, özel güvenlik görevlilerinin ve kullanılacak silah ve teçhizatın azami miktarı ve niteliği",
+      "E) Özel güvenlik şirketlerince kullanılacak üniforma ve üniformayı tamamlayan unsurlar"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Özel güvenlik şirketlerince kullanılacak üniforma ve üniformayı tamamlayan unsurlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2263,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Kanun’da, aşağıdaki durumlardan hangisi görev alanı ihlali olarak sayılmamıştır?",
+    "options": [
+      "A) İşlenmiş bir suçun sanığının takibi",
+      "B) Suç işleyeceğinden kuvvetle şüphe edilen kişinin takibi",
+      "C) Dışarıdan yapılan saldırılara karşı tedbir alınması",
+      "D) Vücudu veya sağlığı bakımından mevcut bir tehlike bulunan kişinin takibi",
+      "E) Para ve değerli eşya nakli gibi güzergah ifade eden durumlarda güzergah boyu"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Vücudu veya sağlığı bakımından mevcut bir tehlike bulunan kişinin takibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2264,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "5188 sayılı Kanun’a göre, özel güvenlik şirketi, şube açması durumunda ne kadar süre içerisinde ve nereye bildirmek zorundadır?",
+    "options": [
+      "A) 15 gün içinde ilgili valiliğe",
+      "B) Bir ay içinde İçişleri Bakanlığına ve ilgili valiliğe",
+      "C) Bir ay içinde Ticaret Bakanlığına ve şirketin merkezinin bulunduğu valiliğe",
+      "D) İki ay içinde İçişleri Bakanlığına",
+      "E) Üç ay içinde İçişleri ve Ticaret Bakanlıklarına"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Bir ay içinde İçişleri Bakanlığına ve ilgili valiliğe** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2265,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi, 5188 sayılı Kanun’la yapılması öngörülen bildirimlerden biri değildir?",
+    "options": [
+      "A) Özel güvenlik şirketinin hisse devirleri",
+      "B) Özel güvenlik yenileme eğitimi alan özel güvenlik görevlileri",
+      "C) Herhangi bir sebeple görevinden ayrılan özel güvenlik görevlileri",
+      "D) Özel güvenlik şirketinin üçüncü kişi, kurum ve kuruluşlara sağlayacağı koruma ve güvenlik hizmeti",
+      "E) Geçici haller dışındaki özel güvenlik uygulamasının sona erdirilmesi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Özel güvenlik yenileme eğitimi alan özel güvenlik görevlileri** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2266,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisinde özel güvenlik görevlisi yakalama yetkisini kullanamaz?",
+    "options": [
+      "A) Ceza Muhakemesi Kanunu’nun 90. maddesine göre yakalama",
+      "B) Görev alanında, haklarında yakalama emri veya mahkumiyet kararı bulunan kişileri yakalama",
+      "C) Kişinin vücudu veya sağlığı bakımından mevcut bir tehlikeden korunması amacıyla yakalama",
+      "D) Olay yerinin ve delillerine koruma amacıyla yakalama",
+      "E) Duyarlı kapıdan geçmek istemeyen kişileri yakalama"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Duyarlı kapıdan geçmek istemeyen kişileri yakalama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2267,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Hukuk kurallarının kendi aralarında bulunan ve normlar hiyerarşisi olarak da adlandırılan astlık-üstlük ilişkisi gözetilerek aşağıdakiler sıralandığında, hangisi en üstte yer alır?",
+    "options": [
+      "A) Genelge",
+      "B) Kanun",
+      "C) Yönetmelik",
+      "D) Anayasa",
+      "E) Kanun hükmünde kararname"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Anayasa** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2268,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinde aranan şartlardan değildir?",
+    "options": [
+      "A) 18 yaşını doldurmuş olmak",
+      "B) Türkiye Cumhuriyeti vatandaşı olmak",
+      "C) Silahsız olarak görev yapacaklar için en az sekiz yıllık ilköğretim veya ortaokul mezunu olmak",
+      "D) Silahlı olarak görev yapacaklar için en az dört yıllık üniversite mezunu olmak",
+      "E) Görevin yapılmasına engel olabilecek vücut ve akıl hastalığı ile engelli bulunmamak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Silahlı olarak görev yapacaklar için en az dört yıllık üniversite mezunu olmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2269,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıda sayılan hallerden hangisi, özel güvenlik görevlisi tarafından görevi kapsamında işleyebileceği suçlardan biri değildir?",
+    "options": [
+      "A) Usulsüz üst arama",
+      "B) Konut dokunulmazlığını ihlal",
+      "C) Orantısız zor kullanma",
+      "D) Keyfi yakalama",
+      "E) Askerlik ödevini yerine getirmeme"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Askerlik ödevini yerine getirmeme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2270,
+    "period": "103. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Özel güvenlik görevlisi Osman, fark edilemeyeceğini düşünerek yerine arkadaşı olan Cemal’i, kendi kimlik kartını vererek nöbetine göndermiş ancak, yapılan denetimde Polis Başmüfettişlerince durum tespit edilerek, ilgililer hakkında soruşturma açılmıştır. Osman hakkında, 5188 sayılı Kanun kapsamında, hangi müeyyidenin uygulanması olasıdır?",
+    "options": [
+      "A) Yalnızca idari para cezası uygulanacaktır",
+      "B) Hapis ve idari para cezası uygulanacaktır",
+      "C) İdari para cezası uygulanacak ve kimlik kartı süresiz olarak iptal edilecektir",
+      "D) Yalnızca kimlik kartı iptal edilecektir",
+      "E) İdari para cezası uygulanacak ve altı ay süre ile kimlik kartı iptal edilecektir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İdari para cezası uygulanacak ve kimlik kartı süresiz olarak iptal edilecektir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2271,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi kontrol noktasında görevli özel güvenlik görevlileri Mesut ile Deniz’in kullanabileceği yetkilerden birisidir?",
+    "options": [
+      "A) İfade alma",
+      "B) Fotoğraf alma",
+      "C) Yakalama",
+      "D) Gözaltına alma",
+      "E) Kimlik tespiti"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yakalama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2272,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Görev alanında bomba şüphesi olan bir paketle karşılaşan özel güvenlik görevlisi Sema’nın öncelikli olarak yapması gereken doğru davranış aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Şüpheli paket çevresinde güvenli bir alan sağlayarak genel kolluğa derhal bilgi vermelidir",
+      "B) Paniğe kapılmadan şüpheli paketin içeriğini el detektörü ile kontrol etmelidir",
+      "C) Genel kolluk gelinceye kadar şüpheli paketi güvenli bir mesafeye taşımalıdır",
+      "D) Basın mensuplarının paketi görüntülemesine izin vermelidir",
+      "E) Şüpheli paketi ilgisiz kişilerin incelemesine izin vermelidir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Şüpheli paket çevresinde güvenli bir alan sağlayarak genel kolluğa derhal bilgi vermelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2273,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerin hangisi özel güvenlik görevlilerinin tanzim edebileceği tutanak çeşitlerinden biri değildir?",
+    "options": [
+      "A) Yangın tutanağı",
+      "B) Suçüstü tutanağı",
+      "C) İfade alma tutanağı",
+      "D) Yakalama tutanağı",
+      "E) Emanete alma tutanağı"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) İfade alma tutanağı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2274,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Olay yerinin korunmasına ilişkin alınan hangi tedbirler usule uygun değildir?",
+    "options": [
+      "A) İz ve delil olabilecek nesneler bir araya toplanır",
+      "B) Olay yeri girilmez şeridi ile çevrilir",
+      "C) Olay yerinin temizlenmesi engellenir",
+      "D) Olay yerindeki cihazlar kullandırılmaz",
+      "E) Olay yerinde bulunan eşyalara dokundurulmaz"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İz ve delil olabilecek nesneler bir araya toplanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2275,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi meydana gelen adli bir olaydan sonra elde edilen biyolojik bulgular (delil) arasında yer alır?",
+    "options": [
+      "A) Kan, ter",
+      "B) Ateşli veya ateşsiz silahlar",
+      "C) Parmak izi",
+      "D) Kovan",
+      "E) Araç lastik izi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kan, ter** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2276,
+    "period": "103. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi aile içi ve kadına yönelik şiddet eyleminin unsuru değildir?",
+    "options": [
+      "A) Sistematik olması, tekrarlanarak devam etmesi",
+      "B) Kadın üzerinde fiziksel etkileri oluşması",
+      "C) Kadın üzerinde ağır duygusal etkileri oluşması",
+      "D) Çoğu zaman dışa aksettirme konusunda isteksiz olunması",
+      "E) Rastgele bir kişi tarafından işlenmesi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Rastgele bir kişi tarafından işlenmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2277,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Hangisi kamera izleme odasında (CCTV) görevli özel güvenlik görevlisi Aysun'un görevi ile bağdaşmaz?",
+    "options": [
+      "A) Kamera görüntülerini sürekli takip etmelidir",
+      "B) Şüpheli durumlar kolluğa bildirilmelidir",
+      "C) Yerine gelecek görevli gelmeden izleme odasından ayrılmamalıdır",
+      "D) İzleme odasında bulunan cihazlar talimatlara uygun şekilde kullanılmalıdır",
+      "E) Devir teslim sadece sözlü olarak yapılmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Devir teslim sadece sözlü olarak yapılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2278,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "AVM kontrol noktasında görevli özel güvenlik görevlisi Şahin, kapı detektöründen geçen ziyaretçiden sinyal sesi gelmesi üzerine yapmış olduğu kontrolde, şahsın üzerinde ruhsatsız silah bulunduğunu öğrenir. Bu olayda, özel güvenlik görevlisi Şahin’in yapması gereken doğru davranış aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Şahsı ve silahı tutanak karşılığı AVM yönetimine teslim eder",
+      "B) Genel kolluk gelinceye kadar şahsı AVM içinde takip eder",
+      "C) Şahsı muhafaza altına alarak, silahı ile birlikte genel kolluğa teslim eder",
+      "D) Silaha ruhsat alması konusunda şahsı uyarır",
+      "E) Şahıs silah ruhsatını alıncaya kadar silahı emanete alır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Şahsı muhafaza altına alarak, silahı ile birlikte genel kolluğa teslim eder** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2279,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Telsiz konuşmalarıyla ilgili hangi ifade yanlıştır?",
+    "options": [
+      "A) Telsiz, dudaklardan 5-10 santimetre mesafede tutulur",
+      "B) Telsizden gizli haberleşme yapılmaz",
+      "C) Telsizde diğer istasyonların haberleşme yaptığı esnada telsizin mandalına basılmaz",
+      "D) Telsiz haberleşmeleri unvan üzerinden yapılır",
+      "E) Sağlıklı haberleşme yapılabilmesi için konuşma süresi 15-20 saniyeyi geçmemelidir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Telsiz haberleşmeleri unvan üzerinden yapılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2280,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik görevlileri Yaşar ile Osman’ın devriye bölgesinde gelişigüzel gezmeleriyle yerine getirdikleri devriye yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Rutin devriye",
+      "B) Geri dönüşlü devriye",
+      "C) Dairesel devriye",
+      "D) Planlı devriye",
+      "E) Kombine devriye"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Rutin devriye** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2281,
+    "period": "103. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi zor kullanmanın aşamalarından olan maddi gücün araçlarından biri değildir?  I. Cop  II. Fiziki engel  III. Bıçak  IV. Basınçlı su  V. Kelepçe",
+    "options": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2282,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Aşağıdakilerden hangisi tutanakların şekil kurallarından birisidir?",
+    "options": [
+      "A) Tutanaklar elle yazıldığında tükenmez kalemle yazılmalıdır",
+      "B) Tutanağa içeriğine uygun bir başlık verilmelidir",
+      "C) Eksik, gereksiz ve yanlış bilgilere yer verilmemelidir",
+      "D) Tutanağın düzenlendiği yer, tarih ve saat yazılmalıdır",
+      "E) Tutanaklar doğru ve gerekli bilgileri içermelidir"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Tutanaklar elle yazıldığında tükenmez kalemle yazılmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2283,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Özel güvenlik görevlisi Ayten, stadın giriş kapısında X-Ray cihazından geçen çantanın içerisinde şüpheli paket görüntüsü elde etmiştir. Aşağıdaki müdahale yöntemlerinden hangisi yanlıştır?  I. Çantanın sahibinin kimliğini görür ve içeri girişine müsaade eder  II. Şüpheli paketi dışarı çıkarmadan çanta ile beraber güvenlik çemberine alır  III. İçinde şüpheli paket olan çantayı emanete alır ve çıkarken sahibine iade eder  IV. Çantanın sahibini muhafaza altına alır ve stada girişini engeller  V. Acilen sorumlu kolluğa ve uzman ekibe haber verir",
+    "options": [
+      "A) I-III",
+      "B) II-V",
+      "C) IV-II",
+      "D) I-V",
+      "E) IV-V"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) I-III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2284,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Tedbirleri",
+    "question": "Özel güvenlik izni verilen yerlerde yönetici, özel güvenlik sorumlusu, kişi, kurum veya kuruluşların yetkilileri tarafından belirlenen bölgede .......... amacıyla yaya veya çeşitli araçlarla özel güvenlik görevlilerinin yaptığı faaliyetlere devriye denir.\r\n Yukarıda verilen devriye tanımında yer alan boşluğu aşağıdakilerden hangisi doğru olarak tamamlamaz?",
+    "options": [
+      "A) Emniyeti ve caydırıcılığı sağlamak",
+      "B) Şüphelileri takip etmek",
+      "C) Şüphelileri yakalamak",
+      "D) Şüphelilerin ifadesini almak",
+      "E) Suç delillerini muhafaza altına almak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şüphelilerin ifadesini almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2285,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi/hangileri eşkâl tarifinde belirtilmesi gereken özelliklerdendir?  I. Vücut yapısı  II. Kekemelik  III. Meslek",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) I, II ve III** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2286,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi tren garında görev yapan özel güvenlik görevlisi Cemile’nin görev alanındaki önleyici görevlerindendir?",
+    "options": [
+      "A) Bulunmuş eşyayı emanete alma",
+      "B) Görevli olduğu alana girişte kimlik sorma",
+      "C) Olay yerindeki delilleri koruma",
+      "D) İlk yardımda bulunma",
+      "E) Delil toplamada kolluğa yardımcı olmak"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Görevli olduğu alana girişte kimlik sorma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2287,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bir sitede görev yapan özel güvenlik görevlisinin hangi durumda konuta girmesinde yasal olarak bir sakınca yoktur?",
+    "options": [
+      "A) Yardım istenildiğinde",
+      "B) Aşırı gürültü olduğunda",
+      "C) Kapı açık olduğunda",
+      "D) Kavga olduğunda",
+      "E) Eğlence olduğunda"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Yardım istenildiğinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2288,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi zor kullanma için yanlıştır?",
+    "options": [
+      "A) Her zaman ilk çare olarak düşünülmeli",
+      "B) Görevin ve koşulların gerektirdiği ölçüde kullanılmalı",
+      "C) Zor kullanmaya mecbur kalınmalı",
+      "D) Yasal mevzuata uygun olmalı",
+      "E) Gerekli şartlar oluşmalı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Her zaman ilk çare olarak düşünülmeli** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2289,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kamu güvenliğine ve düzenine, kişinin vücut ya da hayatına yönelik olan bir tehlikenin giderilmesi için denetim altına alınması gereken veya suç işlediği yönünde hakkında kuvvetli iz, eser, emare ve delil bulunan kişinin gözaltına veya muhafaza altına alma işleminden önce hakim kararı aranmaksızın, özgürlüğünün fiilen kısıtlanarak geçici olarak denetim altına alınmasına ne denir?",
+    "options": [
+      "A) Arama",
+      "B) Tutuklama",
+      "C) Emanete alma",
+      "D) Kontrol",
+      "E) Yakalama"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yakalama** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2290,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Özel güvenlik görevlilerinin korumakla görevli olduğu yerde meydana gelen elektrik arızası ile ilgili üst amirlerine bilgi vermek için yazdığı yazı hangisidir?",
+    "options": [
+      "A) Dilekçe",
+      "B) Rapor",
+      "C) Not alma",
+      "D) Tutanak",
+      "E) Bilgi verme"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Rapor** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2291,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kapı tipi ve el tipi metal algılama dedektörlerinin kullanımında temel maksat aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kesici, delici alet veya silah tespiti",
+      "B) Uyuşturucu madde tespiti",
+      "C) Patlayıcı madde tespiti",
+      "D) Yanıcı madde tespiti",
+      "E) Sahte para tespiti"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Kesici, delici alet veya silah tespiti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2292,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "El tipi metal algılama dedektörü tarama yapılan şahsın vücuduna ne kadar mesafede tutulmalıdır?",
+    "options": [
+      "A) 15-50cm",
+      "B) 100cm",
+      "C) 50-100cm",
+      "D) 2,5-7,5cm",
+      "E) 40-50cm"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) 2,5-7,5cm** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2293,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "I. Konveyör bandı  II. Sensör  III. Dedektör  IV. Jeneratör  Yukarıda belirtilen sistem bileşenleri aşağıdaki sistemlerden hangisine ait bileşenlerdir?",
+    "options": [
+      "A) İz dedektör",
+      "B) X-Ray",
+      "C) Yangın algılama sistemi",
+      "D) CCTV sistemi",
+      "E) Kartlı geçiş sistemi"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) X-Ray** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2294,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kapı tipi metal dedektörü ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Duyarlılık ayarı ile istenilen büyüklükteki metalleri algılayacak biçimde ayarlanabilir",
+      "B) Elektrik kesintilerinde sistem akü ile çalıştırılabilir",
+      "C) Alarm anında ses ve ışık ile uyarı imkanı sağlar",
+      "D) Radyasyon yayan cihazlardır",
+      "E) Cihaz üzerinde bulunan led gösterge giriş-çıkış sayılarını gösterir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Radyasyon yayan cihazlardır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2295,
+    "period": "103. Dönem",
+    "topic": "Güvenlik Sistem ve Cihazları",
+    "question": "Aşağıdakilerden hangisi karanlıkta görüntü veren kameralardandır?",
+    "options": [
+      "A) InfraRed kameralar",
+      "B) Dome kameralar",
+      "C) IP kameralar",
+      "D) Zoom kameralar",
+      "E) CCD kameralar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) InfraRed kameralar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2296,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Sıcak çarpmasında hangi ilkyardım uygulaması doğrudur?",
+    "options": [
+      "A) Hastanın giysileri çıkartılmadan havadar bir ortama alınır",
+      "B) Hastanın bacakları yukarı kaldırılır, serin bir ortama alınır",
+      "C) Hasta bulunduğu yerden hareket ettirilmemelidir",
+      "D) Hasta kusturulmaya çalışılmalıdır",
+      "E) Hasta koma pozisyonuna getirilerek üzeri örtülür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hastanın bacakları yukarı kaldırılır, serin bir ortama alınır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2297,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Çocuk ve bebekte ilkyardımcı yalnızsa 112 ne zaman aranır?",
+    "options": [
+      "A) Hemen aranır",
+      "B) Bilinç kontrolünden sonra aranır",
+      "C) 1 tur temel yaşam desteğinden sonra aranır",
+      "D) Yapay solunum yapıldıktan sonra aranır",
+      "E) 5 tur temel yaşam desteğinden sonra aranır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) 5 tur temel yaşam desteğinden sonra aranır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2298,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Delici göğüs yaralanmalarında bilinci açık hastaya hangi pozisyon verilir?",
+    "options": [
+      "A) Koma pozisyonu",
+      "B) Şok pozisyonu",
+      "C) Yarı oturur pozisyon",
+      "D) Sırt üstü yatar pozisyon",
+      "E) Hasta bulunduğu pozisyonda bekletilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yarı oturur pozisyon** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2299,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Bilinci kapalı olan hastanın solunum yolunu açmak için hangi müdahale yapılmalıdır?",
+    "options": [
+      "A) Hasta oturtularak oksijen verilir",
+      "B) Hasta yan yatırılır",
+      "C) Hastanın ağzına air-way takılır",
+      "D) Hastaya baş-çene pozisyonu verilir",
+      "E) Hastaya damar yolu açılır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Hastaya baş-çene pozisyonu verilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2300,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Kanama, kalp atımları ile uyumlu olarak kesik kesik ve fışkırır tarzda akıyorsa ne çeşit bir kanamadır?",
+    "options": [
+      "A) Toplardamar kanaması",
+      "B) Atardamar kanaması",
+      "C) Kılcal damar kanaması",
+      "D) Doğal deliklerden olan kanama",
+      "E) İç kanama"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Atardamar kanaması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2301,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Erişkin bir insanda dakikadaki normal nabız sayısı kaçtır?",
+    "options": [
+      "A) 45 - 80 arası",
+      "B) 50 - 80 arası",
+      "C) 110 - 130 arası",
+      "D) 60 - 150 arası",
+      "E) 60- 100 arası"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) 60- 100 arası** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2302,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Hangisi ilkyardımın temel uygulamalarından değildir?",
+    "options": [
+      "A) Koruma",
+      "B) Bildirme",
+      "C) Kayıt tutma",
+      "D) Kurtarma",
+      "E) ABC kontrolü"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kayıt tutma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2303,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasına ne isim verilir?",
+    "options": [
+      "A) Kanama",
+      "B) Burkulma",
+      "C) Yara",
+      "D) Şok",
+      "E) Yırtık"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yara** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2304,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Kedi – köpek ısırmalarında ilkyardım nasıl olmalıdır?",
+    "options": [
+      "A) Hafif yaralanmalarda yara 5 dakika süreyle sabun ve soğuk su ile yıkanır",
+      "B) Yara sıcak su ile temizlenir",
+      "C) Isırılan bölgeye ilaç sürülür",
+      "D) Isırılan bölgenin üzerine turnike uygulanır",
+      "E) Yara üzeri açık bırakılır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Hafif yaralanmalarda yara 5 dakika süreyle sabun ve soğuk su ile yıkanır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2305,
+    "period": "103. Dönem",
+    "topic": "Temel İlkyardım",
+    "question": "Yara yerinde kanama varsa öncelikle aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      "A) Kanama bölgesi kalp seviyesinin altında tutulur",
+      "B) İlaç sürülür",
+      "C) Hastaneye götürülür",
+      "D) Aşı yapılır",
+      "E) Kanama durdurulur"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kanama durdurulur** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2306,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi deprem sırasında yapılmaması gereken davranışlardan biridir?",
+    "options": [
+      "A) Çök kapan tutun pozisyonu alınmalıdır",
+      "B) Asansöre binilmemelidir",
+      "C) Pencere ve kapı kenarlarından uzak durulmalıdır",
+      "D) Merdivenlere ya da çıkışlara doğru koşulmamalıdır",
+      "E) Deprem çantası hazırlanmalıdır"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Deprem çantası hazırlanmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2307,
+    "period": "103. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Yanmayı meydana getiren unsurlardan en az birinin saf dışı edilmesi olarak tanımlanan kavram nedir?",
+    "options": [
+      "A) Söndürme",
+      "B) Yanma",
+      "C) Yangın",
+      "D) Patlama",
+      "E) Kaynama"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Söndürme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2308,
+    "period": "103. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yangın söndürme yöntemlerinden biri değildir?",
+    "options": [
+      "A) Boğma",
+      "B) Soğutma",
+      "C) Üfleme",
+      "D) Damıtma",
+      "E) Yakıtı giderme"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Damıtma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2309,
+    "period": "103. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Kullanıldığında, ortamdaki oksijen miktarını düşürüp, yanma reaksiyonunu kırarak söndürme sağlayan söndürme maddesi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Su",
+      "B) Köpük",
+      "C) Kum",
+      "D) Karbondioksit",
+      "E) Kuru kimyevi toz"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Karbondioksit** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2310,
+    "period": "103. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Acil durum nedeniyle ortaya çıkması muhtemel panik ve kargaşayı önlemek, acil durum ekipleri arasındaki koordinasyon işlerini gerçekleştirmek, sayım işlerini yürütmek, gerektiğinde ilgili ulusal ve yerel kurumların müdahale ekiplerine bilgi veren ekip hangisidir?",
+    "options": [
+      "A) Koruma ekibi",
+      "B) Kurtarma ekibi",
+      "C) Söndürme ekibi",
+      "D) İlkyardım ekibi",
+      "E) Komuta ekibi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Koruma ekibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2311,
+    "period": "103. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Akaryakıt yangınlarının söndürülmesinde en etkili söndürme maddesi hangisidir?",
+    "options": [
+      "A) Su",
+      "B) Kuru kimyevi toz",
+      "C) Karbondioksit",
+      "D) Köpük",
+      "E) Kum"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Köpük** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2312,
+    "period": "103. Dönem",
+    "topic": "Yangın Güvenliği",
+    "question": "Aşağıdakilerden hangisi yangın yerindeki tehlikelerden değildir?",
+    "options": [
+      "A) Genleşme tehlikesi",
+      "B) Patlama tehlikesi",
+      "C) Elektrik tehlikesi",
+      "D) Çökme tehlikesi",
+      "E) Yüksek sıcaklık tehlikesi"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Genleşme tehlikesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2313,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Gaz kaçağının olduğu bir ortamda aşağıdakilerden hangisi yapılmaz?",
+    "options": [
+      "A) Gaz vanaları kapatılmalıdır",
+      "B) Açık lambalar kapatılır, fişler prizden çekilir",
+      "C) Doğalgaz kapı ve pencereler açılarak tahliye edilmelidir",
+      "D) Sigara, çakmak, cep telefonu kesinlikle kullanılmamalıdır",
+      "E) LPG taban kısmından süpürülerek gaz tahliye edilir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Açık lambalar kapatılır, fişler prizden çekilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2314,
+    "period": "103. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Narkotik maddelerin sınıflandırılmasına göre aşağıdakilerden hangisi Merkezi Sinir Sistemini Uyaranlar sınıfında yer alır?",
+    "options": [
+      "A) Eroin",
+      "B) Sentetik Kannabinoid (Bonzai)",
+      "C) Kodein",
+      "D) Metamfetamin",
+      "E) Esrar"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Metamfetamin** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2315,
+    "period": "103. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "TCK Madde 191/1’e göre “Kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul eden veya bulunduran ya da uyuşturucu veya uyarıcı madde kullanan kişi, .......... hapis cezası ile cezalandırılır.”  Boşluğu dolduran doğru ifade aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 4 yıldan 12 yıla kadar",
+      "B) 2 yıldan 5 yıla kadar",
+      "C) 1 yıldan 5 yıla kadar",
+      "D) 2 yıldan 6 yıla kadar",
+      "E) 5 yıldan 10 yıla kadar"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) 2 yıldan 5 yıla kadar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2316,
+    "period": "103. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi iletişim sürecinin temel ögelerinden biri değildir?",
+    "options": [
+      "A) Kaynak (Verici)",
+      "B) Alıcı (Hedef)",
+      "C) Kanal (Araç)",
+      "D) Ön kabuller",
+      "E) Geri bildirim (Dönüt)"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Ön kabuller** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2317,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "İletişim uzmanlarının insan davranışları üzerinde yaptıkları gözlem ve araştırmalar neticesinde; “Bir şeyler saklama şüphelenme, özgüven düşüklüğü” davranışı aşağıdakilerden hangi ile izah edilir?",
+    "options": [
+      "A) Alınla oynama",
+      "B) Göz temasından kaçınma",
+      "C) Kolları kenetleme",
+      "D) Başka tarafa yönelme",
+      "E) Saati kontrol etme"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Göz temasından kaçınma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2318,
+    "period": "103. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi iletişim kurma nedenlerinden biri değildir?",
+    "options": [
+      "A) Haberleşme",
+      "B) Paylaşmak",
+      "C) Sorun çıkarmak",
+      "D) Etkilemek",
+      "E) Yönlendirmek"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Sorun çıkarmak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2319,
+    "period": "103. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Birbiriyle etkileşim içinde olan, psikolojik olarak birbirlerinin farkında olan, ortak bir amaç için birleşen iki veya daha fazla kişiden oluşan topluluklardır.  Yukarıda tanımı yapılan öge iletişimde ne olarak adlandırılır?",
+    "options": [
+      "A) Kaynak (Verici)",
+      "B) Grup",
+      "C) Topluluk",
+      "D) Kalabalık",
+      "E) Aile"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Grup** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2320,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi etkili bir konuşma yapmak için yapılması gereken yöntemlerden birisi değildir?",
+    "options": [
+      "A) Göz teması kurun",
+      "B) Beden dilini doğru kullanın",
+      "C) Ses tonunuza dikkat edin",
+      "D) Sözü biraz uzatarak ayrıntıya girin",
+      "E) Hazırlık yapın, konuşacağınız konu hakkında bilgi toplayın"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sözü biraz uzatarak ayrıntıya girin** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2321,
+    "period": "103. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Söyleneni kabul etmeme, rahatsızlık, kapalılık, kendini koruma, az dikkat ile ifade edilen iletişim hatası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kolları arkaya bağlama",
+      "B) Kolları kenetleme",
+      "C) Kulak arkasını ovma",
+      "D) Göz temasından kaçınma",
+      "E) Kaş arasına dokunma"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Kolları kenetleme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2322,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Dinleyici konuşmanın ayrıntılarına dikkat etmez, genel konu hakkında bilgi sahibi olmak onun için yeterlidir. Söylenen sözün arkasında yatan derin anlamı kaçırır. Daha çok kendi bilgisine güvenen, konuşmacının bilgisine fazla değer vermeyen dinleyici türüdür.  Yukarıda tanımlanan dinleyici türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tuzak kurucu dinleme",
+      "B) Savunucu dinleme",
+      "C) Seçerek dinleme",
+      "D) Görüşte dinleme",
+      "E) Yüzeysel dinleme"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Yüzeysel dinleme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2323,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlisi, “ben diliyle konuşma” becerisine sahip olmalıdır. Aşağıdaki tanımlardan hangisi “ben diliyle konuşma”nın tanımıdır?",
+    "options": [
+      "A) Ben diliyle konuşma sözlerin tamamının kendisine ait olduğunu sık sık vurgulamaktır",
+      "B) Birinci tekil şahıs eki kullanarak konuşmaktır",
+      "C) Konuşmacının o konuşmayı yapmasının gerçek sebebini oluşturan duyguyu öne çıkararak konuşmaktır",
+      "D) Konuşmanın taşıdığı mesajın sorumluluğunu taşıdığını belirtmektir",
+      "E) Ben diliyle konuşma kişiliğimizi öne çıkararak konuşmaktır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Konuşmacının o konuşmayı yapmasının gerçek sebebini oluşturan duyguyu öne çıkararak konuşmaktır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2324,
+    "period": "103. Dönem",
+    "topic": "Genel Kollukla İlişkiler",
+    "question": "Özel güvenlik hizmetlerinde yasal sorumluluklar gereğince özellikle genel kolluk birimleriyle gerçekleştirilen resmî yazışmalarda aşağıdakilerden hangisine uyulması gerekli değildir?",
+    "options": [
+      "A) Yazışmanın yapıldığı kurum ve birim adı tam olarak yazılmalıdır",
+      "B) Yazının başında tarih, konu ve sayı numarası bulunmalıdır",
+      "C) Yazının sonunda yetkili kişinin ismi, unvanı ve imzası bulunmalıdır",
+      "D) Yazının konusu olan husus en fazla iki cümlede ifade edilmelidir",
+      "E) Yazının ekindeki tüm belgeler ilk sayfanın altına listelenmelidir"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Yazının konusu olan husus en fazla iki cümlede ifade edilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2325,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Vücut dili ile ilgili aşağıda verilen cümlelerden hangisi yanlıştır?",
+    "options": [
+      "A) Vücut dili kültürden kültüre göre farklılık gösterir",
+      "B) Vücut dili cinsiyete göre farklılık gösterir",
+      "C) Vücut dili her zaman istemli bir harekettir",
+      "D) Vücut dili sadece insanlarda vardır",
+      "E) Vücut dili bireylere göre farklılık gösterir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Vücut dili her zaman istemli bir harekettir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2326,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "“Bir insanın sahip olduğu duygu ve düşüncelerin aynısına sahip olmak.” ifadesi aşağıdaki kavramlardan hangisini açıklamaktadır?",
+    "options": [
+      "A) Dinleme",
+      "B) İletişim",
+      "C) Sempati",
+      "D) Empati",
+      "E) Psikoloji"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Sempati** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2327,
+    "period": "103. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Dil sürçmesi, kişiler arası iletişim unsurlarından hangisine örnektir?",
+    "options": [
+      "A) Niyet edilmiş-yüz ifadesi",
+      "B) Niyet edilmiş-beden kullanımı",
+      "C) Niyet edilmemiş-yüz ifadesi",
+      "D) Niyet edilmemiş-sözlü iletişim",
+      "E) Niyet edilmiş-sözlü iletişim"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Niyet edilmemiş-sözlü iletişim** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2328,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Özel güvenlik görevlilerinin göz yaşartıcı gazları taşıyabilmeleri ve kullanabilmeleri için izin vermeye yetkili kişi/kurum hangisidir?",
+    "options": [
+      "A) İl Sağlık Müdürü",
+      "B) İl Özel Güvenlik Komisyonu",
+      "C) Cumhuriyet Başsavcısı",
+      "D) Adli Tıp Kurumu Başkanı",
+      "E) Sağlık Bakanlığı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) İl Özel Güvenlik Komisyonu** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2329,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kişiler ya da gruplar arasındaki çatışma sebeplerinden değildir?",
+    "options": [
+      "A) İşlerin birbirinden bağımsız olması",
+      "B) Çıkar farklılıkları",
+      "C) Statü farklılıkları",
+      "D) Yönetim alanı ile ilgili belirsizlik",
+      "E) İletişim eksikliği"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İşlerin birbirinden bağımsız olması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2330,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi liderin grubu etkilemek ve yönlendirmek için genel olarak kullandığı usullerden değildir?",
+    "options": [
+      "A) İnandırma",
+      "B) Ödüllendirme",
+      "C) Yalan söyleme",
+      "D) Zor kullanma",
+      "E) Ceza verme"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yalan söyleme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2331,
+    "period": "103. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Çağlar, karşı karşıya kaldığı güçlüklere çabuk ve yapıcı bir çözüm bulamayan, akıl ya da fiziksel yönden bir eksiklik göstermemekle birlikte davranışları kararsız, topluma uyum güçlüğü çeken bir kişidir. Ayrıca ileri görüşlü olmadığından geleceğe ait planlar da yapamaz, kendisinde güçlü bir kişilik yapısı oluşmadığından çoğunlukla maddi ve manevi olarak destek gördüğü kişilere karşı çocukça bağımlılık hissi duymaktadır.  Yukarıdaki metinde özelliklerinden bahsedilen Çağlar’ın durumu aşağıda sayılan kalabalık içindeki kişi tiplerinden hangisine uygundur?",
+    "options": [
+      "A) İhtiyatlılar",
+      "B) Destekleyiciler",
+      "C) Tesir altında kalanlar",
+      "D) Seyirciler",
+      "E) Atılganlar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Tesir altında kalanlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2332,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Kültürel, sanatsal veya benzer amaçlarla düzenlenen gösterilerde, faaliyetin icra edildiği yerde izleyenlerin taşkınlık veya saldırılarına karşı 360 derece korunması, fiziki engeller ile desteklenen tampon bölge oluşturulması gibi koruma düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Hakem koruma",
+      "B) Stadyum koruma",
+      "C) Araç koruma",
+      "D) Müsabaka koruma",
+      "E) Sahne koruma"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sahne koruma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2333,
+    "period": "103. Dönem",
+    "topic": "Kalabalık Yönetimi",
+    "question": "Aşağıdakilerden hangisi kalabalık içindeki kişi tipleri arasında yer almaz?",
+    "options": [
+      "A) Liderler",
+      "B) Provokatörler",
+      "C) Çevikler",
+      "D) Tesir altında kalanlar",
+      "E) Seyirciler"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Çevikler** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2334,
+    "period": "103. Dönem",
+    "topic": "Etkili İletişim",
+    "question": "Aşağıdakilerden hangisi kitle iletişim araçlarının fonksiyonlarından birisi değildir?",
+    "options": [
+      "A) Dış dünyayı görmemizi sağlar",
+      "B) Eğitmek, eğlendirmek, hoşça vakit geçirmek",
+      "C) Kişiler arası çatışmaya neden olma",
+      "D) Kültürün nesilden nesile geçmesine katkıda bulunma",
+      "E) Etkileme, kamuoyu oluşturma"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Kişiler arası çatışmaya neden olma** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2335,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Çatışma yönetimi; çatışan tarafların ya da çatışmanın dışındaki başka bir tarafın karşılıklı etkileşimde bulunarak çatışmayı belirli bir yönde sonuçlandırabilme girişimleri olarak tanımlanabilir.  Aşağıdakilerden hangisi çatışmayı önleme yöntemleri için söylenemez?",
+    "options": [
+      "A) Problem çözme",
+      "B) Uzlaşma",
+      "C) Politik yaklaşımlar",
+      "D) Çatışma kaynağının ortadan kaldırılması",
+      "E) İletişimin kesilmesi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İletişimin kesilmesi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2336,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Toplumsal olaylarda güvenlik görevlilerinin uygulayacağı başlıca müdahale ilkelerinden birisi de güvenlik görevlilerini olaylara müdahale ederken kendi kişisel tutumları ve fikri eğilimleri doğrultusunda hareket etmemeleridir. Dolayısıyla aşağıdakilerden hangisi müdahale ilkeleri için söylenemez?",
+    "options": [
+      "A) İkna edici ve inandırıcı olmalıdır",
+      "B) Hiçbir şekilde diyaloğa girilmemelidir",
+      "C) Tahriklere ve tahrikçilere engel olmalıdır",
+      "D) Güvenliğin sahip olduğu, teçhizat, bilgi, teknik ve donanımı, gerektiğinde kullanılacağı imajını kararlı bir şekilde karşı tarafa göstermelidir",
+      "E) Provokatif eylemlerde bulunacak kişilerin yöntemleri iyi bilinmelidir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Hiçbir şekilde diyaloğa girilmemelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2337,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Üniversitede görevli özel güvenlik görevlilerinin sevk ve idaresinden sorumlu ÖGG Taner’in, ikazlara rağmen dağılmayan ve rektörlük binasına girmek isteyen kalabalığın binaya yaklaşmasını ve girmesini önlemek için uygulaması gereken müdahale düzeni aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Toplanma düzeni",
+      "B) Çember düzeni",
+      "C) Çatı düzeni",
+      "D) Kama düzeni",
+      "E) Hat düzeni"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Hat düzeni** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2338,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Önemli kişiye karşı yapılan bir bıçaklı saldırıda 4 kişilik bir koruma ekibi tarafından aşağıdakilerden hangisi yapılmamalıdır?",
+    "options": [
+      "A) Saldırıyı fark eden koruma personeli diğerlerine saldırıyı ve yönünü bildirir",
+      "B) Saldırganı etkisiz hale getirmek için maksimum eleman kullanılır",
+      "C) Saldırganı en yakındaki kişi etkisiz hale getirir",
+      "D) Kaçış yönü saldırının tersi istikameti veya güvenli yere doğru olmalıdır",
+      "E) Önemli kişi çabuk ve sakin şekilde güvenli yere götürülür"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Saldırganı etkisiz hale getirmek için maksimum eleman kullanılır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2339,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Öncü istihbarat çalışmalarında öncü istihbarat ekibinin görevleri arasında aşağıdakilerden hangisi bulunmaz?",
+    "options": [
+      "A) Ziyaret edilecek mevkiinin keşfini yapmak",
+      "B) Ziyaret edilecek mevkideki güvenlik amaçlı yerleşim noktalarının tespitini yapmak",
+      "C) Bölgenin, görev yerinin ve güzergahın incelemesini yapmak",
+      "D) Hava durumuna göre değişen şartlara göre değişim yapmak",
+      "E) Ziyaret edilecek mevkideki ucuz alışveriş merkezlerini tespit etmek"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Ziyaret edilecek mevkideki ucuz alışveriş merkezlerini tespit etmek** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2340,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "İstanbul İli Taksim Meydanında (kalabalığın yoğun olduğu bir meydandır) yakın koruma görevi yapan koruma görevlileri silah kullanmak zorunda kaldıklarında aşağıdaki silahlardan hangisini tercih etmelidir?",
+    "options": [
+      "A) G3 piyade tüfeği (uzun namlulu)",
+      "B) M-16 piyade tüfeği (uzun namlulu)",
+      "C) MP-5 makinalı tabanca",
+      "D) AK-47 piyade tüfeği (uzun namlulu)",
+      "E) Bixi makinalı tüfek (uzun namlulu)"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) MP-5 makinalı tabanca** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2341,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Aşağıdakilerden hangisi korunan önemli kişi (VIP) makam aracında bulunması gereken özelliklerden değildir?",
+    "options": [
+      "A) Ön ve arka tamponlar güçlendirilmiş olmalıdır",
+      "B) 4 çekerli olmalıdır",
+      "C) Aracın tamamı zırhlı olmalıdır",
+      "D) Aracın üstü açılabilir olmalıdır",
+      "E) Arka ve yan camlar koyu film ile kaplanmış olmalıdır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Aracın üstü açılabilir olmalıdır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2342,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Koruma ekipleri, korunan kişinin konumuna göre basit olarak şekillendirilebileceği gibi en geniş şekilde de kurulabilmektedir.\r\n  Yukarıda verilen bilgi ışığında kurulacak kapsamlı bir koruma düzeninde bulunmayan ekip aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Keşif ve istihbarat ekibi",
+      "B) Öncü-eskort ekibi",
+      "C) Karşı saldırı ekibi",
+      "D) Eğitim ekibi",
+      "E) Çevik kuvvet ekibi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Çevik kuvvet ekibi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2343,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Temel Koruma Prensipleri bir bütün olarak göz önüne alındığında; aşağıdakilerden hangisinin doğruluğu söylenemez?",
+    "options": [
+      "A) Yakın koruma hizmetlerinde aktif koruma tedbirleri uygulanır",
+      "B) Koruma personeli ile korunan kişi arasında yakın bağ oluşması gerekir",
+      "C) Yakın koruma tedbirleri esnek olmamalı, ortama göre şekil değiştirmemeli",
+      "D) Teknolojik gelişmeler suikastçıların işini kolaylaştırır",
+      "E) Yakın koruma hizmetleri güvenlik teknolojisi paralelinde sürekli yenilenmeli"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yakın koruma tedbirleri esnek olmamalı, ortama göre şekil değiştirmemeli** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2344,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Amaç öldürmek değildir, kişi canlı olarak kıymetlidir, bir sığınak, istihbarat ve lojistik desteğe ihtiyaç vardır. Verilen bilgiler göz önünde bulundurulduğunda; aşağıdaki suikast metot ve yöntemlerinden hangisinin kastedildiği söylenebilir?",
+    "options": [
+      "A) Yakın mesafeden ateşli silahlı saldırı",
+      "B) Yakın mesafeden ateşsiz silahlı saldırı",
+      "C) Uzak mesafeden silahlı saldırı",
+      "D) Patlayıcı madde kullanmak suretiyle saldırı",
+      "E) Kaçırma rehin alma suretiyle saldırı"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Kaçırma rehin alma suretiyle saldırı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2345,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Öncü istihbarat çalışmasında, aşağıdaki ifadelerden hangisi önemli değildir?",
+    "options": [
+      "A) Varış noktasında kitabevi olup olmadığı",
+      "B) Güzergah seçimi",
+      "C) Giriş - Çıkış noktaları",
+      "D) Korunan önemli kişiye (VIP) güvenli bir alan oluşturulması",
+      "E) Korunan önemli kişinin (VIP) programı"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Varış noktasında kitabevi olup olmadığı** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2346,
+    "period": "103. Dönem",
+    "topic": "Uyuşturucu Madde Bilgisi",
+    "question": "Aşağıdaki maddelerden hangisi güvenlikli ikamet yerlerinde bulunması gereken özelliklerden değildir?",
+    "options": [
+      "A) Koruma personeli için koruma odası oluşturulmalı ve gerekli teçhizatla donatılmalıdır",
+      "B) Fiziki güvenlik tedbirleri olmalıdır",
+      "C) Tüm kapılar, pencereler ve garajların kapıları devamlı kilitli olmalıdır",
+      "D) Bahçe çimlendirilmeli, çiçek ekilmelidir",
+      "E) Konutta koruma hizmeti 24 saat esasına göre yapılmalıdır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Bahçe çimlendirilmeli, çiçek ekilmelidir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2347,
+    "period": "103. Dönem",
+    "topic": "Kişi Koruma",
+    "question": "Suikastlarda en çok kullanılan yöntem aşağıdakilerden hangisi değildir?",
+    "options": [
+      "A) Uzun menzilli silahlarla saldırı",
+      "B) Bomba, patlayıcı madde ve mayın kullanmak",
+      "C) Zehirleme, intihar eylemi suretiyle saldırı",
+      "D) Şahsı elle boğarak öldürme",
+      "E) Biyolojik ve kimyasal silahla saldırı"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şahsı elle boğarak öldürme** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2348,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi genel kolluğun hastanelerdeki temsilcisidir?",
+    "options": [
+      "A) Hastane başhekimi",
+      "B) Hastane özel güvenlik müdürü",
+      "C) Hastane sosyal hizmet uzmanı",
+      "D) Hastane özel güvenlik sorumlusu",
+      "E) Hastane polisi"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Hastane polisi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2349,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "......... suç işlendikten sonra kaçan faillerin yakalanmasını sağlamak, işlenen suç veya kabahatlerin faillerinin kimliklerini tespit etmek yetkisi ve sorumluluğuna sahiptir.  Yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Özel Kolluk",
+      "B) Genel Kolluk",
+      "C) Özel Güvenlik Müdürü",
+      "D) Belediye Başkanı",
+      "E) Özel Güvenlik"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Genel Kolluk** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2350,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi özel güvenlik görevlilerinin yetkilerindendir?",
+    "options": [
+      "A) Soruşturma yapmak",
+      "B) Kovuşturma yapmak",
+      "C) Kimlik tespiti yapmak",
+      "D) Buluntu eşyayı emanete almak",
+      "E) İfade almak"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Buluntu eşyayı emanete almak** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2351,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıda anlatılan bakım özellikle hangi iklim şartlarında yapılması gereken bakımdır?  Bu iklimde silah bakımı daha sık yapılmalıdır. Silahın gizli yüzeylerinde paslanma olabileceği düşünülmeli ve kontrol yapılmalıdır. Paslanma varsa mutlaka temizlenerek yağlanmalıdır.",
+    "options": [
+      "A) Sıcak ve kuru iklimde bakım",
+      "B) Soğuk ve kuru iklimde bakım",
+      "C) Aşırı soğuk iklimde bakım",
+      "D) Aşırı sıcak iklimde bakım",
+      "E) Sıcak ve nemli iklimde bakım"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Sıcak ve nemli iklimde bakım** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2352,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Kurulu vaziyetten kurtulup iğneye veya direkt kapsüle çarpmasıyla ateşlemeyi başlatan silah parçasına ne ad verilir?",
+    "options": [
+      "A) Gerdel",
+      "B) Şarjör",
+      "C) Hatve",
+      "D) Horoz",
+      "E) Tetik manivelası"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Horoz** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2353,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Biyolojik silahın tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Atom çekirdeğinin parçalanması ve birleştirilmesiyle açığa çıkan enerjiden elde edilen silahlardır",
+      "B) Canlılar üzerinde etkili virüs, mikrop ve canlıların geniyle oynama ile canlıları yaralama, sakatlama ve öldürme amaçlı kullanılan silahlardır",
+      "C) Maddelerin kimyasal özelliklerinden dolayı canlıları öldürücü, yaralayıcı, tahriş edici gibi kalıcı veya geçici tesirler göstermek amacı ile kullanılan silahlardır",
+      "D) Mermi adı verilen özel şekilde ve nitelikteki maddeleri barut gazının basıncı ile uzak mesafelere atabilen silahlardır",
+      "E) Kesici, delici ve parçalayıcı metalden oluşan silahlardır"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Canlılar üzerinde etkili virüs, mikrop ve canlıların geniyle oynama ile canlıları yaralama, sakatlama ve öldürme amaçlı kullanılan silahlardır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2354,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Poligonda atış yapan ÖGG Sinan'ın tabancasının sürgüsü atış yaptıktan sonra geride kalmışsa bunun sebebi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tetik manivelası bozuktur",
+      "B) Namlu aşırı derecede ısınmıştır",
+      "C) Şarjör tabancadan çıkmıştır",
+      "D) Şarjörde bulunan fişek bitmiştir",
+      "E) Tabancanın iğnesi kırıktır"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Şarjörde bulunan fişek bitmiştir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2355,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Silahı ile atış yapan özel güvenlik görevlisi Kemal'in yaptığı atış sonrasında, boş kovan dışarı çıkmamış ve sonraki atışı gerçekleştirememiştir. Bunun sebepleri arasında aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "A) Tırnak yayı arızalı olabilir",
+      "B) Çıkarıcı kırık veya özelliğini kaybetmiş olabilir",
+      "C) Yiv ve setler aşınmış olabilir",
+      "D) Fişekteki barutun az olmasından dolayı basınç geri tepmeyi yeterince sağlamamış olabilir",
+      "E) Tırnak kırık olabilir"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Yiv ve setler aşınmış olabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2356,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tam otomatik silah aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) İlk dolduruş atıcı tarafından yapıldıktan sonra tetik çekili olduğu sürece atışa devam eden silahlardır",
+      "B) İlk dolduruşun atıcı tarafından, müteakip doldurma ve boşaltmanın kendiliğinden yapıldığı ve her tetik çekilişte tek mermi atan silahlardır",
+      "C) İlk dolduruş ve müteakip dolduruşların mekanizma tarafından yapıldığı silahlardır",
+      "D) Her dolduruşun kullanıcı tarafından yapıldığı silahlardır",
+      "E) Toplu tabancalardır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İlk dolduruş atıcı tarafından yapıldıktan sonra tetik çekili olduğu sürece atışa devam eden silahlardır** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2357,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Atış yapmakta olan ÖGG Metin’in kullanmış olduğu silahının namlu içerisinde bulunan yiv ve setleri aşınmış ise aşağıda belirtilen durumlardan hangisi söylenemez?",
+    "options": [
+      "A) Fişek hedefe daha hızlı gider ve delici gücü artar",
+      "B) Hedefte nişan alınan noktaların dışına taşma olur",
+      "C) Çekirdek normalden daha kısa mesafede havada takla atmaya başlar",
+      "D) Atış menzili kısalır",
+      "E) Dönme hızı yavaşladığından fişeğin namludan çıkış hızı azalır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Fişek hedefe daha hızlı gider ve delici gücü artar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2358,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "ÖGG Erkan görevi esnasında silah kullanması gereken bir durumla karşılaşır. Silahını kılıftan çıkarır, dolduruş yaparak tetiğe basar, horoz düşmesine rağmen silah ateş almaz. Bu durumun sebebi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Gez kırık olabilir",
+      "B) Çıkarıcı kırık olabilir",
+      "C) Yerine getiren yay bozuk olabilir",
+      "D) Tırnak kırık olabilir",
+      "E) İğne kırık olabilir"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İğne kırık olabilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2359,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi sürgü (kapak takımı) üzerinde yer almaz?",
+    "options": [
+      "A) Kovan atma boşluğu",
+      "B) Tırnak",
+      "C) Şarjör kilidi",
+      "D) Gez",
+      "E) Arpacık"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Şarjör kilidi** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2360,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Şarjör gövdesi içerisinde bulunan şarjör yayının uç kısmına takılan ve fişeklerin üzerine yerleştirildiği parçaya ne isim verilir?",
+    "options": [
+      "A) Şarjör",
+      "B) Namlu",
+      "C) Fişek yatağı",
+      "D) Gerdel",
+      "E) Fişek tablası"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Gerdel** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2361,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşleme sistemleri silahların çalışma yöntemine göre gruplara ayrılır. Toplu tabancalarda ateşleme iğnesi ve yayı bulunmamaktadır. Horozun ucundaki sivri kısmın direk fişek kapsülüne darbesiyle ateşleme gerçekleşir. Bu ateşleme sistemi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Horozlu sistem",
+      "B) Horoz ve iğneli sistem",
+      "C) İğneli sistem",
+      "D) Yaylı sistem",
+      "E) Darbeli sistem"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Horozlu sistem** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2362,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun ve bu Kanun’un uygulanmasına ilişkin 91/1779 sayılı Yönetmeliğe göre silah bulundurma ruhsatları ne şekilde verilir?",
+    "options": [
+      "A) Evde ve bahçede",
+      "B) Mesken ve işyerinde",
+      "C) Evde ve arabada",
+      "D) İşyerinde ve arabada",
+      "E) Banka kasalarında"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Mesken ve işyerinde** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2363,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "İğnenin fişek kapsülüne darbe yaparak ateşlemeyi gerçekleştirdiği ve atışa hazır fişeğin işgal ettiği yere .........., atış için sıra bekleyen fişeklerin işgal ettiği yere de .......... denir.  Boşluk bırakılan yerlere aşağıdakilerden hangisi yazılmalıdır?",
+    "options": [
+      "A) Fişek Yatağı-Namlu",
+      "B) Namlu-Hazne",
+      "C) Rampa-Fişek Yatağı",
+      "D) Hazne-Şarjör",
+      "E) Fişek Yatağı-Hazne"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Fişek Yatağı-Hazne** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2364,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Şarjör ve fişek yatağı görevini yapan silindir şeklindeki öne ve yana hareketli kısmı bulunan, fişek kapasitesi genellikle 5 ile 10 arasında olan dezavantajları ise emniyet sistemi bulunmayan tabanca grubu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tek atışlı tabancalar",
+      "B) Yarı otomatik tabancalar",
+      "C) Toplu tabancalar",
+      "D) Tam otomatik tabancalar",
+      "E) Makinalı tabancalar"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Toplu tabancalar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2365,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabanca üzerinde bulunan sürgü tutucu pimin görevi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) İğnenin fişek dip tablasına vurmasıyla ateşlemenin gerçekleşmesini sağlar",
+      "B) Silahın sürgü ve namlusunu gövdeye sabitlemeye yarar",
+      "C) Silahı emniyet konumuna almakta kullanılır",
+      "D) Basınç etkisiyle geriye gelen sürgünün hızla ileriye gitmesini sağlar",
+      "E) Tetikten aldığı hareketi horoza iletir"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Silahın sürgü ve namlusunu gövdeye sabitlemeye yarar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2366,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi silah kabzası doğru kavrama tekniğidir?",
+    "options": [
+      "A) Silah kabzası olabildiğince sıkılarak avuç içine yerleştirilmelidir",
+      "B) El başparmağı kabzaya baskı yapmalıdır",
+      "C) Doğru kabza kavramak için kabza kavrayacak el ‘V ‘ şekline getirilir",
+      "D) Silah kabzası kavranması için başparmak haricindeki diğer dört parmak sıkılarak bastırılır",
+      "E) Başparmak kabzaya bastırılır, diğer dört parmak ise serbest bırakılır"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Doğru kabza kavramak için kabza kavrayacak el ‘V ‘ şekline getirilir** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2367,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Tabancalarda bulunan kabza emniyeti nedir?",
+    "options": [
+      "A) Kabza kapaklarının ön tarafında bulunan şarjör tutma kilitlerinin kapalı olmasıyla ateşlememenin yapılamaması",
+      "B) Tetiğin üzerinde bulunan parçaya parmağın baskı yapması ile ateşlemenin yapılması",
+      "C) Kabza içerisine şarjör takılmadan ateşlemenin yapılamaması",
+      "D) Sürgü veya gövde üzerinde bulunan mandalı kapalı olmasıyla ateşlememenin yapılamaması",
+      "E) Atış esnasında el ayasının kabza gerisinde bulunan parçaya baskı yapmasıyla tetik mekanizmasının aktif hale gelmesi ve ateşlemenin yapılması"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) Atış esnasında el ayasının kabza gerisinde bulunan parçaya baskı yapmasıyla tetik mekanizmasının aktif hale gelmesi ve ateşlemenin yapılması** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2368,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Bir tabancada ateşleme tertibatının genel görevi nedir?",
+    "options": [
+      "A) İğnenin kapsüle darbe yaparak barutun ateşlemesini sağlar",
+      "B) Fişek patladığında ortaya çıkan gazın silahtan dışarı atılmasını sağlar",
+      "C) Fişek patladığında alevin dışarı çıkmasını önler",
+      "D) Tetik çekildiğinde horozun yavaş düşmesini sağlayarak zarar görmesini engeller",
+      "E) Sürgünün atış sırasında oluşan basınçla geriye gelmesinden sonra ileriye gitmesini sağlar"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) İğnenin kapsüle darbe yaparak barutun ateşlemesini sağlar** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2369,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdaki yerlerin hangisinde ateşli silahlar taşınabilir?",
+    "options": [
+      "A) Mahkeme salonu",
+      "B) Alışveriş merkezleri (AVM)",
+      "C) Akıl hastaneleri",
+      "D) Cezaevleri",
+      "E) Türkiye Büyük Millet Meclisi Ana Binaları"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Alışveriş merkezleri (AVM)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2370,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Aşağıdakilerden hangisi fişeğin bölümlerinden değildir?",
+    "options": [
+      "A) Kovan",
+      "B) Kapsül",
+      "C) Barut",
+      "D) Manivela",
+      "E) Çekirdek"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Manivela** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2371,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Poligonda atış yapan ve temel atış tekniklerini bilen ÖGG Metin için aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Hedefi görür görmez süratle tetiği düşürür",
+      "B) Atış esnasında nefesini ayarlar",
+      "C) Göz -gez -arpacık prensibiyle nişan alır",
+      "D) Nişan aldıktan sonra tetiği ezerek yavaşça düşürür",
+      "E) Duruş pozisyonunu en uygun şekilde alır"
+    ],
+    "answer": 0,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **A) Hedefi görür görmez süratle tetiği düşürür** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2372,
+    "period": "103. Dönem",
+    "topic": "Özel Güvenlik Hukuku",
+    "question": "Kovan atma boşluğu hangi parça üzerinde bulunur?",
+    "options": [
+      "A) Namlu",
+      "B) Hazne",
+      "C) Gövde",
+      "D) Sürgü (kapak takımı)",
+      "E) Kabza"
+    ],
+    "answer": 3,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **D) Sürgü (kapak takımı)** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2373,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Aşağıdakilerden hangisi kimyasal silah sınıflarından değildir?",
+    "options": [
+      "A) Yakıcı",
+      "B) Ezici",
+      "C) Zehirleyici",
+      "D) Bayıltıcı",
+      "E) Göz yaşartıcı"
+    ],
+    "answer": 1,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **B) Ezici** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2374,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Fişek çekirdeğinin namlu içerisinde kendi etrafında bir tur dönüşü sonunda aldığı mesafeye ne ad verilir?",
+    "options": [
+      "A) Rampa",
+      "B) Rayyür",
+      "C) Hatve",
+      "D) Sürgü",
+      "E) Azami menzil"
+    ],
+    "answer": 2,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **C) Hatve** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
+  },
+  {
+    "id": 2375,
+    "period": "103. Dönem",
+    "topic": "Silah Bilgisi ve Atış",
+    "question": "Ateşli silahların karanlıkta dahi dolu olup olmadığını anlaşılmasını sağlayan sürgünün sağ yan tarafında bulunan emniyet tertibatına ne ad verilir?",
+    "options": [
+      "A) Horoz emniyeti",
+      "B) Emniyet mandalı",
+      "C) Kabza emniyeti",
+      "D) İğne emniyet sistemi",
+      "E) İkaz pimi emniyeti"
+    ],
+    "answer": 4,
+    "explanation": "💡 **Öğretici Çözüm:**\nBu soruda aranan doğru kural **E) İkaz pimi emniyeti** seçeneğidir.\n5188 Sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve EGM standartları uyarınca, 103. Dönem sınavında bu konu adayların mesleki mevzuat bilgisi kapsamında sorulmuştur.",
+    "lawRef": "5188 Sayılı Kanun (103. Dönem Sınavı)"
   }
 ];

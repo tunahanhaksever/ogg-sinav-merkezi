@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
-  <title>ÖGG Zihne Kazıma & Öğretici Sınav Akademisi — 110-121. Dönem Çıkmış Sorular</title>
-  <meta name="description" content="Özel Güvenlik Görevlisi (ÖGG) sınav sorularını ezberleten değil, hafıza şifreleri, inatçı öğrenme döngüsü ve yapay zekâ analizleriyle doğrudan zihne kazıyan modern interaktif eğitim merkezi.">
+  <title>ÖGG Zihne Kazıma & Öğretici Sınav Akademisi — 110-121. Dönem Çıkmış Sorular (2.375 Soru)</title>
+  <meta name="description" content="Özel Güvenlik Görevlisi (ÖGG) sınav sorularını ezberleten değil, görsel şemalar, hafıza şifreleri ve inatçı öğrenme döngüsüyle zihne kazıyan modern interaktif eğitim merkezi.">
   <meta name="author" content="Tunahan Haksever">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://tunahanhaksever.github.io/ogg-sinav-merkezi/">
@@ -46,7 +46,7 @@
     header {
       background: var(--bg-surface);
       border-bottom: 2px solid var(--accent-gold);
-      padding: 12px 24px;
+      padding: 12px 20px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -73,6 +73,7 @@
       align-items: center;
       justify-content: center;
       box-shadow: 0 0 20px var(--accent-gold-glow);
+      flex-shrink: 0;
     }
     .shield-badge svg { width: 24px; height: 24px; fill: var(--accent-gold); }
 
@@ -112,10 +113,10 @@
     .app-main {
       max-width: 1200px;
       margin: 0 auto;
-      padding: 24px 20px 80px 20px;
+      padding: 20px 16px 80px 16px;
       display: flex;
       flex-direction: column;
-      gap: 24px;
+      gap: 20px;
     }
 
     /* Masterclass Focus Hero */
@@ -124,7 +125,7 @@
       border: 1px solid var(--border-subtle);
       border-left: 5px solid var(--accent-gold);
       border-radius: 14px;
-      padding: 20px 24px;
+      padding: 20px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -133,23 +134,23 @@
       box-shadow: 0 10px 40px rgba(0,0,0,0.4);
     }
 
-    .hero-text h1 { font-size: 20px; font-weight: 800; color: #fff; margin-bottom: 4px; }
-    .hero-text p { font-size: 13.5px; color: var(--text-muted); max-width: 650px; line-height: 1.5; }
+    .hero-text h1 { font-size: 19px; font-weight: 800; color: #fff; margin-bottom: 4px; }
+    .hero-text p { font-size: 13px; color: var(--text-muted); max-width: 650px; line-height: 1.5; }
 
     .mastery-stats {
       display: flex;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: wrap;
     }
     .stat-box {
       background: var(--bg-surface);
       border: 1px solid var(--border-subtle);
       border-radius: 10px;
-      padding: 10px 16px;
+      padding: 10px 14px;
       text-align: center;
-      min-width: 90px;
+      min-width: 85px;
     }
-    .stat-box .num { font-family: var(--font-mono); font-size: 22px; font-weight: 800; color: var(--accent-gold); }
+    .stat-box .num { font-family: var(--font-mono); font-size: 20px; font-weight: 800; color: var(--accent-gold); }
     .stat-box .txt { font-size: 10.5px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-top: 2px; }
 
     /* SINGLE QUESTION ARENA (Kafaya Kazıma Modu) */
@@ -163,10 +164,10 @@
       background: var(--bg-surface);
       border: 2px solid var(--border-subtle);
       border-radius: 16px;
-      padding: 28px 26px;
+      padding: 24px 20px;
       display: flex;
       flex-direction: column;
-      gap: 20px;
+      gap: 18px;
       box-shadow: 0 10px 40px rgba(0,0,0,0.5);
       position: relative;
     }
@@ -190,7 +191,7 @@
 
     .arena-q-tag {
       font-family: var(--font-mono);
-      font-size: 13px;
+      font-size: 12.5px;
       font-weight: 800;
       color: var(--accent-gold);
       background: rgba(234, 179, 8, 0.12);
@@ -209,7 +210,7 @@
     }
 
     .arena-question-text {
-      font-size: 18px;
+      font-size: 17px;
       font-weight: 700;
       color: #fff;
       line-height: 1.6;
@@ -225,31 +226,31 @@
       background: var(--bg-card);
       border: 1.5px solid var(--border-subtle);
       border-radius: 10px;
-      padding: 14px 18px;
-      font-size: 15px;
+      padding: 14px 16px;
+      font-size: 14.5px;
       font-weight: 500;
       color: var(--text-main);
       cursor: pointer;
       display: flex;
       align-items: center;
-      gap: 14px;
+      gap: 12px;
       transition: all 0.15s ease;
       text-align: left;
+      -webkit-tap-highlight-color: transparent;
     }
-    .arena-opt-btn:hover { background: var(--bg-card-hover); border-color: var(--accent-blue); transform: translateX(3px); }
+    .arena-opt-btn:hover { background: var(--bg-card-hover); border-color: var(--accent-blue); }
     .arena-opt-btn.correct { background: rgba(16, 185, 129, 0.25) !important; border-color: var(--accent-emerald) !important; color: #fff !important; font-weight: 700; }
     .arena-opt-btn.wrong { background: rgba(244, 63, 94, 0.25) !important; border-color: var(--accent-rose) !important; color: #fecdd3 !important; }
-    .arena-opt-btn.hint-target { border: 2px dashed var(--accent-emerald); background: rgba(16, 185, 129, 0.1); }
 
     /* Mind-Imprinting Card (Kafaya Kazı Bildirimi) */
     .imprint-box {
       background: linear-gradient(135deg, rgba(234, 179, 8, 0.12) 0%, rgba(14, 20, 34, 0.95) 100%);
       border: 2px solid var(--accent-gold);
       border-radius: 12px;
-      padding: 18px 20px;
+      padding: 16px 18px;
       display: flex;
       flex-direction: column;
-      gap: 12px;
+      gap: 10px;
       box-shadow: 0 0 30px var(--accent-gold-glow);
       animation: fadeIn 0.25s ease-out;
     }
@@ -268,9 +269,9 @@
       background: #000;
       border: 1px solid var(--accent-gold);
       border-radius: 8px;
-      padding: 12px 14px;
+      padding: 10px 12px;
       font-family: var(--font-mono);
-      font-size: 13.5px;
+      font-size: 13px;
       font-weight: 700;
       color: #fff;
       line-height: 1.5;
@@ -280,7 +281,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-top: 10px;
+      margin-top: 8px;
       flex-wrap: wrap;
       gap: 10px;
     }
@@ -289,9 +290,9 @@
       background: var(--accent-gold);
       border: none;
       color: #000;
-      padding: 12px 24px;
+      padding: 12px 22px;
       border-radius: 8px;
-      font-size: 14.5px;
+      font-size: 14px;
       font-weight: 800;
       cursor: pointer;
       display: flex;
@@ -299,25 +300,25 @@
       gap: 8px;
       transition: all 0.15s;
     }
-    .btn-next-arena:hover { background: #fde047; transform: scale(1.02); }
+    .btn-next-arena:hover { background: #fde047; }
 
     /* Mnemonic Cards Grid (Hafıza Kartları) */
     .mnemonic-container {
       display: flex;
       flex-direction: column;
-      gap: 20px;
+      gap: 18px;
     }
 
     .m-section-card {
       background: var(--bg-surface);
       border: 1px solid var(--border-subtle);
       border-radius: 12px;
-      padding: 22px;
+      padding: 20px;
       display: flex;
       flex-direction: column;
-      gap: 14px;
+      gap: 12px;
     }
-    .m-section-card h2 { font-size: 18px; color: #fff; font-weight: 800; display: flex; align-items: center; gap: 8px; }
+    .m-section-card h2 { font-size: 17px; color: #fff; font-weight: 800; display: flex; align-items: center; gap: 8px; }
 
     .mnemonic-grid {
       display: grid;
@@ -338,7 +339,7 @@
     .m-card:hover { border-color: var(--accent-gold); }
     .m-letter {
       font-family: var(--font-mono);
-      font-size: 18px;
+      font-size: 16px;
       font-weight: 900;
       color: var(--accent-gold);
       border: 2px solid var(--accent-gold);
@@ -349,7 +350,7 @@
       flex-shrink: 0;
     }
     .m-content { display: flex; flex-direction: column; gap: 4px; font-size: 13px; }
-    .m-content strong { color: #fff; font-size: 14px; }
+    .m-content strong { color: #fff; font-size: 13.5px; }
     .m-content span { color: var(--text-muted); line-height: 1.5; }
 
     /* Full Exam View Elements */
@@ -385,7 +386,7 @@
       align-items: center;
       justify-content: center;
       z-index: 2000;
-      padding: 20px;
+      padding: 16px;
     }
     .lecture-box {
       background: var(--bg-surface);
@@ -395,7 +396,7 @@
       width: 100%;
       max-height: 85vh;
       overflow-y: auto;
-      padding: 24px;
+      padding: 20px;
       display: flex;
       flex-direction: column;
       gap: 14px;
@@ -405,8 +406,10 @@
       header { flex-direction: column; align-items: stretch; gap: 10px; }
       .nav-pills { justify-content: space-between; overflow-x: auto; }
       .mastery-hero { flex-direction: column; align-items: stretch; }
-      .arena-card { padding: 20px 16px; }
-      .arena-question-text { font-size: 16px; }
+      .arena-card { padding: 18px 14px; }
+      .arena-question-text { font-size: 15.5px; }
+      .filter-bar { flex-direction: column; align-items: stretch; }
+      .filter-select { width: 100%; }
     }
   </style>
 </head>
@@ -422,14 +425,14 @@
       </div>
       <div class="brand-meta">
         <span class="brand-name">ÖGG Zihne Kazıma Akademisi</span>
-        <span class="brand-tag">Hafıza Şifreleri & İnatçı Öğrenme</span>
+        <span class="brand-tag">Görsel Şemalar & Hafıza Şifreleri</span>
       </div>
     </a>
 
     <nav class="nav-pills">
       <button class="pill-btn active" id="btn-tab-arena" onclick="openView('arena')">🎯 Kafaya Kazı (İnatçı Soru)</button>
-      <button class="pill-btn" id="btn-tab-mnemonics" onclick="openView('mnemonics')">🧠 Hafıza Şifreleri</button>
-      <button class="pill-btn" id="btn-tab-stream" onclick="openView('stream')">📑 1.500 Soru Havuzu</button>
+      <button class="pill-btn" id="btn-tab-mnemonics" onclick="openView('mnemonics')">🧠 11 Ders Hafıza Şifreleri</button>
+      <button class="pill-btn" id="btn-tab-stream" onclick="openView('stream')">📑 2.375 Soru Havuzu</button>
       <button class="pill-btn" id="btn-tab-academy" onclick="openView('academy')">📚 Konu Anlatımı</button>
     </nav>
   </header>
@@ -440,9 +443,9 @@
     <!-- Mastery Hero Banner -->
     <div class="mastery-hero">
       <div class="hero-text">
-        <h1>Kağıt Kalemsiz, Soru Sorarak Zihne Kazıyan Sistem</h1>
+        <h1>Görsel Şemalarla Zihne Kazıyan Sınav Sistemi</h1>
         <p>
-          Yanlış yaptığınız sorularda sistem pes etmez! Hafıza şifresi ve soru tuzağı formülüyle size mantığını kavratana kadar o soruyu tekrar önünüze getirir.
+          Yanlış yaptığınız sorularda sistem pes etmez! Hafıza şifresi ve görsel şemalarla mantığını kavratana kadar o soruyu tekrar önünüze getirir.
         </p>
       </div>
 
@@ -499,7 +502,7 @@
             </div>
             <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
               <span style="font-family: var(--font-mono); font-size: 11.5px; color: var(--accent-gold);" id="arena-imprint-law">5188 Sayılı Kanun</span>
-              <button class="btn-read-lecture-fast" onclick="openTopicFromArena()">
+              <button class="pill-btn" style="background: var(--accent-blue); color: #fff; border: none; padding: 6px 12px;" onclick="openTopicFromArena()">
                 📖 İlgili Ders Notunu Aç →
               </button>
             </div>
@@ -520,14 +523,14 @@
       </div>
     </div>
 
-    <!-- VIEW 2: HAFIZA ŞİFRELERİ & KODLAMALAR (MNEMONICS) -->
+    <!-- VIEW 2: HAFIZA ŞİFRELERİ & GÖRSEL ŞEMALAR (MNEMONICS) -->
     <div id="view-mnemonics" class="view-panel" style="display: none;">
       <div class="mnemonic-container" id="mnemonics-list-container">
         <!-- Rendered dynamically from mnemonics.js -->
       </div>
     </div>
 
-    <!-- VIEW 3: 1.500 SORU HAVUZU VE FİLTRELEME (STREAM) -->
+    <!-- VIEW 3: 2.375 SORU HAVUZU VE FİLTRELEME (STREAM) -->
     <div id="view-stream" class="view-panel" style="display: none;">
       <div class="filter-bar">
         <select class="filter-select" id="stream-period-filter" onchange="renderStreamQuestions()">
@@ -561,6 +564,11 @@
           <option value="Temel İlkyardım">🚑 Temel İlkyardım</option>
           <option value="Silah Bilgisi ve Atış">🎯 Silah Bilgisi ve Atış</option>
           <option value="Güvenlik Sistem ve Cihazları">📡 X-Ray & Sistemler</option>
+          <option value="Kalabalık Yönetimi">👥 Kalabalık Yönetimi</option>
+          <option value="Kişi Koruma">👮 Kişi Koruma (VIP)</option>
+          <option value="Uyuşturucu Madde Bilgisi">💊 Uyuşturucu Madde</option>
+          <option value="Etkili İletişim">💬 Etkili İletişim</option>
+          <option value="Genel Kollukla İlişkiler">🤝 Genel Kolluk & KAAN</option>
         </select>
       </div>
 
@@ -645,7 +653,6 @@
       document.getElementById('current-arena-card').classList.remove('shake');
 
       let q;
-      // If there are questions in the repeat persistence queue, bring them up!
       if (repeatQueue.length > 0 && Math.random() > 0.4) {
         q = repeatQueue[0];
       } else {
@@ -682,22 +689,18 @@
       if (isCorrect) {
         btnElement.classList.add('correct');
         imprintedSet.add(q.id);
-        // Remove from repeat queue if mastered
         repeatQueue = repeatQueue.filter(item => item.id !== q.id);
         document.getElementById('arena-status-msg').innerHTML = "<strong style='color:var(--accent-emerald)'>✅ Tebrikler! Bilgi zihnine kazındı.</strong>";
       } else {
         btnElement.classList.add('wrong');
         document.getElementById('current-arena-card').classList.add('shake');
         
-        // Highlight correct option
         if (allBtns[q.answer]) allBtns[q.answer].classList.add('correct');
 
-        // Add to persistence queue so it NEVER lets you go until you learn it!
         if (!repeatQueue.some(item => item.id === q.id)) {
           repeatQueue.push(q);
         }
 
-        // Show Mnemonic & Imprint Box
         const analysis = oggAi.analyzeError(q, selectedIdx, q.answer);
         document.getElementById('arena-imprint-formula').innerHTML = `💡 HAFIZA ŞİFRESİ: ${escapeHtml(analysis.trapAnalysis)}`;
         document.getElementById('arena-imprint-details').innerHTML = `<strong>Kural:</strong> ${escapeHtml(q.explanation)}`;
@@ -737,7 +740,7 @@
       if (q) openLectureByTopic(q.topic);
     }
 
-    // Render Mnemonics List
+    // Render Mnemonics List with SVG Diagrams
     function renderMnemonicsList() {
       const container = document.getElementById('mnemonics-list-container');
       container.innerHTML = '';
@@ -750,13 +753,14 @@
           <div style="background: rgba(234, 179, 8, 0.1); border: 1px solid var(--accent-gold); padding: 8px 12px; border-radius: 6px; font-family: var(--font-mono); font-size: 13px; color: var(--accent-gold); font-weight: 700;">
             🔑 ŞİFRE: ${escapeHtml(m.code)}
           </div>
+          ${m.diagramSvg || ''}
           ${m.explanation}
         `;
         container.appendChild(div);
       });
     }
 
-    // Stream 1500 Questions View
+    // Stream 2375 Questions View
     function renderStreamQuestions() {
       const container = document.getElementById('stream-questions-container');
       container.innerHTML = '';
@@ -768,7 +772,7 @@
         if (pFilter !== 'all' && q.period !== pFilter) return false;
         if (tFilter !== 'all' && q.topic !== tFilter) return false;
         return true;
-      }).slice(0, 30); // show top 30 in stream
+      }).slice(0, 30);
 
       filtered.forEach(q => {
         const card = document.createElement('div');
